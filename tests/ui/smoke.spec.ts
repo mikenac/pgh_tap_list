@@ -1,7 +1,9 @@
 import { expect, test } from '@playwright/test';
 
+const homePath = '/pgh_tap_list/';
+
 test('home page renders key sections', async ({ page }) => {
-  await page.goto('/');
+  await page.goto(homePath);
 
   await expect(
     page.getByRole('heading', { name: 'Pittsburgh Brewery Taplist Tracker' }),
@@ -13,7 +15,7 @@ test('home page renders key sections', async ({ page }) => {
 });
 
 test('filters are interactive and brewery cards render', async ({ page }) => {
-  await page.goto('/');
+  await page.goto(homePath);
 
   const breweryFilter = page.locator('#brewery-filter');
   await expect(breweryFilter).toBeVisible();
@@ -27,7 +29,7 @@ test('filters are interactive and brewery cards render', async ({ page }) => {
 });
 
 test('ratings render with star graphics', async ({ page }) => {
-  await page.goto('/');
+  await page.goto(homePath);
 
   const ratingCell = page.getByRole('cell', { name: /★+☆*\s+\d\.\d{2}/ }).first();
   await expect(ratingCell).toBeVisible();
@@ -35,7 +37,7 @@ test('ratings render with star graphics', async ({ page }) => {
 });
 
 test('abjuration renders full on-tap lineup', async ({ page }) => {
-  await page.goto('/');
+  await page.goto(homePath);
 
   const abjurationCard = page.locator('[data-brewery="Abjuration"]');
   await expect(abjurationCard).toBeVisible();
@@ -44,10 +46,18 @@ test('abjuration renders full on-tap lineup', async ({ page }) => {
 });
 
 test('change summary does not leak escaped HTML fragments', async ({ page }) => {
-  await page.goto('/');
+  await page.goto(homePath);
 
   const changesSection = page.locator('section').filter({ hasText: 'What changed this week' });
   await expect(changesSection).toBeVisible();
+  if ((page.viewportSize()?.width || 0) >= 768) {
+    await expect(changesSection.getByRole('table')).toBeVisible();
+    await expect(changesSection.getByRole('columnheader', { name: 'Brewery' })).toBeVisible();
+    await expect(changesSection.getByRole('columnheader', { name: 'Added' })).toBeVisible();
+  } else {
+    await expect(changesSection.getByRole('table')).toBeHidden();
+    await expect(changesSection.getByText(/changes?/).first()).toBeVisible();
+  }
 
   const text = await changesSection.innerText();
   expect(text).not.toContain('\\/span');
@@ -56,7 +66,12 @@ test('change summary does not leak escaped HTML fragments', async ({ page }) => 
 });
 
 test('mobile layout keeps content readable', async ({ page }) => {
-  await page.goto('/');
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto(homePath);
+
+  const changesSection = page.locator('section').filter({ hasText: 'What changed this week' });
+  await expect(changesSection.getByRole('table')).toBeHidden();
+  await expect(changesSection.getByText('Additions, removals, and style updates by brewery.')).toBeVisible();
 
   const firstCard = page.locator('[data-brewery]').first();
   await expect(firstCard).toBeVisible();

@@ -1,20 +1,96 @@
 ---
 const { changes = [] } = Astro.props;
+
+const formatList = (items = []) => items.length > 0 ? items.join(', ') : 'None';
+const formatStyleChanges = (items = []) =>
+  items.length > 0
+    ? items.map((item) => `${item.beer}: ${item.oldStyle || 'Unknown'} → ${item.newStyle || 'Unknown'}`).join(', ')
+    : 'None';
+const displayBrewery = (breweryId) =>
+  breweryId
+    .replaceAll('-', ' ')
+    .replace(/\b\w/g, (letter) => letter.toUpperCase());
+const totalChanges = (change) =>
+  (change.additions?.length || 0) + (change.removals?.length || 0) + (change.styleChanges?.length || 0);
+const changeLabel = (count) => `${count} ${count === 1 ? 'change' : 'changes'}`;
 ---
 <section class="card">
-  <h2 class="mb-4 text-xl font-semibold">What changed this week</h2>
+  <div class="mb-4 flex flex-col gap-1 sm:flex-row sm:items-end sm:justify-between">
+    <div>
+      <h2 class="text-xl font-semibold">What changed this week</h2>
+      <p class="text-sm text-ink/70">Additions, removals, and style updates by brewery.</p>
+    </div>
+  </div>
   {changes.length === 0 ? (
     <p class="text-sm text-ink/70">No previous snapshot available yet.</p>
   ) : (
-    <div class="grid gap-4 md:grid-cols-2">
-      {changes.map((change) => (
-        <article class="rounded-lg border border-ink/10 bg-white p-3">
-          <h3 class="font-semibold">{change.breweryId}</h3>
-          <p class="text-sm">Added: {change.additions.join(', ') || 'None'}</p>
-          <p class="text-sm">Removed: {change.removals.join(', ') || 'None'}</p>
-          <p class="text-sm">Style changes: {change.styleChanges.length}</p>
-        </article>
-      ))}
-    </div>
+    <>
+      <div class="space-y-3 md:hidden">
+        {changes.map((change) => (
+          <article class="rounded-lg border border-ink/10 bg-white p-3">
+            <div class="mb-2 flex items-center justify-between gap-3">
+              <h3 class="font-semibold">{displayBrewery(change.breweryId)}</h3>
+              <span class="rounded-full bg-amber-100 px-2 py-0.5 text-xs font-medium text-amber-800">
+                {changeLabel(totalChanges(change))}
+              </span>
+            </div>
+            <dl class="space-y-2 text-sm">
+              <div>
+                <dt class="font-medium text-emerald-700">Added</dt>
+                <dd class="break-words text-ink/80">{formatList(change.additions)}</dd>
+              </div>
+              <div>
+                <dt class="font-medium text-red-700">Removed</dt>
+                <dd class="break-words text-ink/80">{formatList(change.removals)}</dd>
+              </div>
+              <div>
+                <dt class="font-medium text-blue-700">Style changes</dt>
+                <dd class="break-words text-ink/80">{formatStyleChanges(change.styleChanges)}</dd>
+              </div>
+            </dl>
+          </article>
+        ))}
+      </div>
+
+      <div class="hidden overflow-x-auto rounded-lg border border-ink/10 md:block">
+        <table class="min-w-full divide-y divide-ink/10 bg-white text-left text-sm">
+          <thead class="bg-ink/5 text-xs uppercase tracking-wide text-ink/60">
+            <tr>
+              <th class="w-40 px-3 py-2 font-semibold">Brewery</th>
+              <th class="px-3 py-2 font-semibold">Added</th>
+              <th class="px-3 py-2 font-semibold">Removed</th>
+              <th class="px-3 py-2 font-semibold">Style Changes</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-ink/10">
+            {changes.map((change) => (
+              <tr class="align-top">
+                <th scope="row" class="px-3 py-3 font-semibold text-ink">
+                  {displayBrewery(change.breweryId)}
+                </th>
+                <td class="max-w-xs px-3 py-3 text-ink/80">
+                  <span class="mr-2 rounded-full bg-emerald-100 px-2 py-0.5 text-xs font-medium text-emerald-800">
+                    {change.additions?.length || 0}
+                  </span>
+                  <span class="break-words">{formatList(change.additions)}</span>
+                </td>
+                <td class="max-w-xs px-3 py-3 text-ink/80">
+                  <span class="mr-2 rounded-full bg-red-100 px-2 py-0.5 text-xs font-medium text-red-800">
+                    {change.removals?.length || 0}
+                  </span>
+                  <span class="break-words">{formatList(change.removals)}</span>
+                </td>
+                <td class="max-w-xs px-3 py-3 text-ink/80">
+                  <span class="mr-2 rounded-full bg-blue-100 px-2 py-0.5 text-xs font-medium text-blue-800">
+                    {change.styleChanges?.length || 0}
+                  </span>
+                  <span class="break-words">{formatStyleChanges(change.styleChanges)}</span>
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </>
   )}
 </section>

@@ -10,12 +10,12 @@ export default defineConfig({
   retries: 0,
   reporter: 'list',
   use: {
-    baseURL: 'http://127.0.0.1:4321',
+    baseURL: 'http://127.0.0.1:4321/pgh_tap_list',
     trace: 'on-first-retry',
   },
   webServer: {
     command: 'npm run dev -- --host 127.0.0.1 --port 4321',
-    url: 'http://127.0.0.1:4321',
+    url: 'http://127.0.0.1:4321/pgh_tap_list',
     reuseExistingServer: true,
     timeout: 120_000,
   },
