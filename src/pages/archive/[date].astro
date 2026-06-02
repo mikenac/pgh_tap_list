@@ -1,0 +1,41 @@
+---
+import fs from 'node:fs';
+import path from 'node:path';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import BreweryCard from '../../components/BreweryCard.astro';
+
+export async function getStaticPaths() {
+  const historyDir = path.resolve('data/history');
+  if (!fs.existsSync(historyDir)) {
+    return [];
+  }
+  return fs
+    .readdirSync(historyDir)
+    .filter((name) => name.endsWith('.json'))
+    .map((name) => ({ params: { date: name.replace('.json', '') } }));
+}
+
+const { date } = Astro.params;
+const filePath = path.resolve(`data/history/${date}.json`);
+const payload = fs.existsSync(filePath)
+  ? JSON.parse(fs.readFileSync(filePath, 'utf-8'))
+  : { entries: [] };
+
+const grouped = (payload.entries || []).reduce((acc, entry) => {
+  const key = entry.breweryName;
+  if (!acc[key]) {
+    acc[key] = [];
+  }
+  acc[key].push(entry);
+  return acc;
+}, {});
+---
+<BaseLayout title={`Archive ${date}`}>
+  <a href="/" class="mb-4 inline-block text-sm text-pine underline">Back to latest</a>
+  <h1 class="mb-4 text-2xl font-bold">Archive: {date}</h1>
+  <div class="space-y-4">
+    {Object.entries(grouped)
+      .sort((a, b) => a[0].localeCompare(b[0]))
+      .map(([breweryName, beers]) => <BreweryCard breweryName={breweryName} beers={beers} />)}
+  </div>
+</BaseLayout>

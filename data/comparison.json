@@ -1,0 +1,85 @@
+{
+  "generated": "2026-06-02T13:33:51Z",
+  "previousDate": "2026-06-01",
+  "changes": [
+    {
+      "breweryId": "abjuration",
+      "additions": [
+        "American Premium Lager (APL v2.0)",
+        "Botanical Sour [Strawberry/Basil] (BSR v1.5)",
+        "Candied Sour [Cherry Slushie] (CDS v1.8)",
+        "Candied Sour [Orange Slushie] (CDS v1.15)",
+        "Cheesecake Sour [Coconut Cream] (CCS v1.10)",
+        "Donut Sour [Black Raspberry] (DOS v1.5)",
+        "Fruited India Pale Ale [Pink Boots Collab: Grapefruit/Mosaic/Paradisi/Simcoe/Chinook] (FRIPA v2.0)",
+        "Fruited Sour [Pineapple/Honeydew] (FS v1.32)",
+        "Ice Cream Sour [Raspberry Shortcake] (ICS v1.29)",
+        "Ice Cream Sour [Watermelon Cotton Candy] (ICS v1.37)",
+        "Marshmallow Sour [Strawberry/Cherry] (MAS v1.1)",
+        "Stout (ST v1.0)"
+      ],
+      "removals": [
+        "Parfait Doom"
+      ],
+      "styleChanges": [],
+      "ratingChanges": []
+    },
+    {
+      "breweryId": "dancing-gnome",
+      "additions": [
+        "Art Deco IPA",
+        "ESB",
+        "Exquisite Beast",
+        "Swingin\u2019 at Strangers IPA"
+      ],
+      "removals": [
+        "Exquisite Beast DIPA",
+        "Wishbone"
+      ],
+      "styleChanges": [],
+      "ratingChanges": []
+    },
+    {
+      "breweryId": "four-points",
+      "additions": [],
+      "removals": [],
+      "styleChanges": [],
+      "ratingChanges": []
+    },
+    {
+      "breweryId": "golden-age",
+      "additions": [],
+      "removals": [],
+      "styleChanges": [],
+      "ratingChanges": []
+    },
+    {
+      "breweryId": "grist-house",
+      "additions": [],
+      "removals": [],
+      "styleChanges": [],
+      "ratingChanges": []
+    },
+    {
+      "breweryId": "hitchhiker",
+      "additions": [],
+      "removals": [],
+      "styleChanges": [],
+      "ratingChanges": []
+    },
+    {
+      "breweryId": "late-addition",
+      "additions": [],
+      "removals": [],
+      "styleChanges": [],
+      "ratingChanges": []
+    },
+    {
+      "breweryId": "old-thunder",
+      "additions": [],
+      "removals": [],
+      "styleChanges": [],
+      "ratingChanges": []
+    }
+  ]
+}

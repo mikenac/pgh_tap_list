@@ -1,0 +1,257 @@
+# Pittsburgh Taplist Report (2026-06-02)
+
+Generated: `2026-06-02T13:40:10Z`
+Previous snapshot: `2026-06-01`
+
+## What changed this week
+### abjuration
+- Added: American Premium Lager (APL v2.0), Botanical Sour [Strawberry/Basil] (BSR v1.5), Candied Sour [Cherry Slushie] (CDS v1.8), Candied Sour [Orange Slushie] (CDS v1.15), Cheesecake Sour [Coconut Cream] (CCS v1.10), Donut Sour [Black Raspberry] (DOS v1.5), Fruited India Pale Ale [Pink Boots Collab: Grapefruit/Mosaic/Paradisi/Simcoe/Chinook] (FRIPA v2.0), Fruited Sour [Pineapple/Honeydew] (FS v1.32), Ice Cream Sour [Raspberry Shortcake] (ICS v1.29), Ice Cream Sour [Watermelon Cotton Candy] (ICS v1.37), Marshmallow Sour [Strawberry/Cherry] (MAS v1.1), Stout (ST v1.0)
+- Removed: Parfait Doom
+- Style changes: None
+- Material rating changes: 0
+
+### dancing-gnome
+- Added: Art Deco IPA, ESB, Exquisite Beast, Swingin’ at Strangers IPA
+- Removed: Exquisite Beast DIPA, Wishbone
+- Style changes: None
+- Material rating changes: 0
+
+### four-points
+- Added: None
+- Removed: None
+- Style changes: None
+- Material rating changes: 0
+
+### golden-age
+- Added: None
+- Removed: None
+- Style changes: None
+- Material rating changes: 0
+
+### grist-house
+- Added: None
+- Removed: None
+- Style changes: None
+- Material rating changes: 0
+
+### hitchhiker
+- Added: None
+- Removed: None
+- Style changes: None
+- Material rating changes: 0
+
+### late-addition
+- Added: None
+- Removed: None
+- Style changes: None
+- Material rating changes: 0
+
+### old-thunder
+- Added: None
+- Removed: None
+- Style changes: None
+- Material rating changes: 0
+
+## Full lineup
+### Grist House
+| Beer | Style | ABV | Rating | Source |
+|---|---|---:|---|---|
+| Arnold Shaman | Fruited Sour | 5.0% | ★★★★☆ 3.94 | untappd |
+| Camp Slap | Red IPA | 6.4% | ★★★★☆ 3.73 | untappd |
+| Celestial Trek | West Coast IPA | 6.8% | ★★★★☆ 3.90 | untappd |
+| Chameleon | New England IPA | 6.4% | ★★★★☆ 3.50 | untappd |
+| Clean Line | West Coast IPA | 7.0% | ★★★★☆ 3.90 | untappd |
+| Dem Apples | Semi-Dry Cider | 6.9% | ★★★★☆ 4.06 | untappd |
+| El Chupa-lager-a | Mexican Amber Lager | 4.3% | ★★★★☆ 3.71 | untappd |
+| GoldenAle | British Golden Ale | 4.4% | ★★★★☆ 3.52 | untappd |
+| Gristly Bear Brown | Brown Ale | 5.0% | ★★★★☆ 3.69 | untappd |
+| Hazedelic Juice Grenade | New England IPA | 6.4% | ★★★★☆ 4.06 | untappd |
+| Hounds of Helles | Munich Helles Lager | 4.5% | ★★★★☆ 3.66 | untappd |
+| Inclined To Haze | Hazy Pale Ale | 5.3% | ★★★★☆ 3.97 | untappd |
+| Krispadelic | Dry Hopped Kolsch | 5.0% | ★★★★☆ 3.84 | untappd |
+| MillvALE | Traditional Ale | 4.7% | ★★★★☆ 3.73 | untappd |
+| Pineapple Hazedelic Juice Grenade | New England IPA | 6.4% | ★★★★☆ 4.13 | untappd |
+| Seltza Drip - Mimosa | Hard Seltzer | 4.5% | ★★★★☆ 4.01 | untappd |
+| Spacedelic Haze Cactus | New England IPA | 6.8% | ★★★★☆ 4.20 | untappd |
+| White Witow | Belgian Wit | 4.8% | ★★★★☆ 3.80 | untappd |
+
+### Dancing Gnome
+| Beer | Style | ABV | Rating | Source |
+|---|---|---:|---|---|
+| Art Deco IPA |  | 6.0% |  | merged |
+| Blueberry Blackberry Sour | Berliner Weisse | 4.7% | ★★★★☆ 3.74 | merged |
+| Carrie Furnace | IPA - Citra, Nectaron | 6.8% | ★★★★☆ 4.01 | merged |
+| ESB | English Ale | 5.4% | ★★★★☆ 3.55 | merged |
+| Experimental Pilsner #4 | German-style Pilsner | 5.2% | ★★★★☆ 3.58 | merged |
+| Exquisite Beast | DIPA - Sultana, Mosaic, Amarillo, Citra, Columbus | 8.5% | ★★★★☆ 4.14 | merged |
+| Goblin Folk | IPA - Columbus, Simcoe | 6.2% | ★★★☆☆ 3.39 | merged |
+| Gravel Grinder | IPA - Citra, Simcoe ,Mosaic | 6.6% | ★★★★☆ 4.08 | merged |
+| Half Lustra | Petite IPA - Citra, Amarillo | 3.6% | ★★★★☆ 3.95 | merged |
+| Hefeweizen | Wheat Beer | 5.2% | ★★★★☆ 3.67 | merged |
+| Iron Goddess (De Fer collab) | American Lager with Oolong Tea | 4.1% |  | merged |
+| Lager Lustra | American Lager | 5.8% | ★★★★☆ 3.91 | merged |
+| Lustra | Pale Ale - Citra, Amarillo | 5.8% | ★★★★☆ 4.01 | merged |
+| Mexican Lager | Mexican Lager | 5.5% | ★★★☆☆ 3.47 | merged |
+| Not Always Present | Kölsch Style Ale | 4.8% | ★★★★☆ 3.82 | merged |
+| Pilsner | German Pilsner | 5.0% | ★★★☆☆ 2.96 | merged |
+| Swingin’ at Strangers IPA |  | 6.8% |  | merged |
+| Triple Lustra | Triple IPA - Citra, Amarillo | 11.0% | ★★★★☆ 4.42 | merged |
+
+### Four Points
+| Beer | Style | ABV | Rating | Source |
+|---|---|---:|---|---|
+| 400 | american IPA | 7.0% | ★★★☆☆ 3.43 | website |
+| 4P LIGHT | light lager | 4.5% | ★★★★☆ 3.66 | website |
+| AKARI | summer ale | 4.5% | ★★★★☆ 3.73 | website |
+| ATHLETIC BREWING | Hazy IPA / IPA | 0.0% | ★★★☆☆ 3.35 | website |
+| CRUEL SUMMER | west coast IPA | 4.8% | ★★★★☆ 3.75 | website |
+| DESTROYER HAZE | hazy IPA | 5.5% | ★★★★☆ 4.41 | website |
+| DESTROYER PILS | west coast pilsner | 5.0% | ★★★☆☆ 3.10 | website |
+| EMBLEM | Vienna style lager | 5.3% | ★★★★☆ 3.96 | website |
+| EVERY TIME ONLY ONCE | fruited sour | 7.0% | ★★★★☆ 4.27 | website |
+| FOURTH STREET + CITRA | american IPA | 6.6% | ★★★★☆ 4.18 | website |
+| HOUSE SELTZER | citra hops | 0.0% | ★★★☆☆ 3.32 | website |
+| K. | Kölsch style ale | 4.8% | ★★★☆☆ 2.96 | website |
+| NITEMOVES | american IPA | 7.2% | ★★★★☆ 4.06 | website |
+| ORANGE LABEL | extra pale ale | 8.0% | ★★★★☆ 3.91 | website |
+| SOLR UMBRA | Porter | 5.2% | ★★★★☆ 3.96 | website |
+| SOUR CERVEZA STRAWBERRY ESPECIAL | sour lager | 4.5% | ★★★★☆ 4.03 | website |
+| THREE LIONS | British style lager | 5.0% | ★★★☆☆ 2.97 | website |
+
+### Late Addition
+| Beer | Style | ABV | Rating | Source |
+|---|---|---:|---|---|
+| Dinnae Ken | Light Scottish Ale | 4.7% | ★★★★☆ 4.11 | website |
+| Earthshine | American IPA | 6.5% | ★★★★☆ 3.87 | website |
+| Guan Yersel | Wee Heavy Strong Scottish Ale | 11.5% | ★★★★☆ 4.20 | website |
+| Guided by Weisses | German-style Hefeweizen | 5.2% | ★★★★☆ 4.05 | website |
+| Heavily Redacted | German-Style Schwarzbier | 5.5% | ★★★★☆ 4.13 | website |
+| Keeping Time: Aardbei | Strawberry Sour Ale from our Solera Project | 5.9% | ★★★★☆ 3.93 | website |
+| Keeping Time: Oost | Pale Sour Ale | 6.5% | ★★★★☆ 4.02 | website |
+| Keeping TIme: Rood | Flanders Red Sour Ale | 5.9% | ★★★★☆ 4.01 | website |
+| Keeping Time: Rubus | Rasberry Solera Sour Ale | 5.5% | ★★★★☆ 4.04 | website |
+| Krakowiak | Baltic Porter | 9.6% | ★★★☆☆ 3.06 | website |
+| Malus | Dry Apple Cider | 7.8% | ★★★★☆ 3.80 | website |
+| Mango Sour x Solera | Fruited sour with Mango | 5.5% | ★★★★☆ 4.06 | website |
+| Rotes Wien | Vienna-style lager | 5.2% | ★★★★☆ 4.18 | website |
+| Soft Focus (Pink Boots collab with Hazel Grove Brewing) | Session Hazy IPA | 5.0% |  | website |
+| Standard Use | Cream Ale | 5.4% | ★★★★☆ 3.95 | website |
+| Tie-Dyed Pajamas | American IPA | 7.8% | ★★★★☆ 3.96 | website |
+
+### Hitchhiker
+| Beer | Style | ABV | Rating | Source |
+|---|---|---:|---|---|
+| 15th And Canal |  |  | ★★★★☆ 3.96 | website |
+| Baby Bane |  |  | ★★★★☆ 3.93 | website |
+| Bane Of Existence |  |  | ★★★★☆ 3.95 | website |
+| Blended |  |  | ★★★★☆ 3.94 | website |
+| Bottle Service |  |  | ★★★★☆ 4.19 | website |
+| Citrus Summer |  |  | ★★★☆☆ 3.42 | website |
+| Cococino |  |  | ★★★★☆ 3.98 | website |
+| Conversion |  |  | ★★★★☆ 3.57 | website |
+| Double Peach Bottle Service |  |  | ★★★★☆ 4.30 | website |
+| Fruit Rush Raspberry |  |  | ★★★★☆ 4.19 | website |
+| Fusional |  |  | ★★★★☆ 3.82 | website |
+| Im Down |  |  | ★★★★☆ 4.23 | website |
+| Mexican Shakes |  |  | ★★★★☆ 3.96 | website |
+| Mmhmmm Grape |  |  | ★★★★☆ 4.14 | website |
+| One To One |  |  | ★★★★☆ 4.07 | website |
+| Opposite Bane |  |  | ★★★★☆ 3.99 | website |
+| Press Project Apricot Mango Peach |  |  | ★★★★☆ 4.16 | website |
+| Subtropic |  |  | ★★★★☆ 3.50 | website |
+| Thumbs Fangs |  |  | ★★★★☆ 4.08 | website |
+| Trapped In Time |  |  | ★★★★☆ 3.99 | website |
+| Triple Bane Of Existence |  |  | ★★★★☆ 4.33 | website |
+| True |  |  | ★★★☆☆ 3.28 | website |
+| Western Sun |  |  | ★★★★☆ 3.80 | website |
+| Wheat Wagon |  |  | ★★★★☆ 3.65 | website |
+| Whole Punch Key Lime Pie |  |  | ★★★★☆ 3.86 | website |
+
+### Old Thunder
+| Beer | Style | ABV | Rating | Source |
+|---|---|---:|---|---|
+| 340 LAGER | Signature Munich-Style Helles | 4.8% | ★★★★☆ 3.84 | pdf |
+| CHERRY TREE MELODY | Sour Ale With Cherries | 5.0% | ★★★★☆ 3.79 | pdf |
+| DDH SUNRISE VALLEY SHEEP | Ipa | 6.5% | ★★★★☆ 4.43 | pdf |
+| FALLEN SHADOWS | Imperial Stout | 17.0% | ★★★★★ 4.54 | pdf |
+| FALSE KINGDOM | Signature Ipa | 6.8% | ★★★★☆ 4.05 | pdf |
+| FOOLED BY THE NIGHT | Czech-Style Dark Lager | 4.6% | ★★★★☆ 4.03 | pdf |
+| FORGOTTEN ASTRONAUTS | Ipa | 7.0% | ★★★★☆ 4.03 | pdf |
+| HEROES & GHOSTS | Northern-Cali Ipa | 7.2% | ★★★★☆ 3.94 | pdf |
+| LAST CALL HERO | Ipa | 7.0% | ★★★★☆ 3.99 | pdf |
+| MANY WORLDS | American Porter W/ Coffee | 6.0% | ★★★☆☆ 3.37 | pdf |
+| PASTIME VIEWS | Czech-Style Pilsner | 4.8% | ★★★★☆ 3.91 | pdf |
+| SIFTING THROUGH MAPLE | Oatmeal Stout | 7.2% | ★★★★☆ 4.44 | pdf |
+| SIFTING THROUGH VANILLA | Oatmeal Stout | 7.2% | ★★★★☆ 4.18 | pdf |
+| SILESIAN FOOTHILLS | Polish-Style Lager | 5.2% | ★★★★☆ 3.92 | pdf |
+| TRICK PHOTOGRAPHY | Dunkel | 5.0% | ★★★★☆ 4.06 | pdf |
+
+### Abjuration
+| Beer | Style | ABV | Rating | Source |
+|---|---|---:|---|---|
+| American Premium Lager (APL v2.0) | American Premium Lager |  |  | widget |
+| Botanical Sour [Strawberry/Basil] (BSR v1.5) | Botanical Sour |  |  | widget |
+| Candied Sour [Cherry Slushie] (CDS v1.8) | Candied Sour |  |  | widget |
+| Candied Sour [Orange Slushie] (CDS v1.15) | Candied Sour |  |  | widget |
+| Cheesecake Sour [Coconut Cream] (CCS v1.10) | Cheesecake Sour |  |  | widget |
+| Donut Sour [Black Raspberry] (DOS v1.5) | Donut Sour |  |  | widget |
+| Fruited India Pale Ale [Pink Boots Collab: Grapefruit/Mosaic/Paradisi/Simcoe/Chinook] (FRIPA v2.0) | Fruited India Pale Ale |  |  | widget |
+| Fruited Sour [Pineapple/Honeydew] (FS v1.32) | Fruited Sour |  |  | widget |
+| Ice Cream Sour [Raspberry Shortcake] (ICS v1.29) | Ice Cream Sour |  |  | widget |
+| Ice Cream Sour [Watermelon Cotton Candy] (ICS v1.37) | Ice Cream Sour |  |  | widget |
+| Marshmallow Sour [Strawberry/Cherry] (MAS v1.1) | Marshmallow Sour |  |  | widget |
+| Stout (ST v1.0) | Stout |  |  | widget |
+
+### Golden Age
+| Beer | Style | ABV | Rating | Source |
+|---|---|---:|---|---|
+| Franconian Lager |  |  | ★★★☆☆ 3.45 | website |
+| Frühling Weizen | Spring Bavarian Amber Wheat Bier. Known in Germany as "Bernsteinfarben" or Amber-colored, this wheat bier has a more pronounced malt character, and richer color. A pronounced yeast character of spice, nutmeg and clove on top of soft wheat malt. | 4.8% | ★★★★☆ 4.02 | website |
+| German Ale |  |  | ★★★★☆ 3.58 | website |
+| German Lager |  |  | ★★★☆☆ 3.39 | website |
+| International Pilsener |  |  | ★★★☆☆ 3.20 | website |
+| ITALIAN PILS | Young dry hopped Pilsner brewed with Spalter Select, Saphir and Perle hops from our favorite family hop farm in Tettnang. | 4.7% | ★★★☆☆ 3.30 | website |
+| Kräusen | Helles Märzen. A Helles Lager that was naturally carbonated (Kräusened) with a small addition of fermenting Rauchbier Märzen. Honeyed malts and the faintest whisper of smoke. | 5.0% | ★★★☆☆ 2.95 | website |
+| MAIBOCK | Heller Bock brewed to celebrate the arrival of spring and Biergarten season. Rich Heirloom German Barley adds layers of sweet biscuits saturated by a double decoction in the brewhouse. Tettnang-grown Perle hops add their pleasant bitterness and minty aroma. An extended rest in our Keller of almost 6 months rounds everything out. | 6.0% | ★★★★☆ 3.54 | website |
+| PILSNER | Classic German Pilsner brewed with German Pilsner malt, and the finest Tettnang-grown Hallertau Mittelfrüh and Saphir hops. | 5.1% | ★★★☆☆ 2.96 | website |
+| PREMIUM LAGER | An all-malt, patiently lagered and full-flavored beer made for everyone. | 4.2% | ★★★☆☆ 2.96 | website |
+| ZWANZE PILS | Belgian Pilsner brewed as a homage to Cantillion, and the incredible honor of being selected to host Zwanze Day this year. Sugar Creek French Pilsner malt lends a rustic, farmhouse character that is supported by the use of aged, whole-leaf lambic hops in the boil. | 4.5% | ★★★★☆ 3.93 | website |
+
+## Czech Lager Watch
+_No beers found._
+
+## European Lager Watch
+| Beer | Style | ABV | Rating | Source |
+|---|---|---:|---|---|
+| Hounds of Helles | Munich Helles Lager | 4.5% | ★★★★☆ 3.66 | untappd |
+| Pilsner | German Pilsner | 5.0% | ★★★☆☆ 2.96 | merged |
+| Heavily Redacted | German-Style Schwarzbier | 5.5% | ★★★★☆ 4.13 | website |
+| 340 LAGER | Signature Munich-Style Helles | 4.8% | ★★★★☆ 3.84 | pdf |
+| TRICK PHOTOGRAPHY | Dunkel | 5.0% | ★★★★☆ 4.06 | pdf |
+| Kräusen | Helles Märzen. A Helles Lager that was naturally carbonated (Kräusened) with a small addition of fermenting Rauchbier Märzen. Honeyed malts and the faintest whisper of smoke. | 5.0% | ★★★☆☆ 2.95 | website |
+| MAIBOCK | Heller Bock brewed to celebrate the arrival of spring and Biergarten season. Rich Heirloom German Barley adds layers of sweet biscuits saturated by a double decoction in the brewhouse. Tettnang-grown Perle hops add their pleasant bitterness and minty aroma. An extended rest in our Keller of almost 6 months rounds everything out. | 6.0% | ★★★★☆ 3.54 | website |
+| PILSNER | Classic German Pilsner brewed with German Pilsner malt, and the finest Tettnang-grown Hallertau Mittelfrüh and Saphir hops. | 5.1% | ★★★☆☆ 2.96 | website |
+
+## Sour Watch
+| Beer | Style | ABV | Rating | Source |
+|---|---|---:|---|---|
+| Arnold Shaman | Fruited Sour | 5.0% | ★★★★☆ 3.94 | untappd |
+| Blueberry Blackberry Sour | Berliner Weisse | 4.7% | ★★★★☆ 3.74 | merged |
+| EVERY TIME ONLY ONCE | fruited sour | 7.0% | ★★★★☆ 4.27 | website |
+| SOUR CERVEZA STRAWBERRY ESPECIAL | sour lager | 4.5% | ★★★★☆ 4.03 | website |
+| Keeping Time: Aardbei | Strawberry Sour Ale from our Solera Project | 5.9% | ★★★★☆ 3.93 | website |
+| Keeping Time: Oost | Pale Sour Ale | 6.5% | ★★★★☆ 4.02 | website |
+| Keeping TIme: Rood | Flanders Red Sour Ale | 5.9% | ★★★★☆ 4.01 | website |
+| Keeping Time: Rubus | Rasberry Solera Sour Ale | 5.5% | ★★★★☆ 4.04 | website |
+| Mango Sour x Solera | Fruited sour with Mango | 5.5% | ★★★★☆ 4.06 | website |
+| CHERRY TREE MELODY | Sour Ale With Cherries | 5.0% | ★★★★☆ 3.79 | pdf |
+| Botanical Sour [Strawberry/Basil] (BSR v1.5) | Botanical Sour |  |  | widget |
+| Candied Sour [Cherry Slushie] (CDS v1.8) | Candied Sour |  |  | widget |
+| Candied Sour [Orange Slushie] (CDS v1.15) | Candied Sour |  |  | widget |
+| Cheesecake Sour [Coconut Cream] (CCS v1.10) | Cheesecake Sour |  |  | widget |
+| Donut Sour [Black Raspberry] (DOS v1.5) | Donut Sour |  |  | widget |
+| Fruited Sour [Pineapple/Honeydew] (FS v1.32) | Fruited Sour |  |  | widget |
+| Ice Cream Sour [Raspberry Shortcake] (ICS v1.29) | Ice Cream Sour |  |  | widget |
+| Ice Cream Sour [Watermelon Cotton Candy] (ICS v1.37) | Ice Cream Sour |  |  | widget |
+| Marshmallow Sour [Strawberry/Cherry] (MAS v1.1) | Marshmallow Sour |  |  | widget |
+| ZWANZE PILS | Belgian Pilsner brewed as a homage to Cantillion, and the incredible honor of being selected to host Zwanze Day this year. Sugar Creek French Pilsner malt lends a rustic, farmhouse character that is supported by the use of aged, whole-leaf lambic hops in the boil. | 4.5% | ★★★★☆ 3.93 | website |

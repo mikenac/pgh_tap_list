@@ -1,0 +1,102 @@
+name: Update Taplists
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 13 * * 2,5'
+
+permissions:
+  contents: write
+  models: read
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+          cache-dependency-glob: uv.lock
+
+      - name: Install Python dependencies
+        run: uv sync --group dev --locked --default-index https://pypi.org/simple --no-config
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install site dependencies
+        run: npm ci
+
+      - name: Run deterministic pipeline
+        run: |
+          uv run --group dev python scripts/scrape.py
+          uv run --group dev python scripts/enrich_untappd.py
+          uv run --group dev python scripts/compare.py
+
+      - name: Run Python checks
+        run: |
+          uv run --group dev ruff check scripts src tests
+          uv run --group dev pytest
+
+      - name: Build AI prompt from comparison JSON
+        run: |
+          {
+            echo "You are writing a short weekly beer report narrative.";
+            echo "Use only the JSON below.";
+            echo "Do not add beers, styles, ratings, or facts that are not present in the JSON.";
+            echo "Keep it to 4-6 sentences.";
+            echo "";
+            cat data/comparison.json;
+          } > data/ai-prompt.txt
+
+      - name: Generate AI narrative summary
+        id: ai_summary
+        continue-on-error: true
+        uses: actions/ai-inference@v1
+        with:
+          model: openai/gpt-4o-mini
+          prompt-file: data/ai-prompt.txt
+          max-completion-tokens: '220'
+          temperature: '0.2'
+
+      - name: Save AI narrative
+        if: steps.ai_summary.outcome == 'success'
+        run: |
+          printf "%s\n" "${{ steps.ai_summary.outputs.response }}" > data/ai-summary.md
+
+      - name: Clear stale AI narrative
+        if: steps.ai_summary.outcome != 'success'
+        run: rm -f data/ai-summary.md
+
+      - name: Generate markdown reports
+        run: uv run --group dev python scripts/generate_report.py
+
+      - name: Build Astro site
+        run: npm run build
+
+      - name: Run UI smoke tests
+        run: npm run test:ui
+
+      - name: Commit updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data content
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update taplists and report"
+            git push
+          fi

@@ -1,0 +1,20 @@
+---
+const { changes = [] } = Astro.props;
+---
+<section class="card">
+  <h2 class="mb-4 text-xl font-semibold">What changed this week</h2>
+  {changes.length === 0 ? (
+    <p class="text-sm text-ink/70">No previous snapshot available yet.</p>
+  ) : (
+    <div class="grid gap-4 md:grid-cols-2">
+      {changes.map((change) => (
+        <article class="rounded-lg border border-ink/10 bg-white p-3">
+          <h3 class="font-semibold">{change.breweryId}</h3>
+          <p class="text-sm">Added: {change.additions.join(', ') || 'None'}</p>
+          <p class="text-sm">Removed: {change.removals.join(', ') || 'None'}</p>
+          <p class="text-sm">Style changes: {change.styleChanges.length}</p>
+        </article>
+      ))}
+    </div>
+  )}
+</section>

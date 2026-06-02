@@ -1,0 +1,39 @@
+---
+const { beers = [] } = Astro.props;
+
+const ratingStars = (rating) => {
+  const fullStars = Math.round(Math.max(0, Math.min(5, rating)));
+  return `${'★'.repeat(fullStars)}${'☆'.repeat(5 - fullStars)}`;
+};
+
+const formatRating = (rating) => {
+  if (rating === null || rating === undefined) {
+    return '';
+  }
+  return `${ratingStars(rating)} ${rating.toFixed(2)}`;
+};
+---
+<div class="overflow-x-auto">
+  <table class="min-w-full text-left text-sm">
+    <thead class="border-b border-ink/20 bg-ink/5">
+      <tr>
+        <th class="px-3 py-2">Beer</th>
+        <th class="px-3 py-2">Style</th>
+        <th class="px-3 py-2 text-right">ABV</th>
+        <th class="px-3 py-2 text-right">Rating</th>
+        <th class="px-3 py-2">Source</th>
+      </tr>
+    </thead>
+    <tbody>
+      {beers.map((beer) => (
+        <tr class="border-b border-ink/10">
+          <td class="px-3 py-2 font-medium">{beer.name}</td>
+          <td class="px-3 py-2">{beer.style || ''}</td>
+          <td class="px-3 py-2 text-right">{beer.abv === null || beer.abv === undefined ? '' : `${beer.abv.toFixed(1)}%`}</td>
+          <td class="px-3 py-2 text-right font-medium text-amber-700">{formatRating(beer.untappdRating)}</td>
+          <td class="px-3 py-2 text-xs text-ink/70">{beer.sourceType}</td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+</div>

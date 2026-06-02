@@ -1,0 +1,19 @@
+---
+import '../styles.css';
+const { title = 'Pittsburgh Taplist Tracker' } = Astro.props;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+  </head>
+  <body>
+    <div class="min-h-screen bg-gradient-to-b from-cream via-white to-cream">
+      <main class="mx-auto w-full max-w-6xl px-4 py-8">
+        <slot />
+      </main>
+    </div>
+  </body>
+</html>

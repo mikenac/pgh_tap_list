@@ -1,0 +1,1002 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="Abjuration Brewing" />
+    <meta name="author" content="Dave Hallam" />
+    <meta name="keywords" content="Abjuration, Brewing, Brewery, Pittsburgh, Beer, Craft Beer" />
+
+    <title>Abjuration Brewing | Home</title>
+    <!-- Facebook and Twitter integration -->
+	<meta property="og:title" content=""/>
+	<meta property="og:image" content=""/>
+	<meta property="og:url" content=""/>
+	<meta property="og:site_name" content=""/>
+	<meta property="og:description" content=""/>
+	<meta name="twitter:title" content="" />
+	<meta name="twitter:image" content="" />
+	<meta name="twitter:url" content="" />
+	<meta name="twitter:card" content="" />
+
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+    
+    <!-- Add local styles, mostly for plugins css file -->
+     
+    <!-- Add jQuery Style direct - used for jQGrid plugin -->
+    <link href="/Scripts/plugins/jquery-ui/jquery-ui.css" rel="stylesheet" type="text/css" />
+  
+    <link href="/Content/css?v=yy70gbXlnDJ8yyuGrNjqoMlZOPWmeH45ChHv5tgY6fY1" rel="stylesheet"/>
+
+    <link href="/font-awesome/css?v=DWzYKC0jd6clsSeB4EkEn6OEx9vHam-xVWrDW9id9NI1" rel="stylesheet"/>
+
+    <link href="/plugins/sweetAlertStyles?v=CObCgCIj3PnMu1igvQ9XuFkekb7E5NQJmAcctlzwl4M1" rel="stylesheet"/>
+
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+</head>
+<body class="body-small ">
+    <input type="hidden" id="rootPath" name="rootPath" value="/" />
+
+    <!-- Wrapper-->
+    <div id="wrapper" class="Dashboard">
+
+        <!-- Navigation -->
+        <nav class="navbar-default navbar-static-side" role="navigation">
+    <div class="sidebar-collapse">
+        <ul class="nav" id="side-menu">
+            <li class="nav-header">
+                <div class="dropdown profile-element">
+                    <img alt="image" class="img-responsive" src="/Images/AB full.png">
+                </div>
+                <div class="logo-element">
+                    <img alt="image" src="/Images/navLogo.png">
+                </div>
+            </li>
+            <li class="active">
+                <a href="/"><i class="fa fa-home"></i> <span class="nav-label" data-i18n="nav.home">Home</span> </a>
+            </li>
+            <li class="">
+                <a href="/About"><i class="fa fa-info-circle"></i> <span class="nav-label" data-i18n="nav.beers">About</span> </a>
+            </li>
+            <li class="">
+                <a href="/Beers"><i class="fa fa-flask"></i> <span class="nav-label" data-i18n="nav.beers">Beers</span> </a>
+            </li>
+            
+            <li class="">
+                <a href="https://abjurationbrewing.square.site/" target="_blank"><i class="fa fa-shopping-cart"></i> <span class="nav-label" data-i18n="nav.events">Shop</span> </a>
+            </li>
+            <li>
+                <a href="http://www.communityreelartscenter.org/" target="_blank"><i class="fa fa-video-camera"></i> <span class="nav-label" data-i18n="nav.events">Parkway Theater</span> </a>
+            </li>
+            <li class="">
+                <a data-toggle="modal" href="#modal-contactus"><i class="fa fa-envelope"></i> <span class="nav-label" data-i18n="nav.events">Contact Us</span></a>
+            </li>
+            
+        </ul>
+    </div>
+</nav>
+
+        <!-- Page wraper -->
+        <div id="page-wrapper" class="gray-bg">
+
+            <!-- Top Navbar -->
+            <div class="row border-bottom">
+    <nav class="navbar navbar-static-top" role="navigation" style="margin-bottom: 0">
+        <div class="navbar-header">
+            <a id="abjNav" class="navbar-minimalize minimalize-styl-2 btn btn-primary " href="#"><i class="fa fa-bars"></i> </a>
+        </div>
+        <ul class="nav navbar-top-links navbar-right" style="float:right">
+            <li>
+                <a href="https://www.facebook.com/AbjurationBrewing" target="_blank" title="Facebook">
+                    <i class="fa fa-lg fa-facebook"></i>
+                </a>
+            </li>
+            <li>
+                <a href="https://twitter.com/AbjurationBrew" target="_blank" title="Twitter">
+                    <i class="fa fa-lg fa-twitter"></i>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.instagram.com/abjurationbrewing" target="_blank" title="Instagram">
+                    <i class="fa fa-lg fa-instagram"></i>
+                </a>
+            </li>
+            <li>
+                <a href="https://untappd.com/AbjurationBrewing" target="_blank" title="Untappd">
+                    <i class="fa fa-lg fa-beer"></i>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</div>
+
+            <!-- Main view  -->
+            <div class="row border-bottom white-bg dashboard-header hopback4">
+                <div class="col-sm-3">
+                    <img alt="image" class="img-responsive" src="/Images/AB full.png">
+                </div>
+            </div>
+            
+
+
+<input type="hidden" id="updateUntappd" name="updateUntappd" value="true" />
+<input type="hidden" id="updateUntappdHtml" name="updateUntappdHtml" value="&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;timeline-item&quot;&gt;&lt;div class=&quot;col-xs-3 date&quot;&gt;&lt;i&gt;&lt;img class=&quot;untappdAvatar&quot; src=&quot;https://assets.untappd.com/profile/77556aa4f016be5b424e97d0f5701271_100x100.jpg&quot;&gt;&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;small&gt;5/28/2026&lt;br&gt;10:30 pm&lt;/small&gt;&lt;/div&gt;&lt;br&gt;&lt;/div&gt;&lt;div class=&quot;col-xs-9 content no-top-border&quot;&gt;&lt;p class=&quot;m-b-xs&quot;&gt;&lt;strong&gt;Ice Cream Sour (ICS v1.48)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://untappd.com/user/haylee_davoll_4594&quot; target=&quot;_blank&quot;&gt;Haylee D&lt;/a&gt; is drinking a &lt;a href=&quot;https://untappd.com/b/abjuration-brewing-Ice-Cream-Sour-ICS-v1-48/6664502&quot; target=&quot;_blank&quot;&gt;Ice Cream Sour (ICS v1.48)&lt;/a&gt; by &lt;a href=&quot;https://untappd.com/w/abjuration-brewing/127740&quot; target=&quot;_blank&quot;&gt;Abjuration Brewing&lt;/a&gt; at &lt;a href=&quot;https://untappd.com/venue/9917985&quot; target=&quot;_blank&quot;&gt;Untappd at Home&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;timeline-item&quot;&gt;&lt;div class=&quot;col-xs-3 date&quot;&gt;&lt;i&gt;&lt;img class=&quot;untappdAvatar&quot; src=&quot;https://assets.untappd.com/profile/b3e553f2eb184c66803cb18ffb29a493_100x100.jpg&quot;&gt;&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;small&gt;5/28/2026&lt;br&gt;10:08 pm&lt;/small&gt;&lt;/div&gt;&lt;br&gt;&lt;/div&gt;&lt;div class=&quot;col-xs-9 content &quot;&gt;&lt;p class=&quot;m-b-xs&quot;&gt;&lt;strong&gt;India Pale Ale (IPA v9.6)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://untappd.com/user/Lebomiles&quot; target=&quot;_blank&quot;&gt;MMiles &lt;/a&gt; is drinking a &lt;a href=&quot;https://untappd.com/b/abjuration-brewing-India-Pale-Ale-IPA-v9-6/6655704&quot; target=&quot;_blank&quot;&gt;India Pale Ale (IPA v9.6)&lt;/a&gt; by &lt;a href=&quot;https://untappd.com/w/abjuration-brewing/127740&quot; target=&quot;_blank&quot;&gt;Abjuration Brewing&lt;/a&gt; at &lt;a href=&quot;https://untappd.com/venue/9917985&quot; target=&quot;_blank&quot;&gt;Untappd at Home&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;timeline-item&quot;&gt;&lt;div class=&quot;col-xs-3 date&quot;&gt;&lt;i&gt;&lt;img class=&quot;untappdAvatar&quot; src=&quot;https://assets.untappd.com/profile/98a340f9e2bfbf66ee145d60007fb320_100x100.jpg&quot;&gt;&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;small&gt;5/28/2026&lt;br&gt;10:05 pm&lt;/small&gt;&lt;/div&gt;&lt;br&gt;&lt;/div&gt;&lt;div class=&quot;col-xs-9 content &quot;&gt;&lt;p class=&quot;m-b-xs&quot;&gt;&lt;strong&gt;Marshmallow Sour (MAS v1.1)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://untappd.com/user/kmackowski&quot; target=&quot;_blank&quot;&gt;Kevin Mackowski&lt;/a&gt; is drinking a &lt;a href=&quot;https://untappd.com/b/abjuration-brewing-Marshmallow-Sour-MAS-v1-1/6708584&quot; target=&quot;_blank&quot;&gt;Marshmallow Sour (MAS v1.1)&lt;/a&gt; by &lt;a href=&quot;https://untappd.com/w/abjuration-brewing/127740&quot; target=&quot;_blank&quot;&gt;Abjuration Brewing&lt;/a&gt; at &lt;a href=&quot;https://untappd.com/venue/1301616&quot; target=&quot;_blank&quot;&gt;Hal&#39;s Bottle Shop / Hal&#39;s Bar &amp;amp; Grill&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;timeline-item&quot;&gt;&lt;div class=&quot;col-xs-3 date&quot;&gt;&lt;i&gt;&lt;img class=&quot;untappdAvatar&quot; src=&quot;https://assets.untappd.com/profile/bfb831694cb38d7fc867fce1ce97d482_100x100.jpg&quot;&gt;&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;small&gt;5/28/2026&lt;br&gt;10:01 pm&lt;/small&gt;&lt;/div&gt;&lt;br&gt;&lt;/div&gt;&lt;div class=&quot;col-xs-9 content &quot;&gt;&lt;p class=&quot;m-b-xs&quot;&gt;&lt;strong&gt;Marshmallow Sour (MAS v1.1)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://untappd.com/user/JennyMcLovin&quot; target=&quot;_blank&quot;&gt;Jenny McLovin&lt;/a&gt; is drinking a &lt;a href=&quot;https://untappd.com/b/abjuration-brewing-Marshmallow-Sour-MAS-v1-1/6708584&quot; target=&quot;_blank&quot;&gt;Marshmallow Sour (MAS v1.1)&lt;/a&gt; by &lt;a href=&quot;https://untappd.com/w/abjuration-brewing/127740&quot; target=&quot;_blank&quot;&gt;Abjuration Brewing&lt;/a&gt; at &lt;a href=&quot;https://untappd.com/venue/1301616&quot; target=&quot;_blank&quot;&gt;Hal&#39;s Bottle Shop / Hal&#39;s Bar &amp;amp; Grill&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;timeline-item&quot;&gt;&lt;div class=&quot;col-xs-3 date&quot;&gt;&lt;i&gt;&lt;img class=&quot;untappdAvatar&quot; src=&quot;https://assets.untappd.com/profile/bfb831694cb38d7fc867fce1ce97d482_100x100.jpg&quot;&gt;&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;small&gt;5/28/2026&lt;br&gt;9:16 pm&lt;/small&gt;&lt;/div&gt;&lt;br&gt;&lt;/div&gt;&lt;div class=&quot;col-xs-9 content &quot;&gt;&lt;p class=&quot;m-b-xs&quot;&gt;&lt;strong&gt;Cheesecake Sour (CCS v1.10)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://untappd.com/user/JennyMcLovin&quot; target=&quot;_blank&quot;&gt;Jenny McLovin&lt;/a&gt; is drinking a &lt;a href=&quot;https://untappd.com/b/abjuration-brewing-Cheesecake-Sour-CCS-v1-10/6048630&quot; target=&quot;_blank&quot;&gt;Cheesecake Sour (CCS v1.10)&lt;/a&gt; by &lt;a href=&quot;https://untappd.com/w/abjuration-brewing/127740&quot; target=&quot;_blank&quot;&gt;Abjuration Brewing&lt;/a&gt; at &lt;a href=&quot;https://untappd.com/venue/1301616&quot; target=&quot;_blank&quot;&gt;Hal&#39;s Bottle Shop / Hal&#39;s Bar &amp;amp; Grill&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;timeline-item&quot;&gt;&lt;div class=&quot;col-xs-3 date&quot;&gt;&lt;i&gt;&lt;img class=&quot;untappdAvatar&quot; src=&quot;https://gravatar.com/avatar/84766a3395af152c1340b2efa6c669fe?size=100&amp;amp;d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2&quot;&gt;&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;small&gt;5/28/2026&lt;br&gt;5:09 pm&lt;/small&gt;&lt;/div&gt;&lt;br&gt;&lt;/div&gt;&lt;div class=&quot;col-xs-9 content &quot;&gt;&lt;p class=&quot;m-b-xs&quot;&gt;&lt;strong&gt;Fruited India Pale Ale (FRIPA v2.0)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://untappd.com/user/Kassner&quot; target=&quot;_blank&quot;&gt;James Kassner&lt;/a&gt; is drinking a &lt;a href=&quot;https://untappd.com/b/abjuration-brewing-Fruited-India-Pale-Ale-FRIPA-v2-0/6718032&quot; target=&quot;_blank&quot;&gt;Fruited India Pale Ale (FRIPA v2.0)&lt;/a&gt; by &lt;a href=&quot;https://untappd.com/w/abjuration-brewing/127740&quot; target=&quot;_blank&quot;&gt;Abjuration Brewing&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" />
+<input type="hidden" id="locationId" name="locationId" value="1" />
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0&appId=839912299435022';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="row">
+	<div class="col-lg-12">
+		<div class="wrapper wrapper-content">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <div class="ibox-title">
+                        <h5>
+                            Location:
+                            <select id="LocationId" name="LocationId">
+                                    <option value="1">McKees Rocks - The Lab</option>
+                                    <option value="3">Mt. Lebanon - Axe</option>
+                                    <option value="2">Hazelwood - Upstairs</option>
+                            </select>
+                        </h5>
+                    </div>
+                </div>
+            </div>
+            <br />
+			<div class="row">
+				<div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
+					<div class="ibox float-e-margins">
+						<div class="ibox-title">
+							<h5>On Tap</h5>
+							<div class="ibox-tools">
+								<a class="collapse-link">
+									<i class="fa fa-chevron-up"></i>
+								</a>
+								<a class="close-link">
+									<i class="fa fa-times"></i>
+								</a>
+							</div>
+						</div>
+						<div class="ibox-content">
+                            <div>
+                                <div id="ontaplist" class="feed-activity-list">
+
+                                </div>
+                                <div id="tapLoader" class="sk-spinner sk-spinner-rotating-plane"></div>
+                                
+
+                            </div>
+						</div>
+					</div>
+				</div>
+
+                <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
+                    <div class="ibox float-e-margins">
+                        <div class="ibox-title">
+                            <h5>Online Can Stock</h5>
+                            <div class="ibox-tools">
+                                <a class="collapse-link">
+                                    <i class="fa fa-chevron-up"></i>
+                                </a>
+                                <ul class="dropdown-menu dropdown-user">
+                                    <li>
+                                        <a href="#">Config option 1</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Config option 2</a>
+                                    </li>
+                                </ul>
+                                <a class="close-link">
+                                    <i class="fa fa-times"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <div id="canStockDiv" class="ibox-content">
+                            <table id="canStockTable" style="width:100%" class="table table-striped table-bordered table-hover display nowrap dataTable no-footer">
+                                <tr>
+                                    <th style="width:25%">Beer</th>
+                                    <th style="width:45%">Format</th>
+                                    <th style="width:15%">Price</th>
+                                    <th style="width:15%">Stock</th>
+                                </tr>
+                            </table>
+                            <br />
+                            <div id="canLoader" class="sk-spinner sk-spinner-rotating-plane"></div>
+                            <i style="font-size:smaller">Note: we do not put all stock up for online sale. The taproom keeps significant stock of new release. Contact us if you are looking for something.</i>
+                        </div>
+                    </div>
+                    <div class="ibox float-e-margins">
+                        <div class="ibox-title">
+                            <h5>Locations & Hours</h5>
+                            <div class="ibox-tools">
+                                <a class="collapse-link">
+                                    <i class="fa fa-chevron-up"></i>
+                                </a>
+                                <a class="close-link">
+                                    <i class="fa fa-times"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="ibox-content">
+                            <div>
+                                <div id="locationDiv"></div>
+                                <div id="locationsLoader" class="sk-spinner sk-spinner-rotating-plane"></div>
+                            </div>
+                            <br />
+                            <!--
+    <div id="googlemap_container"></div>
+    <div id="googlemap"></div>
+        -->
+                        </div>
+                    </div>
+
+
+                    <div class="ibox float-e-margins">
+                        <div class="ibox-title">
+                            <h5>Newsletter</h5>
+                            <div class="ibox-tools">
+                                <a class="collapse-link">
+                                    <i class="fa fa-chevron-up"></i>
+                                </a>
+                                <a class="close-link">
+                                    <i class="fa fa-times"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="ibox-content inspinia-timeline">
+                            <!-- Begin MailChimp Signup Form -->
+                            <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+                            <style type="text/css">
+                                #mc_embed_signup {
+                                    background: #fff;
+                                    clear: left;
+                                    font: 14px Helvetica,Arial,sans-serif;
+                                }
+                                /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+                                   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+                            </style>
+                            <div id="mc_embed_signup">
+                                <form action="//abjurationbrewing.us15.list-manage.com/subscribe/post?u=797c6603fe5c0bb97ee039d53&amp;id=ef7253cd5d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                                    <div id="mc_embed_signup_scroll">
+                                        <h2></h2>
+                                        <div class="mc-field-group">
+                                            <label for="mce-EMAIL">Email Address </label>
+                                            <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+                                        </div>
+                                        
+                                        <div id="mce-responses" class="clear">
+                                            <div class="response" id="mce-error-response" style="display:none"></div>
+                                            <div class="response" id="mce-success-response" style="display:none"></div>
+                                        </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                                        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_797c6603fe5c0bb97ee039d53_ef7253cd5d" tabindex="-1" value=""></div>
+                                        <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+                                    </div>
+                                </form>
+                            </div>
+                            <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
+                            <script type='text/javascript'>(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);</script>
+                            <!--End mc_embed_signup-->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
+                    <div class="ibox float-e-margins">
+                        <div class="ibox-title">
+                            <h5>Events</h5>
+                            <div class="ibox-tools">
+                                <a class="collapse-link">
+                                    <i class="fa fa-chevron-up"></i>
+                                </a>
+                                <a class="close-link">
+                                    <i class="fa fa-times"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <div id="eventsFeed" class="ibox-content inspinia-timeline">
+                            <div class="feed-activity-list">
+                                        <div class="feed-element">
+
+                                            <div class="media-body">
+                                                    <a target="_blank">
+                                                            <img alt="image" class="eventFeedImg" style="width: 100%; height:auto" src="/Images/events/109.jpg">
+                                                    </a>
+                                                    <br />
+                                                    <a class="ontapbeer" target="_blank"><strong>Drag Brunch</strong></a>
+                                                    <br>
+                                                    <div class="row">
+                                                        <div class="col-xs-2 col-md-2"><small class="text-muted">Date:</small></div>
+                                                        <div class="col-xs-9 col-md-9">
+                                                            <small class="text-muted">
+                                                                5/31/26 11:00 AM
+                                                            </small>
+                                                        </div>
+                                                    </div>
+                                                        <div class="row">
+                                                            <div class="col-xs-11 col-md-11">
+                                                                <small class="text-muted">
+                                                                        <a href="https://maps.app.goo.gl/LffAqsifYm3NHmZ58" target="_blank">The Hazelwood Brewhouse<br />5011 Lytle Street PA 15207</a>
+                                                                </small>
+                                                            </div>
+                                                        </div>
+                                                        <br />
+                                                        <div class="row">
+                                                                                                                            <div class="col-xs-4 col-md-4">
+                                                                    <a href="https://www.eventbrite.com/e/pride-kickoff-drag-brunch-at-hazelwood-brew-house-tickets-1988643482188" target="_blank" title="Ticket Link" style="font-size:22px">
+                                                                        <i class="fa fa-ticket"></i>
+                                                                    </a>
+                                                                </div>
+                                                        </div>
+
+
+                                            </div>
+                                        </div>
+                                        <div class="feed-element">
+
+                                            <div class="media-body">
+                                                    <a href="https://www.facebook.com/events/1288238869754316" target="_blank">
+                                                            <img alt="image" class="eventFeedImg" style="width: 100%; height:auto" src="/Images/events/96.jpg">
+                                                    </a>
+                                                    <br />
+                                                    <a href="https://www.facebook.com/events/1288238869754316" class="ontapbeer" target="_blank"><strong>4th Annual Cats n Tats Fundraiser</strong></a>
+                                                    <br>
+                                                    <div class="row">
+                                                        <div class="col-xs-2 col-md-2"><small class="text-muted">Date:</small></div>
+                                                        <div class="col-xs-9 col-md-9">
+                                                            <small class="text-muted">
+                                                                5/31/26 12:00 PM
+                                                                    <span>-</span>
+5:00 PM                                                            </small>
+                                                        </div>
+                                                    </div>
+                                                        <div class="row">
+                                                            <div class="col-xs-11 col-md-11">
+                                                                <small class="text-muted">
+                                                                        <a href="https://maps.app.goo.gl/4rRrbzqWX9g3NYut6" target="_blank">The Parkway Theater<br />644 Broadway Ave PA 15136</a>
+                                                                </small>
+                                                            </div>
+                                                        </div>
+                                                        <br />
+                                                        <div class="row">
+                                                                <div class="col-xs-4 col-md-4">
+                                                                    <a href="https://www.facebook.com/events/1288238869754316" target="_blank" title="Facebook" style="font-size:18px">
+                                                                        <i class="fa fa-lg fa-facebook"></i>
+                                                                    </a>
+                                                                </div>
+                                                                                                                    </div>
+
+
+                                            </div>
+                                        </div>
+                                        <div class="feed-element">
+
+                                            <div class="media-body">
+                                                    <a target="_blank">
+                                                            <img alt="image" class="eventFeedImg" style="width: 100%; height:auto" src="/Images/events/106.jpg">
+                                                    </a>
+                                                    <br />
+                                                    <a class="ontapbeer" target="_blank"><strong>Dungeons &amp; Drafts</strong></a>
+                                                    <br>
+                                                    <div class="row">
+                                                        <div class="col-xs-2 col-md-2"><small class="text-muted">Date:</small></div>
+                                                        <div class="col-xs-9 col-md-9">
+                                                            <small class="text-muted">
+                                                                6/8/26 6:00 PM
+                                                                    <span>-</span>
+9:00 PM                                                            </small>
+                                                        </div>
+                                                    </div>
+                                                        <div class="row">
+                                                            <div class="col-xs-11 col-md-11">
+                                                                <small class="text-muted">
+                                                                        <a href="https://maps.app.goo.gl/4rRrbzqWX9g3NYut6" target="_blank">The Parkway Theater<br />644 Broadway Ave PA 15136</a>
+                                                                </small>
+                                                            </div>
+                                                        </div>
+                                                        <br />
+                                                        <div class="row">
+                                                                                                                            <div class="col-xs-4 col-md-4">
+                                                                    <a href="https://www.facebook.com/events/1516941666442434" target="_blank" title="Ticket Link" style="font-size:22px">
+                                                                        <i class="fa fa-ticket"></i>
+                                                                    </a>
+                                                                </div>
+                                                        </div>
+
+
+                                            </div>
+                                        </div>
+                                        <div class="feed-element">
+
+                                            <div class="media-body">
+                                                    <a href="https://www.facebook.com/events/1335659151754179" target="_blank">
+                                                            <img alt="image" class="eventFeedImg" style="width: 100%; height:auto" src="/Images/events/108.jpg">
+                                                    </a>
+                                                    <br />
+                                                    <a href="https://www.facebook.com/events/1335659151754179" class="ontapbeer" target="_blank"><strong>The Amusement Park Screening and Beer Release</strong></a>
+                                                    <br>
+                                                    <div class="row">
+                                                        <div class="col-xs-2 col-md-2"><small class="text-muted">Date:</small></div>
+                                                        <div class="col-xs-9 col-md-9">
+                                                            <small class="text-muted">
+                                                                6/11/26 8:30 PM
+                                                            </small>
+                                                        </div>
+                                                    </div>
+                                                        <div class="row">
+                                                            <div class="col-xs-11 col-md-11">
+                                                                <small class="text-muted">
+                                                                        <a href="https://maps.app.goo.gl/4rRrbzqWX9g3NYut6" target="_blank">The Parkway Theater<br />644 Broadway Ave PA 15136</a>
+                                                                </small>
+                                                            </div>
+                                                        </div>
+                                                        <br />
+                                                        <div class="row">
+                                                                <div class="col-xs-4 col-md-4">
+                                                                    <a href="https://www.facebook.com/events/1335659151754179" target="_blank" title="Facebook" style="font-size:18px">
+                                                                        <i class="fa fa-lg fa-facebook"></i>
+                                                                    </a>
+                                                                </div>
+                                                                                                                            <div class="col-xs-4 col-md-4">
+                                                                    <a href="https://film-lounge.square.site/" target="_blank" title="Ticket Link" style="font-size:22px">
+                                                                        <i class="fa fa-ticket"></i>
+                                                                    </a>
+                                                                </div>
+                                                        </div>
+
+
+                                            </div>
+                                        </div>
+                                        <div class="feed-element">
+
+                                            <div class="media-body">
+                                                    <a href="https://www.facebook.com/events/1516941666442434" target="_blank">
+                                                            <img alt="image" class="eventFeedImg" style="width: 100%; height:auto" src="/Images/events/104.jpg">
+                                                    </a>
+                                                    <br />
+                                                    <a href="https://www.facebook.com/events/1516941666442434" class="ontapbeer" target="_blank"><strong>PizzaFest! A slice of Delish</strong></a>
+                                                    <br>
+                                                    <div class="row">
+                                                        <div class="col-xs-2 col-md-2"><small class="text-muted">Date:</small></div>
+                                                        <div class="col-xs-9 col-md-9">
+                                                            <small class="text-muted">
+                                                                6/14/26 12:00 PM
+                                                                    <span>-</span>
+5:00 PM                                                            </small>
+                                                        </div>
+                                                    </div>
+                                                        <div class="row">
+                                                            <div class="col-xs-11 col-md-11">
+                                                                <small class="text-muted">
+                                                                        <a href="https://maps.app.goo.gl/LffAqsifYm3NHmZ58" target="_blank">The Hazelwood Brewhouse<br />5011 Lytle Street PA 15207</a>
+                                                                </small>
+                                                            </div>
+                                                        </div>
+                                                        <br />
+                                                        <div class="row">
+                                                                <div class="col-xs-4 col-md-4">
+                                                                    <a href="https://www.facebook.com/events/1516941666442434" target="_blank" title="Facebook" style="font-size:18px">
+                                                                        <i class="fa fa-lg fa-facebook"></i>
+                                                                    </a>
+                                                                </div>
+                                                                                                                            <div class="col-xs-4 col-md-4">
+                                                                    <a href="https://tickets.triblive.com/events/pizzafest-a-slice-of-delish-2026-6-14-2026?fbclid=IwY2xjawR64fNleHRuA2FlbQIxMABicmlkETE0b2M0VXpVb0N4OGFFN01xc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkOgK4xRxX9yhrhfdU07yuHJ3uv_cMakvSn6bK_YsxXhGVhPOMDV6G25upof_aem_KOD8L_qyEOBc_Mt7z1DjEw" target="_blank" title="Ticket Link" style="font-size:22px">
+                                                                        <i class="fa fa-ticket"></i>
+                                                                    </a>
+                                                                </div>
+                                                        </div>
+
+
+                                            </div>
+                                        </div>
+                                        <div class="feed-element">
+
+                                            <div class="media-body">
+                                                    <a href="https://www.facebook.com/events/2168507743993089" target="_blank">
+                                                            <img alt="image" class="eventFeedImg" style="width: 100%; height:auto" src="/Images/events/101.jpg">
+                                                    </a>
+                                                    <br />
+                                                    <a href="https://www.facebook.com/events/2168507743993089" class="ontapbeer" target="_blank"><strong>Axes for Animals - Biggies Bullies</strong></a>
+                                                    <br>
+                                                    <div class="row">
+                                                        <div class="col-xs-2 col-md-2"><small class="text-muted">Date:</small></div>
+                                                        <div class="col-xs-9 col-md-9">
+                                                            <small class="text-muted">
+                                                                6/27/26 12:00 PM
+                                                                    <span>-</span>
+4:00 PM                                                            </small>
+                                                        </div>
+                                                    </div>
+                                                        <div class="row">
+                                                            <div class="col-xs-11 col-md-11">
+                                                                <small class="text-muted">
+                                                                        <a href="https://maps.app.goo.gl/Bi3KoA5R7koE4GuT7" target="_blank">Taps, Axes &amp; Games<br />1689 McFarland Rd PA 15216</a>
+                                                                </small>
+                                                            </div>
+                                                        </div>
+                                                        <br />
+                                                        <div class="row">
+                                                                <div class="col-xs-4 col-md-4">
+                                                                    <a href="https://www.facebook.com/events/2168507743993089" target="_blank" title="Facebook" style="font-size:18px">
+                                                                        <i class="fa fa-lg fa-facebook"></i>
+                                                                    </a>
+                                                                </div>
+                                                                                                                    </div>
+
+
+                                            </div>
+                                        </div>
+                                        <div class="feed-element">
+
+                                            <div class="media-body">
+                                                    <a target="_blank">
+                                                            <img alt="image" class="eventFeedImg" style="width: 100%; height:auto" src="/Images/events/105.jpg">
+                                                    </a>
+                                                    <br />
+                                                    <a class="ontapbeer" target="_blank"><strong>Pride 2026/Big Gay BBQ Competition</strong></a>
+                                                    <br>
+                                                    <div class="row">
+                                                        <div class="col-xs-2 col-md-2"><small class="text-muted">Date:</small></div>
+                                                        <div class="col-xs-9 col-md-9">
+                                                            <small class="text-muted">
+                                                                6/27/26 12:00 PM
+                                                            </small>
+                                                        </div>
+                                                    </div>
+                                                        <div class="row">
+                                                            <div class="col-xs-11 col-md-11">
+                                                                <small class="text-muted">
+                                                                        <a href="https://maps.app.goo.gl/LffAqsifYm3NHmZ58" target="_blank">The Hazelwood Brewhouse<br />5011 Lytle Street PA 15207</a>
+                                                                </small>
+                                                            </div>
+                                                        </div>
+
+
+                                            </div>
+                                        </div>
+                                        <div class="feed-element">
+
+                                            <div class="media-body">
+                                                    <a href="https://www.facebook.com/events/27690316493902888" target="_blank">
+                                                            <img alt="image" class="eventFeedImg" style="width: 100%; height:auto" src="/Images/events/102.jpg">
+                                                    </a>
+                                                    <br />
+                                                    <a href="https://www.facebook.com/events/27690316493902888" class="ontapbeer" target="_blank"><strong>Trivia with Aaron DeLeo and Axes!!!</strong></a>
+                                                    <br>
+                                                    <div class="row">
+                                                        <div class="col-xs-2 col-md-2"><small class="text-muted">Date:</small></div>
+                                                        <div class="col-xs-9 col-md-9">
+                                                            <small class="text-muted">
+                                                                6/27/26 6:30 PM
+                                                                    <span>-</span>
+9:00 PM                                                            </small>
+                                                        </div>
+                                                    </div>
+                                                        <div class="row">
+                                                            <div class="col-xs-11 col-md-11">
+                                                                <small class="text-muted">
+                                                                        <a href="https://maps.app.goo.gl/Bi3KoA5R7koE4GuT7" target="_blank">Taps, Axes &amp; Games<br />1689 McFarland Rd PA 15216</a>
+                                                                </small>
+                                                            </div>
+                                                        </div>
+                                                        <br />
+                                                        <div class="row">
+                                                                <div class="col-xs-4 col-md-4">
+                                                                    <a href="https://www.facebook.com/events/27690316493902888" target="_blank" title="Facebook" style="font-size:18px">
+                                                                        <i class="fa fa-lg fa-facebook"></i>
+                                                                    </a>
+                                                                </div>
+                                                                                                                            <div class="col-xs-4 col-md-4">
+                                                                    <a href="https://www.tagpgh.com" target="_blank" title="Ticket Link" style="font-size:22px">
+                                                                        <i class="fa fa-ticket"></i>
+                                                                    </a>
+                                                                </div>
+                                                        </div>
+
+
+                                            </div>
+                                        </div>
+                                        <div class="feed-element">
+
+                                            <div class="media-body">
+                                                    <a target="_blank">
+                                                            <img alt="image" class="eventFeedImg" style="width: 100%; height:auto" src="/Images/events/107.jpg">
+                                                    </a>
+                                                    <br />
+                                                    <a class="ontapbeer" target="_blank"><strong>Dungeons &amp; Drafts</strong></a>
+                                                    <br>
+                                                    <div class="row">
+                                                        <div class="col-xs-2 col-md-2"><small class="text-muted">Date:</small></div>
+                                                        <div class="col-xs-9 col-md-9">
+                                                            <small class="text-muted">
+                                                                7/13/26 6:00 PM
+                                                                    <span>-</span>
+12:00 PM                                                            </small>
+                                                        </div>
+                                                    </div>
+                                                        <div class="row">
+                                                            <div class="col-xs-11 col-md-11">
+                                                                <small class="text-muted">
+                                                                        <a href="https://maps.app.goo.gl/4rRrbzqWX9g3NYut6" target="_blank">The Parkway Theater<br />644 Broadway Ave PA 15136</a>
+                                                                </small>
+                                                            </div>
+                                                        </div>
+                                                        <br />
+                                                        <div class="row">
+                                                                                                                            <div class="col-xs-4 col-md-4">
+                                                                    <a href="https://dungeonsndrafts.com/quest-board?oneshotCheckoutId=i4FEvTqx8CJKhIpw2ca8" target="_blank" title="Ticket Link" style="font-size:22px">
+                                                                        <i class="fa fa-ticket"></i>
+                                                                    </a>
+                                                                </div>
+                                                        </div>
+
+
+                                            </div>
+                                        </div>
+                                        <div class="feed-element">
+
+                                            <div class="media-body">
+                                                    <a href="https://www.facebook.com/events/2751615105223112" target="_blank">
+                                                            <img alt="image" class="eventFeedImg" style="width: 100%; height:auto" src="/Images/events/103.jpg">
+                                                    </a>
+                                                    <br />
+                                                    <a href="https://www.facebook.com/events/2751615105223112" class="ontapbeer" target="_blank"><strong>Asanas (Yoga) &amp; Axes</strong></a>
+                                                    <br>
+                                                    <div class="row">
+                                                        <div class="col-xs-2 col-md-2"><small class="text-muted">Date:</small></div>
+                                                        <div class="col-xs-9 col-md-9">
+                                                            <small class="text-muted">
+                                                                7/19/26 10:00 AM
+                                                                    <span>-</span>
+1:00 PM                                                            </small>
+                                                        </div>
+                                                    </div>
+                                                        <div class="row">
+                                                            <div class="col-xs-11 col-md-11">
+                                                                <small class="text-muted">
+                                                                        <a href="https://maps.app.goo.gl/Bi3KoA5R7koE4GuT7" target="_blank">Taps, Axes &amp; Games<br />1689 McFarland Rd PA 15216</a>
+                                                                </small>
+                                                            </div>
+                                                        </div>
+                                                        <br />
+                                                        <div class="row">
+                                                                <div class="col-xs-4 col-md-4">
+                                                                    <a href="https://www.facebook.com/events/2751615105223112" target="_blank" title="Facebook" style="font-size:18px">
+                                                                        <i class="fa fa-lg fa-facebook"></i>
+                                                                    </a>
+                                                                </div>
+                                                                                                                            <div class="col-xs-4 col-md-4">
+                                                                    <a href="https://www.tagpgh.com" target="_blank" title="Ticket Link" style="font-size:22px">
+                                                                        <i class="fa fa-ticket"></i>
+                                                                    </a>
+                                                                </div>
+                                                        </div>
+
+
+                                            </div>
+                                        </div>
+                            </div>
+                       </div>
+                       </div>
+                </div>
+				<div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
+					<div class="ibox float-e-margins">
+						<div class="ibox-title">
+							<h5>Untappd Feed</h5>
+							<div class="ibox-tools">
+								<a class="collapse-link">
+									<i class="fa fa-chevron-up"></i>
+								</a>
+								<a class="close-link">
+									<i class="fa fa-times"></i>
+								</a>
+							</div>
+						</div>
+						<div id="untappdFeed" class="ibox-content inspinia-timeline"></div>
+					</div>
+				</div>
+			</div>
+
+
+		</div>
+	</div>
+</div>
+
+
+
+            <!-- Footer -->
+            <div class="footer">
+    <div>
+        &copy; Abjuration Brewing 2026
+    </div>
+</div>
+
+        </div>
+        <!-- End page wrapper-->
+
+    </div>
+    <!-- End wrapper-->
+    
+    <!-- Section for main scripts render -->
+    <script src="/bundles/jquery?v=i_Z54yfN07nOtaobofOJGVlYgtQRhKYA2weJyRd4S1U1"></script>
+
+    <script src="/bundles/bootstrap?v=wMFBIIZ6OsUCe1qOSlRNS_6hGBJgfCE05Vh1GzCppYo1"></script>
+
+    <script src="/plugins/slimScroll?v=Uin95EwzswHK3MjnPYJT0IIu_sfIoxGwdr5n_SnamSE1"></script>
+
+    <script src="/bundles/inspinia?v=QAjDwNR2Lr7TwkPiWCoRvw8fkml0VbDS6sV3Q5guXtc1"></script>
+
+    <script src="/plugins/sweetAlert?v=P-jEf2uqhGjmFacoe0xie8zuuITvNQqqc9P5OI2j1i81"></script>
+
+
+    <!-- Handler for local scripts -->
+    
+	<script type="text/javascript">
+        $(document).ready(function () {
+
+            if ($('#updateUntappd').val() == 'true') {
+                var untappdUrl = 'https://api.untappd.com/v4/brewery/checkins/127740?client_id=107954B2DB6BD6284C8956D490E2D532FE696892&client_secret=BE2658437388DCA8572506973F909AD3606AE8FD&limit=6';
+
+                $.ajax({
+                    type: "GET",
+                    url: untappdUrl,
+                    success: function (data) {
+
+                    if (!$.isEmptyObject(data) && !$.isEmptyObject(data.response) && !$.isEmptyObject(data.response.checkins) && !$.isEmptyObject(data.response.checkins.items)) {
+                        var items = data.response.checkins.items;
+
+                        $.each(items, function (i, value) {
+                            var userLink = 'https://untappd.com/user/' + value.user.user_name;
+                            var beerLink = 'https://untappd.com/b/' + value.brewery.brewery_slug + '-' + replaceAll(replaceAll(replaceAll(replaceAll(value.beer.beer_name, ' ', '-'), '.', '-'), '(', ''), ')', '') + '/' + value.beer.bid;
+                            var breweryLink = 'https://untappd.com/w/' + value.brewery.brewery_slug + '/' + value.brewery.brewery_id;
+                            var html = '';
+                            var datetimeArr = formatDate(new Date(value.created_at)).split('  ');
+
+                            html += '<div class="col-xs-3 date"><i><img class="untappdAvatar" src="' + value.user.user_avatar + '"></i><br /><br /><div><small>' + datetimeArr[0].replace('2016', '16').replace('2017', '17').replace('2018', '18').replace('2019', '19') + '<br />' + datetimeArr[1] + '</small></div><br /></div>';
+                            html += '<div class="col-xs-9 content ' + (i == 0 ? 'no-top-border' : '') + '">';
+                            html += '<p class="m-b-xs"><strong>' + value.beer.beer_name + '</strong></p>';
+                            html += '<p><a href="' + userLink + '" target="_blank">' +
+                                value.user.first_name + ' ' + value.user.last_name + '</a> ' +
+                                'is drinking a ' +
+                                '<a href="' + beerLink + '" target="_blank">' + value.beer.beer_name + '</a> ' +
+                                'by ' +
+                                '<a href="' + breweryLink + '" target="_blank">' + value.brewery.brewery_name + '</a>';
+
+                            if (!$.isEmptyObject(value.venue) && value.venue.venue_name != undefined && !$.isEmptyObject(value.venue.venue_name)) {
+                                html += ' at <a href="https://untappd.com/venue/' + value.venue.venue_id + '" target="_blank">' + value.venue.venue_name + '</a>';
+                            }
+
+                            html += '</p></div>';
+                            html = '<div class="row"><div class="timeline-item">' + html + '</div></div>';
+
+                            $('#untappdFeed').append(html);
+                        });
+
+                        $.post($('#rootPath').val() + 'Ajax/UpdateUntappd', { html: $('#untappdFeed').html() });
+                    }
+                    else {
+                        // error
+                        }
+                    },
+                    error: function () {
+                        // error
+                    }
+                });
+            }
+            else {
+                $('#untappdFeed').html('').append($('#updateUntappdHtml').val());
+            }
+
+            $.ajax({
+                type: "GET",
+                url: $('#rootPath').val() + "Ajax/GetStock",
+                success: function (json) {
+                     $('#canLoader').hide();
+
+                    if (json.length > 0) {
+                        $.each(json, function (i, val) {
+                            $('#canStockTable').append('<tr>' +
+                                '<td>' + val.name + '</td>' +
+                                '<td>' + val.format + '</td>' +
+                                '<td>' + val.price + '</td>' +
+                                '<td>' + val.quanity + '</td>' +
+                                '</tr>');
+                        });
+                    }
+                    else {
+                        $('#canStockTable').append('<tr><td colspan="4">Nothing in stock</td></tr>');
+                    }
+                },
+                error: function () {
+                    $('#canLoader').hide();
+		            $('#canStockTable').append('<tr><td colspan="4">Error</td></tr>');
+		        }
+            });
+
+            $.get('./PartialView/OnTap?locationId=' + $('#LocationId').val(), function (data) {
+                $('#ontaplist').html(data);
+                $('#tapLoader').hide();
+            });
+
+            $.get('./PartialView/Location?locationId=' + $('#LocationId').val(), function (data) {
+                $('#locationDiv').html(data);
+                $('#locationsLoader').hide();
+
+              //  initMap($('#LocationId').val());
+            });
+
+            $('#LocationId').change(function () {
+                $('#ontaplist').html('');
+                $('#tapLoader').show();
+                $('#locationDiv').html('');
+                $('#locationsLoader').show();
+
+                $('#LocationId2').val(this.value);
+
+                $.get('./PartialView/OnTap?locationId=' + this.value, function (data) {
+                    $('#ontaplist').html(data);
+                    $('#tapLoader').hide();
+                });
+
+                $.get('./PartialView/Location?locationId=' + $('#LocationId').val(), function (data) {
+                    $('#locationDiv').html(data);
+                    $('#locationsLoader').hide();
+
+                    if ($('#LocationId').val() == '1') {
+                        addMarker(new google.maps.LatLng(40.471926, -80.072552));
+                    }
+                    else if ($('#LocationId').val() == '2' || $('#LocationId').val() == '4') {
+                        addMarker(new google.maps.LatLng(40.40798750788704, -79.94556008949718));
+                    }
+                    else if ($('#LocationId').val() == '3') {
+                        addMarker(new google.maps.LatLng(40.396195486887095, -80.04711219325308));
+                    }
+                });
+            });
+
+            $('#LocationId2').change(function () {
+                $('#ontaplist').html('');
+                $('#tapLoader').show();
+                $('#locationDiv').html('');
+                $('#locationsLoader').show();
+
+                $('#LocationId').val(this.value);
+
+                $.get('./PartialView/OnTap?locationId=' + this.value, function (data) {
+                    $('#ontaplist').html(data);
+                    $('#tapLoader').hide();
+                });
+
+                $.get('./PartialView/Location', function (data) {
+                    $('#locationDiv').html(data);
+                    $('#locationsLoader').hide();
+
+                    if ($('#LocationId').val() == '1') {
+                        addMarker(new google.maps.LatLng(40.471926, -80.072552));
+                    }
+                    else if ($('#LocationId').val() == '2' || $('#LocationId').val() == '4') {
+                        addMarker(new google.maps.LatLng(40.40798750788704, -79.94556008949718));
+                    }
+                    else if ($('#LocationId').val() == '3') {
+                        addMarker(new google.maps.LatLng(40.396195486887095, -80.04711219325308));
+                    }
+                });
+            });
+        });
+
+
+		//Google Maps JS
+        //Set Map
+        var map;
+
+		function initMap() {
+			var myLatlng = new google.maps.LatLng(40.471926, -80.072552);
+			var mapOptions = {
+				zoom: 11,
+				center: myLatlng,
+				mapTypeId: google.maps.MapTypeId.ROADMAP
+            }
+
+            map = new google.maps.Map(document.getElementById('googlemap'), mapOptions);
+
+            //Add Marker
+            var marker = new google.maps.Marker({
+                position: myLatlng,
+                map: map,
+                title: 'Abjuration Brewing'
+            });
+			
+			//google.maps.event.addListener(marker, 'click', function () {
+			//    infowindow.open(map, marker);
+			//});
+
+			//Resize Function
+			google.maps.event.addDomListener(window, "resize", function () {
+				var center = map.getCenter();
+				google.maps.event.trigger(map, "resize");
+				map.setCenter(center);
+			});
+        }
+
+        function addMarker(location) {
+            marker = new google.maps.Marker({
+                position: location,
+                map: map
+            });
+
+            map.setCenter(location);
+        }
+	</script>
+
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBoLQc-sLIk1AzgLpSInjYpKmDReoCDQUI&callback=initMap" async defer></script>
+
+
+    <div id="modal-contactus" class="modal fade" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <h3 class="m-t-none m-b">Contact Us</h3>
+                            <div class="form-group">
+                                Send text to <a href="sms:+14123539399">(412) 353-9399</a> or complete the form below to send an email
+                            </div>
+                            <div class="form-group"><label>Email</label> <input id="contactusEmail" type="email" placeholder="Enter email" class="form-control"></div>
+                            <div class="form-group"><label>Message</label> <textarea id="contactusMsg" type="text" placeholder="Message" class="form-control"></textarea></div>
+                            <div class="form-group"><div class="g-recaptcha" data-sitekey="6LdAyBUUAAAAANdqJGs9eS885_m0TXL0YSf53Dx1"></div></div>
+                            <div>
+                                <div id="contactusSpinner" class="sk-spinner sk-spinner-rotating-plane" style="display:none"></div>
+                                <button type="button" id="contactUsSubmitButton" class="btn btn-sm btn-primary pull-right m-t-n-xs"><strong>Submit</strong></button>
+                                <div id="contactusError" class="alert alert-danger" style="display:none">
+                                    An error has prevented us from receiving your message.
+                                </div>
+                                <div id="contactusSuccess" class="alert alert-success" style="display:none">
+                                    We have received your message. Thank you!
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="modal-login" class="modal fade" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-sm-6 b-r">
+                            <h3 class="m-t-none m-b">Sign in</h3>
+
+                            <p>Sign in today for more expirience.</p>
+
+                            <form role="form">
+                                <div class="form-group"><label>Email</label> <input type="email" placeholder="Enter email" class="form-control"></div>
+                                <div class="form-group"><label>Password</label> <input type="password" placeholder="Password" class="form-control"></div>
+                                <div>
+                                    <button class="btn btn-sm btn-primary pull-right m-t-n-xs" type="submit"><strong>Log in</strong></button>
+                                    <label> <input type="checkbox" class="i-checks"> Remember me </label>
+                                </div>
+                            </form>
+                        </div>
+                        <div class="col-sm-6">
+                            <h4>Not a member?</h4>
+                            <p>You can create an account:</p>
+                            <p class="text-center">
+                                <a href=""><i class="fa fa-sign-in big-icon"></i></a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

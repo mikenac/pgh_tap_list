@@ -1,0 +1,108 @@
+---
+import fs from 'node:fs';
+import path from 'node:path';
+import BreweryCard from '../components/BreweryCard.astro';
+import ChangeSummary from '../components/ChangeSummary.astro';
+import StyleWatch from '../components/StyleWatch.astro';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const latestPath = path.resolve('data/latest.json');
+const comparisonPath = path.resolve('data/comparison.json');
+
+const latest = fs.existsSync(latestPath)
+  ? JSON.parse(fs.readFileSync(latestPath, 'utf-8'))
+  : { generatedAt: null, entries: [] };
+const comparison = fs.existsSync(comparisonPath)
+  ? JSON.parse(fs.readFileSync(comparisonPath, 'utf-8'))
+  : { changes: [] };
+
+const entries = latest.entries || [];
+const grouped = entries.reduce((acc, entry) => {
+  const key = entry.breweryName;
+  if (!acc[key]) {
+    acc[key] = [];
+  }
+  acc[key].push(entry);
+  return acc;
+}, {});
+
+const styleMatches = (tokens) =>
+  entries.filter((entry) => tokens.some((token) => (entry.style || '').toLowerCase().includes(token)));
+
+const czechWatch = styleMatches(['czech pilsner', 'bohemian pilsner', 'czech dark lager', 'czech amber lager', 'czech pale lager']);
+const euroWatch = styleMatches(['helles', 'vienna lager', 'german pils', 'kellerbier', 'festbier', 'märzen', 'marzen', 'dortmunder', 'schwarzbier', 'dunkel', 'bock', 'doppelbock', 'rauchbier', 'czech']);
+const sourWatch = styleMatches(['sour', 'fruited sour', 'kettle sour', 'berliner weisse', 'gose', 'wild ale', 'mixed culture', 'lambic']);
+
+const historyFiles = fs.existsSync('data/history') ? fs.readdirSync('data/history').filter((name) => name.endsWith('.json')).sort().reverse() : [];
+---
+<BaseLayout title="Pittsburgh Brewery Taplist Tracker">
+  <header class="mb-6 flex flex-col gap-3 md:flex-row md:items-end md:justify-between">
+    <div>
+      <h1 class="text-3xl font-bold">Pittsburgh Brewery Taplist Tracker</h1>
+      <p class="text-sm text-ink/70">Last updated: {latest.generatedAt || 'Not generated yet'}</p>
+    </div>
+    <div class="flex gap-2 text-sm">
+      <select id="brewery-filter" class="rounded border border-ink/20 bg-white px-2 py-1">
+        <option value="all">All Breweries</option>
+        {Object.keys(grouped).sort().map((name) => <option value={name}>{name}</option>)}
+      </select>
+      <select id="style-filter" class="rounded border border-ink/20 bg-white px-2 py-1">
+        <option value="all">All Styles</option>
+        <option value="lager">Lager</option>
+        <option value="ipa">IPA</option>
+        <option value="sour">Sour</option>
+        <option value="stout">Stout</option>
+      </select>
+    </div>
+  </header>
+
+  <div class="space-y-5">
+    <ChangeSummary changes={comparison.changes || []} />
+
+    <section class="grid gap-4 md:grid-cols-3">
+      <StyleWatch title="Czech Lager Watch" beers={czechWatch} />
+      <StyleWatch title="European Lager Watch" beers={euroWatch} />
+      <StyleWatch title="Sour Watch" beers={sourWatch} />
+    </section>
+
+    <section class="space-y-4">
+      {Object.entries(grouped)
+        .sort((a, b) => a[0].localeCompare(b[0]))
+        .map(([breweryName, beers]) => <BreweryCard breweryName={breweryName} beers={beers} />)}
+    </section>
+
+    <section class="card">
+      <h2 class="mb-2 text-lg font-semibold">Archive</h2>
+      <div class="flex flex-wrap gap-2 text-sm">
+        {historyFiles.map((name) => {
+          const date = name.replace('.json', '');
+          return (
+            <a class="rounded border border-ink/20 bg-white px-2 py-1 hover:bg-ink hover:text-white" href={`/archive/${date}`}>
+              {date}
+            </a>
+          );
+        })}
+      </div>
+    </section>
+  </div>
+
+  <script>
+    const breweryFilter = document.getElementById('brewery-filter');
+    const styleFilter = document.getElementById('style-filter');
+    const cards = [...document.querySelectorAll('[data-brewery]')];
+
+    function applyFilters() {
+      const brewery = breweryFilter?.value || 'all';
+      const style = styleFilter?.value || 'all';
+      cards.forEach((card) => {
+        const breweryMatch = brewery === 'all' || card.dataset.brewery === brewery;
+        const styleMatch =
+          style === 'all' || card.textContent.toLowerCase().includes(style.toLowerCase());
+        card.style.display = breweryMatch && styleMatch ? '' : 'none';
+      });
+    }
+
+    breweryFilter?.addEventListener('change', applyFilters);
+    styleFilter?.addEventListener('change', applyFilters);
+  </script>
+</BaseLayout>

@@ -1,0 +1,18 @@
+---
+const { title, beers = [] } = Astro.props;
+---
+<section class="card">
+  <h2 class="mb-2 text-lg font-semibold">{title}</h2>
+  {beers.length === 0 ? (
+    <p class="text-sm text-ink/70">No matching beers.</p>
+  ) : (
+    <ul class="grid gap-2 text-sm">
+      {beers.map((beer) => (
+        <li class="rounded border border-ink/10 bg-white px-3 py-2">
+          <span class="font-medium">{beer.name}</span>
+          <span class="text-ink/70"> · {beer.breweryName} · {beer.style || 'Unknown style'}</span>
+        </li>
+      ))}
+    </ul>
+  )}
+</section>

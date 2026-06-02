@@ -1,0 +1,8 @@
+---
+import BeerTable from './BeerTable.astro';
+const { breweryName, beers } = Astro.props;
+---
+<section class="card" data-brewery={breweryName}>
+  <h3 class="mb-3 text-lg font-semibold">{breweryName}</h3>
+  <BeerTable beers={beers} />
+</section>
