@@ -7,11 +7,16 @@ on:
 
 permissions:
   contents: write
+  id-token: write
   models: read
+  pages: write
 
 jobs:
   update:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -88,6 +93,18 @@ jobs:
 
       - name: Run UI smoke tests
         run: npm run test:ui
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
 
       - name: Commit updates
         run: |
