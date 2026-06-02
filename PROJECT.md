@@ -21,3 +21,7 @@ Rules:
 - Generate Czech lager watch.
 - Generate European lager watch.
 - Generate sour watch.
+
+Deployment:
+- GitHub Pages site: https://mikenac.github.io/pgh_tap_list/
+- Deployment notes: `docs/deployment.md`
