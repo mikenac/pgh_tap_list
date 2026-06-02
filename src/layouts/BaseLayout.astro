@@ -15,5 +15,44 @@ const { title = 'Pittsburgh Taplist Tracker' } = Astro.props;
         <slot />
       </main>
     </div>
+    <script>
+      const storagePrefix = 'pgh-tap-list:collapse:';
+      const persistDetails = (details) => {
+        const collapseId = details.getAttribute('data-collapse-id');
+        if (!collapseId) {
+          return;
+        }
+
+        localStorage.setItem(`${storagePrefix}${collapseId}`, details.open ? 'open' : 'closed');
+      };
+
+      document.querySelectorAll('details[data-collapse-id]').forEach((details) => {
+        const collapseId = details.getAttribute('data-collapse-id');
+        if (!collapseId) {
+          return;
+        }
+
+        const storageKey = `${storagePrefix}${collapseId}`;
+        const storedValue = localStorage.getItem(storageKey);
+
+        if (storedValue === 'open') {
+          details.open = true;
+        }
+
+        if (storedValue === 'closed') {
+          details.open = false;
+        }
+
+        details.addEventListener('toggle', () => {
+          persistDetails(details);
+        });
+      });
+
+      window.addEventListener('beforeunload', () => {
+        document.querySelectorAll('details[data-collapse-id]').forEach((details) => {
+          persistDetails(details);
+        });
+      });
+    </script>
   </body>
 </html>

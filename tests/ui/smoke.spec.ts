@@ -96,3 +96,19 @@ test('cards can collapse and expand', async ({ page }) => {
   await expect(abjurationCard).toHaveAttribute('open', '');
   await expect(abjurationCard.getByRole('table')).toBeVisible();
 });
+
+test('collapse state persists after refresh', async ({ page }) => {
+  await page.goto(homePath);
+
+  const abjurationCard = page.locator('details[data-brewery="Abjuration"]');
+  await expect(abjurationCard).toHaveAttribute('open', '');
+
+  await abjurationCard.locator('summary').click();
+  await expect(abjurationCard).not.toHaveAttribute('open', '');
+
+  await page.reload();
+  await expect(page.locator('details[data-brewery="Abjuration"]')).not.toHaveAttribute('open', '');
+
+  await page.locator('details[data-brewery="Abjuration"] summary').click();
+  await expect(page.locator('details[data-brewery="Abjuration"]')).toHaveAttribute('open', '');
+});

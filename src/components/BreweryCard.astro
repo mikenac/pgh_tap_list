@@ -1,8 +1,9 @@
 ---
 import BeerTable from './BeerTable.astro';
 const { breweryName, beers } = Astro.props;
+const collapseId = `brewery-${breweryName.toLowerCase().replaceAll(' ', '-')}`;
 ---
-<details class="card group" data-brewery={breweryName} open>
+<details class="card group" data-brewery={breweryName} data-collapse-id={collapseId} open>
   <summary class="mb-3 flex cursor-pointer list-none items-center justify-between gap-3">
     <h3 class="text-lg font-semibold">{breweryName}</h3>
     <span class="text-sm font-medium text-pine group-open:hidden">Expand</span>
