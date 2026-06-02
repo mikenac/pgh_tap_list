@@ -2,7 +2,11 @@
 import BeerTable from './BeerTable.astro';
 const { breweryName, beers } = Astro.props;
 ---
-<section class="card" data-brewery={breweryName}>
-  <h3 class="mb-3 text-lg font-semibold">{breweryName}</h3>
+<details class="card group" data-brewery={breweryName} open>
+  <summary class="mb-3 flex cursor-pointer list-none items-center justify-between gap-3">
+    <h3 class="text-lg font-semibold">{breweryName}</h3>
+    <span class="text-sm font-medium text-pine group-open:hidden">Expand</span>
+    <span class="hidden text-sm font-medium text-pine group-open:inline">Collapse</span>
+  </summary>
   <BeerTable beers={beers} />
-</section>
+</details>

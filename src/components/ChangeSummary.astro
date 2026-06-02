@@ -1,11 +1,10 @@
 ---
 const { changes = [] } = Astro.props;
 
-const formatList = (items = []) => items.length > 0 ? items.join(', ') : 'None';
 const formatStyleChanges = (items = []) =>
   items.length > 0
-    ? items.map((item) => `${item.beer}: ${item.oldStyle || 'Unknown'} → ${item.newStyle || 'Unknown'}`).join(', ')
-    : 'None';
+    ? items.map((item) => `${item.beer}: ${item.oldStyle || 'Unknown'} → ${item.newStyle || 'Unknown'}`)
+    : [];
 const displayBrewery = (breweryId) =>
   breweryId
     .replaceAll('-', ' ')
@@ -14,41 +13,67 @@ const totalChanges = (change) =>
   (change.additions?.length || 0) + (change.removals?.length || 0) + (change.styleChanges?.length || 0);
 const changeLabel = (count) => `${count} ${count === 1 ? 'change' : 'changes'}`;
 ---
-<section class="card">
-  <div class="mb-4 flex flex-col gap-1 sm:flex-row sm:items-end sm:justify-between">
+<details class="card group" open>
+  <summary class="flex cursor-pointer list-none flex-col gap-1 sm:flex-row sm:items-end sm:justify-between">
     <div>
       <h2 class="text-xl font-semibold">What changed this week</h2>
       <p class="text-sm text-ink/70">Additions, removals, and style updates by brewery.</p>
     </div>
-  </div>
+    <span class="text-sm font-medium text-pine group-open:hidden">Expand</span>
+    <span class="text-sm font-medium text-pine group-open:inline hidden">Collapse</span>
+  </summary>
   {changes.length === 0 ? (
-    <p class="text-sm text-ink/70">No previous snapshot available yet.</p>
+    <p class="mt-4 text-sm text-ink/70">No previous snapshot available yet.</p>
   ) : (
-    <>
+    <div class="mt-4">
       <div class="space-y-3 md:hidden">
         {changes.map((change) => (
-          <article class="rounded-lg border border-ink/10 bg-white p-3">
-            <div class="mb-2 flex items-center justify-between gap-3">
+          <details class="rounded-lg border border-ink/10 bg-white p-3" open>
+            <summary class="mb-2 flex cursor-pointer list-none items-center justify-between gap-3">
               <h3 class="font-semibold">{displayBrewery(change.breweryId)}</h3>
               <span class="rounded-full bg-amber-100 px-2 py-0.5 text-xs font-medium text-amber-800">
                 {changeLabel(totalChanges(change))}
               </span>
-            </div>
+            </summary>
             <dl class="space-y-2 text-sm">
               <div>
                 <dt class="font-medium text-emerald-700">Added</dt>
-                <dd class="break-words text-ink/80">{formatList(change.additions)}</dd>
+                <dd class="text-ink/80">
+                  {change.additions?.length > 0 ? (
+                    <ul class="grid gap-1">
+                      {change.additions.map((item) => <li class="break-words">{item}</li>)}
+                    </ul>
+                  ) : (
+                    <span class="text-ink/50">None</span>
+                  )}
+                </dd>
               </div>
               <div>
                 <dt class="font-medium text-red-700">Removed</dt>
-                <dd class="break-words text-ink/80">{formatList(change.removals)}</dd>
+                <dd class="text-ink/80">
+                  {change.removals?.length > 0 ? (
+                    <ul class="grid gap-1">
+                      {change.removals.map((item) => <li class="break-words">{item}</li>)}
+                    </ul>
+                  ) : (
+                    <span class="text-ink/50">None</span>
+                  )}
+                </dd>
               </div>
               <div>
                 <dt class="font-medium text-blue-700">Style changes</dt>
-                <dd class="break-words text-ink/80">{formatStyleChanges(change.styleChanges)}</dd>
+                <dd class="text-ink/80">
+                  {formatStyleChanges(change.styleChanges).length > 0 ? (
+                    <ul class="grid gap-1">
+                      {formatStyleChanges(change.styleChanges).map((item) => <li class="break-words">{item}</li>)}
+                    </ul>
+                  ) : (
+                    <span class="text-ink/50">None</span>
+                  )}
+                </dd>
               </div>
             </dl>
-          </article>
+          </details>
         ))}
       </div>
 
@@ -72,25 +97,43 @@ const changeLabel = (count) => `${count} ${count === 1 ? 'change' : 'changes'}`;
                   <span class="mr-2 rounded-full bg-emerald-100 px-2 py-0.5 text-xs font-medium text-emerald-800">
                     {change.additions?.length || 0}
                   </span>
-                  <span class="break-words">{formatList(change.additions)}</span>
+                  {change.additions?.length > 0 ? (
+                    <ul class="mt-2 grid gap-1">
+                      {change.additions.map((item) => <li class="break-words">{item}</li>)}
+                    </ul>
+                  ) : (
+                    <span class="ml-2 text-ink/50">None</span>
+                  )}
                 </td>
                 <td class="max-w-xs px-3 py-3 text-ink/80">
                   <span class="mr-2 rounded-full bg-red-100 px-2 py-0.5 text-xs font-medium text-red-800">
                     {change.removals?.length || 0}
                   </span>
-                  <span class="break-words">{formatList(change.removals)}</span>
+                  {change.removals?.length > 0 ? (
+                    <ul class="mt-2 grid gap-1">
+                      {change.removals.map((item) => <li class="break-words">{item}</li>)}
+                    </ul>
+                  ) : (
+                    <span class="ml-2 text-ink/50">None</span>
+                  )}
                 </td>
                 <td class="max-w-xs px-3 py-3 text-ink/80">
                   <span class="mr-2 rounded-full bg-blue-100 px-2 py-0.5 text-xs font-medium text-blue-800">
                     {change.styleChanges?.length || 0}
                   </span>
-                  <span class="break-words">{formatStyleChanges(change.styleChanges)}</span>
+                  {formatStyleChanges(change.styleChanges).length > 0 ? (
+                    <ul class="mt-2 grid gap-1">
+                      {formatStyleChanges(change.styleChanges).map((item) => <li class="break-words">{item}</li>)}
+                    </ul>
+                  ) : (
+                    <span class="ml-2 text-ink/50">None</span>
+                  )}
                 </td>
               </tr>
             ))}
           </tbody>
         </table>
       </div>
-    </>
+    </div>
   )}
-</section>
+</details>

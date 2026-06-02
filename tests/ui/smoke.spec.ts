@@ -48,7 +48,7 @@ test('abjuration renders full on-tap lineup', async ({ page }) => {
 test('change summary does not leak escaped HTML fragments', async ({ page }) => {
   await page.goto(homePath);
 
-  const changesSection = page.locator('section').filter({ hasText: 'What changed this week' });
+  const changesSection = page.locator('details.card').filter({ hasText: 'What changed this week' });
   await expect(changesSection).toBeVisible();
   if ((page.viewportSize()?.width || 0) >= 768) {
     await expect(changesSection.getByRole('table')).toBeVisible();
@@ -69,7 +69,7 @@ test('mobile layout keeps content readable', async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto(homePath);
 
-  const changesSection = page.locator('section').filter({ hasText: 'What changed this week' });
+  const changesSection = page.locator('details.card').filter({ hasText: 'What changed this week' });
   await expect(changesSection.getByRole('table')).toBeHidden();
   await expect(changesSection.getByText('Additions, removals, and style updates by brewery.')).toBeVisible();
 
@@ -79,4 +79,20 @@ test('mobile layout keeps content readable', async ({ page }) => {
 
   const table = firstCard.locator('table').first();
   await expect(table).toBeVisible();
+});
+
+test('cards can collapse and expand', async ({ page }) => {
+  await page.goto(homePath);
+
+  const abjurationCard = page.locator('details[data-brewery="Abjuration"]');
+  await expect(abjurationCard).toBeVisible();
+  await expect(abjurationCard).toHaveAttribute('open', '');
+
+  await abjurationCard.locator('summary').click();
+  await expect(abjurationCard).not.toHaveAttribute('open', '');
+  await expect(abjurationCard.getByRole('table')).toBeHidden();
+
+  await abjurationCard.locator('summary').click();
+  await expect(abjurationCard).toHaveAttribute('open', '');
+  await expect(abjurationCard.getByRole('table')).toBeVisible();
 });

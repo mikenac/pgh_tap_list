@@ -1,8 +1,12 @@
 ---
 const { title, beers = [] } = Astro.props;
 ---
-<section class="card">
-  <h2 class="mb-2 text-lg font-semibold">{title}</h2>
+<details class="card group" open>
+  <summary class="mb-2 flex cursor-pointer list-none items-center justify-between gap-3">
+    <h2 class="text-lg font-semibold">{title}</h2>
+    <span class="text-sm font-medium text-pine group-open:hidden">Expand</span>
+    <span class="hidden text-sm font-medium text-pine group-open:inline">Collapse</span>
+  </summary>
   {beers.length === 0 ? (
     <p class="text-sm text-ink/70">No matching beers.</p>
   ) : (
@@ -15,4 +19,4 @@ const { title, beers = [] } = Astro.props;
       ))}
     </ul>
   )}
-</section>
+</details>

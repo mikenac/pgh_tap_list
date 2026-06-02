@@ -72,8 +72,12 @@ const basePath = import.meta.env.BASE_URL.replace(/\/$/, '');
         .map(([breweryName, beers]) => <BreweryCard breweryName={breweryName} beers={beers} />)}
     </section>
 
-    <section class="card">
-      <h2 class="mb-2 text-lg font-semibold">Archive</h2>
+    <details class="card group" open>
+      <summary class="mb-2 flex cursor-pointer list-none items-center justify-between gap-3">
+        <h2 class="text-lg font-semibold">Archive</h2>
+        <span class="text-sm font-medium text-pine group-open:hidden">Expand</span>
+        <span class="hidden text-sm font-medium text-pine group-open:inline">Collapse</span>
+      </summary>
       <div class="flex flex-wrap gap-2 text-sm">
         {historyFiles.map((name) => {
           const date = name.replace('.json', '');
@@ -84,7 +88,7 @@ const basePath = import.meta.env.BASE_URL.replace(/\/$/, '');
           );
         })}
       </div>
-    </section>
+    </details>
   </div>
 
   <script>
