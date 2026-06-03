@@ -1,6 +1,6 @@
 # Pittsburgh Taplist Report (2026-06-03)
 
-Generated: `2026-06-03T13:41:11Z`
+Generated: `2026-06-03T13:52:29Z`
 Previous snapshot: `2026-06-02`
 
 ## What changed this week
@@ -72,6 +72,10 @@ Previous snapshot: `2026-06-02`
 - Removed: None
 - Style changes: None
 - Material rating changes: 0
+
+## Narrative summary (AI)
+
+In this week's beer updates, Dancing Gnome has introduced a new Rice Lager, while also refining the style of their beer "Not Always Present" to a "Kölsch-style Ale." Hitchhiker has made significant changes, adding a multitude of new offerings including "Fruit Rush – Raspberry" and "I'm Down." They have also updated the styles of several beers, with notable changes like "15th and Canal" now categorized as an American Pale Ale and "Baby Bane" classified as an IPA. Additionally, Late Addition has added three new beers: "Blonde Ale," "Draughtsman Mild," and "Grateful Addition," while removing "Mango Sour x Solera."
 
 ## Full lineup
 ### Grist House

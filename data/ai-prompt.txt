@@ -1,3 +1,8 @@
+You are writing a short weekly beer report narrative.
+Use only the JSON below.
+Do not add beers, styles, ratings, or facts that are not present in the JSON.
+Keep it to 4-6 sentences.
+
 {
   "generated": "2026-06-03T13:52:12Z",
   "previousDate": "2026-06-02",
