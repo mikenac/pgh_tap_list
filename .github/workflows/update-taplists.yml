@@ -1,9 +1,19 @@
 name: Update Taplists
 
 on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'content/reports/**'
+      - 'data/**'
   workflow_dispatch:
   schedule:
     - cron: '0 13 * * 2,5'
+
+concurrency:
+  group: update-taplists-${{ github.ref }}
+  cancel-in-progress: true
 
 permissions:
   contents: write
