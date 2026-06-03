@@ -1,42 +1,27 @@
 {
-  "generated": "2026-06-02T13:33:51Z",
-  "previousDate": "2026-06-01",
+  "generated": "2026-06-03T13:40:39Z",
+  "previousDate": "2026-06-02",
   "changes": [
     {
       "breweryId": "abjuration",
-      "additions": [
-        "American Premium Lager (APL v2.0)",
-        "Botanical Sour [Strawberry/Basil] (BSR v1.5)",
-        "Candied Sour [Cherry Slushie] (CDS v1.8)",
-        "Candied Sour [Orange Slushie] (CDS v1.15)",
-        "Cheesecake Sour [Coconut Cream] (CCS v1.10)",
-        "Donut Sour [Black Raspberry] (DOS v1.5)",
-        "Fruited India Pale Ale [Pink Boots Collab: Grapefruit/Mosaic/Paradisi/Simcoe/Chinook] (FRIPA v2.0)",
-        "Fruited Sour [Pineapple/Honeydew] (FS v1.32)",
-        "Ice Cream Sour [Raspberry Shortcake] (ICS v1.29)",
-        "Ice Cream Sour [Watermelon Cotton Candy] (ICS v1.37)",
-        "Marshmallow Sour [Strawberry/Cherry] (MAS v1.1)",
-        "Stout (ST v1.0)"
-      ],
-      "removals": [
-        "Parfait Doom"
-      ],
+      "additions": [],
+      "removals": [],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "dancing-gnome",
       "additions": [
-        "Art Deco IPA",
-        "ESB",
-        "Exquisite Beast",
-        "Swingin\u2019 at Strangers IPA"
+        "Rice Lager"
       ],
-      "removals": [
-        "Exquisite Beast DIPA",
-        "Wishbone"
+      "removals": [],
+      "styleChanges": [
+        {
+          "beer": "Not Always Present",
+          "oldStyle": "K\u00f6lsch Style Ale",
+          "newStyle": "K\u00f6lsch-style Ale"
+        }
       ],
-      "styleChanges": [],
       "ratingChanges": []
     },
     {
@@ -62,15 +47,128 @@
     },
     {
       "breweryId": "hitchhiker",
-      "additions": [],
+      "additions": [
+        "Fruit Rush \u2013 Raspberry",
+        "I\u2019m Down",
+        "Press Project \u2013 Apricot, Mango, Peach",
+        "Thumbs & Fangs",
+        "Whole Punch: Key Lime Pie"
+      ],
       "removals": [],
-      "styleChanges": [],
+      "styleChanges": [
+        {
+          "beer": "15th and Canal",
+          "oldStyle": "",
+          "newStyle": "American Pale Ale"
+        },
+        {
+          "beer": "Baby Bane",
+          "oldStyle": "",
+          "newStyle": "IPA"
+        },
+        {
+          "beer": "Bane of Existence",
+          "oldStyle": "",
+          "newStyle": "IPA"
+        },
+        {
+          "beer": "Blended",
+          "oldStyle": "",
+          "newStyle": "Strawberry Margarita Sour"
+        },
+        {
+          "beer": "Bottle Service",
+          "oldStyle": "",
+          "newStyle": "Mimosa Smoothie Sour"
+        },
+        {
+          "beer": "Citrus Summer",
+          "oldStyle": "",
+          "newStyle": "Lemon Wheat Ale"
+        },
+        {
+          "beer": "Cococino",
+          "oldStyle": "",
+          "newStyle": "Porter with Milk Sugar, Coffee, Coconut, and Vanilla Bean"
+        },
+        {
+          "beer": "Conversion",
+          "oldStyle": "",
+          "newStyle": "Dry Hopped Blonde Ale"
+        },
+        {
+          "beer": "Double Peach Bottle Service",
+          "oldStyle": "",
+          "newStyle": "Mimosa Smoothie Sour"
+        },
+        {
+          "beer": "Fusional",
+          "oldStyle": "",
+          "newStyle": "Transfusion Smoothie Sour"
+        },
+        {
+          "beer": "Mexican Shakes",
+          "oldStyle": "",
+          "newStyle": "Coffee Porter"
+        },
+        {
+          "beer": "mmHmmm Grape",
+          "oldStyle": "",
+          "newStyle": "Smoothie Sour w/ Grape & Peanut Butter"
+        },
+        {
+          "beer": "One to One",
+          "oldStyle": "",
+          "newStyle": "IPA"
+        },
+        {
+          "beer": "Opposite Bane",
+          "oldStyle": "",
+          "newStyle": "IPA"
+        },
+        {
+          "beer": "Subtropic",
+          "oldStyle": "",
+          "newStyle": "Grapefruit IPA"
+        },
+        {
+          "beer": "Trapped in Time",
+          "oldStyle": "",
+          "newStyle": "Double West Coast IPA"
+        },
+        {
+          "beer": "Triple Bane of Existence",
+          "oldStyle": "",
+          "newStyle": "Triple IPA"
+        },
+        {
+          "beer": "True",
+          "oldStyle": "",
+          "newStyle": "Pilsner"
+        },
+        {
+          "beer": "Western Sun",
+          "oldStyle": "",
+          "newStyle": "Smoothie Sour"
+        },
+        {
+          "beer": "Wheat Wagon",
+          "oldStyle": "",
+          "newStyle": "Hefeweizen"
+        }
+      ],
       "ratingChanges": []
     },
     {
       "breweryId": "late-addition",
-      "additions": [],
-      "removals": [],
+      "additions": [
+        "Blonde Ale",
+        "Draughtsman Mild",
+        "Grateful Addition"
+      ],
+      "removals": [
+        "Mango Sour x Solera"
+      ],
       "styleChanges": [],
       "ratingChanges": []
     },
