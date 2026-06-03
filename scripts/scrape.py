@@ -411,24 +411,49 @@ def parse_hitchhiker_html(html: str) -> list[dict[str, str]]:
     items: list[dict[str, str]] = []
     seen: set[str] = set()
 
+    def add_item(name: str, style: str | None, abv: str | None) -> None:
+        name = re.sub(r"\s+", " ", name).strip()
+        if len(name) < 3:
+            return
+        lowered = name.casefold()
+        if any(
+            token in lowered
+            for token in ["our beer", "tap room", "hitchhiker brewing", "scroll for current"]
+        ):
+            return
+        key = normalize_name(name)
+        if key in seen:
+            return
+        seen.add(key)
+        items.append({"name": name, "style": style, "abv": abv})
+
+    for article in soup.select("article"):
+        anchors = article.select('a[href*="/our-beers/"]')
+        names = [
+            re.sub(r"\s+", " ", anchor.get_text(" ", strip=True)).strip()
+            or str(anchor.get("aria-label") or "").strip()
+            or slug_to_name(str(anchor.get("href") or ""))
+            for anchor in anchors
+        ]
+        name = next((candidate for candidate in names if candidate), "")
+        if not name:
+            continue
+        description = article.select_one(".fusion-post-content, .post-content, .entry-content")
+        style = None
+        abv = None
+        if description:
+            style = re.sub(r"\s+", " ", description.get_text(" ", strip=True)).strip(" -|")
+            abv_value = parse_abv(style)
+            abv = f"{abv_value}%" if abv_value is not None else None
+            style = re.split(r"\d{1,2}(?:\.\d+)?\s*%", style)[0].strip(" -|") or None
+        add_item(name, style, abv)
+
     for anchor in soup.select('a[href*="/our-beers/"]'):
         href = anchor.get("href", "")
         text = re.sub(r"\s+", " ", anchor.get_text(" ", strip=True)).strip()
         if not text:
             text = slug_to_name(href)
-        if len(text) < 3:
-            continue
-        lowered = text.casefold()
-        if any(
-            token in lowered
-            for token in ["our beer", "tap room", "hitchhiker brewing", "scroll for current"]
-        ):
-            continue
-        key = normalize_name(text)
-        if key in seen:
-            continue
-        seen.add(key)
-        items.append({"name": text, "style": None, "abv": None})
+        add_item(text, None, None)
     return items
 
 
