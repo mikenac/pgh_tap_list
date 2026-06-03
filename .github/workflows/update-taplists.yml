@@ -83,13 +83,14 @@ jobs:
         with:
           model: openai/gpt-4o-mini
           prompt-file: data/ai-prompt.txt
-          max-completion-tokens: '220'
-          temperature: '0.2'
+          max-tokens: '220'
 
       - name: Save AI narrative
         if: steps.ai_summary.outcome == 'success'
+        env:
+          AI_RESPONSE: ${{ steps.ai_summary.outputs.response }}
         run: |
-          printf "%s\n" "${{ steps.ai_summary.outputs.response }}" > data/ai-summary.md
+          printf "%s\n" "$AI_RESPONSE" > data/ai-summary.md
 
       - name: Clear stale AI narrative
         if: steps.ai_summary.outcome != 'success'
