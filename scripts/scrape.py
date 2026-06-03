@@ -43,6 +43,26 @@ SAMPLE_MENU: dict[str, list[dict[str, str]]] = {
     "golden-age": [{"name": "Amber Hall", "style": "Czech Amber Lager", "abv": "5.4%"}],
 }
 
+MIN_ENTRIES_PER_BREWERY = {
+    "grist-house": 8,
+    "dancing-gnome": 8,
+    "four-points": 8,
+    "late-addition": 8,
+    "hitchhiker": 1,
+    "old-thunder": 8,
+    "abjuration": 8,
+    "golden-age": 6,
+}
+
+MIN_ABV_NON_NULL = {
+    "grist-house": 6,
+    "dancing-gnome": 6,
+    "four-points": 10,
+    "late-addition": 8,
+    "old-thunder": 8,
+    "golden-age": 5,
+}
+
 
 def normalize_name(name: str) -> str:
     cleaned = name.replace("™", "").replace("®", "")
@@ -514,6 +534,42 @@ def dedupe(entries: list[BeerEntry]) -> list[BeerEntry]:
     return sorted(by_name.values(), key=lambda item: (item.breweryId, item.normalizedName))
 
 
+def entries_pass_quality(brewery_id: str, entries: list[BeerEntry]) -> bool:
+    minimum_entries = MIN_ENTRIES_PER_BREWERY.get(brewery_id, 1)
+    if len(entries) < minimum_entries:
+        return False
+
+    minimum_abv = MIN_ABV_NON_NULL.get(brewery_id)
+    if minimum_abv is None:
+        return True
+
+    return sum(entry.abv is not None for entry in entries) >= minimum_abv
+
+
+def load_previous_entries(path: Path) -> dict[str, list[BeerEntry]]:
+    if not path.exists():
+        return {}
+
+    payload = json.loads(path.read_text(encoding="utf-8"))
+    by_brewery: dict[str, list[BeerEntry]] = {}
+    for row in payload.get("entries", []):
+        entry = BeerEntry(
+            breweryId=row["breweryId"],
+            breweryName=row["breweryName"],
+            name=row["name"],
+            normalizedName=row["normalizedName"],
+            style=row.get("style"),
+            abv=row.get("abv"),
+            untappdRating=row.get("untappdRating"),
+            sourceType=row["sourceType"],
+            sourceUrl=row["sourceUrl"],
+            scrapedAt=row["scrapedAt"],
+            active=row["active"],
+        )
+        by_brewery.setdefault(entry.breweryId, []).append(entry)
+    return by_brewery
+
+
 def scrape_brewery(brewery_id: str, name: str, url: str, rule: str) -> tuple[list[BeerEntry], str]:
     scraped_at = now_iso()
     raw_text = ""
@@ -579,9 +635,24 @@ def main() -> None:
     RAW_DIR.mkdir(parents=True, exist_ok=True)
     HISTORY_DIR.mkdir(parents=True, exist_ok=True)
 
+    latest_path = DATA_DIR / "latest.json"
+    previous_entries = load_previous_entries(latest_path)
+
     all_entries: list[BeerEntry] = []
     for brewery in BREWERIES:
         entries, raw_text = scrape_brewery(brewery.id, brewery.name, brewery.url, brewery.rule)
+        previous_brewery_entries = previous_entries.get(brewery.id, [])
+        if (
+            not entries_pass_quality(brewery.id, entries)
+            and previous_brewery_entries
+            and entries_pass_quality(brewery.id, previous_brewery_entries)
+        ):
+            raw_text = (
+                f"{raw_text}\n\n"
+                f"<!-- Reused previous {brewery.name} entries because the current scrape "
+                "failed quality gates. -->"
+            )
+            entries = previous_brewery_entries
         all_entries.extend(entries)
         raw_path = RAW_DIR / f"{brewery.id}-{date.today().isoformat()}.txt"
         raw_path.write_text(raw_text, encoding="utf-8")
@@ -591,7 +662,6 @@ def main() -> None:
         "entries": [entry_to_dict(entry) for entry in all_entries],
     }
 
-    latest_path = DATA_DIR / "latest.json"
     latest_path.write_text(json.dumps(latest_payload, indent=2), encoding="utf-8")
 
     history_path = HISTORY_DIR / f"{date.today().isoformat()}.json"

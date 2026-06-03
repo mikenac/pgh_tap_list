@@ -20,6 +20,35 @@ def test_scrape_helpers() -> None:
     assert scrape.dedupe(entries + entries) == entries
 
 
+def test_previous_entries_quality_helpers(tmp_path: Path) -> None:
+    latest = {
+        "entries": [
+            {
+                "breweryId": "late-addition",
+                "breweryName": "Late Addition",
+                "name": f"Beer {idx}",
+                "normalizedName": f"beer-{idx}",
+                "style": "IPA",
+                "abv": 5.0,
+                "untappdRating": None,
+                "sourceType": "website",
+                "sourceUrl": "https://lateadditionbrewing.com/#beers",
+                "scrapedAt": "2026-06-03T00:00:00Z",
+                "active": True,
+            }
+            for idx in range(8)
+        ]
+    }
+    latest_path = tmp_path / "latest.json"
+    latest_path.write_text(json.dumps(latest), encoding="utf-8")
+
+    previous = scrape.load_previous_entries(latest_path)["late-addition"]
+    degraded = previous[:1]
+
+    assert scrape.entries_pass_quality("late-addition", previous)
+    assert not scrape.entries_pass_quality("late-addition", degraded)
+
+
 def test_compare_main_and_enrich_main(tmp_path: Path, monkeypatch) -> None:
     monkeypatch.chdir(tmp_path)
     (tmp_path / "data/history").mkdir(parents=True)
