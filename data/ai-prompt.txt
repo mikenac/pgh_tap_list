@@ -4,7 +4,7 @@ Do not add beers, styles, ratings, or facts that are not present in the JSON.
 Keep it to 4-6 sentences.
 
 {
-  "generated": "2026-06-04T21:05:10Z",
+  "generated": "2026-06-04T21:23:21Z",
   "previousDate": "2026-06-03",
   "changes": [
     {
@@ -12,6 +12,30 @@ Keep it to 4-6 sentences.
       "additions": [
         "Muffin Sour [Boysenberry] (MS v1.5)",
         "Rye Lager (RL v1.0)"
+      ],
+      "removals": [],
+      "styleChanges": [],
+      "ratingChanges": []
+    },
+    {
+      "breweryId": "acclamation",
+      "additions": [
+        "Ambrosia",
+        "Brave Noise",
+        "Brew Gentlemen Albatross",
+        "Co-Star ESB",
+        "Dancing Gnome Pilsner",
+        "Golden Root",
+        "Grainbow Brite",
+        "Hoppy Little Beer",
+        "In Bloom",
+        "Lemon Meringue Milkshake",
+        "No Wake Wheat",
+        "Old Thunder Sol X",
+        "Steel City Lager",
+        "Steel City Summer",
+        "Strawberry Shortcake Sour",
+        "Two Frays Non-Alcoholic Beer"
       ],
       "removals": [],
       "styleChanges": [],

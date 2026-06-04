@@ -1,6 +1,6 @@
 # Pittsburgh Taplist Report (2026-06-04)
 
-Generated: `2026-06-04T21:19:51Z`
+Generated: `2026-06-04T21:23:39Z`
 Previous snapshot: `2026-06-03`
 
 ## What changed this week
@@ -73,7 +73,7 @@ Previous snapshot: `2026-06-03`
 
 ## Narrative summary (AI)
 
-In this week's beer report, several exciting new additions were made across various breweries. Abjuration introduced two new beers: Muffin Sour [Boysenberry] and Rye Lager. Meanwhile, Dancing Gnome added a Hefeweizen Shandy, while also updating their Hefeweizen to a German Wheat Beer style, replacing the previous Wheat Beer classification. Eleventh Hour expanded their lineup significantly with multiple new offerings, including Archer: OG, Dry Irish Stout, and numerous others. Grist House brought in new selections like Command House Lager and Dark Night, while also bidding farewell to Dem Apples and Seltza Drip - Mimosa. Lastly, Lolev unveiled a range of new brews such as Arcole and Tiger, continuing their creative momentum.
+In this week's beer report, several breweries have introduced new additions to their lineups. Abjuration added the Muffin Sour [Boysenberry] (MS v1.5) and Rye Lager (RL v1.0), while Acclamation expanded its offerings with a variety of new beers, including Ambrosia and the Strawberry Shortcake Sour. Dancing Gnome welcomed a new Hefeweizen Shandy and updated the style of Hefeweizen from Wheat Beer to German Wheat Beer. Meanwhile, Eleventh Hour introduced an impressive batch of new beers, featuring Archer: OG and Dry Irish Stout, among others. Grist House saw some removals with Dem Apples and Seltza Drip - Mimosa, but added several intriguing brews like Command House Lager and Dark Night.
 
 ## Full lineup
 ### Grist House
