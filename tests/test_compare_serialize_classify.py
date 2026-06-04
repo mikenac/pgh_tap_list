@@ -29,6 +29,15 @@ def test_compare_detects_add_remove_and_style_change() -> None:
     ]
 
 
+def test_compare_ignores_normalized_style_equivalents() -> None:
+    previous = [_entry("Not Always Present", "Kölsch Style Ale")]
+    current = [_entry("Not Always Present", "Kölsch-style Ale")]
+
+    result = compare_snapshots("four-points", previous, current)
+
+    assert result.style_changes == []
+
+
 def test_watch_classifications() -> None:
     entries = [
         _entry("Ceremonials", "Bohemian Pilsner"),

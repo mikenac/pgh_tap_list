@@ -5,6 +5,8 @@ import json
 import re
 from pathlib import Path
 
+from taplist_tracker.normalize import normalize_style
+
 RATING_DELTA = 0.15
 TAG_RE = re.compile(r"<[^>]+>")
 ESCAPED_TAG_RE = re.compile(r"<\\\/[^>]+>|<\\[^>]+>")
@@ -53,7 +55,7 @@ def compare_entries(previous: list[dict], current: list[dict], brewery_id: str) 
         new = curr_map[key]
         old_style = (old.get("style") or "").strip()
         new_style = (new.get("style") or "").strip()
-        if old_style != new_style:
+        if normalize_style(old_style) != normalize_style(new_style):
             style_changes.append(
                 {
                     "beer": clean_display_name(new.get("name"), new.get("normalizedName")),

@@ -63,6 +63,31 @@ def test_addition_removal_and_style_changes() -> None:
     assert result["ratingChanges"][0]["beer"] == "Rice Lager"
 
 
+def test_script_compare_ignores_normalized_style_equivalents() -> None:
+    previous = [
+        {
+            "breweryId": "x",
+            "normalizedName": "not always present",
+            "name": "Not Always Present",
+            "style": "Kölsch Style Ale",
+            "active": True,
+        }
+    ]
+    current = [
+        {
+            "breweryId": "x",
+            "normalizedName": "not always present",
+            "name": "Not Always Present",
+            "style": "Kölsch-style Ale",
+            "active": True,
+        }
+    ]
+
+    result = compare_entries(previous, current, "x")
+
+    assert result["styleChanges"] == []
+
+
 def test_parsing_sample_html_and_pdf_text() -> None:
     html = """
     <ul>

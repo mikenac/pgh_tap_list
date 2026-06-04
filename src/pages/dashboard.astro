@@ -1,0 +1,164 @@
+---
+import fs from 'node:fs';
+import path from 'node:path';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const latestPath = path.resolve('data/latest.json');
+const latest = fs.existsSync(latestPath)
+  ? JSON.parse(fs.readFileSync(latestPath, 'utf-8'))
+  : { generatedAt: null, entries: [] };
+
+const entries = latest.entries || [];
+const grouped = entries.reduce((acc, entry) => {
+  const key = entry.breweryName || entry.breweryId || 'Unknown';
+  if (!acc[key]) {
+    acc[key] = [];
+  }
+  acc[key].push(entry);
+  return acc;
+}, {});
+
+const ratio = (count, total) => (total === 0 ? 0 : Math.round((count / total) * 100));
+const uniqueValues = (values) => [...new Set(values.filter(Boolean))].sort();
+const latestTimestamp = (beers) =>
+  uniqueValues(beers.map((beer) => beer.scrapedAt)).sort().at(-1) || '';
+
+const statusFor = (beers) => {
+  if (beers.length === 0) {
+    return { label: 'Empty', tone: 'bg-red-50 text-red-800 border-red-200' };
+  }
+
+  const sourceTypes = uniqueValues(beers.map((beer) => beer.sourceType));
+  const missingStyle = beers.filter((beer) => !beer.style).length;
+  const missingAbv = beers.filter((beer) => beer.abv === null || beer.abv === undefined).length;
+
+  if (sourceTypes.some((source) => source.includes('fallback') || source === 'baseline')) {
+    return { label: 'Review', tone: 'bg-amber-50 text-amber-800 border-amber-200' };
+  }
+
+  if (ratio(missingStyle, beers.length) >= 40 || ratio(missingAbv, beers.length) >= 50) {
+    return { label: 'Partial', tone: 'bg-yellow-50 text-yellow-800 border-yellow-200' };
+  }
+
+  return { label: 'Good', tone: 'bg-green-50 text-green-800 border-green-200' };
+};
+
+const rows = Object.entries(grouped)
+  .sort((a, b) => a[0].localeCompare(b[0]))
+  .map(([breweryName, beers]) => {
+    const missingStyle = beers.filter((beer) => !beer.style).length;
+    const missingAbv = beers.filter((beer) => beer.abv === null || beer.abv === undefined).length;
+    const missingRating = beers.filter(
+      (beer) => beer.untappdRating === null || beer.untappdRating === undefined,
+    ).length;
+    return {
+      breweryName,
+      beerCount: beers.length,
+      missingStyle,
+      missingAbv,
+      missingRating,
+      missingStylePct: ratio(missingStyle, beers.length),
+      missingAbvPct: ratio(missingAbv, beers.length),
+      missingRatingPct: ratio(missingRating, beers.length),
+      sourceTypes: uniqueValues(beers.map((beer) => beer.sourceType)),
+      scrapedAt: latestTimestamp(beers),
+      status: statusFor(beers),
+    };
+  });
+
+const totalMissingStyle = rows.reduce((sum, row) => sum + row.missingStyle, 0);
+const totalMissingAbv = rows.reduce((sum, row) => sum + row.missingAbv, 0);
+const totalMissingRating = rows.reduce((sum, row) => sum + row.missingRating, 0);
+const reviewCount = rows.filter((row) => row.status.label !== 'Good').length;
+---
+<BaseLayout title="Taplist Data Quality Dashboard">
+  <header class="mb-6 flex flex-col gap-2">
+    <h1 class="text-3xl font-bold">Data Quality Dashboard</h1>
+    <p class="text-sm text-ink/70">Last updated: {latest.generatedAt || 'Not generated yet'}</p>
+  </header>
+
+  <section class="mb-5 grid gap-3 md:grid-cols-4">
+    <div class="card">
+      <p class="text-xs font-semibold uppercase text-ink/60">Breweries</p>
+      <p class="mt-1 text-2xl font-bold">{rows.length}</p>
+    </div>
+    <div class="card">
+      <p class="text-xs font-semibold uppercase text-ink/60">Beers Tracked</p>
+      <p class="mt-1 text-2xl font-bold">{entries.length}</p>
+    </div>
+    <div class="card">
+      <p class="text-xs font-semibold uppercase text-ink/60">Needs Review</p>
+      <p class="mt-1 text-2xl font-bold">{reviewCount}</p>
+    </div>
+    <div class="card">
+      <p class="text-xs font-semibold uppercase text-ink/60">Missing Rating</p>
+      <p class="mt-1 text-2xl font-bold">{totalMissingRating}</p>
+    </div>
+  </section>
+
+  <section class="card">
+    <div class="mb-4">
+      <h2 class="text-lg font-semibold">Scrape Health</h2>
+      <p class="text-sm text-ink/70">
+        Counts are derived from the latest structured JSON. Fallback, baseline, or sparse metadata
+        rows are flagged for review.
+      </p>
+    </div>
+
+    <div class="overflow-x-auto">
+      <table class="min-w-full text-left text-sm">
+        <thead class="border-b border-ink/20 bg-ink/5">
+          <tr>
+            <th class="px-3 py-2">Brewery</th>
+            <th class="px-3 py-2">Status</th>
+            <th class="px-3 py-2 text-right">Beers</th>
+            <th class="px-3 py-2 text-right">No Style</th>
+            <th class="px-3 py-2 text-right">No ABV</th>
+            <th class="px-3 py-2 text-right">No Rating</th>
+            <th class="px-3 py-2">Source</th>
+            <th class="px-3 py-2">Scraped</th>
+          </tr>
+        </thead>
+        <tbody>
+          {rows.map((row) => (
+            <tr class="border-b border-ink/10 align-top">
+              <td class="px-3 py-2 font-medium">{row.breweryName}</td>
+              <td class="px-3 py-2">
+                <span class={`inline-flex rounded border px-2 py-1 text-xs font-semibold ${row.status.tone}`}>
+                  {row.status.label}
+                </span>
+              </td>
+              <td class="px-3 py-2 text-right">{row.beerCount}</td>
+              <td class="px-3 py-2 text-right">{row.missingStyle} ({row.missingStylePct}%)</td>
+              <td class="px-3 py-2 text-right">{row.missingAbv} ({row.missingAbvPct}%)</td>
+              <td class="px-3 py-2 text-right">{row.missingRating} ({row.missingRatingPct}%)</td>
+              <td class="px-3 py-2">
+                <div class="flex max-w-48 flex-col gap-1">
+                  {row.sourceTypes.map((source) => <span>{source}</span>)}
+                </div>
+              </td>
+              <td class="px-3 py-2 text-xs text-ink/70">{row.scrapedAt}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="mt-5 grid gap-4 md:grid-cols-3">
+    <div class="card">
+      <h2 class="text-lg font-semibold">Missing Style</h2>
+      <p class="mt-1 text-2xl font-bold">{totalMissingStyle}</p>
+    </div>
+    <div class="card">
+      <h2 class="text-lg font-semibold">Missing ABV</h2>
+      <p class="mt-1 text-2xl font-bold">{totalMissingAbv}</p>
+    </div>
+    <div class="card">
+      <h2 class="text-lg font-semibold">Source Types</h2>
+      <p class="mt-2 text-sm text-ink/70">
+        {uniqueValues(entries.map((entry) => entry.sourceType)).join(', ') || 'None'}
+      </p>
+    </div>
+  </section>
+</BaseLayout>

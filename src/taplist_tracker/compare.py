@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from .models import ComparisonResult, TapListEntry
+from .normalize import normalize_style
 
 
 def compare_snapshots(
@@ -18,7 +19,7 @@ def compare_snapshots(
     for key in sorted(previous_map.keys() & current_map.keys()):
         old = previous_map[key].style or ""
         new = current_map[key].style or ""
-        if old.strip() != new.strip() and (old or new):
+        if normalize_style(old) != normalize_style(new) and (old or new):
             style_changes.append(
                 {
                     "beer": current_map[key].name,

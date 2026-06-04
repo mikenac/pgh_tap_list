@@ -1,6 +1,10 @@
 ---
 import '../styles.css';
 const { title = 'Pittsburgh Taplist Tracker' } = Astro.props;
+const basePath = import.meta.env.BASE_URL.replace(/\/$/, '');
+const pathname = Astro.url.pathname.replace(/\/$/, '') || '/';
+const dashboardPath = `${basePath}/dashboard`;
+const isDashboard = pathname === dashboardPath;
 ---
 <!doctype html>
 <html lang="en">
@@ -12,6 +16,20 @@ const { title = 'Pittsburgh Taplist Tracker' } = Astro.props;
   <body>
     <div class="min-h-screen bg-gradient-to-b from-cream via-white to-cream">
       <main class="mx-auto w-full max-w-6xl px-4 py-8">
+        <nav class="mb-6 flex gap-2 text-sm font-medium" aria-label="Primary">
+          <a
+            class={`rounded border px-3 py-2 ${isDashboard ? 'border-ink/20 bg-white text-ink hover:bg-ink hover:text-white' : 'border-pine bg-pine text-white'}`}
+            href={`${basePath}/`}
+          >
+            Taplists
+          </a>
+          <a
+            class={`rounded border px-3 py-2 ${isDashboard ? 'border-pine bg-pine text-white' : 'border-ink/20 bg-white text-ink hover:bg-ink hover:text-white'}`}
+            href={dashboardPath}
+          >
+            Dashboard
+          </a>
+        </nav>
         <slot />
       </main>
     </div>

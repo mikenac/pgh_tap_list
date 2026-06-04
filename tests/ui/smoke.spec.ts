@@ -1,10 +1,13 @@
 import { expect, test } from '@playwright/test';
 
 const homePath = '/pgh_tap_list/';
+const dashboardPath = '/pgh_tap_list/dashboard/';
 
 test('home page renders key sections', async ({ page }) => {
   await page.goto(homePath);
 
+  await expect(page.getByRole('link', { name: 'Taplists' })).toBeVisible();
+  await expect(page.getByRole('link', { name: 'Dashboard' })).toBeVisible();
   await expect(
     page.getByRole('heading', { name: 'Pittsburgh Brewery Taplist Tracker' }),
   ).toBeVisible();
@@ -12,6 +15,16 @@ test('home page renders key sections', async ({ page }) => {
   await expect(page.getByText('Czech Lager Watch')).toBeVisible();
   await expect(page.getByText('European Lager Watch')).toBeVisible();
   await expect(page.getByText('Sour Watch')).toBeVisible();
+});
+
+test('dashboard tab renders data quality table', async ({ page }) => {
+  await page.goto(dashboardPath);
+
+  await expect(page.getByRole('heading', { name: 'Data Quality Dashboard' })).toBeVisible();
+  await expect(page.getByText('Scrape Health')).toBeVisible();
+  await expect(page.getByRole('columnheader', { name: 'Brewery' })).toBeVisible();
+  await expect(page.getByRole('columnheader', { name: 'Status' })).toBeVisible();
+  await expect(page.getByRole('cell', { name: 'Abjuration' })).toBeVisible();
 });
 
 test('filters are interactive and brewery cards render', async ({ page }) => {

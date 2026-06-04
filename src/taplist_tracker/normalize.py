@@ -10,6 +10,7 @@ UNTAPPD_MARKERS = (
 )
 TRAILING_PUNCT_RE = re.compile(r"[\s\-–—:;,.!]+$")
 ABV_RE = re.compile(r"(?P<value>\d{1,2}(?:\.\d{1,2})?)\s*%")
+STYLE_PUNCT_RE = re.compile(r"[^a-z0-9]+")
 
 
 def normalize_beer_name(name: str) -> str:
@@ -25,7 +26,14 @@ def normalize_beer_name(name: str) -> str:
 def normalize_style(style: str | None) -> str | None:
     if style is None:
         return None
-    normalized = re.sub(r"\s+", " ", unicodedata.normalize("NFKC", style).strip())
+    cleaned = unicodedata.normalize("NFKC", style)
+    cleaned = cleaned.replace("’", "'").replace("‘", "'")
+    cleaned = cleaned.replace("“", '"').replace("”", '"')
+    cleaned = cleaned.replace("–", "-").replace("—", "-")
+    cleaned = unicodedata.normalize("NFKD", cleaned)
+    cleaned = "".join(char for char in cleaned if not unicodedata.combining(char))
+    cleaned = STYLE_PUNCT_RE.sub(" ", cleaned.casefold())
+    normalized = re.sub(r"\s+", " ", cleaned).strip()
     return normalized or None
 
 

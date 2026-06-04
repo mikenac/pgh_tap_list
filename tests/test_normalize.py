@@ -1,4 +1,9 @@
-from taplist_tracker.normalize import has_untappd_embed, normalize_beer_name, parse_abv
+from taplist_tracker.normalize import (
+    has_untappd_embed,
+    normalize_beer_name,
+    normalize_style,
+    parse_abv,
+)
 
 
 def test_normalize_beer_name_rules() -> None:
@@ -12,6 +17,13 @@ def test_parse_abv() -> None:
     assert parse_abv(5) == 5.0
     assert parse_abv(None) is None
     assert parse_abv("No ABV") is None
+
+
+def test_normalize_style_ignores_presentation_drift() -> None:
+    assert normalize_style("Kölsch Style Ale") == "kolsch style ale"
+    assert normalize_style("Kölsch-style Ale") == "kolsch style ale"
+    assert normalize_style("  German   Pils – Lager ") == "german pils lager"
+    assert normalize_style(None) is None
 
 
 def test_untappd_embed_detection() -> None:
