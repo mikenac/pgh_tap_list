@@ -62,6 +62,16 @@ BREWERY_SOURCES: dict[str, BrewerySourceConfig] = {
         untappd_authoritative=True,
         watch_tags=["euro-lager-watch", "sour-watch"],
     ),
+    "acclamation": BrewerySourceConfig(
+        brewery=Brewery(
+            id="acclamation",
+            name="Acclamation",
+            website="https://www.acclamationbrewing.com",
+            taplist_url="https://www.acclamationbrewing.com/beers",
+        ),
+        source_priority=["widget", "website", "static"],
+        watch_tags=["euro-lager-watch", "sour-watch"],
+    ),
     "dancing-gnome": BrewerySourceConfig(
         brewery=Brewery(
             id="dancing-gnome",

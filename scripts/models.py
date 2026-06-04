@@ -51,6 +51,12 @@ BREWERIES: list[BreweryConfig] = [
         "untappd_primary",
     ),
     BreweryConfig(
+        "acclamation",
+        "Acclamation",
+        "https://www.acclamationbrewing.com/beers",
+        "widget_json",
+    ),
+    BreweryConfig(
         "dancing-gnome",
         "Dancing Gnome",
         "https://dancinggnomebeer.com/location/1025-main/#on-tap",

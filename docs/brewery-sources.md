@@ -30,6 +30,16 @@ Rules:
 - Exclude beers listed under CANS & BOTTLES TO GO from the active taplist.
 - Watch for European-style lagers and sours.
 
+### Acclamation
+URL: https://www.acclamationbrewing.com/beers
+
+Rules:
+- Scrape the beers page and follow the embedded Beer List iframe.
+- Use the iframe's `taplist.json` feed as the active source of truth.
+- Include available beer taps, including guest beer taps.
+- Exclude non-beer products such as hard seltzer, cider, ginger beer, mocktails, wine/liquor prompts, soda, lemonade, and tea.
+- Watch for European-style lagers and sours.
+
 ### Dancing Gnome
 URL: https://dancinggnomebeer.com/location/1025-main/#on-tap
 

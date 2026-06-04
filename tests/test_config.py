@@ -5,6 +5,7 @@ def test_expected_brewery_configs_exist() -> None:
     expected_ids = {
         "grist-house",
         "eleventh-hour",
+        "acclamation",
         "dancing-gnome",
         "four-points",
         "late-addition",

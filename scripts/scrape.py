@@ -28,11 +28,13 @@ PRICE_RE = re.compile(r"\$\s*\d")
 UNTAPPD_PRELOAD_RE = re.compile(
     r'PreloadEmbedMenu\("(?P<container>[^"]+)",\s*(?P<location>\d+),\s*(?P<theme>\d+)\)'
 )
+ACCLAMATION_FALLBACK_IFRAME_URL = "https://acclamationappv2.azurewebsites.net/web/beerlist.html"
 
 # Deterministic fallback samples used only when live fetch/parsing yields nothing.
 SAMPLE_MENU: dict[str, list[dict[str, str]]] = {
     "grist-house": [{"name": "Lucid Man's Sea", "style": "Hazy IPA", "abv": "6.5%"}],
     "eleventh-hour": [{"name": "Happy Valley Jack", "style": "IPA - New England", "abv": "6.4%"}],
+    "acclamation": [{"name": "Steel City Lager", "style": "American Light Lager", "abv": "4.5%"}],
     "dancing-gnome": [
         {"name": "Lustra", "style": "IPA", "abv": "6.8%"},
         {"name": "Dead Sleep", "style": "Helles Lager", "abv": "5.2%"},
@@ -49,6 +51,7 @@ SAMPLE_MENU: dict[str, list[dict[str, str]]] = {
 MIN_ENTRIES_PER_BREWERY = {
     "grist-house": 8,
     "eleventh-hour": 5,
+    "acclamation": 8,
     "dancing-gnome": 8,
     "four-points": 8,
     "late-addition": 8,
@@ -62,6 +65,7 @@ MIN_ENTRIES_PER_BREWERY = {
 MIN_ABV_NON_NULL = {
     "grist-house": 6,
     "eleventh-hour": 5,
+    "acclamation": 8,
     "dancing-gnome": 6,
     "four-points": 10,
     "late-addition": 8,
@@ -388,6 +392,87 @@ def parse_untappd_preload_html(html: str) -> list[dict[str, Any]]:
     if not embed_html:
         return []
     return parse_untappd_embed_html(embed_html)
+
+
+def acclamation_iframe_url(html: str) -> str:
+    soup = BeautifulSoup(html, "html.parser")
+    iframe = soup.select_one('iframe[src*="beerlist.html"]')
+    if iframe and iframe.get("src"):
+        return str(iframe["src"])
+    return ACCLAMATION_FALLBACK_IFRAME_URL
+
+
+def acclamation_json_url(html: str) -> str | None:
+    match = re.search(r"fetch\(['\"](?P<url>https?://[^'\"]+taplist\.json)['\"]\)", html)
+    return match.group("url") if match else None
+
+
+def acclamation_is_beer_product(product: dict[str, Any]) -> bool:
+    if product.get("available") is not True:
+        return False
+
+    name = str(product.get("name") or "").strip()
+    description = str(product.get("description") or "").strip()
+    candidate = f"{name} {description}".casefold()
+    if not name or not description:
+        return False
+
+    excluded_tokens = (
+        "hard seltzer",
+        "cider",
+        "ginger beer",
+        "wine",
+        "liquor",
+        "mocktail",
+        "soda",
+        "lemonade",
+        "tea",
+        "check out",
+        "options available",
+    )
+    return not any(token in candidate for token in excluded_tokens)
+
+
+def acclamation_style_from_description(description: str) -> str | None:
+    cleaned = re.sub(r"\s+", " ", description).strip()
+    cleaned = cleaned.replace("Lactose- Free", "Lactose-Free")
+    cleaned = re.sub(r"\s*\([^)]*(?:pour|oz)[^)]*\)", "", cleaned, flags=re.IGNORECASE)
+    cleaned = re.sub(r"\s*\(less than [^)]*abv\)", "", cleaned, flags=re.IGNORECASE)
+    cleaned = re.split(r"\s+-\s+\d{1,2}(?:\.\d+)?\s*%|\s+-\s+less than", cleaned, maxsplit=1)[0]
+    cleaned = re.sub(r"^Guest Tap:?\s*", "", cleaned, flags=re.IGNORECASE).strip(" -|")
+    if cleaned.casefold() == "guest tap":
+        return None
+    return cleaned or None
+
+
+def parse_acclamation_json(json_text: str) -> list[dict[str, Any]]:
+    payload = json.loads(json_text)
+    products = payload.get("data", {}).get("productsList", [])
+    if not isinstance(products, list):
+        return []
+
+    items: list[dict[str, Any]] = []
+    seen: set[str] = set()
+    for product in products:
+        if not isinstance(product, dict) or not acclamation_is_beer_product(product):
+            continue
+
+        name = re.sub(r"\s+", " ", str(product.get("name") or "")).strip()
+        key = normalize_name(name)
+        if key in seen:
+            continue
+
+        seen.add(key)
+        description = str(product.get("description") or "")
+        abv = parse_abv(description)
+        items.append(
+            {
+                "name": name,
+                "style": acclamation_style_from_description(description),
+                "abv": f"{abv}%" if abv is not None else None,
+            }
+        )
+    return items
 
 
 def parse_grist_house_html(html: str) -> list[dict[str, Any]]:
@@ -740,6 +825,19 @@ def scrape_brewery(brewery_id: str, name: str, url: str, rule: str) -> tuple[lis
             raw_text = fetch_text(url)
             if brewery_id == "late-addition":
                 parsed = parse_late_addition_html(raw_text)
+            elif brewery_id == "acclamation":
+                iframe_url = acclamation_iframe_url(raw_text)
+                iframe_text = fetch_text(iframe_url)
+                json_url = acclamation_json_url(iframe_text)
+                json_text = fetch_text(json_url) if json_url else "{}"
+                parsed = parse_acclamation_json(json_text)
+                raw_text = (
+                    f"{raw_text}\n\n"
+                    f"<!-- Acclamation beer iframe: {iframe_url} -->\n"
+                    f"{iframe_text}\n\n"
+                    f"<!-- Acclamation taplist JSON: {json_url or 'not found'} -->\n"
+                    f"{json_text}"
+                )
             elif brewery_id == "eleventh-hour":
                 parsed = parse_eleventh_hour_html(raw_text)
             elif brewery_id == "grist-house":
@@ -772,6 +870,8 @@ def scrape_brewery(brewery_id: str, name: str, url: str, rule: str) -> tuple[lis
             if brewery_id == "dancing-gnome":
                 source_type = "merged"
             if brewery_id == "abjuration" and parsed:
+                source_type = "widget"
+            if brewery_id == "acclamation" and parsed:
                 source_type = "widget"
             items = parsed
     except Exception as exc:  # noqa: BLE001

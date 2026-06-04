@@ -23,6 +23,7 @@ REQUIRED_FIELDS = {
 EXPECTED_BREWERIES = {
     "grist-house",
     "eleventh-hour",
+    "acclamation",
     "dancing-gnome",
     "four-points",
     "late-addition",
@@ -37,6 +38,7 @@ EXPECTED_BREWERIES = {
 MIN_ENTRIES_PER_BREWERY = {
     "grist-house": 8,
     "eleventh-hour": 5,
+    "acclamation": 8,
     "dancing-gnome": 8,
     "four-points": 8,
     "late-addition": 8,
@@ -50,6 +52,7 @@ MIN_ENTRIES_PER_BREWERY = {
 MIN_ABV_NON_NULL = {
     "grist-house": 6,
     "eleventh-hour": 5,
+    "acclamation": 8,
     "dancing-gnome": 6,
     "four-points": 10,
     "late-addition": 8,

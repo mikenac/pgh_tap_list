@@ -1,11 +1,17 @@
 # Pittsburgh Taplist Report (2026-06-04)
 
-Generated: `2026-06-04T21:05:29Z`
+Generated: `2026-06-04T21:19:51Z`
 Previous snapshot: `2026-06-03`
 
 ## What changed this week
 ### abjuration
 - Added: Muffin Sour [Boysenberry] (MS v1.5), Rye Lager (RL v1.0)
+- Removed: None
+- Style changes: None
+- Material rating changes: 0
+
+### acclamation
+- Added: Ambrosia, Brave Noise, Brew Gentlemen Albatross, Co-Star ESB, Dancing Gnome Pilsner, Golden Root, Grainbow Brite, Hoppy Little Beer, In Bloom, Lemon Meringue Milkshake, No Wake Wheat, Old Thunder Sol X, Steel City Lager, Steel City Summer, Strawberry Shortcake Sour, Two Frays Non-Alcoholic Beer
 - Removed: None
 - Style changes: None
 - Material rating changes: 0
@@ -113,6 +119,26 @@ In this week's beer report, several exciting new additions were made across vari
 | Non Alc - Fruity Pebbles | Non-Alcoholic - Fruited Wheat | 0.5% | ★★★★☆ 3.50 | untappd |
 | Reel Queen - Summer | Shandy | 4.3% | ★★★★☆ 4.25 | untappd |
 | Summer In the Parks | Lager - Mexican | 4.5% | ★★★★☆ 3.75 | untappd |
+
+### Acclamation
+| Beer | Style | ABV | Rating | Source |
+|---|---|---:|---|---|
+| Ambrosia | Fruited Sour (Orange, Pineapple, Coconut, Marshmallow) | 5.8% | ★★★★☆ 4.28 | widget |
+| Brave Noise | Hazy Pale Ale (Mosaic, Sabro) | 4.8% | ★★★★☆ 3.71 | widget |
+| Brew Gentlemen Albatross | Double IPA | 8.0% | ★★★★☆ 4.26 | widget |
+| Co-Star ESB | Extra Special Bitter | 5.4% | ★★★★☆ 3.83 | widget |
+| Dancing Gnome Pilsner |  | 5.0% | ★★★★☆ 3.86 | widget |
+| Golden Root | Ginger Wheat Ale | 5.6% | ★★★★☆ 3.83 | widget |
+| Grainbow Brite | Helles Lager (Hallertau Mittelfruh) | 5.0% | ★★★★☆ 3.80 | widget |
+| Hoppy Little Beer | Session Hazy IPA (El Dorado, Centennial, Amarillo) | 5.0% | ★★★★☆ 3.73 | widget |
+| In Bloom | Hazy IPA (Simcoe, Centennial, Chinook) | 4.8% | ★★★★☆ 3.66 | widget |
+| Lemon Meringue Milkshake | Lactose-Free Fruited Ale | 5.6% | ★★★★☆ 4.20 | widget |
+| No Wake Wheat | American Wheat Ale | 5.6% | ★★★★☆ 3.85 | widget |
+| Old Thunder Sol X | Dark Mexican Lager | 5.0% | ★★★★☆ 4.22 | widget |
+| Steel City Lager | American Light Lager (Galena) | 4.5% | ★★★★☆ 3.84 | widget |
+| Steel City Summer | Salted Lime Lager | 4.5% | ★★★★☆ 3.74 | widget |
+| Strawberry Shortcake Sour | Lactose-Free Fruited Sour | 5.6% | ★★★★☆ 3.99 | widget |
+| Two Frays Non-Alcoholic Beer | Fruited Blonde Ale OR West Coast IPA | 0.5% |  | widget |
 
 ### Dancing Gnome
 | Beer | Style | ABV | Rating | Source |
@@ -283,6 +309,7 @@ _No beers found._
 |---|---|---:|---|---|
 | Hounds of Helles | Munich Helles Lager | 4.5% | ★★★★☆ 3.66 | untappd |
 | Maibock | Bock - Hell | 7.1% | ★★★★☆ 3.75 | untappd |
+| Grainbow Brite | Helles Lager (Hallertau Mittelfruh) | 5.0% | ★★★★☆ 3.80 | widget |
 | Pilsner | German Pilsner | 5.0% | ★★★☆☆ 2.96 | merged |
 | Heavily Redacted | German-Style Schwarzbier | 5.5% | ★★★★☆ 4.13 | website |
 | 340 LAGER | Signature Munich-Style Helles | 4.8% | ★★★★☆ 3.84 | pdf |
@@ -296,6 +323,8 @@ _No beers found._
 |---|---|---:|---|---|
 | Arnold Shaman | Fruited Sour | 5.0% | ★★★★☆ 3.94 | untappd |
 | Kaboom Candy: B + P | Fruited Sour | 4.5% |  | untappd |
+| Ambrosia | Fruited Sour (Orange, Pineapple, Coconut, Marshmallow) | 5.8% | ★★★★☆ 4.28 | widget |
+| Strawberry Shortcake Sour | Lactose-Free Fruited Sour | 5.6% | ★★★★☆ 3.99 | widget |
 | Blueberry Blackberry Sour | Berliner Weisse | 4.7% | ★★★★☆ 3.74 | merged |
 | EVERY TIME ONLY ONCE | fruited sour | 7.0% | ★★★★☆ 4.27 | website |
 | SOUR CERVEZA STRAWBERRY ESPECIAL | sour lager | 4.5% | ★★★★☆ 4.03 | website |
