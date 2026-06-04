@@ -4,8 +4,8 @@ Do not add beers, styles, ratings, or facts that are not present in the JSON.
 Keep it to 4-6 sentences.
 
 {
-  "generated": "2026-06-03T13:52:12Z",
-  "previousDate": "2026-06-02",
+  "generated": "2026-06-04T12:59:00Z",
+  "previousDate": "2026-06-03",
   "changes": [
     {
       "breweryId": "abjuration",
@@ -16,17 +16,11 @@ Keep it to 4-6 sentences.
     },
     {
       "breweryId": "dancing-gnome",
-      "additions": [
-        "Rice Lager"
+      "additions": [],
+      "removals": [
+        "Goblin Folk"
       ],
-      "removals": [],
-      "styleChanges": [
-        {
-          "beer": "Not Always Present",
-          "oldStyle": "K\u00f6lsch Style Ale",
-          "newStyle": "K\u00f6lsch-style Ale"
-        }
-      ],
+      "styleChanges": [],
       "ratingChanges": []
     },
     {
@@ -45,135 +39,28 @@ Keep it to 4-6 sentences.
     },
     {
       "breweryId": "grist-house",
-      "additions": [],
+      "additions": [
+        "Command House Lager",
+        "Dark Night",
+        "Fire On the Hill",
+        "Kaboom Candy: B + P",
+        "Mr. Toasty"
+      ],
       "removals": [],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "hitchhiker",
-      "additions": [
-        "Fruit Rush \u2013 Raspberry",
-        "I\u2019m Down",
-        "Press Project \u2013 Apricot, Mango, Peach",
-        "Thumbs & Fangs",
-        "Whole Punch: Key Lime Pie"
-      ],
+      "additions": [],
       "removals": [],
-      "styleChanges": [
-        {
-          "beer": "15th and Canal",
-          "oldStyle": "",
-          "newStyle": "American Pale Ale"
-        },
-        {
-          "beer": "Baby Bane",
-          "oldStyle": "",
-          "newStyle": "IPA"
-        },
-        {
-          "beer": "Bane of Existence",
-          "oldStyle": "",
-          "newStyle": "IPA"
-        },
-        {
-          "beer": "Blended",
-          "oldStyle": "",
-          "newStyle": "Strawberry Margarita Sour"
-        },
-        {
-          "beer": "Bottle Service",
-          "oldStyle": "",
-          "newStyle": "Mimosa Smoothie Sour"
-        },
-        {
-          "beer": "Citrus Summer",
-          "oldStyle": "",
-          "newStyle": "Lemon Wheat Ale"
-        },
-        {
-          "beer": "Cococino",
-          "oldStyle": "",
-          "newStyle": "Porter with Milk Sugar, Coffee, Coconut, and Vanilla Bean"
-        },
-        {
-          "beer": "Conversion",
-          "oldStyle": "",
-          "newStyle": "Dry Hopped Blonde Ale"
-        },
-        {
-          "beer": "Double Peach Bottle Service",
-          "oldStyle": "",
-          "newStyle": "Mimosa Smoothie Sour"
-        },
-        {
-          "beer": "Fusional",
-          "oldStyle": "",
-          "newStyle": "Transfusion Smoothie Sour"
-        },
-        {
-          "beer": "Mexican Shakes",
-          "oldStyle": "",
-          "newStyle": "Coffee Porter"
-        },
-        {
-          "beer": "mmHmmm Grape",
-          "oldStyle": "",
-          "newStyle": "Smoothie Sour w/ Grape & Peanut Butter"
-        },
-        {
-          "beer": "One to One",
-          "oldStyle": "",
-          "newStyle": "IPA"
-        },
-        {
-          "beer": "Opposite Bane",
-          "oldStyle": "",
-          "newStyle": "IPA"
-        },
-        {
-          "beer": "Subtropic",
-          "oldStyle": "",
-          "newStyle": "Grapefruit IPA"
-        },
-        {
-          "beer": "Trapped in Time",
-          "oldStyle": "",
-          "newStyle": "Double West Coast IPA"
-        },
-        {
-          "beer": "Triple Bane of Existence",
-          "oldStyle": "",
-          "newStyle": "Triple IPA"
-        },
-        {
-          "beer": "True",
-          "oldStyle": "",
-          "newStyle": "Pilsner"
-        },
-        {
-          "beer": "Western Sun",
-          "oldStyle": "",
-          "newStyle": "Smoothie Sour"
-        },
-        {
-          "beer": "Wheat Wagon",
-          "oldStyle": "",
-          "newStyle": "Hefeweizen"
-        }
-      ],
+      "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "late-addition",
-      "additions": [
-        "Blonde Ale",
-        "Draughtsman Mild",
-        "Grateful Addition"
-      ],
-      "removals": [
-        "Mango Sour x Solera"
-      ],
+      "additions": [],
+      "removals": [],
       "styleChanges": [],
       "ratingChanges": []
     },
