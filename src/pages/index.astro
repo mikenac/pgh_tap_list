@@ -35,6 +35,19 @@ const sourWatch = styleMatches(['sour', 'fruited sour', 'kettle sour', 'berliner
 
 const historyFiles = fs.existsSync('data/history') ? fs.readdirSync('data/history').filter((name) => name.endsWith('.json')).sort().reverse() : [];
 const basePath = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+const styleFilterOptions = [
+  { label: 'Lager', tokens: ['lager', 'pils', 'pilsner', 'helles', 'märzen', 'marzen', 'kölsch', 'kolsch', 'bock', 'dunkel', 'schwarzbier', 'kellerbier', 'rauchbier'] },
+  { label: 'IPA', tokens: ['ipa', 'dipa', 'india pale ale', 'ultra hopped ale'] },
+  { label: 'Pale Ale', tokens: ['pale ale'] },
+  { label: 'Sour', tokens: ['sour', 'berliner weisse', 'gose', 'lambic', 'mixed culture', 'flanders'] },
+  { label: 'Stout', tokens: ['stout'] },
+  { label: 'Porter', tokens: ['porter'] },
+  { label: 'Wheat', tokens: ['wheat', 'wit', 'hefeweizen'] },
+  { label: 'Belgian/Farmhouse', tokens: ['belgian', 'farmhouse', 'saison', 'kornøl', 'kornol'] },
+  { label: 'Brown/Amber', tokens: ['brown', 'amber', 'red ale', 'red ipa', 'scottish', 'wee heavy'] },
+  { label: 'Non-Alcoholic', tokens: ['non-alcoholic', 'non alc'] },
+];
 ---
 <BaseLayout title="Pittsburgh Brewery Taplist Tracker">
   <header class="mb-6 flex flex-col gap-3 md:flex-row md:items-end md:justify-between">
@@ -49,10 +62,9 @@ const basePath = import.meta.env.BASE_URL.replace(/\/$/, '');
       </select>
       <select id="style-filter" class="rounded border border-ink/20 bg-white px-2 py-1">
         <option value="all">All Styles</option>
-        <option value="lager">Lager</option>
-        <option value="ipa">IPA</option>
-        <option value="sour">Sour</option>
-        <option value="stout">Stout</option>
+        {styleFilterOptions.map((option) => (
+          <option value={option.label.toLowerCase()} data-tokens={option.tokens.join('|')}>{option.label}</option>
+        ))}
       </select>
     </div>
   </header>
@@ -99,11 +111,23 @@ const basePath = import.meta.env.BASE_URL.replace(/\/$/, '');
     function applyFilters() {
       const brewery = breweryFilter?.value || 'all';
       const style = styleFilter?.value || 'all';
+      const selectedStyleOption = styleFilter?.selectedOptions?.[0];
+      const styleTokens = (selectedStyleOption?.dataset.tokens || style)
+        .toLowerCase()
+        .split('|')
+        .filter(Boolean);
       cards.forEach((card) => {
         const breweryMatch = brewery === 'all' || card.dataset.brewery === brewery;
-        const styleMatch =
-          style === 'all' || card.textContent.toLowerCase().includes(style.toLowerCase());
-        card.style.display = breweryMatch && styleMatch ? '' : 'none';
+        let visibleRows = 0;
+        card.querySelectorAll('[data-beer-row]').forEach((row) => {
+          const styleMatch =
+            style === 'all' || styleTokens.some((token) => row.dataset.style.includes(token));
+          row.style.display = breweryMatch && styleMatch ? '' : 'none';
+          if (breweryMatch && styleMatch) {
+            visibleRows += 1;
+          }
+        });
+        card.style.display = breweryMatch && visibleRows > 0 ? '' : 'none';
       });
     }
 

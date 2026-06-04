@@ -1,8 +1,12 @@
+import json
+
 from scripts.scrape import (
     parse_abjuration_on_tap_html,
     parse_dancing_gnome_html,
     parse_four_points_html,
     parse_golden_age_html,
+    parse_late_addition_html,
+    parse_lolev_html,
 )
 
 
@@ -78,3 +82,85 @@ def test_parse_abjuration_on_tap_html() -> None:
         "Fruited Sour [Pineapple/Honeydew] (FS v1.32)",
     ]
     assert [item["style"] for item in items] == ["Fruited India Pale Ale", "Fruited Sour"]
+
+
+def test_parse_late_addition_excludes_upcoming_section() -> None:
+    html = """
+    <main>
+      <h2>OUR BEERS</h2>
+      <div>
+        <h3>Rotes Wien</h3>
+        <p>Vienna-style lager</p>
+        <p>5.2% ABV</p>
+      </div>
+      <p>UPCOMING</p>
+      <div>
+        <h3>Future Sour</h3>
+        <p>Solera Sour Ale</p>
+        <p>5.9% ABV</p>
+      </div>
+    </main>
+    """
+
+    items = parse_late_addition_html(html)
+
+    assert [item["name"] for item in items] == ["Rotes Wien"]
+
+
+def test_parse_lolev_html_uses_tap_availability() -> None:
+    def script_record(payload: dict) -> str:
+        escaped = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).replace('"', r'\"')
+        return f'<script>self.__next_f.push([1,"{escaped}"])</script>'
+
+    html = "".join(
+        [
+            script_record(
+                {
+                    "id": "1",
+                    "variant": "lupula",
+                    "name": "Lupula",
+                    "type": "Hazy India Pale Ale",
+                    "abv": 6.5,
+                    "untappdRating": 4.08,
+                    "availability": {
+                        "cansAvailable": True,
+                        "tap": "3",
+                        "lawrenceville": {"tap": "1"},
+                    },
+                }
+            ),
+            script_record(
+                {
+                    "id": "2",
+                    "variant": "dom",
+                    "name": "Dom",
+                    "type": "Kölsch",
+                    "abv": 5,
+                    "untappdRating": 3.8,
+                    "availability": {"cansAvailable": False, "tap": "$undefined"},
+                }
+            ),
+            script_record(
+                {
+                    "id": "3",
+                    "variant": "costilla",
+                    "name": "Costilla",
+                    "type": "Mexican Dark Lager",
+                    "abv": 4.8,
+                    "untappdRating": 4.07,
+                    "availability": {
+                        "cansAvailable": False,
+                        "tap": "$undefined",
+                        "zelienople": {"tap": "2"},
+                    },
+                }
+            ),
+        ]
+    )
+
+    items = parse_lolev_html(html)
+
+    assert [item["name"] for item in items] == ["Lupula", "Costilla"]
+    assert items[0]["style"] == "Hazy India Pale Ale"
+    assert items[0]["abv"] == "6.5%"
+    assert items[0]["untappdRating"] == 4.08

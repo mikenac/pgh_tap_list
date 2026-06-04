@@ -45,6 +45,12 @@ BREWERIES: list[BreweryConfig] = [
         "untappd_primary",
     ),
     BreweryConfig(
+        "eleventh-hour",
+        "11th Hour",
+        "https://www.11thhourbrews.com/draft-list",
+        "untappd_primary",
+    ),
+    BreweryConfig(
         "dancing-gnome",
         "Dancing Gnome",
         "https://dancinggnomebeer.com/location/1025-main/#on-tap",
@@ -81,6 +87,7 @@ BREWERIES: list[BreweryConfig] = [
         "widget_or_site",
     ),
     BreweryConfig("golden-age", "Golden Age", "https://www.goldenagebeer.com/menu", "menu_page"),
+    BreweryConfig("lolev", "Lolev", "https://lolev.beer/beer?avail=tap", "taplist_page"),
 ]
 
 HITCHHIKER_BASELINE = [

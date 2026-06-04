@@ -66,6 +66,12 @@ def main() -> None:
 
     for entry in latest.get("entries", []):
         key = f"{entry['breweryId']}::{entry['normalizedName']}"
+        source_rating = entry.get("untappdRating")
+        if isinstance(source_rating, (int, float)) and 0 < float(source_rating) <= 5:
+            rating_map[key] = round(float(source_rating), 2)
+            entry["untappdRating"] = round(float(source_rating), 2)
+            continue
+
         rating = rating_map.get(key)
         if rating is None:
             alias_key = f"{entry['breweryId']}::{simplify_name(entry['normalizedName'])}"

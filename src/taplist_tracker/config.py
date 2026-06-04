@@ -51,6 +51,17 @@ BREWERY_SOURCES: dict[str, BrewerySourceConfig] = {
         source_priority=["untappd", "widget", "website", "static"],
         untappd_authoritative=True,
     ),
+    "eleventh-hour": BrewerySourceConfig(
+        brewery=Brewery(
+            id="eleventh-hour",
+            name="11th Hour",
+            website="https://www.11thhourbrews.com",
+            taplist_url="https://www.11thhourbrews.com/draft-list",
+        ),
+        source_priority=["untappd", "widget", "website", "static"],
+        untappd_authoritative=True,
+        watch_tags=["euro-lager-watch", "sour-watch"],
+    ),
     "dancing-gnome": BrewerySourceConfig(
         brewery=Brewery(
             id="dancing-gnome",
@@ -121,5 +132,15 @@ BREWERY_SOURCES: dict[str, BrewerySourceConfig] = {
         ),
         source_priority=["website", "static"],
         watch_tags=["czech-watch", "euro-lager-watch"],
+    ),
+    "lolev": BrewerySourceConfig(
+        brewery=Brewery(
+            id="lolev",
+            name="Lolev",
+            website="https://lolev.beer",
+            taplist_url="https://lolev.beer/beer?avail=tap",
+        ),
+        source_priority=["website", "static"],
+        watch_tags=["euro-lager-watch", "sour-watch"],
     ),
 }

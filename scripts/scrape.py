@@ -5,6 +5,7 @@ import re
 import unicodedata
 from datetime import UTC, date, datetime
 from pathlib import Path
+from typing import Any
 from urllib.parse import urljoin
 
 import httpx
@@ -20,7 +21,7 @@ DATA_DIR = Path("data")
 RAW_DIR = DATA_DIR / "raw"
 HISTORY_DIR = DATA_DIR / "history"
 
-UNTAPPD_MARKERS = ("untappd.com", "business.untappd.com", "embedded.untappd.com")
+UNTAPPD_MARKERS = ("untappd.com", "business.untappd.com", "embedded.untappd.com", "untappdapi.com")
 ABV_RE = re.compile(r"(\d{1,2}(?:\.\d{1,2})?)\s*%")
 TRAILING_PUNCT_RE = re.compile(r"[\s\-–—:;,.!]+$")
 PRICE_RE = re.compile(r"\$\s*\d")
@@ -31,6 +32,7 @@ UNTAPPD_PRELOAD_RE = re.compile(
 # Deterministic fallback samples used only when live fetch/parsing yields nothing.
 SAMPLE_MENU: dict[str, list[dict[str, str]]] = {
     "grist-house": [{"name": "Lucid Man's Sea", "style": "Hazy IPA", "abv": "6.5%"}],
+    "eleventh-hour": [{"name": "Happy Valley Jack", "style": "IPA - New England", "abv": "6.4%"}],
     "dancing-gnome": [
         {"name": "Lustra", "style": "IPA", "abv": "6.8%"},
         {"name": "Dead Sleep", "style": "Helles Lager", "abv": "5.2%"},
@@ -41,10 +43,12 @@ SAMPLE_MENU: dict[str, list[dict[str, str]]] = {
     "old-thunder": [{"name": "House Pils", "style": "Pilsner", "abv": "5.0%"}],
     "abjuration": [{"name": "Parfait Doom", "style": "Ice Cream Sour", "abv": "6.1%"}],
     "golden-age": [{"name": "Amber Hall", "style": "Czech Amber Lager", "abv": "5.4%"}],
+    "lolev": [{"name": "Lupula", "style": "Hazy India Pale Ale", "abv": "6.5%"}],
 }
 
 MIN_ENTRIES_PER_BREWERY = {
     "grist-house": 8,
+    "eleventh-hour": 5,
     "dancing-gnome": 8,
     "four-points": 8,
     "late-addition": 8,
@@ -52,15 +56,18 @@ MIN_ENTRIES_PER_BREWERY = {
     "old-thunder": 8,
     "abjuration": 8,
     "golden-age": 6,
+    "lolev": 5,
 }
 
 MIN_ABV_NON_NULL = {
     "grist-house": 6,
+    "eleventh-hour": 5,
     "dancing-gnome": 6,
     "four-points": 10,
     "late-addition": 8,
     "old-thunder": 8,
     "golden-age": 5,
+    "lolev": 5,
 }
 
 
@@ -110,7 +117,7 @@ def parse_html_taplist(html: str) -> list[dict[str, str]]:
         if len(text) > 3:
             lines.append(text)
 
-    items: list[dict[str, str]] = []
+    items: list[dict[str, Any]] = []
     for line in lines:
         if len(items) >= 40:
             break
@@ -195,6 +202,8 @@ def parse_late_addition_html(html: str) -> list[dict[str, str]]:
 
     items: list[dict[str, str]] = []
     for idx, line in enumerate(lines):
+        if line.casefold() == "upcoming":
+            break
         if "ABV" not in line.upper() or "%" not in line:
             continue
         if any(
@@ -281,34 +290,86 @@ def extract_embed_html_from_js(js_text: str) -> str | None:
     return decoded
 
 
-def parse_untappd_embed_html(html: str) -> list[dict[str, str]]:
+def untappd_tab_sections(soup: BeautifulSoup) -> list[Any]:
+    sections = soup.select(".tab-content")
+    if not sections:
+        return [soup]
+
+    taproom_sections = [
+        section
+        for section in sections
+        if "taproom menu" in section.get_text(" ", strip=True).casefold()
+    ]
+    if taproom_sections:
+        return taproom_sections
+    return sections[:1]
+
+
+def parse_untappd_rating(row: Any) -> float | None:
+    for node in row.select(".screenreader-only"):
+        match = re.search(r"Rated\s+(\d(?:\.\d+)?)\s+out of 5", node.get_text(" ", strip=True))
+        if match:
+            return float(match.group(1))
+    return None
+
+
+def is_untappd_beer_item(name: str, style: str | None) -> bool:
+    candidate = f"{name} {style or ''}".casefold()
+    non_beer_tokens = (
+        "cider",
+        "ginger beer",
+        "hard seltzer",
+        "hard lemonade",
+        "vodka seltzer",
+        "cocktail",
+        "mead",
+        "wine",
+    )
+    return not any(token in candidate for token in non_beer_tokens)
+
+
+def parse_untappd_embed_html(html: str) -> list[dict[str, Any]]:
     soup = BeautifulSoup(html, "html.parser")
-    items: list[dict[str, str]] = []
-    for row in soup.select(".menu-item"):
-        name_node = row.select_one(".item-name")
-        style_node = row.select_one(".item-style")
-        abv_node = row.select_one(".item-abv")
-        if not name_node:
-            continue
-        name = re.sub(r"\s+", " ", name_node.get_text(" ", strip=True)).strip(" -|")
-        style = (
-            re.sub(r"\s+", " ", style_node.get_text(" ", strip=True)).strip(" -|")
-            if style_node
-            else None
-        )
-        if style:
-            lowered_name = name.casefold()
-            lowered_style = style.casefold()
-            if lowered_name.endswith(lowered_style):
-                name = name[: -len(style)].strip(" -|")
-        abv = parse_abv(abv_node.get_text(" ", strip=True) if abv_node else None)
-        if len(name) < 2:
-            continue
-        items.append({"name": name, "style": style, "abv": f"{abv}%" if abv is not None else None})
+    items: list[dict[str, Any]] = []
+    for section in untappd_tab_sections(soup):
+        for row in section.select(".menu-item"):
+            name_node = row.select_one(".item-name")
+            if name_node:
+                style_node = row.select_one(".item-style")
+                abv_node = row.select_one(".item-abv")
+            else:
+                name_node = row.select_one("h4.item span")
+                style_node = row.select_one(".item-category")
+                abv_node = row.select_one(".item-abv")
+
+            if not name_node:
+                continue
+            name = re.sub(r"\s+", " ", name_node.get_text(" ", strip=True)).strip(" -|")
+            style = (
+                re.sub(r"\s+", " ", style_node.get_text(" ", strip=True)).strip(" -|")
+                if style_node
+                else None
+            )
+            if style:
+                lowered_name = name.casefold()
+                lowered_style = style.casefold()
+                if lowered_name.endswith(lowered_style):
+                    name = name[: -len(style)].strip(" -|")
+            abv = parse_abv(abv_node.get_text(" ", strip=True) if abv_node else None)
+            if len(name) < 2:
+                continue
+            if not is_untappd_beer_item(name, style):
+                continue
+
+            item = {"name": name, "style": style, "abv": f"{abv}%" if abv is not None else None}
+            rating = parse_untappd_rating(row)
+            if rating is not None:
+                item["untappdRating"] = rating
+            items.append(item)
     return items
 
 
-def parse_grist_house_html(html: str) -> list[dict[str, str]]:
+def parse_untappd_preload_html(html: str) -> list[dict[str, Any]]:
     preload_match = UNTAPPD_PRELOAD_RE.search(html)
     if not preload_match:
         return []
@@ -327,6 +388,14 @@ def parse_grist_house_html(html: str) -> list[dict[str, str]]:
     if not embed_html:
         return []
     return parse_untappd_embed_html(embed_html)
+
+
+def parse_grist_house_html(html: str) -> list[dict[str, Any]]:
+    return parse_untappd_preload_html(html)
+
+
+def parse_eleventh_hour_html(html: str) -> list[dict[str, Any]]:
+    return parse_untappd_preload_html(html)
 
 
 def parse_golden_age_html(html: str) -> list[dict[str, str]]:
@@ -355,6 +424,87 @@ def parse_golden_age_html(html: str) -> list[dict[str, str]]:
                 style = None
         items.append({"name": name, "style": style, "abv": f"{abv}%" if abv else None})
     return items
+
+
+def extract_json_object(text: str, start: int) -> str | None:
+    depth = 0
+    in_string = False
+    escaped = False
+    for position in range(start, len(text)):
+        char = text[position]
+        if escaped:
+            escaped = False
+            continue
+        if char == "\\" and in_string:
+            escaped = True
+            continue
+        if char == '"':
+            in_string = not in_string
+            continue
+        if in_string:
+            continue
+        if char == "{":
+            depth += 1
+        elif char == "}":
+            depth -= 1
+            if depth == 0:
+                return text[start : position + 1]
+    return None
+
+
+def parse_lolev_html(html: str) -> list[dict[str, Any]]:
+    decoded = html.encode().decode("unicode_escape", errors="ignore")
+    marker = '{"id":"'
+    items: list[dict[str, Any]] = []
+    seen: set[str] = set()
+    index = 0
+
+    while True:
+        index = decoded.find(marker, index)
+        if index == -1:
+            break
+
+        raw_object = extract_json_object(decoded, index)
+        index += len(marker)
+        if raw_object is None:
+            continue
+
+        try:
+            beer = json.loads(raw_object)
+        except json.JSONDecodeError:
+            continue
+
+        availability = beer.get("availability")
+        if not isinstance(availability, dict) or not lolev_is_on_tap(availability):
+            continue
+
+        name = str(beer.get("name") or "").strip()
+        style = str(beer.get("type") or "").strip()
+        if not name or name in seen:
+            continue
+
+        seen.add(name)
+        rating = beer.get("untappdRating")
+        items.append(
+            {
+                "name": name,
+                "style": style or None,
+                "abv": f"{beer.get('abv')}%" if beer.get("abv") is not None else None,
+                "untappdRating": rating if isinstance(rating, (int, float)) else None,
+            }
+        )
+
+    return items
+
+
+def lolev_is_on_tap(availability: dict[str, Any]) -> bool:
+    if availability.get("tap") not in (None, "$undefined"):
+        return True
+
+    return any(
+        isinstance(location, dict) and location.get("tap") not in (None, "$undefined")
+        for location in availability.values()
+    )
 
 
 def parse_four_points_html(html: str) -> list[dict[str, str]]:
@@ -500,7 +650,7 @@ def as_entries(
     brewery_name: str,
     source_type: str,
     source_url: str,
-    items: list[dict[str, str]],
+    items: list[dict[str, Any]],
     scraped_at: str,
 ) -> list[BeerEntry]:
     entries: list[BeerEntry] = []
@@ -516,7 +666,12 @@ def as_entries(
                 normalizedName=normalize_name(name),
                 style=item.get("style"),
                 abv=parse_abv(item.get("abv")),
-                untappdRating=None,
+                untappdRating=(
+                    float(item["untappdRating"])
+                    if isinstance(item.get("untappdRating"), (int, float))
+                    and 0 < float(item["untappdRating"]) <= 5
+                    else None
+                ),
                 sourceType=source_type,
                 sourceUrl=source_url,
                 scrapedAt=scraped_at,
@@ -585,12 +740,16 @@ def scrape_brewery(brewery_id: str, name: str, url: str, rule: str) -> tuple[lis
             raw_text = fetch_text(url)
             if brewery_id == "late-addition":
                 parsed = parse_late_addition_html(raw_text)
+            elif brewery_id == "eleventh-hour":
+                parsed = parse_eleventh_hour_html(raw_text)
             elif brewery_id == "grist-house":
                 parsed = parse_grist_house_html(raw_text)
             elif brewery_id == "dancing-gnome":
                 parsed = parse_dancing_gnome_html(raw_text)
             elif brewery_id == "golden-age":
                 parsed = parse_golden_age_html(raw_text)
+            elif brewery_id == "lolev":
+                parsed = parse_lolev_html(raw_text)
             elif brewery_id == "four-points":
                 parsed = parse_four_points_html(raw_text)
             elif brewery_id == "hitchhiker":
@@ -608,7 +767,7 @@ def scrape_brewery(brewery_id: str, name: str, url: str, rule: str) -> tuple[lis
             else:
                 parsed = parse_html_taplist(raw_text)
 
-            if brewery_id == "grist-house" and has_untappd_embed(raw_text):
+            if brewery_id in {"grist-house", "eleventh-hour"} and has_untappd_embed(raw_text):
                 source_type = "untappd"
             if brewery_id == "dancing-gnome":
                 source_type = "merged"

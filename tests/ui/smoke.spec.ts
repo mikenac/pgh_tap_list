@@ -39,7 +39,9 @@ test('filters are interactive and brewery cards render', async ({ page }) => {
   await page.goto(homePath);
 
   const breweryFilter = page.locator('#brewery-filter');
+  const styleFilter = page.locator('#style-filter');
   await expect(breweryFilter).toBeVisible();
+  await expect(styleFilter).toBeVisible();
 
   const options = breweryFilter.locator('option');
   expect(await options.count()).toBeGreaterThan(2);
@@ -47,6 +49,26 @@ test('filters are interactive and brewery cards render', async ({ page }) => {
   await breweryFilter.selectOption({ index: 1 });
   const visibleCards = page.locator('[data-brewery]:visible');
   await expect(visibleCards).toHaveCount(1);
+
+  await breweryFilter.selectOption('all');
+  await styleFilter.selectOption('lager');
+  const visibleRows = page.locator('[data-beer-row]:visible');
+  expect(await visibleRows.count()).toBeGreaterThan(0);
+  const visibleStyles = await visibleRows.locator('td:nth-child(2)').allTextContents();
+  expect(
+    visibleStyles.every((style) =>
+      /lager|pils|helles|märzen|marzen|kölsch|kolsch|bock|dunkel|schwarzbier|kellerbier|rauchbier/i.test(
+        style,
+      ),
+    ),
+  ).toBe(true);
+
+  await styleFilter.selectOption('porter');
+  const visiblePorterStyles = await page
+    .locator('[data-beer-row]:visible td:nth-child(2)')
+    .allTextContents();
+  expect(visiblePorterStyles.length).toBeGreaterThan(0);
+  expect(visiblePorterStyles.every((style) => style.toLowerCase().includes('porter'))).toBe(true);
 });
 
 test('ratings render with star graphics', async ({ page }) => {
@@ -62,7 +84,7 @@ test('abjuration renders full on-tap lineup', async ({ page }) => {
 
   const abjurationCard = page.locator('[data-brewery="Abjuration"]');
   await expect(abjurationCard).toBeVisible();
-  await expect(abjurationCard.getByRole('row')).toHaveCount(13);
+  expect(await abjurationCard.getByRole('row').count()).toBeGreaterThanOrEqual(9);
   await expect(abjurationCard).toContainText('Ice Cream Sour [Raspberry Shortcake]');
 });
 

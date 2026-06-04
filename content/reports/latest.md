@@ -1,18 +1,25 @@
 # Pittsburgh Taplist Report (2026-06-04)
 
-Generated: `2026-06-04T12:59:16Z`
+Generated: `2026-06-04T21:00:28Z`
 Previous snapshot: `2026-06-03`
 
 ## What changed this week
 ### abjuration
-- Added: None
+- Added: Muffin Sour [Boysenberry] (MS v1.5), Rye Lager (RL v1.0)
 - Removed: None
 - Style changes: None
 - Material rating changes: 0
 
 ### dancing-gnome
-- Added: None
+- Added: Hefeweizen Shandy
 - Removed: Goblin Folk
+- Style changes:
+  - Hefeweizen: Wheat Beer -> German Wheat Beer
+- Material rating changes: 0
+
+### eleventh-hour
+- Added: Archer: OG, Catch & Release, Doughboy, Dry Irish Stout, Eleven Eleven, FOSSL, Happy Valley Jack, Kornøl - Norwegian Farmhouse, Maibock, New Cult, Nocturnal Rainbow: Original, Non Alc - Finicky Beast, Non Alc - Fruity Pebbles, Reel Queen - Summer, Summer In the Parks
+- Removed: None
 - Style changes: None
 - Material rating changes: 0
 
@@ -30,7 +37,7 @@ Previous snapshot: `2026-06-03`
 
 ### grist-house
 - Added: Command House Lager, Dark Night, Fire On the Hill, Kaboom Candy: B + P, Mr. Toasty
-- Removed: None
+- Removed: Dem Apples, Seltza Drip - Mimosa
 - Style changes: None
 - Material rating changes: 0
 
@@ -42,6 +49,12 @@ Previous snapshot: `2026-06-03`
 
 ### late-addition
 - Added: None
+- Removed: Blonde Ale, Draughtsman Mild, Grateful Addition, Keeping Time: Aardbei, Keeping Time: Oost, Keeping Time: Rubus, Krakowiak, Rotes Wien
+- Style changes: None
+- Material rating changes: 0
+
+### lolev
+- Added: Arcole, Blue Jay, Costilla, Eagle, Glyphs III, Kamo III, Leopard, Lupula, Mon, Pink, Rubico III, Tiger, Vi
 - Removed: None
 - Style changes: None
 - Material rating changes: 0
@@ -67,7 +80,6 @@ This week, the brewing scene saw a notable addition from Grist House with the in
 | Clean Line | West Coast IPA | 7.0% | ★★★★☆ 3.90 | untappd |
 | Command House Lager | House Other | 4.6% | ★★★★☆ 3.76 | untappd |
 | Dark Night | Imperial Stout | 10.0% | ★★★★☆ 3.83 | untappd |
-| Dem Apples | Semi-Dry Cider | 6.9% | ★★★★☆ 4.06 | untappd |
 | El Chupa-lager-a | Mexican Amber Lager | 4.3% | ★★★★☆ 3.71 | untappd |
 | Fire On the Hill | India Pale Ale | 7.3% | ★★★★☆ 3.91 | untappd |
 | GoldenAle | British Golden Ale | 4.4% | ★★★★☆ 3.52 | untappd |
@@ -80,9 +92,27 @@ This week, the brewing scene saw a notable addition from Grist House with the in
 | MillvALE | Traditional Ale | 4.7% | ★★★★☆ 3.73 | untappd |
 | Mr. Toasty | Barrel Aged Stout | 11.0% | ★★★★☆ 4.32 | untappd |
 | Pineapple Hazedelic Juice Grenade | New England IPA | 6.4% | ★★★★☆ 4.13 | untappd |
-| Seltza Drip - Mimosa | Hard Seltzer | 4.5% | ★★★★☆ 4.01 | untappd |
 | Spacedelic Haze Cactus | New England IPA | 6.8% | ★★★★☆ 4.20 | untappd |
 | White Witow | Belgian Wit | 4.8% | ★★★★☆ 3.80 | untappd |
+
+### 11th Hour
+| Beer | Style | ABV | Rating | Source |
+|---|---|---:|---|---|
+| Archer: OG | Kölsch | 4.6% | ★★★★☆ 3.75 | untappd |
+| Catch & Release | IPA - American | 5.5% | ★★★★☆ 3.63 | untappd |
+| Doughboy | Pale Ale - New England | 5.3% | ★★★★☆ 4.00 | untappd |
+| Dry Irish Stout | Stout - Irish Dry | 5.3% | ★★★★☆ 3.75 | untappd |
+| Eleven Eleven | Lager - American Light | 4.3% | ★★★★☆ 3.75 | untappd |
+| FOSSL | Historical Beer - Steinbier | 7.0% | ★★★★☆ 4.00 | untappd |
+| Happy Valley Jack | IPA - New England | 6.4% | ★★★★☆ 4.25 | untappd |
+| Kornøl - Norwegian Farmhouse | Farmhouse Ale - Kornøl | 7.6% | ★★★★☆ 3.75 | untappd |
+| Maibock | Bock - Hell | 7.1% | ★★★★☆ 3.75 | untappd |
+| New Cult | New England Style IPA | 7.0% | ★★★★☆ 4.00 | untappd |
+| Nocturnal Rainbow: Original | Stout - Milk / Coffee | 5.6% | ★★★★☆ 4.00 | untappd |
+| Non Alc - Finicky Beast | Non-Alcoholic - IPA |  | ★★★★☆ 3.50 | untappd |
+| Non Alc - Fruity Pebbles | Non-Alcoholic - Fruited Wheat | 0.5% | ★★★★☆ 3.50 | untappd |
+| Reel Queen - Summer | Shandy | 4.3% | ★★★★☆ 4.25 | untappd |
+| Summer In the Parks | Lager - Mexican | 4.5% | ★★★★☆ 3.75 | untappd |
 
 ### Dancing Gnome
 | Beer | Style | ABV | Rating | Source |
@@ -95,7 +125,8 @@ This week, the brewing scene saw a notable addition from Grist House with the in
 | Exquisite Beast | DIPA - Sultana, Mosaic, Amarillo, Citra, Columbus | 8.5% | ★★★★☆ 4.14 | merged |
 | Gravel Grinder | IPA - Citra, Simcoe ,Mosaic | 6.6% | ★★★★☆ 4.08 | merged |
 | Half Lustra | Petite IPA - Citra, Amarillo | 3.6% | ★★★★☆ 3.95 | merged |
-| Hefeweizen | Wheat Beer | 5.2% | ★★★★☆ 3.67 | merged |
+| Hefeweizen | German Wheat Beer | 5.2% | ★★★★☆ 3.67 | merged |
+| Hefeweizen Shandy | Wheat Beer w/ Lemon Mix | 5.2% | ★★★☆☆ 3.37 | merged |
 | Iron Goddess (De Fer collab) | American Lager with Oolong Tea | 4.1% |  | merged |
 | Lager Lustra | American Lager | 5.8% | ★★★★☆ 3.91 | merged |
 | Lustra | Pale Ale - Citra, Amarillo | 5.8% | ★★★★☆ 4.01 | merged |
@@ -130,21 +161,13 @@ This week, the brewing scene saw a notable addition from Grist House with the in
 ### Late Addition
 | Beer | Style | ABV | Rating | Source |
 |---|---|---:|---|---|
-| Blonde Ale | Blonde Ale | 4.5% | ★★★★☆ 3.57 | website |
 | Dinnae Ken | Light Scottish Ale | 4.7% | ★★★★☆ 4.11 | website |
-| Draughtsman Mild | Dark English-Style Mild | 4.0% | ★★★★☆ 4.13 | website |
 | Earthshine | American IPA | 6.5% | ★★★★☆ 3.87 | website |
-| Grateful Addition | Bourbon Barrel Aged Imperial Stout | 11.5% | ★★★★☆ 4.29 | website |
 | Guan Yersel | Wee Heavy Strong Scottish Ale | 11.5% | ★★★★☆ 4.20 | website |
 | Guided by Weisses | German-style Hefeweizen | 5.2% | ★★★★☆ 4.05 | website |
 | Heavily Redacted | German-Style Schwarzbier | 5.5% | ★★★★☆ 4.13 | website |
-| Keeping Time: Aardbei | Strawberry Sour Ale from our Solera Project | 5.9% | ★★★★☆ 3.93 | website |
-| Keeping Time: Oost | Pale Sour Ale | 6.5% | ★★★★☆ 4.02 | website |
 | Keeping TIme: Rood | Flanders Red Sour Ale | 5.9% | ★★★★☆ 4.01 | website |
-| Keeping Time: Rubus | Rasberry Solera Sour Ale | 5.5% | ★★★★☆ 4.04 | website |
-| Krakowiak | Baltic Porter | 9.6% | ★★★☆☆ 3.06 | website |
 | Malus | Dry Apple Cider | 7.8% | ★★★★☆ 3.80 | website |
-| Rotes Wien | Vienna-style lager | 5.2% | ★★★★☆ 4.18 | website |
 | Soft Focus (Pink Boots collab with Hazel Grove Brewing) | Session Hazy IPA | 5.0% |  | website |
 | Standard Use | Cream Ale | 5.4% | ★★★★☆ 3.95 | website |
 | Tie-Dyed Pajamas | American IPA | 7.8% | ★★★★☆ 3.96 | website |
@@ -216,6 +239,8 @@ This week, the brewing scene saw a notable addition from Grist House with the in
 | Ice Cream Sour [Raspberry Shortcake] (ICS v1.29) | Ice Cream Sour |  |  | widget |
 | Ice Cream Sour [Watermelon Cotton Candy] (ICS v1.37) | Ice Cream Sour |  |  | widget |
 | Marshmallow Sour [Strawberry/Cherry] (MAS v1.1) | Marshmallow Sour |  |  | widget |
+| Muffin Sour [Boysenberry] (MS v1.5) | Muffin Sour |  |  | widget |
+| Rye Lager (RL v1.0) | Rye Lager |  |  | widget |
 | Stout (ST v1.0) | Stout |  | ★★★★☆ 4.15 | widget |
 
 ### Golden Age
@@ -233,6 +258,23 @@ This week, the brewing scene saw a notable addition from Grist House with the in
 | PREMIUM LAGER | An all-malt, patiently lagered and full-flavored beer made for everyone. | 4.2% | ★★★☆☆ 2.96 | website |
 | ZWANZE PILS | Belgian Pilsner brewed as a homage to Cantillion, and the incredible honor of being selected to host Zwanze Day this year. Sugar Creek French Pilsner malt lends a rustic, farmhouse character that is supported by the use of aged, whole-leaf lambic hops in the boil. | 4.5% | ★★★★☆ 3.93 | website |
 
+### Lolev
+| Beer | Style | ABV | Rating | Source |
+|---|---|---:|---|---|
+| Arcole | Ultra Hopped Ale | 8.5% | ★★★★☆ 4.37 | website |
+| Blue Jay | Pale Ale | 4.7% | ★★★★☆ 4.13 | website |
+| Costilla | Mexican Dark Lager | 4.8% | ★★★★☆ 4.07 | website |
+| Eagle | Ultra Hopped Ale | 8.7% | ★★★★☆ 3.67 | website |
+| Glyphs III | Hazy Pale Ale | 4.5% | ★★★★☆ 4.06 | website |
+| Kamo III | Ultra Hopped Ale | 8.0% | ★★★★☆ 4.35 | website |
+| Leopard | Ultra Hopped Ale | 8.7% | ★★★★★ 4.69 | website |
+| Lupula | Hazy India Pale Ale | 6.5% | ★★★★☆ 4.08 | website |
+| Mon | American Lager | 5.5% | ★★★★☆ 3.92 | website |
+| Pink | Hazy India Pale Ale | 7.0% | ★★★★☆ 4.09 | website |
+| Rubico III | Ultra Hopped Ale | 8.7% | ★★★★☆ 4.46 | website |
+| Tiger | Ultra Hopped Ale | 8.0% | ★★★★☆ 4.45 | website |
+| Vi | Ultra Hopped Ale | 8.2% | ★★★★☆ 4.35 | website |
+
 ## Czech Lager Watch
 _No beers found._
 
@@ -240,6 +282,7 @@ _No beers found._
 | Beer | Style | ABV | Rating | Source |
 |---|---|---:|---|---|
 | Hounds of Helles | Munich Helles Lager | 4.5% | ★★★★☆ 3.66 | untappd |
+| Maibock | Bock - Hell | 7.1% | ★★★★☆ 3.75 | untappd |
 | Pilsner | German Pilsner | 5.0% | ★★★☆☆ 2.96 | merged |
 | Heavily Redacted | German-Style Schwarzbier | 5.5% | ★★★★☆ 4.13 | website |
 | 340 LAGER | Signature Munich-Style Helles | 4.8% | ★★★★☆ 3.84 | pdf |
@@ -256,10 +299,7 @@ _No beers found._
 | Blueberry Blackberry Sour | Berliner Weisse | 4.7% | ★★★★☆ 3.74 | merged |
 | EVERY TIME ONLY ONCE | fruited sour | 7.0% | ★★★★☆ 4.27 | website |
 | SOUR CERVEZA STRAWBERRY ESPECIAL | sour lager | 4.5% | ★★★★☆ 4.03 | website |
-| Keeping Time: Aardbei | Strawberry Sour Ale from our Solera Project | 5.9% | ★★★★☆ 3.93 | website |
-| Keeping Time: Oost | Pale Sour Ale | 6.5% | ★★★★☆ 4.02 | website |
 | Keeping TIme: Rood | Flanders Red Sour Ale | 5.9% | ★★★★☆ 4.01 | website |
-| Keeping Time: Rubus | Rasberry Solera Sour Ale | 5.5% | ★★★★☆ 4.04 | website |
 | Blended | Strawberry Margarita Sour |  | ★★★★☆ 3.94 | website |
 | Bottle Service | Mimosa Smoothie Sour |  | ★★★★☆ 4.19 | website |
 | Double Peach Bottle Service | Mimosa Smoothie Sour |  | ★★★★☆ 4.30 | website |
@@ -278,4 +318,5 @@ _No beers found._
 | Ice Cream Sour [Raspberry Shortcake] (ICS v1.29) | Ice Cream Sour |  |  | widget |
 | Ice Cream Sour [Watermelon Cotton Candy] (ICS v1.37) | Ice Cream Sour |  |  | widget |
 | Marshmallow Sour [Strawberry/Cherry] (MAS v1.1) | Marshmallow Sour |  |  | widget |
+| Muffin Sour [Boysenberry] (MS v1.5) | Muffin Sour |  |  | widget |
 | ZWANZE PILS | Belgian Pilsner brewed as a homage to Cantillion, and the incredible honor of being selected to host Zwanze Day this year. Sugar Creek French Pilsner malt lends a rustic, farmhouse character that is supported by the use of aged, whole-leaf lambic hops in the boil. | 4.5% | ★★★★☆ 3.93 | website |

@@ -21,6 +21,15 @@ Rules:
 - Use embedded Untappd as the primary source of truth.
 - Do not rely only on visible website text if the Untappd embed is present.
 
+### 11th Hour
+URL: https://www.11thhourbrews.com/draft-list
+
+Rules:
+- Use the embedded Untappd menu as the primary source of truth.
+- Parse only the Taproom Menu tab as the active draft list.
+- Exclude beers listed under CANS & BOTTLES TO GO from the active taplist.
+- Watch for European-style lagers and sours.
+
 ### Dancing Gnome
 URL: https://dancinggnomebeer.com/location/1025-main/#on-tap
 
@@ -42,6 +51,7 @@ URL: https://lateadditionbrewing.com/#beers
 
 Rules:
 - Scrape the beers section.
+- Exclude beers listed under the Upcoming subsection from the active taplist.
 - Watch for European-style lagers, saisons, blends, and sours.
 
 ### Hitchhiker
@@ -76,3 +86,12 @@ URL: https://www.goldenagebeer.com/menu
 Rules:
 - Scrape menu page.
 - Strong lager focus; highlight Czech, German, Austrian, Polish, and other European-style lagers.
+
+### Lolev
+URL: https://lolev.beer/beer?avail=tap
+
+Rules:
+- Scrape the beer page filtered to tap availability.
+- Use embedded structured beer data when available.
+- Include beers with tap availability at any listed location.
+- Watch for European-style lagers, saisons, and sours.

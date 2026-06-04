@@ -26,7 +26,7 @@ const formatRating = (rating) => {
     </thead>
     <tbody>
       {beers.map((beer) => (
-        <tr class="border-b border-ink/10">
+        <tr class="border-b border-ink/10" data-beer-row data-style={(beer.style || '').toLowerCase()}>
           <td class="px-3 py-2 font-medium">{beer.name}</td>
           <td class="px-3 py-2">{beer.style || ''}</td>
           <td class="px-3 py-2 text-right">{beer.abv === null || beer.abv === undefined ? '' : `${beer.abv.toFixed(1)}%`}</td>

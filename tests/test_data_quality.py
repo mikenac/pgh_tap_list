@@ -22,6 +22,7 @@ REQUIRED_FIELDS = {
 
 EXPECTED_BREWERIES = {
     "grist-house",
+    "eleventh-hour",
     "dancing-gnome",
     "four-points",
     "late-addition",
@@ -29,11 +30,13 @@ EXPECTED_BREWERIES = {
     "old-thunder",
     "abjuration",
     "golden-age",
+    "lolev",
 }
 
 # Lower bounds to catch obvious parser breakage while allowing real taplist changes.
 MIN_ENTRIES_PER_BREWERY = {
     "grist-house": 8,
+    "eleventh-hour": 5,
     "dancing-gnome": 8,
     "four-points": 8,
     "late-addition": 8,
@@ -41,15 +44,18 @@ MIN_ENTRIES_PER_BREWERY = {
     "old-thunder": 8,
     "abjuration": 8,
     "golden-age": 6,
+    "lolev": 5,
 }
 
 MIN_ABV_NON_NULL = {
     "grist-house": 6,
+    "eleventh-hour": 5,
     "dancing-gnome": 6,
     "four-points": 10,
     "late-addition": 8,
     "old-thunder": 8,
     "golden-age": 5,
+    "lolev": 5,
 }
 
 MAX_NAME_LENGTH = 120

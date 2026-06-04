@@ -4,6 +4,7 @@ from taplist_tracker.config import BREWERY_SOURCES, HITCHHIKER_BASELINE
 def test_expected_brewery_configs_exist() -> None:
     expected_ids = {
         "grist-house",
+        "eleventh-hour",
         "dancing-gnome",
         "four-points",
         "late-addition",
@@ -11,6 +12,7 @@ def test_expected_brewery_configs_exist() -> None:
         "old-thunder",
         "abjuration",
         "golden-age",
+        "lolev",
     }
     assert set(BREWERY_SOURCES.keys()) == expected_ids
 

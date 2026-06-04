@@ -1,20 +1,54 @@
 {
-  "generated": "2026-06-04T12:59:00Z",
+  "generated": "2026-06-04T21:00:14Z",
   "previousDate": "2026-06-03",
   "changes": [
     {
       "breweryId": "abjuration",
-      "additions": [],
+      "additions": [
+        "Muffin Sour [Boysenberry] (MS v1.5)",
+        "Rye Lager (RL v1.0)"
+      ],
       "removals": [],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "dancing-gnome",
-      "additions": [],
+      "additions": [
+        "Hefeweizen Shandy"
+      ],
       "removals": [
         "Goblin Folk"
       ],
+      "styleChanges": [
+        {
+          "beer": "Hefeweizen",
+          "oldStyle": "Wheat Beer",
+          "newStyle": "German Wheat Beer"
+        }
+      ],
+      "ratingChanges": []
+    },
+    {
+      "breweryId": "eleventh-hour",
+      "additions": [
+        "Archer: OG",
+        "Catch & Release",
+        "Doughboy",
+        "Dry Irish Stout",
+        "Eleven Eleven",
+        "FOSSL",
+        "Happy Valley Jack",
+        "Korn\u00f8l - Norwegian Farmhouse",
+        "Maibock",
+        "New Cult",
+        "Nocturnal Rainbow: Original",
+        "Non Alc - Finicky Beast",
+        "Non Alc - Fruity Pebbles",
+        "Reel Queen - Summer",
+        "Summer In the Parks"
+      ],
+      "removals": [],
       "styleChanges": [],
       "ratingChanges": []
     },
@@ -41,7 +75,10 @@
         "Kaboom Candy: B + P",
         "Mr. Toasty"
       ],
-      "removals": [],
+      "removals": [
+        "Dem Apples",
+        "Seltza Drip - Mimosa"
+      ],
       "styleChanges": [],
       "ratingChanges": []
     },
@@ -55,6 +92,36 @@
     {
       "breweryId": "late-addition",
       "additions": [],
+      "removals": [
+        "Blonde Ale",
+        "Draughtsman Mild",
+        "Grateful Addition",
+        "Keeping Time: Aardbei",
+        "Keeping Time: Oost",
+        "Keeping Time: Rubus",
+        "Krakowiak",
+        "Rotes Wien"
+      ],
+      "styleChanges": [],
+      "ratingChanges": []
+    },
+    {
+      "breweryId": "lolev",
+      "additions": [
+        "Arcole",
+        "Blue Jay",
+        "Costilla",
+        "Eagle",
+        "Glyphs III",
+        "Kamo III",
+        "Leopard",
+        "Lupula",
+        "Mon",
+        "Pink",
+        "Rubico III",
+        "Tiger",
+        "Vi"
+      ],
       "removals": [],
       "styleChanges": [],
       "ratingChanges": []

@@ -60,7 +60,7 @@ def test_compare_main_and_enrich_main(tmp_path: Path, monkeypatch) -> None:
                 "normalizedName": "beer-a",
                 "name": "Beer A",
                 "style": "IPA",
-                "untappdRating": 4.0,
+                "untappdRating": None,
                 "active": True,
             }
         ],
@@ -92,6 +92,32 @@ def test_compare_main_and_enrich_main(tmp_path: Path, monkeypatch) -> None:
     enrich_untappd.main()
     enriched = json.loads((tmp_path / "data/latest.json").read_text(encoding="utf-8"))
     assert enriched["entries"][0]["untappdRating"] == 4.22
+
+
+def test_enrich_preserves_source_provided_rating(tmp_path: Path, monkeypatch) -> None:
+    monkeypatch.chdir(tmp_path)
+    (tmp_path / "data").mkdir()
+    latest = {
+        "entries": [
+            {
+                "breweryId": "lolev",
+                "normalizedName": "blue jay",
+                "name": "Blue Jay",
+                "untappdRating": 4.13,
+            }
+        ],
+    }
+    (tmp_path / "data/latest.json").write_text(json.dumps(latest), encoding="utf-8")
+    (tmp_path / "data/untappd_ratings.json").write_text(
+        json.dumps({"lolev::blue jay": 3.29}), encoding="utf-8"
+    )
+
+    enrich_untappd.main()
+
+    enriched = json.loads((tmp_path / "data/latest.json").read_text(encoding="utf-8"))
+    rating_map = json.loads((tmp_path / "data/untappd_ratings.json").read_text(encoding="utf-8"))
+    assert enriched["entries"][0]["untappdRating"] == 4.13
+    assert rating_map["lolev::blue jay"] == 4.13
 
 
 def test_generate_report_main(tmp_path: Path, monkeypatch) -> None:
