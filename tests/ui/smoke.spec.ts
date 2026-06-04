@@ -15,6 +15,14 @@ test('home page renders key sections', async ({ page }) => {
   await expect(page.getByText('Czech Lager Watch')).toBeVisible();
   await expect(page.getByText('European Lager Watch')).toBeVisible();
   await expect(page.getByText('Sour Watch')).toBeVisible();
+  await expect(page.locator('details[data-collapse-id="change-summary"]')).not.toHaveAttribute(
+    'open',
+    '',
+  );
+  await expect(page.locator('details[data-collapse-id="watch-czech-lager-watch"]')).not.toHaveAttribute(
+    'open',
+    '',
+  );
 });
 
 test('dashboard tab renders data quality table', async ({ page }) => {
@@ -63,6 +71,7 @@ test('change summary does not leak escaped HTML fragments', async ({ page }) => 
 
   const changesSection = page.locator('details.card').filter({ hasText: 'What changed this week' });
   await expect(changesSection).toBeVisible();
+  await changesSection.locator(':scope > summary').click();
   if ((page.viewportSize()?.width || 0) >= 768) {
     await expect(changesSection.getByRole('table')).toBeVisible();
     await expect(changesSection.getByRole('columnheader', { name: 'Brewery' })).toBeVisible();
@@ -83,6 +92,7 @@ test('mobile layout keeps content readable', async ({ page }) => {
   await page.goto(homePath);
 
   const changesSection = page.locator('details.card').filter({ hasText: 'What changed this week' });
+  await changesSection.locator(':scope > summary').click();
   await expect(changesSection.getByRole('table')).toBeHidden();
   await expect(changesSection.getByText('Additions, removals, and style updates by brewery.')).toBeVisible();
 

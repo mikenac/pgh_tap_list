@@ -2,7 +2,7 @@
 const { title, beers = [] } = Astro.props;
 const collapseId = `watch-${title.toLowerCase().replaceAll(' ', '-')}`;
 ---
-<details class="card group" data-collapse-id={collapseId} open>
+<details class="card group" data-collapse-id={collapseId}>
   <summary class="mb-2 flex cursor-pointer list-none items-center justify-between gap-3">
     <h2 class="text-lg font-semibold">{title}</h2>
     <span class="text-sm font-medium text-pine group-open:hidden">Expand</span>

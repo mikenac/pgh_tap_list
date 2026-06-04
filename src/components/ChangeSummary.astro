@@ -14,7 +14,7 @@ const totalChanges = (change) =>
   (change.additions?.length || 0) + (change.removals?.length || 0) + (change.styleChanges?.length || 0);
 const changeLabel = (count) => `${count} ${count === 1 ? 'change' : 'changes'}`;
 ---
-<details class="card group" data-collapse-id="change-summary" open>
+<details class="card group" data-collapse-id="change-summary">
   <summary class="flex cursor-pointer list-none flex-col gap-1 sm:flex-row sm:items-end sm:justify-between">
     <div>
       <h2 class="text-xl font-semibold">What changed this week</h2>
