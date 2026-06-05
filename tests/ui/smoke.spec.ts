@@ -11,6 +11,10 @@ test('home page renders key sections', async ({ page }) => {
   await expect(
     page.getByRole('heading', { name: 'Pittsburgh Brewery Taplist Tracker' }),
   ).toBeVisible();
+  const lastUpdated = page.locator('time[data-local-time]').first();
+  await expect(lastUpdated).toBeVisible();
+  await expect(lastUpdated).toHaveAttribute('datetime', /\d{4}-\d{2}-\d{2}T.*Z/);
+  await expect(lastUpdated).not.toContainText(/\d{4}-\d{2}-\d{2}T.*Z/);
   await expect(page.getByText('What changed this week')).toBeVisible();
   await expect(page.getByText('Czech Lager Watch')).toBeVisible();
   await expect(page.getByText('European Lager Watch')).toBeVisible();

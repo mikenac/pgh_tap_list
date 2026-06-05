@@ -66,6 +66,30 @@ const isDashboard = pathname === dashboardPath;
         });
       });
 
+      const localTimeFormatter = new Intl.DateTimeFormat(undefined, {
+        year: 'numeric',
+        month: 'short',
+        day: 'numeric',
+        hour: 'numeric',
+        minute: '2-digit',
+        timeZoneName: 'short',
+      });
+
+      document.querySelectorAll('time[data-local-time]').forEach((timeElement) => {
+        const rawTimestamp = timeElement.getAttribute('datetime');
+        if (!rawTimestamp) {
+          return;
+        }
+
+        const timestamp = new Date(rawTimestamp);
+        if (Number.isNaN(timestamp.getTime())) {
+          return;
+        }
+
+        timeElement.textContent = localTimeFormatter.format(timestamp);
+        timeElement.setAttribute('title', rawTimestamp);
+      });
+
       window.addEventListener('beforeunload', () => {
         document.querySelectorAll('details[data-collapse-id]').forEach((details) => {
           persistDetails(details);

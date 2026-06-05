@@ -53,7 +53,14 @@ const styleFilterOptions = [
   <header class="mb-6 flex flex-col gap-3 md:flex-row md:items-end md:justify-between">
     <div>
       <h1 class="text-3xl font-bold">Pittsburgh Brewery Taplist Tracker</h1>
-      <p class="text-sm text-ink/70">Last updated: {latest.generatedAt || 'Not generated yet'}</p>
+      <p class="text-sm text-ink/70">
+        Last updated:
+        {latest.generatedAt ? (
+          <time data-local-time datetime={latest.generatedAt}>{latest.generatedAt}</time>
+        ) : (
+          'Not generated yet'
+        )}
+      </p>
     </div>
     <div class="flex gap-2 text-sm">
       <select id="brewery-filter" class="rounded border border-ink/20 bg-white px-2 py-1">

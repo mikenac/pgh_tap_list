@@ -74,7 +74,14 @@ const reviewCount = rows.filter((row) => row.status.label !== 'Good').length;
 <BaseLayout title="Taplist Data Quality Dashboard">
   <header class="mb-6 flex flex-col gap-2">
     <h1 class="text-3xl font-bold">Data Quality Dashboard</h1>
-    <p class="text-sm text-ink/70">Last updated: {latest.generatedAt || 'Not generated yet'}</p>
+    <p class="text-sm text-ink/70">
+      Last updated:
+      {latest.generatedAt ? (
+        <time data-local-time datetime={latest.generatedAt}>{latest.generatedAt}</time>
+      ) : (
+        'Not generated yet'
+      )}
+    </p>
   </header>
 
   <section class="mb-5 grid gap-3 md:grid-cols-4">
