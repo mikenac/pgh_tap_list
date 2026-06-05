@@ -4,7 +4,7 @@ Do not add beers, styles, ratings, or facts that are not present in the JSON.
 Keep it to 4-6 sentences.
 
 {
-  "generated": "2026-06-05T12:58:49Z",
+  "generated": "2026-06-05T13:25:16Z",
   "previousDate": "2026-06-04",
   "changes": [
     {
@@ -61,8 +61,44 @@ Keep it to 4-6 sentences.
     {
       "breweryId": "hitchhiker",
       "additions": [],
-      "removals": [],
-      "styleChanges": [],
+      "removals": [
+        "15th and Canal",
+        "Baby Bane",
+        "Blended",
+        "Bottle Service",
+        "Citrus Summer",
+        "Cococino",
+        "Conversion",
+        "Double Peach Bottle Service",
+        "Fruit Rush Raspberry",
+        "Fruit Rush \u2013 Raspberry",
+        "Fusional",
+        "I\u2019m Down",
+        "Im Down",
+        "Mexican Shakes",
+        "mmHmmm Grape",
+        "One to One",
+        "Opposite Bane",
+        "Press Project Apricot Mango Peach",
+        "Press Project \u2013 Apricot, Mango, Peach",
+        "Subtropic",
+        "Thumbs & Fangs",
+        "Thumbs Fangs",
+        "Trapped in Time",
+        "Triple Bane of Existence",
+        "True",
+        "Western Sun",
+        "Wheat Wagon",
+        "Whole Punch Key Lime Pie",
+        "Whole Punch: Key Lime Pie"
+      ],
+      "styleChanges": [
+        {
+          "beer": "Bane of Existence",
+          "oldStyle": "IPA",
+          "newStyle": "Double IPA"
+        }
+      ],
       "ratingChanges": []
     },
     {
