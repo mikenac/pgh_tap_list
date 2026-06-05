@@ -20,9 +20,11 @@ except ModuleNotFoundError:
 DATA_DIR = Path("data")
 RAW_DIR = DATA_DIR / "raw"
 HISTORY_DIR = DATA_DIR / "history"
+SNAPSHOT_RETENTION_COUNT = 5
 
 UNTAPPD_MARKERS = ("untappd.com", "business.untappd.com", "embedded.untappd.com", "untappdapi.com")
 ABV_RE = re.compile(r"(\d{1,2}(?:\.\d{1,2})?)\s*%")
+RAW_SNAPSHOT_RE = re.compile(r"^.+-(?P<date>\d{4}-\d{2}-\d{2})\.txt$")
 TRAILING_PUNCT_RE = re.compile(r"[\s\-–—:;,.!]+$")
 PRICE_RE = re.compile(r"\$\s*\d")
 UNTAPPD_PRELOAD_RE = re.compile(
@@ -810,6 +812,25 @@ def load_previous_entries(path: Path) -> dict[str, list[BeerEntry]]:
     return by_brewery
 
 
+def retained_history_dates(limit: int = SNAPSHOT_RETENTION_COUNT) -> set[str]:
+    history_files = sorted(HISTORY_DIR.glob("*.json"))
+    retained_files = history_files[-limit:]
+    return {path.stem for path in retained_files}
+
+
+def prune_snapshot_files(limit: int = SNAPSHOT_RETENTION_COUNT) -> None:
+    retained_dates = retained_history_dates(limit)
+
+    for history_file in sorted(HISTORY_DIR.glob("*.json")):
+        if history_file.stem not in retained_dates:
+            history_file.unlink()
+
+    for raw_file in sorted(RAW_DIR.glob("*.txt")):
+        match = RAW_SNAPSHOT_RE.match(raw_file.name)
+        if match and match.group("date") not in retained_dates:
+            raw_file.unlink()
+
+
 def scrape_brewery(brewery_id: str, name: str, url: str, rule: str) -> tuple[list[BeerEntry], str]:
     scraped_at = now_iso()
     raw_text = ""
@@ -925,6 +946,7 @@ def main() -> None:
 
     history_path = HISTORY_DIR / f"{date.today().isoformat()}.json"
     history_path.write_text(json.dumps(latest_payload, indent=2), encoding="utf-8")
+    prune_snapshot_files()
 
 
 if __name__ == "__main__":

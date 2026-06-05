@@ -12,6 +12,9 @@ except ModuleNotFoundError:
     from classify import classify_style
     from models import BREWERIES
 
+REPORT_RETENTION_COUNT = 5
+DATED_REPORT_RE = re.compile(r"^\d{4}-\d{2}-\d{2}\.md$")
+
 
 def load_json(path: str) -> dict:
     return json.loads(Path(path).read_text(encoding="utf-8"))
@@ -158,6 +161,31 @@ def build_report(
     return "\n".join(lines).strip() + "\n"
 
 
+def retained_report_dates(limit: int = REPORT_RETENTION_COUNT) -> set[str]:
+    history_dir = Path("data/history")
+    if history_dir.exists():
+        return {path.stem for path in sorted(history_dir.glob("*.json"))[-limit:]}
+    return set()
+
+
+def prune_report_files(
+    out_dir: Path,
+    limit: int = REPORT_RETENTION_COUNT,
+    current_date: str | None = None,
+) -> None:
+    retained_dates = retained_report_dates(limit)
+    if current_date:
+        retained_dates.add(current_date)
+    if not retained_dates:
+        return
+
+    for report_file in sorted(out_dir.glob("*.md")):
+        if report_file.name == "latest.md" or not DATED_REPORT_RE.match(report_file.name):
+            continue
+        if report_file.stem not in retained_dates:
+            report_file.unlink()
+
+
 def main() -> None:
     latest = load_json("data/latest.json")
     comparison_path = Path("data/comparison.json")
@@ -172,6 +200,7 @@ def main() -> None:
 
     (out_dir / f"{date_slug}.md").write_text(report_text, encoding="utf-8")
     (out_dir / "latest.md").write_text(report_text, encoding="utf-8")
+    prune_report_files(out_dir, current_date=date_slug)
 
 
 if __name__ == "__main__":

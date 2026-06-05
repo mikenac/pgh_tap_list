@@ -124,6 +124,7 @@ def test_generate_report_main(tmp_path: Path, monkeypatch) -> None:
     monkeypatch.chdir(tmp_path)
     (tmp_path / "data").mkdir()
     latest = {
+        "generatedAt": "2026-05-29T12:00:00Z",
         "entries": [
             {
                 "breweryId": "four-points",
@@ -154,6 +155,15 @@ def test_generate_report_main(tmp_path: Path, monkeypatch) -> None:
     (tmp_path / "data/untappd_ratings.json").write_text(
         json.dumps({"four-points::ceremonials": 3.9}), encoding="utf-8"
     )
+    (tmp_path / "data/history").mkdir(parents=True)
+    (tmp_path / "content/reports").mkdir(parents=True)
+    for day in range(23, 30):
+        date_slug = f"2026-05-{day}"
+        (tmp_path / f"data/history/{date_slug}.json").write_text("{}", encoding="utf-8")
+        (tmp_path / f"content/reports/{date_slug}.md").write_text(
+            f"# Report {date_slug}", encoding="utf-8"
+        )
+    (tmp_path / "content/reports/manual-notes.md").write_text("# Manual", encoding="utf-8")
 
     generate_report.main()
 
@@ -162,6 +172,15 @@ def test_generate_report_main(tmp_path: Path, monkeypatch) -> None:
     report_text = latest_report.read_text(encoding="utf-8")
     assert "Czech Lager Watch" in report_text
     assert "★★★★☆ 3.90" in report_text
+    assert [path.name for path in sorted((tmp_path / "content/reports").glob("*.md"))] == [
+        "2026-05-25.md",
+        "2026-05-26.md",
+        "2026-05-27.md",
+        "2026-05-28.md",
+        "2026-05-29.md",
+        "latest.md",
+        "manual-notes.md",
+    ]
 
 
 def test_report_uses_cached_rating_when_entry_rating_is_missing() -> None:

@@ -83,6 +83,13 @@ def test_scrape_brewery_error_fallback(monkeypatch) -> None:
 def test_main_writes_latest_and_history(tmp_path: Path, monkeypatch) -> None:
     monkeypatch.chdir(tmp_path)
     monkeypatch.setattr(scrape, "date", DummyDate)
+    (tmp_path / "data/history").mkdir(parents=True)
+    (tmp_path / "data/raw").mkdir(parents=True)
+    for day in range(23, 29):
+        date_slug = f"2026-05-{day}"
+        (tmp_path / f"data/history/{date_slug}.json").write_text("{}", encoding="utf-8")
+        (tmp_path / f"data/raw/four-points-{date_slug}.txt").write_text("raw", encoding="utf-8")
+    (tmp_path / "data/raw/old-thunder-latest.pdf").write_bytes(b"pdf")
     monkeypatch.setattr(
         scrape,
         "scrape_brewery",
@@ -111,3 +118,13 @@ def test_main_writes_latest_and_history(tmp_path: Path, monkeypatch) -> None:
     latest = json.loads((tmp_path / "data/latest.json").read_text(encoding="utf-8"))
     assert len(latest["entries"]) == len(scrape.BREWERIES)
     assert (tmp_path / "data/history/2026-05-29.json").exists()
+    assert [path.name for path in sorted((tmp_path / "data/history").glob("*.json"))] == [
+        "2026-05-25.json",
+        "2026-05-26.json",
+        "2026-05-27.json",
+        "2026-05-28.json",
+        "2026-05-29.json",
+    ]
+    assert not (tmp_path / "data/raw/four-points-2026-05-24.txt").exists()
+    assert (tmp_path / "data/raw/four-points-2026-05-25.txt").exists()
+    assert (tmp_path / "data/raw/old-thunder-latest.pdf").exists()
