@@ -1,6 +1,6 @@
 # Pittsburgh Taplist Report (2026-06-05)
 
-Generated: `2026-06-05T13:25:36Z`
+Generated: `2026-06-05T14:00:40Z`
 Previous snapshot: `2026-06-04`
 
 ## What changed this week
@@ -48,9 +48,8 @@ Previous snapshot: `2026-06-04`
 
 ### hitchhiker
 - Added: None
-- Removed: 15th and Canal, Baby Bane, Blended, Bottle Service, Citrus Summer, Cococino, Conversion, Double Peach Bottle Service, Fruit Rush Raspberry, Fruit Rush – Raspberry, Fusional, I’m Down, Im Down, Mexican Shakes, mmHmmm Grape, One to One, Opposite Bane, Press Project Apricot Mango Peach, Press Project – Apricot, Mango, Peach, Subtropic, Thumbs & Fangs, Thumbs Fangs, Trapped in Time, Triple Bane of Existence, True, Western Sun, Wheat Wagon, Whole Punch Key Lime Pie, Whole Punch: Key Lime Pie
-- Style changes:
-  - Bane of Existence: IPA -> Double IPA
+- Removed: None
+- Style changes: None
 - Material rating changes: 0
 
 ### late-addition
@@ -73,7 +72,7 @@ Previous snapshot: `2026-06-04`
 
 ## Narrative summary (AI)
 
-In this week's beer report, Dancing Gnome introduced a new offering: Czech 12° – Pale Lager, adding to their lineup. Meanwhile, Lolev launched a fresh beer named Parabellum while removing Glyphs III, Lupula, and Mon from their selections. Hitchhiker Brewing made significant changes by removing a total of 29 beers, while also updating the style of Bane of Existence from an IPA to a Double IPA. No other breweries reported any additions or removals this week.
+In this week's beer update for June 5, 2026, Dancing Gnome has added a new offering: the Czech 12° – Pale Lager. Meanwhile, Lolev has introduced Parabellum while removing three beers from their lineup: Glyphs III, Lupula, and Mon. The other breweries, including Abjuration, Acclamation, Eleventh Hour, Four Points, Golden Age, Grist House, Hitchhiker, and Old Thunder, have made no changes to their offerings. Stay tuned for more updates as the beer landscape evolves!
 
 ## Full lineup
 ### Grist House
@@ -202,7 +201,36 @@ In this week's beer report, Dancing Gnome introduced a new offering: Czech 12° 
 ### Hitchhiker
 | Beer | Style | ABV | Rating | Source |
 |---|---|---:|---|---|
-| Bane of Existence | Double IPA | 8.2% | ★★★★☆ 3.95 | website_fallback |
+| 15th and Canal | American Pale Ale |  | ★★★★☆ 3.96 | website |
+| Baby Bane | IPA |  | ★★★★☆ 3.93 | website |
+| Bane of Existence | IPA |  | ★★★★☆ 3.95 | website |
+| Blended | Strawberry Margarita Sour |  | ★★★★☆ 3.94 | website |
+| Bottle Service | Mimosa Smoothie Sour |  | ★★★★☆ 4.19 | website |
+| Citrus Summer | Lemon Wheat Ale |  | ★★★☆☆ 3.42 | website |
+| Cococino | Porter with Milk Sugar, Coffee, Coconut, and Vanilla Bean |  | ★★★★☆ 3.98 | website |
+| Conversion | Dry Hopped Blonde Ale |  | ★★★★☆ 3.57 | website |
+| Double Peach Bottle Service | Mimosa Smoothie Sour |  | ★★★★☆ 4.30 | website |
+| Fruit Rush Raspberry |  |  | ★★★★☆ 4.19 | website |
+| Fruit Rush – Raspberry | Smoothie Sour Shandy |  | ★★★★☆ 4.19 | website |
+| Fusional | Transfusion Smoothie Sour |  | ★★★★☆ 3.82 | website |
+| I’m Down | West Coast IPA |  | ★★★★☆ 4.23 | website |
+| Im Down |  |  | ★★★★☆ 4.23 | website |
+| Mexican Shakes | Coffee Porter |  | ★★★★☆ 3.96 | website |
+| mmHmmm Grape | Smoothie Sour w/ Grape & Peanut Butter |  | ★★★★☆ 4.14 | website |
+| One to One | IPA |  | ★★★★☆ 4.07 | website |
+| Opposite Bane | IPA |  | ★★★★☆ 3.99 | website |
+| Press Project Apricot Mango Peach |  |  | ★★★★☆ 4.16 | website |
+| Press Project – Apricot, Mango, Peach | Smoothie Sour |  | ★★★★☆ 4.16 | website |
+| Subtropic | Grapefruit IPA |  | ★★★★☆ 3.50 | website |
+| Thumbs & Fangs | Hazy India Pale Ale - Collab w/ Wandering Monsters |  | ★★★★☆ 4.08 | website |
+| Thumbs Fangs |  |  | ★★★★☆ 4.08 | website |
+| Trapped in Time | Double West Coast IPA |  | ★★★★☆ 3.99 | website |
+| Triple Bane of Existence | Triple IPA |  | ★★★★☆ 4.33 | website |
+| True | Pilsner |  | ★★★☆☆ 3.28 | website |
+| Western Sun | Smoothie Sour |  | ★★★★☆ 3.80 | website |
+| Wheat Wagon | Hefeweizen |  | ★★★★☆ 3.65 | website |
+| Whole Punch Key Lime Pie |  |  | ★★★★☆ 3.86 | website |
+| Whole Punch: Key Lime Pie | IPA with Milk Sugar, Key Lime Juice, Lime and Lemon Zest, Graham Cracker, and Vanilla Bean |  | ★★★★☆ 3.86 | website |
 
 ### Old Thunder
 | Beer | Style | ABV | Rating | Source |
@@ -299,6 +327,14 @@ _No beers found._
 | EVERY TIME ONLY ONCE | fruited sour | 7.0% | ★★★★☆ 4.27 | website |
 | SOUR CERVEZA STRAWBERRY ESPECIAL | sour lager | 4.5% | ★★★★☆ 4.03 | website |
 | Keeping TIme: Rood | Flanders Red Sour Ale | 5.9% | ★★★★☆ 4.01 | website |
+| Blended | Strawberry Margarita Sour |  | ★★★★☆ 3.94 | website |
+| Bottle Service | Mimosa Smoothie Sour |  | ★★★★☆ 4.19 | website |
+| Double Peach Bottle Service | Mimosa Smoothie Sour |  | ★★★★☆ 4.30 | website |
+| Fruit Rush – Raspberry | Smoothie Sour Shandy |  | ★★★★☆ 4.19 | website |
+| Fusional | Transfusion Smoothie Sour |  | ★★★★☆ 3.82 | website |
+| mmHmmm Grape | Smoothie Sour w/ Grape & Peanut Butter |  | ★★★★☆ 4.14 | website |
+| Press Project – Apricot, Mango, Peach | Smoothie Sour |  | ★★★★☆ 4.16 | website |
+| Western Sun | Smoothie Sour |  | ★★★★☆ 3.80 | website |
 | CHERRY TREE MELODY | Sour Ale With Cherries | 5.0% | ★★★★☆ 3.79 | pdf |
 | Botanical Sour [Strawberry/Basil] (BSR v1.5) | Botanical Sour |  |  | widget |
 | Candied Sour [Cherry Slushie] (CDS v1.8) | Candied Sour |  |  | widget |
