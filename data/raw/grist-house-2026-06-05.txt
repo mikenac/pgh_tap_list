@@ -1,0 +1,1132 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v27.7 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>Grist House Millvale</title>
+	<meta name="description" content="Our current main production site, Grist House Craft Brewery in Millvale sets out to offer a fun and unique experience, both indoors and out." />
+	<link rel="canonical" href="https://gristhouse.com/millvale/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Grist House Millvale" />
+	<meta property="og:description" content="Our current main production site, Grist House Craft Brewery in Millvale sets out to offer a fun and unique experience, both indoors and out." />
+	<meta property="og:url" content="https://gristhouse.com/millvale/" />
+	<meta property="og:site_name" content="Grist House Craft Brewery" />
+	<meta property="article:publisher" content="https://www.facebook.com/gristhouse" />
+	<meta property="article:modified_time" content="2026-06-02T19:44:22+00:00" />
+	<meta property="og:image" content="https://gristhouse.com/wp-content/uploads/2026/06/0weekly-06.02_FT_web-scaled.png" />
+	<meta property="og:image:width" content="2560" />
+	<meta property="og:image:height" content="1408" />
+	<meta property="og:image:type" content="image/png" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@gristhouse" />
+	<meta name="twitter:label1" content="Est. reading time" />
+	<meta name="twitter:data1" content="14 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/gristhouse.com\/millvale\/","url":"https:\/\/gristhouse.com\/millvale\/","name":"Grist House Millvale","isPartOf":{"@id":"https:\/\/gristhouse.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/gristhouse.com\/millvale\/#primaryimage"},"image":{"@id":"https:\/\/gristhouse.com\/millvale\/#primaryimage"},"thumbnailUrl":"https:\/\/gristhouse.com\/wp-content\/uploads\/2026\/06\/0weekly-06.02_FT_web-1024x563.png","datePublished":"2025-02-19T20:10:37+00:00","dateModified":"2026-06-02T19:44:22+00:00","description":"Our current main production site, Grist House Craft Brewery in Millvale sets out to offer a fun and unique experience, both indoors and out.","breadcrumb":{"@id":"https:\/\/gristhouse.com\/millvale\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/gristhouse.com\/millvale\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/gristhouse.com\/millvale\/#primaryimage","url":"https:\/\/gristhouse.com\/wp-content\/uploads\/2026\/06\/0weekly-06.02_FT_web-scaled.png","contentUrl":"https:\/\/gristhouse.com\/wp-content\/uploads\/2026\/06\/0weekly-06.02_FT_web-scaled.png","width":2560,"height":1408},{"@type":"BreadcrumbList","@id":"https:\/\/gristhouse.com\/millvale\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/gristhouse.com\/"},{"@type":"ListItem","position":2,"name":"Millvale"}]},{"@type":"WebSite","@id":"https:\/\/gristhouse.com\/#website","url":"https:\/\/gristhouse.com\/","name":"Grist House Craft Brewery","description":"Grinding Out Great Beers","publisher":{"@id":"https:\/\/gristhouse.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/gristhouse.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https:\/\/gristhouse.com\/#organization","name":"Grist House Craft Brewery","url":"https:\/\/gristhouse.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/gristhouse.com\/#\/schema\/logo\/image\/","url":"https:\/\/gristhouse.com\/wp-content\/uploads\/2023\/12\/GHCB-House-Color-1-scaled.jpg","contentUrl":"https:\/\/gristhouse.com\/wp-content\/uploads\/2023\/12\/GHCB-House-Color-1-scaled.jpg","width":1581,"height":2560,"caption":"Grist House Craft Brewery"},"image":{"@id":"https:\/\/gristhouse.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.facebook.com\/gristhouse","https:\/\/x.com\/gristhouse","https:\/\/www.instagram.com\/gristhouse"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//cdn.datatables.net' />
+<link rel="alternate" type="application/rss+xml" title="Grist House Craft Brewery &raquo; Feed" href="https://gristhouse.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Grist House Craft Brewery &raquo; Comments Feed" href="https://gristhouse.com/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://gristhouse.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgristhouse.com%2Fmillvale%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://gristhouse.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgristhouse.com%2Fmillvale%2F&#038;format=xml" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<link rel='stylesheet' id='datatables-css' href='https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css?ver=7.0' media='all' />
+<link rel='stylesheet' id='datatables-responsive-css' href='https://cdn.datatables.net/responsive/2.3.0/css/responsive.dataTables.min.css?ver=7.0' media='all' />
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:root { --wp--style--global--content-size: 800px;--wp--style--global--wide-size: 1200px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 24px; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child { margin-block-end: 0; }:root { --wp--style--block-gap: 24px; }:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-flex){gap: 24px;}:root :where(.is-layout-grid){gap: 24px;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:root :where(.wp-block-icon svg){width: 24px;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<link rel='stylesheet' id='woocommerce-layout-css' href='https://gristhouse.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=10.8.1' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css' href='https://gristhouse.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=10.8.1' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css' href='https://gristhouse.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=10.8.1' media='all' />
+<style id="woocommerce-inline-inline-css">
+.woocommerce form .form-row .required { visibility: visible; }
+/*# sourceURL=woocommerce-inline-inline-css */
+</style>
+<link rel='stylesheet' id='mc4wp-form-themes-css' href='https://gristhouse.com/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.css?ver=4.13.0' media='all' />
+<link rel='stylesheet' id='hello-elementor-css' href='https://gristhouse.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.9' media='all' />
+<link rel='stylesheet' id='hello-elementor-theme-style-css' href='https://gristhouse.com/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.4.9' media='all' />
+<link rel='stylesheet' id='hello-elementor-header-footer-css' href='https://gristhouse.com/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.9' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://gristhouse.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.1.1' media='all' />
+<style id="elementor-frontend-inline-css">
+.elementor-kit-11636{--e-global-color-primary:#676D6C;--e-global-color-secondary:#54595F;--e-global-color-text:#7A7A7A;--e-global-color-accent:#61CE70;--e-global-typography-primary-font-family:"Roboto";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;--widgets-spacing-row:20px;--widgets-spacing-column:20px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-11636 e-page-transition{background-color:#FFBC7D;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}
+.elementor-17000 .elementor-element.elementor-element-651dee10 > .elementor-container{min-height:80vh;}.elementor-17000 .elementor-element.elementor-element-651dee10 > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-17000 .elementor-element.elementor-element-651dee10:not(.elementor-motion-effects-element-type-background), .elementor-17000 .elementor-element.elementor-element-651dee10 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:rgba(255,255,255,0.22);background-image:url("https://gristhouse.com/wp-content/uploads/2025/01/TAPROOM-WEB.jpg");background-position:center center;background-size:cover;}.elementor-17000 .elementor-element.elementor-element-651dee10 > .elementor-background-overlay{background-color:rgba(0,0,0,0);opacity:0.36;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-17000 .elementor-element.elementor-element-651dee10{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-17000 .elementor-element.elementor-element-4710e444 > .elementor-element-populated{padding:0% 0% 0% 0%;}.elementor-widget-heading .elementor-heading-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );color:var( --e-global-color-primary );}.elementor-17000 .elementor-element.elementor-element-1e9b16d{text-align:center;}.elementor-17000 .elementor-element.elementor-element-1e9b16d .elementor-heading-title{font-family:"Barlow Condensed", Sans-serif;font-size:84px;font-weight:600;text-shadow:1px 0px 23px #000000;color:#FFFFFF;}.elementor-17000 .elementor-element.elementor-element-82bff12{--spacer-size:50px;}.elementor-17000 .elementor-element.elementor-element-2d87a89{text-align:center;}.elementor-17000 .elementor-element.elementor-element-2d87a89 .elementor-heading-title{font-family:"Barlow Condensed", Sans-serif;font-size:65px;font-weight:500;}.elementor-17000 .elementor-element.elementor-element-54e11c2{text-align:center;}.elementor-17000 .elementor-element.elementor-element-54e11c2 .elementor-heading-title{font-family:"Barlow Semi Condensed", Sans-serif;font-weight:600;}.elementor-17000 .elementor-element.elementor-element-c20d0a2{--spacer-size:30px;}.elementor-widget-text-editor{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );color:var( --e-global-color-text );}.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:var( --e-global-color-primary );}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-17000 .elementor-element.elementor-element-0abb254{font-family:"Barlow Semi Condensed", Sans-serif;font-size:18px;font-weight:400;}.elementor-17000 .elementor-element.elementor-element-8543958{--spacer-size:30px;}.elementor-17000 .elementor-element.elementor-element-ad41122 .bdt-ep-button{color:#FFB400;border-style:solid;border-width:3px 3px 3px 3px;border-color:#FFB400;padding:15px 147px 15px 169px;}.elementor-17000 .elementor-element.elementor-element-ad41122 .bdt-ep-button,
+								.elementor-17000 .elementor-element.elementor-element-ad41122 .bdt-ep-button.bdt-ep-button-effect-i .bdt-ep-button-content-wrapper:after,
+								.elementor-17000 .elementor-element.elementor-element-ad41122 .bdt-ep-button.bdt-ep-button-effect-i .bdt-ep-button-content-wrapper:before,
+								.elementor-17000 .elementor-element.elementor-element-ad41122 .bdt-ep-button.bdt-ep-button-effect-h:hover{background-color:#FFFFFF00;}.elementor-17000 .elementor-element.elementor-element-ad41122 .bdt-ep-button:hover{color:#FFFFFF;border-style:solid;border-width:3px 3px 3px 3px;}.elementor-17000 .elementor-element.elementor-element-ad41122 .bdt-ep-button:after,
+								.elementor-17000 .elementor-element.elementor-element-ad41122 .bdt-ep-button:hover,
+								.elementor-17000 .elementor-element.elementor-element-ad41122 .bdt-ep-button.bdt-ep-button-effect-i,
+								.elementor-17000 .elementor-element.elementor-element-ad41122 .bdt-ep-button.bdt-ep-button-effect-h:after{background-color:#FFB400;}.elementor-17000 .elementor-element.elementor-element-d9756d7{--spacer-size:30px;}.elementor-widget-image .widget-image-caption{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-17000 .elementor-element.elementor-element-03666d4{--spacer-size:50px;}.elementor-17000 .elementor-element.elementor-element-26ce18e{--spacer-size:30px;}.elementor-17000 .elementor-element.elementor-element-f472ee9{--spacer-size:77px;}.elementor-17000 .elementor-element.elementor-element-bec5337{text-align:center;}.elementor-17000 .elementor-element.elementor-element-bec5337 .elementor-heading-title{font-family:"Barlow Condensed", Sans-serif;font-size:70px;font-weight:600;}.elementor-17000 .elementor-element.elementor-element-cbed2eb{--spacer-size:21px;}.elementor-17000 .elementor-element.elementor-element-6826287{--spacer-size:50px;}.elementor-17000 .elementor-element.elementor-element-031aabc{text-align:center;}.elementor-17000 .elementor-element.elementor-element-031aabc .elementor-heading-title{font-family:"Barlow Condensed", Sans-serif;font-size:60px;font-weight:600;}.elementor-17000 .elementor-element.elementor-element-33e3e3b{--spacer-size:50px;}.elementor-17000 .elementor-element.elementor-element-7b57bd91 .bdt-ep-accordion-item + .bdt-ep-accordion-item{margin-top:6px;}.elementor-17000 .elementor-element.elementor-element-7b57bd91 .bdt-ep-title-text{justify-content:flex-start;}.elementor-17000 .elementor-element.elementor-element-7b57bd91 .bdt-ep-accordion-title{color:#FFFFFF;background-color:transparent;background-image:linear-gradient(260deg, #FFED5B 0%, #FFA800 74%);font-family:"Barlow", Sans-serif;text-transform:uppercase;}.elementor-17000 .elementor-element.elementor-element-7b57bd91 .bdt-ep-accordion-custom-icon svg{fill:#FFFFFF;}.elementor-17000 .elementor-element.elementor-element-7b57bd91 .bdt-ep-accordion-icon{color:#FFFFFF;}.elementor-17000 .elementor-element.elementor-element-7b57bd91 .bdt-ep-accordion-icon svg{fill:#FFFFFF;}.elementor-17000 .elementor-element.elementor-element-7b57bd91 .bdt-ep-accordion-item:hover .bdt-ep-accordion-icon{color:#FFAF00;}.elementor-17000 .elementor-element.elementor-element-7b57bd91 .bdt-ep-accordion-item:hover .bdt-ep-accordion-icon svg{fill:#FFAF00;}.elementor-17000 .elementor-element.elementor-element-7b57bd91 .bdt-ep-accordion-item.bdt-open .bdt-ep-accordion-icon{color:#FFAF00;}.elementor-17000 .elementor-element.elementor-element-7b57bd91 .bdt-ep-accordion-item.bdt-open .bdt-ep-accordion-icon svg{fill:#FFAF00;}.elementor-17000 .elementor-element.elementor-element-7b57bd91 .bdt-ep-accordion-content{color:var( --e-global-color-secondary );font-family:"Barlow", Sans-serif;font-size:14px;}.elementor-17000 .elementor-element.elementor-element-17c78e3c .bdt-ep-accordion-item + .bdt-ep-accordion-item{margin-top:6px;}.elementor-17000 .elementor-element.elementor-element-17c78e3c .bdt-ep-title-text{justify-content:flex-start;}.elementor-17000 .elementor-element.elementor-element-17c78e3c .bdt-ep-accordion-title{color:#FFFFFF;background-color:transparent;background-image:linear-gradient(260deg, #FFED5B 0%, #FFA800 74%);font-family:"Barlow", Sans-serif;text-transform:uppercase;}.elementor-17000 .elementor-element.elementor-element-17c78e3c .bdt-ep-accordion-custom-icon svg{fill:#FFFFFF;}.elementor-17000 .elementor-element.elementor-element-17c78e3c .bdt-ep-accordion-icon{color:#FFFFFF;}.elementor-17000 .elementor-element.elementor-element-17c78e3c .bdt-ep-accordion-icon svg{fill:#FFFFFF;}.elementor-17000 .elementor-element.elementor-element-17c78e3c .bdt-ep-accordion-item:hover .bdt-ep-accordion-icon{color:#FFAF00;}.elementor-17000 .elementor-element.elementor-element-17c78e3c .bdt-ep-accordion-item:hover .bdt-ep-accordion-icon svg{fill:#FFAF00;}.elementor-17000 .elementor-element.elementor-element-17c78e3c .bdt-ep-accordion-item.bdt-open .bdt-ep-accordion-icon{color:#FFAF00;}.elementor-17000 .elementor-element.elementor-element-17c78e3c .bdt-ep-accordion-item.bdt-open .bdt-ep-accordion-icon svg{fill:#FFAF00;}.elementor-17000 .elementor-element.elementor-element-17c78e3c .bdt-ep-accordion-content{color:var( --e-global-color-secondary );font-family:"Barlow", Sans-serif;font-size:14px;}.elementor-17000 .elementor-element.elementor-element-0f47d4c{--spacer-size:10px;}.elementor-17000 .elementor-element.elementor-element-97606b8{text-align:center;font-family:"Barlow Semi Condensed", Sans-serif;font-size:25px;font-weight:400;}:root{--page-title-display:none;}.elementor-widget .tippy-tooltip .tippy-content{text-align:center;}@media(min-width:768px){.elementor-17000 .elementor-element.elementor-element-9269667{width:14.999%;}.elementor-17000 .elementor-element.elementor-element-8a6311b{width:69.333%;}.elementor-17000 .elementor-element.elementor-element-0581de7{width:15%;}}@media(max-width:1024px){.elementor-17000 .elementor-element.elementor-element-651dee10 > .elementor-container{min-height:800px;}.elementor-17000 .elementor-element.elementor-element-651dee10{padding:0px 25px 0px 25px;}.elementor-17000 .elementor-element.elementor-element-4710e444 > .elementor-element-populated{padding:40px 40px 40px 40px;}}@media(max-width:767px){.elementor-17000 .elementor-element.elementor-element-651dee10 > .elementor-container{min-height:612px;}.elementor-17000 .elementor-element.elementor-element-651dee10{padding:0px 20px 0px 20px;}.elementor-17000 .elementor-element.elementor-element-4710e444 > .elementor-element-populated{padding:0px 0px 0px 0px;}}
+.elementor-2470 .elementor-element.elementor-element-1598f24a > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-2470 .elementor-element.elementor-element-1598f24a:not(.elementor-motion-effects-element-type-background), .elementor-2470 .elementor-element.elementor-element-1598f24a > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-2470 .elementor-element.elementor-element-1598f24a{box-shadow:0px 0px 38px 0px rgba(0,0,0,0.1);transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:20px 0px 20px 0px;}.elementor-2470 .elementor-element.elementor-element-1598f24a > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-widget-theme-site-logo .widget-image-caption{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-nav-menu .elementor-nav-menu .elementor-item{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item{color:var( --e-global-color-text );fill:var( --e-global-color-text );}.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item:hover,
+					.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item.elementor-item-active,
+					.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item.highlighted,
+					.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item:focus{color:var( --e-global-color-accent );fill:var( --e-global-color-accent );}.elementor-widget-nav-menu .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:before,
+					.elementor-widget-nav-menu .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:after{background-color:var( --e-global-color-accent );}.elementor-widget-nav-menu .e--pointer-framed .elementor-item:before,
+					.elementor-widget-nav-menu .e--pointer-framed .elementor-item:after{border-color:var( --e-global-color-accent );}.elementor-widget-nav-menu{--e-nav-menu-divider-color:var( --e-global-color-text );}.elementor-widget-nav-menu .elementor-nav-menu--dropdown .elementor-item, .elementor-widget-nav-menu .elementor-nav-menu--dropdown  .elementor-sub-item{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-2470 .elementor-element.elementor-element-cd5ba4e .elementor-menu-toggle{margin-left:auto;}.elementor-2470 .elementor-element.elementor-element-cd5ba4e .elementor-nav-menu .elementor-item{font-family:"Barlow Condensed", Sans-serif;font-size:13px;font-weight:600;text-transform:uppercase;letter-spacing:1px;}.elementor-2470 .elementor-element.elementor-element-cd5ba4e .elementor-nav-menu--main .elementor-item:hover,
+					.elementor-2470 .elementor-element.elementor-element-cd5ba4e .elementor-nav-menu--main .elementor-item.elementor-item-active,
+					.elementor-2470 .elementor-element.elementor-element-cd5ba4e .elementor-nav-menu--main .elementor-item.highlighted,
+					.elementor-2470 .elementor-element.elementor-element-cd5ba4e .elementor-nav-menu--main .elementor-item:focus{color:#ECBD60;fill:#ECBD60;}.elementor-2470 .elementor-element.elementor-element-cd5ba4e .elementor-nav-menu--main .elementor-item{padding-left:30px;padding-right:30px;}.elementor-2470 .elementor-element.elementor-element-cd5ba4e .elementor-nav-menu--dropdown a, .elementor-2470 .elementor-element.elementor-element-cd5ba4e .elementor-menu-toggle{color:var( --e-global-color-secondary );fill:var( --e-global-color-secondary );}.elementor-2470 .elementor-element.elementor-element-cd5ba4e .elementor-nav-menu--dropdown a:hover,
+					.elementor-2470 .elementor-element.elementor-element-cd5ba4e .elementor-nav-menu--dropdown a:focus,
+					.elementor-2470 .elementor-element.elementor-element-cd5ba4e .elementor-nav-menu--dropdown a.elementor-item-active,
+					.elementor-2470 .elementor-element.elementor-element-cd5ba4e .elementor-nav-menu--dropdown a.highlighted,
+					.elementor-2470 .elementor-element.elementor-element-cd5ba4e .elementor-menu-toggle:hover,
+					.elementor-2470 .elementor-element.elementor-element-cd5ba4e .elementor-menu-toggle:focus{color:#f4941c;}.elementor-2470 .elementor-element.elementor-element-cd5ba4e .elementor-nav-menu--dropdown a:hover,
+					.elementor-2470 .elementor-element.elementor-element-cd5ba4e .elementor-nav-menu--dropdown a:focus,
+					.elementor-2470 .elementor-element.elementor-element-cd5ba4e .elementor-nav-menu--dropdown a.elementor-item-active,
+					.elementor-2470 .elementor-element.elementor-element-cd5ba4e .elementor-nav-menu--dropdown a.highlighted{background-color:#FFFFFF;}.elementor-2470 .elementor-element.elementor-element-cd5ba4e .elementor-nav-menu--dropdown .elementor-item, .elementor-2470 .elementor-element.elementor-element-cd5ba4e .elementor-nav-menu--dropdown  .elementor-sub-item{font-family:"Barlow Semi Condensed", Sans-serif;font-weight:500;text-transform:uppercase;}.elementor-theme-builder-content-area{height:400px;}.elementor-location-header:before, .elementor-location-footer:before{content:"";display:table;clear:both;}.elementor-widget .tippy-tooltip .tippy-content{text-align:center;}@media(min-width:768px){.elementor-2470 .elementor-element.elementor-element-46c721d{width:30%;}.elementor-2470 .elementor-element.elementor-element-55c2454e{width:70%;}}@media(max-width:1024px){.elementor-2470 .elementor-element.elementor-element-1598f24a{padding:20px 20px 20px 20px;}}@media(max-width:767px){.elementor-2470 .elementor-element.elementor-element-1598f24a{padding:020px 020px 020px 020px;}.elementor-2470 .elementor-element.elementor-element-46c721d{width:70%;}.elementor-2470 .elementor-element.elementor-element-fc13413{text-align:start;}.elementor-2470 .elementor-element.elementor-element-55c2454e{width:30%;}.elementor-2470 .elementor-element.elementor-element-cd5ba4e .elementor-nav-menu--main .elementor-item{padding-top:0px;padding-bottom:0px;}}
+.elementor-2409 .elementor-element.elementor-element-1539b3bd > .elementor-container{max-width:1600px;}.elementor-2409 .elementor-element.elementor-element-4376fbf4:not(.elementor-motion-effects-element-type-background), .elementor-2409 .elementor-element.elementor-element-4376fbf4 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#000000F0;}.elementor-2409 .elementor-element.elementor-element-4376fbf4{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:1px;margin-bottom:1px;padding:53px 33px 33px 33px;}.elementor-2409 .elementor-element.elementor-element-4376fbf4 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-2409 .elementor-element.elementor-element-6606bd2 > .elementor-widget-container{background-color:#3D3D3D;}.elementor-2409 .elementor-element.elementor-element-6606bd2:not( .elementor-widget-image ) .elementor-widget-container, .elementor-2409 .elementor-element.elementor-element-6606bd2.elementor-widget-image .elementor-widget-container img{-webkit-mask-image:url( https://gristhouse.com/wp-content/uploads/2019/10/house-full.png );-webkit-mask-size:contain;-webkit-mask-position:center center;-webkit-mask-repeat:no-repeat;}.elementor-widget-heading .elementor-heading-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );color:var( --e-global-color-primary );}.elementor-2409 .elementor-element.elementor-element-d104159{text-align:center;}.elementor-2409 .elementor-element.elementor-element-d104159 .elementor-heading-title{font-family:"Barlow", Sans-serif;font-size:25px;font-weight:900;letter-spacing:4.9px;color:var( --e-global-color-accent );}.elementor-2409 .elementor-element.elementor-element-d104159 > .elementor-widget-container{margin:-8px -8px -8px -8px;padding:0px 0px 0px 0px;}.elementor-2409 .elementor-element.elementor-element-d0b0463{text-align:center;}.elementor-2409 .elementor-element.elementor-element-d0b0463 .elementor-heading-title{font-family:"Barlow", Sans-serif;font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:4.9px;color:#FFFFFF;}.elementor-2409 .elementor-element.elementor-element-d0b0463 > .elementor-widget-container{margin:-6px -6px -6px -6px;padding:0px 0px 8px 0px;}.elementor-2409 .elementor-element.elementor-element-8ace7f8 .elementor-repeater-item-a27c205 .bdt-business-day-off{color:#36773F;}.elementor-2409 .elementor-element.elementor-element-8ace7f8 .elementor-repeater-item-a27c205 .bdt-business-time-off{color:var( --e-global-color-text );}.elementor-2409 .elementor-element.elementor-element-8ace7f8 div.bdt-ep-business-hours-inner div{padding:0px 0px 0px 0px;}.elementor-2409 .elementor-element.elementor-element-8ace7f8 .bdt-ep-business-hours-inner{padding:0px 15px 0px 15px;}.elementor-2409 .elementor-element.elementor-element-8ace7f8 .bdt-ep-business-hours-inner .heading-date{text-align:right;}.elementor-2409 .elementor-element.elementor-element-8ace7f8 .bdt-ep-business-hours-inner .heading-time{text-align:left;}.elementor-2409 .elementor-element.elementor-element-8ace7f8 .bdt-business-day{color:var( --e-global-color-accent );}.elementor-2409 .elementor-element.elementor-element-8ace7f8 .heading-date{font-family:"Barlow Semi Condensed", Sans-serif;font-size:18px;font-weight:900;letter-spacing:5.9px;}.elementor-2409 .elementor-element.elementor-element-8ace7f8 .bdt-business-time{color:#FFFFFF;}.elementor-2409 .elementor-element.elementor-element-8ace7f8 .heading-time{font-family:"Barlow", Sans-serif;font-size:18px;letter-spacing:-0.3px;}.elementor-2409 .elementor-element.elementor-element-8ace7f8 > .elementor-widget-container{margin:-11px -11px -11px -11px;padding:0px 37px 0px 5px;}.elementor-widget-text-editor{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );color:var( --e-global-color-text );}.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:var( --e-global-color-primary );}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-2409 .elementor-element.elementor-element-bbb1344{text-align:center;font-family:"Barlow Condensed", Sans-serif;font-style:italic;line-height:1em;color:#FFFFFF;}.elementor-2409 .elementor-element.elementor-element-bbb1344 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:8px 0px 0px 0px;}.elementor-2409 .elementor-element.elementor-element-a660eba .bdt-ep-button{color:#FFFFFF;border-style:solid;border-width:0px 0px 0px 0px;border-color:#666;border-radius:32px 32px 32px 32px;padding:6px 18px 4px 18px;box-shadow:0px 0px 10px 0px rgba(0,0,0,0.5);font-family:"Barlow Semi Condensed", Sans-serif;font-weight:500;letter-spacing:2.6px;}.elementor-2409 .elementor-element.elementor-element-a660eba .bdt-ep-button,
+								.elementor-2409 .elementor-element.elementor-element-a660eba .bdt-ep-button.bdt-ep-button-effect-i .bdt-ep-button-content-wrapper:after,
+								.elementor-2409 .elementor-element.elementor-element-a660eba .bdt-ep-button.bdt-ep-button-effect-i .bdt-ep-button-content-wrapper:before,
+								.elementor-2409 .elementor-element.elementor-element-a660eba .bdt-ep-button.bdt-ep-button-effect-h:hover{background-color:var( --e-global-color-accent );}.elementor-2409 .elementor-element.elementor-element-a660eba .bdt-ep-button:after,
+								.elementor-2409 .elementor-element.elementor-element-a660eba .bdt-ep-button:hover,
+								.elementor-2409 .elementor-element.elementor-element-a660eba .bdt-ep-button.bdt-ep-button-effect-i,
+								.elementor-2409 .elementor-element.elementor-element-a660eba .bdt-ep-button.bdt-ep-button-effect-h:after{background-color:#FFFFFF;}.elementor-2409 .elementor-element.elementor-element-a660eba .bdt-ep-button:hover{border-style:solid;border-width:0px 0px 0px 0px;}.elementor-2409 .elementor-element.elementor-element-a660eba > .elementor-widget-container{margin:0px 0px -7px 0px;padding:6px 0px 0px 0px;}.elementor-2409 .elementor-element.elementor-element-1276136e{text-align:center;}.elementor-2409 .elementor-element.elementor-element-1276136e .elementor-heading-title{font-family:"Barlow", Sans-serif;font-size:18px;font-weight:900;letter-spacing:3.3px;color:var( --e-global-color-accent );}.elementor-2409 .elementor-element.elementor-element-1276136e > .elementor-widget-container{padding:18px 0px 0px 0px;}.elementor-2409 .elementor-element.elementor-element-d4dc06c{text-align:center;font-family:"Barlow Condensed", Sans-serif;font-weight:400;text-transform:uppercase;line-height:1em;color:#FFFFFF;}.elementor-2409 .elementor-element.elementor-element-d4dc06c > .elementor-widget-container{margin:-2px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-2409 .elementor-element.elementor-element-4a2b2d5{text-align:center;}.elementor-2409 .elementor-element.elementor-element-4a2b2d5 .elementor-heading-title{font-family:"Barlow", Sans-serif;font-size:18px;font-weight:900;letter-spacing:3.3px;color:var( --e-global-color-accent );}.elementor-2409 .elementor-element.elementor-element-4a2b2d5 > .elementor-widget-container{padding:12px 0px 0px 0px;}.elementor-2409 .elementor-element.elementor-element-5a19df1c{--grid-template-columns:repeat(0, auto);--icon-size:27px;--grid-column-gap:26px;--grid-row-gap:0px;}.elementor-2409 .elementor-element.elementor-element-5a19df1c .elementor-widget-container{text-align:center;}.elementor-2409 .elementor-element.elementor-element-5a19df1c .elementor-social-icon{background-color:#A3363600;--icon-padding:0em;}.elementor-2409 .elementor-element.elementor-element-5a19df1c .elementor-social-icon i{color:#ffffff;}.elementor-2409 .elementor-element.elementor-element-5a19df1c .elementor-social-icon svg{fill:#ffffff;}.elementor-2409 .elementor-element.elementor-element-5a19df1c .elementor-social-icon:hover i{color:var( --e-global-color-accent );}.elementor-2409 .elementor-element.elementor-element-5a19df1c .elementor-social-icon:hover svg{fill:var( --e-global-color-accent );}.elementor-2409 .elementor-element.elementor-element-91cabbf:not(.elementor-motion-effects-element-type-background), .elementor-2409 .elementor-element.elementor-element-91cabbf > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#000000;}.elementor-2409 .elementor-element.elementor-element-91cabbf{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-2409 .elementor-element.elementor-element-91cabbf > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-widget-image .widget-image-caption{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-2409 .elementor-element.elementor-element-122de695 > .elementor-widget-container{margin:10px 0px 0px 0px;}.elementor-widget-nav-menu .elementor-nav-menu .elementor-item{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item{color:var( --e-global-color-text );fill:var( --e-global-color-text );}.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item:hover,
+					.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item.elementor-item-active,
+					.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item.highlighted,
+					.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item:focus{color:var( --e-global-color-accent );fill:var( --e-global-color-accent );}.elementor-widget-nav-menu .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:before,
+					.elementor-widget-nav-menu .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:after{background-color:var( --e-global-color-accent );}.elementor-widget-nav-menu .e--pointer-framed .elementor-item:before,
+					.elementor-widget-nav-menu .e--pointer-framed .elementor-item:after{border-color:var( --e-global-color-accent );}.elementor-widget-nav-menu{--e-nav-menu-divider-color:var( --e-global-color-text );}.elementor-widget-nav-menu .elementor-nav-menu--dropdown .elementor-item, .elementor-widget-nav-menu .elementor-nav-menu--dropdown  .elementor-sub-item{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-2409 .elementor-element.elementor-element-7dc0baf .elementor-menu-toggle{margin:0 auto;}.elementor-2409 .elementor-element.elementor-element-7dc0baf .elementor-nav-menu .elementor-item{font-family:"Barlow Condensed", Sans-serif;font-weight:600;text-transform:uppercase;}.elementor-widget-button .elementor-button{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );background-color:var( --e-global-color-accent );}.elementor-2409 .elementor-element.elementor-element-f0006f3 .elementor-button{font-family:"Barlow Condensed", Sans-serif;font-weight:500;text-transform:uppercase;fill:var( --e-global-color-accent );color:var( --e-global-color-accent );background-color:#61CE7000;}.elementor-2409 .elementor-element.elementor-element-f0006f3 .elementor-button:hover, .elementor-2409 .elementor-element.elementor-element-f0006f3 .elementor-button:focus{color:#FFFFFF;}.elementor-2409 .elementor-element.elementor-element-f0006f3 .elementor-button:hover svg, .elementor-2409 .elementor-element.elementor-element-f0006f3 .elementor-button:focus svg{fill:#FFFFFF;}.elementor-2409 .elementor-element.elementor-element-965b486{text-align:center;z-index:2;}.elementor-2409 .elementor-element.elementor-element-965b486 .elementor-heading-title{font-family:"Barlow Condensed", Sans-serif;font-size:11px;text-transform:uppercase;letter-spacing:2.9px;color:#ffffff;}.elementor-2409 .elementor-element.elementor-element-965b486 > .elementor-widget-container{padding:0px 0px 34px 0px;}.elementor-2409 .elementor-element.elementor-element-5eb92f2{text-align:center;}.elementor-2409 .elementor-element.elementor-element-5281666a > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-theme-builder-content-area{height:400px;}.elementor-location-header:before, .elementor-location-footer:before{content:"";display:table;clear:both;}.elementor-widget .tippy-tooltip .tippy-content{text-align:center;}@media(max-width:1024px){.elementor-2409 .elementor-element.elementor-element-5a19df1c > .elementor-widget-container{padding:40px 0px 0px 0px;}}@media(min-width:768px){.elementor-2409 .elementor-element.elementor-element-450926a3{width:67.019%;}.elementor-2409 .elementor-element.elementor-element-7f2ac3a4{width:49.996%;}.elementor-2409 .elementor-element.elementor-element-5ce2382{width:50%;}.elementor-2409 .elementor-element.elementor-element-3fd4d462{width:32.981%;}}@media(max-width:767px){.elementor-2409 .elementor-element.elementor-element-5a19df1c{--icon-size:15px;--grid-column-gap:16px;}.elementor-2409 .elementor-element.elementor-element-5a19df1c > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-2409 .elementor-element.elementor-element-f0006f3 .elementor-button{font-size:15px;letter-spacing:2.2px;}}
+/*# sourceURL=elementor-frontend-inline-css */
+</style>
+<link rel='stylesheet' id='widget-image-css' href='https://gristhouse.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.1.1' media='all' />
+<link rel='stylesheet' id='widget-nav-menu-css' href='https://gristhouse.com/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=4.1.0' media='all' />
+<link rel='stylesheet' id='e-sticky-css' href='https://gristhouse.com/wp-content/plugins/elementor-pro/assets/css/modules/sticky.min.css?ver=4.1.0' media='all' />
+<link rel='stylesheet' id='e-motion-fx-css' href='https://gristhouse.com/wp-content/plugins/elementor-pro/assets/css/modules/motion-fx.min.css?ver=4.1.0' media='all' />
+<link rel='stylesheet' id='widget-google_maps-css' href='https://gristhouse.com/wp-content/plugins/elementor/assets/css/widget-google_maps.min.css?ver=4.1.1' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='https://gristhouse.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.1.1' media='all' />
+<link rel='stylesheet' id='bdt-uikit-css' href='https://gristhouse.com/wp-content/plugins/bdthemes-element-pack/assets/css/bdt-uikit.css?ver=3.21.7' media='all' />
+<link rel='stylesheet' id='ep-helper-css' href='https://gristhouse.com/wp-content/plugins/bdthemes-element-pack/assets/css/ep-helper.css?ver=9.6.1' media='all' />
+<link rel='stylesheet' id='ep-business-hours-css' href='https://gristhouse.com/wp-content/plugins/bdthemes-element-pack/assets/css/ep-business-hours.css?ver=9.6.1' media='all' />
+<link rel='stylesheet' id='ep-advanced-button-css' href='https://gristhouse.com/wp-content/plugins/bdthemes-element-pack/assets/css/ep-advanced-button.css?ver=9.6.1' media='all' />
+<link rel='stylesheet' id='widget-social-icons-css' href='https://gristhouse.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=4.1.1' media='all' />
+<link rel='stylesheet' id='e-apple-webkit-css' href='https://gristhouse.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.1.1' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='https://gristhouse.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.49.0' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css' href='https://gristhouse.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.1.1' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css' href='https://gristhouse.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=4.1.1' media='all' />
+<link rel='stylesheet' id='widget-spacer-css' href='https://gristhouse.com/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=4.1.1' media='all' />
+<link rel='stylesheet' id='ep-accordion-css' href='https://gristhouse.com/wp-content/plugins/bdthemes-element-pack/assets/css/ep-accordion.css?ver=9.6.1' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-roboto-css' href='https://gristhouse.com/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1742570360' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-robotoslab-css' href='https://gristhouse.com/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1742570368' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-barlowcondensed-css' href='https://gristhouse.com/wp-content/uploads/elementor/google-fonts/css/barlowcondensed.css?ver=1742570383' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-barlowsemicondensed-css' href='https://gristhouse.com/wp-content/uploads/elementor/google-fonts/css/barlowsemicondensed.css?ver=1742570373' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-barlow-css' href='https://gristhouse.com/wp-content/uploads/elementor/google-fonts/css/barlow.css?ver=1742570379' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css' href='https://gristhouse.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css' href='https://gristhouse.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css' href='https://gristhouse.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3' media='all' />
+<script id="jquery-core-js" src="https://gristhouse.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://gristhouse.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script id="datatables-js" src="https://gristhouse.com/wp-content/plugins/bdthemes-element-pack/assets/vendor/js/datatables.min.js"></script>
+<script id="datatables-responsive-js" src="https://cdn.datatables.net/responsive/2.3.0/js/dataTables.responsive.min.js?ver=7.0"></script>
+<script data-wp-strategy="defer" defer id="wc-js-cookie-js" src="https://gristhouse.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.10.8.1"></script>
+<script id="wc-cart-fragments-js-extra">
+var wc_cart_fragments_params = {"ajax_url":"/wp-admin/admin-ajax.php","wc_ajax_url":"/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_ee7ebfb85fce1437b0ccd9fe57c75393","fragment_name":"wc_fragments_ee7ebfb85fce1437b0ccd9fe57c75393","request_timeout":"5000"};
+//# sourceURL=wc-cart-fragments-js-extra
+</script>
+<script data-wp-strategy="defer" defer id="wc-cart-fragments-js" src="https://gristhouse.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=10.8.1"></script>
+<script data-wp-strategy="defer" defer id="wc-jquery-blockui-js" src="https://gristhouse.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.10.8.1"></script>
+<script id="wc-add-to-cart-js-extra">
+var wc_add_to_cart_params = {"ajax_url":"/wp-admin/admin-ajax.php","wc_ajax_url":"/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https://gristhouse.com/cart/","is_cart":"","cart_redirect_after_add":"yes"};
+//# sourceURL=wc-add-to-cart-js-extra
+</script>
+<script data-wp-strategy="defer" defer id="wc-add-to-cart-js" src="https://gristhouse.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=10.8.1"></script>
+<script id="woocommerce-js-extra">
+var woocommerce_params = {"ajax_url":"/wp-admin/admin-ajax.php","wc_ajax_url":"/?wc-ajax=%%endpoint%%","i18n_password_show":"Show password","i18n_password_hide":"Hide password"};
+//# sourceURL=woocommerce-js-extra
+</script>
+<script data-wp-strategy="defer" defer id="woocommerce-js" src="https://gristhouse.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=10.8.1"></script>
+<script id="wpgmza_data-js-extra">
+var wpgmza_google_api_status = {"message":"Enqueued","code":"ENQUEUED"};
+//# sourceURL=wpgmza_data-js-extra
+</script>
+<script id="wpgmza_data-js" src="https://gristhouse.com/wp-content/plugins/wp-google-maps/wpgmza_data.js?ver=7.0"></script>
+<script id="WCPAY_ASSETS-js-extra">
+var wcpayAssets = {"url":"https://gristhouse.com/wp-content/plugins/woocommerce-payments/dist/"};
+//# sourceURL=WCPAY_ASSETS-js-extra
+</script>
+<script id="font-awesome-4-shim-js" src="https://gristhouse.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=4.1.1"></script>
+<link rel="https://api.w.org/" href="https://gristhouse.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://gristhouse.com/wp-json/wp/v2/pages/17000" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://gristhouse.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 7.0" />
+<meta name="generator" content="WooCommerce 10.8.1" />
+<link rel='shortlink' href='https://gristhouse.com/?p=17000' />
+ <style> .ppw-ppf-input-container { background-color: !important; padding: px!important; border-radius: px!important; } .ppw-ppf-input-container div.ppw-ppf-headline { font-size: px!important; font-weight: !important; color: !important; } .ppw-ppf-input-container div.ppw-ppf-desc { font-size: px!important; font-weight: !important; color: !important; } .ppw-ppf-input-container label.ppw-pwd-label { font-size: px!important; font-weight: !important; color: !important; } div.ppwp-wrong-pw-error { font-size: px!important; font-weight: !important; color: #dc3232!important; background: !important; } .ppw-ppf-input-container input[type='submit'] { color: !important; background: !important; } .ppw-ppf-input-container input[type='submit']:hover { color: !important; background: !important; } .ppw-ppf-desc-below { font-size: px!important; font-weight: !important; color: !important; } </style>  <style> .ppw-form { background-color: !important; padding: px!important; border-radius: px!important; } .ppw-headline.ppw-pcp-pf-headline { font-size: px!important; font-weight: !important; color: !important; } .ppw-description.ppw-pcp-pf-desc { font-size: px!important; font-weight: !important; color: !important; } .ppw-pcp-pf-desc-above-btn { display: block; } .ppw-pcp-pf-desc-below-form { font-size: px!important; font-weight: !important; color: !important; } .ppw-input label.ppw-pcp-password-label { font-size: px!important; font-weight: !important; color: !important; } .ppw-form input[type='submit'] { color: !important; background: !important; } .ppw-form input[type='submit']:hover { color: !important; background: !important; } div.ppw-error.ppw-pcp-pf-error-msg { font-size: px!important; font-weight: !important; color: #dc3232!important; background: !important; } </style> 	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Elementor 4.1.1; features: additional_custom_breakpoints; settings: css_print_method-internal, google_font-enabled, font_display-auto">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<link rel="icon" href="https://gristhouse.com/wp-content/uploads/2020/11/nav_icon-100x100.png" sizes="32x32" />
+<link rel="icon" href="https://gristhouse.com/wp-content/uploads/2020/11/nav_icon.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://gristhouse.com/wp-content/uploads/2020/11/nav_icon.png" />
+<meta name="msapplication-TileImage" content="https://gristhouse.com/wp-content/uploads/2020/11/nav_icon.png" />
+</head>
+<body class="wp-singular page-template-default page page-id-17000 wp-custom-logo wp-embed-responsive wp-theme-hello-elementor theme-hello-elementor woocommerce-no-js hello-elementor-default elementor-default elementor-kit-11636 elementor-page elementor-page-17000">
+
+
+<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+		<header data-elementor-type="header" data-elementor-id="2470" class="elementor elementor-2470 elementor-location-header" data-elementor-settings="{&quot;element_pack_global_tooltip_width&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_padding&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true}}" data-elementor-post-type="elementor_library">
+					<header class="elementor-section elementor-top-section elementor-element elementor-element-1598f24a elementor-section-content-middle bdt-backdrop-filter-yes elementor-section-boxed elementor-section-height-default elementor-section-height-default bdt-filter-backdrop" data-id="1598f24a" data-element_type="section" data-e-type="section" data-settings="{&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;animation&quot;:&quot;none&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0,&quot;sticky_anchor_link_offset&quot;:0}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-46c721d" data-id="46c721d" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-fc13413 elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="fc13413" data-element_type="widget" data-e-type="widget" data-widget_type="theme-site-logo.default">
+				<div class="elementor-widget-container">
+											<a href="https://gristhouse.com">
+			<img fetchpriority="high" width="2560" height="748" src="https://gristhouse.com/wp-content/uploads/2020/11/wide_wheat-01-1-scaled.png" class="attachment-full size-full wp-image-16418" alt="" srcset="https://gristhouse.com/wp-content/uploads/2020/11/wide_wheat-01-1-scaled.png 2560w, https://gristhouse.com/wp-content/uploads/2020/11/wide_wheat-01-1-600x175.png 600w, https://gristhouse.com/wp-content/uploads/2020/11/wide_wheat-01-1-300x88.png 300w, https://gristhouse.com/wp-content/uploads/2020/11/wide_wheat-01-1-1024x299.png 1024w, https://gristhouse.com/wp-content/uploads/2020/11/wide_wheat-01-1-768x225.png 768w, https://gristhouse.com/wp-content/uploads/2020/11/wide_wheat-01-1-1536x449.png 1536w, https://gristhouse.com/wp-content/uploads/2020/11/wide_wheat-01-1-2048x599.png 2048w" sizes="(max-width: 2560px) 100vw, 2560px" />				</a>
+											</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-55c2454e" data-id="55c2454e" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-cd5ba4e elementor-nav-menu__align-end elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="cd5ba4e" data-element_type="widget" data-e-type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot; aria-hidden=\&quot;true\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+								<nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-text e--animation-skew">
+				<ul id="menu-1-cd5ba4e" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15586"><a href="https://gristhouse.com/about-2/" class="elementor-item">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15975"><a href="https://gristhouse.com/beer/" class="elementor-item">Beer</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-17270"><a href="https://gristhouse.com/locations/" class="elementor-item">Locations</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-17000 current_page_item menu-item-17272"><a href="https://gristhouse.com/millvale/" aria-current="page" class="elementor-sub-item elementor-item-active">Millvale</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17652"><a href="https://gristhouse.com/command/" class="elementor-sub-item">Command</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17273"><a href="https://gristhouse.com/beer-crib/" class="elementor-sub-item">Beer Crib</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17271"><a href="https://gristhouse.com/beer-market/" class="elementor-sub-item">Beer Market</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18535"><a href="#" class="elementor-item elementor-item-anchor">Private Events</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18536"><a href="https://gristhouse.com/private-events-millvale/" class="elementor-sub-item">Private Events Millvale</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18537"><a href="https://gristhouse.com/private-events-command/" class="elementor-sub-item">Private Events Command</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14214"><a href="https://gristhouse.com/store/" class="elementor-item">Store</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1849"><a href="https://gristhouse.com/contact/" class="elementor-item">Contact</a></li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>		</div>
+					<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-cd5ba4e" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15586"><a href="https://gristhouse.com/about-2/" class="elementor-item" tabindex="-1">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15975"><a href="https://gristhouse.com/beer/" class="elementor-item" tabindex="-1">Beer</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-17270"><a href="https://gristhouse.com/locations/" class="elementor-item" tabindex="-1">Locations</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-17000 current_page_item menu-item-17272"><a href="https://gristhouse.com/millvale/" aria-current="page" class="elementor-sub-item elementor-item-active" tabindex="-1">Millvale</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17652"><a href="https://gristhouse.com/command/" class="elementor-sub-item" tabindex="-1">Command</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17273"><a href="https://gristhouse.com/beer-crib/" class="elementor-sub-item" tabindex="-1">Beer Crib</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17271"><a href="https://gristhouse.com/beer-market/" class="elementor-sub-item" tabindex="-1">Beer Market</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18535"><a href="#" class="elementor-item elementor-item-anchor" tabindex="-1">Private Events</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18536"><a href="https://gristhouse.com/private-events-millvale/" class="elementor-sub-item" tabindex="-1">Private Events Millvale</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18537"><a href="https://gristhouse.com/private-events-command/" class="elementor-sub-item" tabindex="-1">Private Events Command</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14214"><a href="https://gristhouse.com/store/" class="elementor-item" tabindex="-1">Store</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1849"><a href="https://gristhouse.com/contact/" class="elementor-item" tabindex="-1">Contact</a></li>
+</ul>			</nav>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</header>
+				</header>
+		
+<main id="content" class="site-main post-17000 page type-page status-publish hentry">
+
+	
+	<div class="page-content">
+				<div data-elementor-type="wp-post" data-elementor-id="17000" class="elementor elementor-17000" data-elementor-settings="{&quot;element_pack_global_tooltip_width&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_padding&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true}}" data-elementor-post-type="page">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-651dee10 elementor-section-height-min-height elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="651dee10" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;background_motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;background_motion_fx_translateY_effect&quot;:&quot;yes&quot;,&quot;background_motion_fx_translateY_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:5,&quot;sizes&quot;:[]},&quot;background_motion_fx_translateY_affectedRange&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:100}},&quot;background_motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;]}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4710e444" data-id="4710e444" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1e9b16d elementor-widget elementor-widget-heading" data-id="1e9b16d" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">MILLVALE</h1>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9bd5913 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9bd5913" data-element_type="section" data-e-type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-9269667" data-id="9269667" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+				<div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-8a6311b" data-id="8a6311b" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-82bff12 elementor-widget elementor-widget-spacer" data-id="82bff12" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-2d87a89 elementor-widget elementor-widget-heading" data-id="2d87a89" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">Grist House Craft Brewery</h1>				</div>
+				</div>
+				<div class="elementor-element elementor-element-54e11c2 elementor-widget elementor-widget-heading" data-id="54e11c2" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Millvale (Pittsburgh), Pennsylvania</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-c20d0a2 elementor-widget elementor-widget-spacer" data-id="c20d0a2" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-0abb254 elementor-widget elementor-widget-text-editor" data-id="0abb254" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p style="text-align: center;">Grist House in Millvale is the original location we opened in 2014.</p><p style="text-align: center;">Visit us inside the welcoming and open-concept tap room with bright decor and more than 15 different beers on tap, or hang out on the patio equipped with seasonal fire pits and plenty of seating.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-8543958 elementor-widget elementor-widget-spacer" data-id="8543958" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-ad41122 elementor-align-center elementor-widget elementor-widget-bdt-advanced-button" data-id="ad41122" data-element_type="widget" data-e-type="widget" data-widget_type="bdt-advanced-button.default">
+				<div class="elementor-widget-container">
+							<div class="bdt-ep-button-wrapper">
+			<a href="https://commerce.arryved.com/location/BZ3xNMsO/modality/pickup/" target="_blank" class="bdt-ep-button bdt-ep-button-effect-a bdt-ep-button-size-md">
+						<div class="bdt-ep-button-content-wrapper bdt-flex bdt-flex-middle bdt-flex-center" data-text="MILLVALE BEER &amp; MERCH PICK UP">
+			
+			<div class="bdt-ep-button-text">
+
+				<span class="avdbtn-text">
+					MILLVALE BEER &amp; MERCH PICK UP				</span>
+
+							</div>
+
+			
+		</div>
+					</a>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-d9756d7 elementor-widget elementor-widget-spacer" data-id="d9756d7" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-4f16e8a elementor-widget elementor-widget-image" data-id="4f16e8a" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="800" height="440" src="https://gristhouse.com/wp-content/uploads/2026/06/0weekly-06.02_FT_web-1024x563.png" class="attachment-large size-large wp-image-18758" alt="" srcset="https://gristhouse.com/wp-content/uploads/2026/06/0weekly-06.02_FT_web-1024x563.png 1024w, https://gristhouse.com/wp-content/uploads/2026/06/0weekly-06.02_FT_web-300x165.png 300w, https://gristhouse.com/wp-content/uploads/2026/06/0weekly-06.02_FT_web-768x422.png 768w, https://gristhouse.com/wp-content/uploads/2026/06/0weekly-06.02_FT_web-1536x845.png 1536w, https://gristhouse.com/wp-content/uploads/2026/06/0weekly-06.02_FT_web-2048x1126.png 2048w, https://gristhouse.com/wp-content/uploads/2026/06/0weekly-06.02_FT_web-600x330.png 600w" sizes="(max-width: 800px) 100vw, 800px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-620410f elementor-widget elementor-widget-image" data-id="620410f" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="800" height="450" src="https://gristhouse.com/wp-content/uploads/2026/06/ASSETS-TV-04-1024x576.png" class="attachment-large size-large wp-image-18762" alt="" srcset="https://gristhouse.com/wp-content/uploads/2026/06/ASSETS-TV-04-1024x576.png 1024w, https://gristhouse.com/wp-content/uploads/2026/06/ASSETS-TV-04-300x169.png 300w, https://gristhouse.com/wp-content/uploads/2026/06/ASSETS-TV-04-768x432.png 768w, https://gristhouse.com/wp-content/uploads/2026/06/ASSETS-TV-04-1536x864.png 1536w, https://gristhouse.com/wp-content/uploads/2026/06/ASSETS-TV-04-2048x1152.png 2048w, https://gristhouse.com/wp-content/uploads/2026/06/ASSETS-TV-04-600x338.png 600w" sizes="(max-width: 800px) 100vw, 800px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-03666d4 elementor-widget elementor-widget-spacer" data-id="03666d4" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-26ce18e elementor-widget elementor-widget-spacer" data-id="26ce18e" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-0581de7" data-id="0581de7" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-61701bb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="61701bb" data-element_type="section" data-e-type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a4eabc8" data-id="a4eabc8" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-f472ee9 elementor-widget elementor-widget-spacer" data-id="f472ee9" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-bec5337 elementor-widget elementor-widget-heading" data-id="bec5337" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">WHAT'S ON TAP?</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-cbed2eb elementor-widget elementor-widget-spacer" data-id="cbed2eb" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-d9b4f55 elementor-widget elementor-widget-html" data-id="d9b4f55" data-element_type="widget" data-e-type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<div id="menu-container"></div>
+<script type="text/javascript">
+  !function(e,n){var t=document.createElement("script"),a=document.getElementsByTagName("script")[0];t.async=1,a.parentNode.insertBefore(t,a),t.onload=t.onreadystatechange=function(e,a){(a||!t.readyState||/loaded|complete/.test(t.readyState))&&(t.onload=t.onreadystatechange=null,t=void 0,a||n&&n())},t.src=e}("https://embed-menu-preloader.untappdapi.com/embed-menu-preloader.min.js",(function(){PreloadEmbedMenu("menu-container",5411,17922)}));
+</script>
+ 				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9af5609 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9af5609" data-element_type="section" data-e-type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-6c7fd3f" data-id="6c7fd3f" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+				<div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-80a554a" data-id="80a554a" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6826287 elementor-widget elementor-widget-spacer" data-id="6826287" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-031aabc elementor-widget elementor-widget-heading" data-id="031aabc" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">FREQUENTLY ASKED QUESTIONS</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-33e3e3b elementor-widget elementor-widget-spacer" data-id="33e3e3b" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-84bc4b1" data-id="84bc4b1" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-10d24734 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="10d24734" data-element_type="section" data-e-type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7811edfe" data-id="7811edfe" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7b57bd91 elementor-widget elementor-widget-bdt-accordion" data-id="7b57bd91" data-element_type="widget" data-e-type="widget" data-widget_type="bdt-accordion.default">
+				<div class="elementor-widget-container">
+							<div class="bdt-ep-accordion-container">
+			<div id="bdt-ep-accordion-7b57bd91" class="bdt-ep-accordion bdt-accordion" data-bdt-accordion="{&quot;collapsible&quot;:true,&quot;multiple&quot;:false,&quot;animation&quot;:true,&quot;transition&quot;:&quot;ease-in-out&quot;,&quot;duration&quot;:200}" 		data-settings="{&quot;id&quot;:&quot;bdt-ep-accordion-7b57bd91&quot;,&quot;activeHash&quot;:&quot;no&quot;,&quot;activeScrollspy&quot;:null,&quot;hashTopOffset&quot;:false,&quot;hashScrollspyTime&quot;:false,&quot;closeAllItemsOnMobile&quot;:false}">
+									<div class="bdt-ep-accordion-item">
+						<div							class="bdt-ep-accordion-title bdt-accordion-title bdt-flex bdt-flex-middle bdt-flex-between" id="bdt-ep-accordion-do-you-serve-food"
+							data-accordion-index="0" data-title="do-you-serve-food">
+
+															<span class="bdt-ep-accordion-icon bdt-flex-align-right"
+									aria-hidden="true">
+
+																			<span class="bdt-ep-accordion-icon-closed">
+											<i aria-hidden="true" class="fa-fw fas fa-plus"></i>										</span>
+									
+																			<span class="bdt-ep-accordion-icon-opened">
+											<i aria-hidden="true" class="fa-fw fas fa-minus"></i>										</span>
+									
+								</span>
+							
+							<span role="heading" class="bdt-ep-title-text bdt-flex-inline bdt-flex-middle" >
+
+																Do you serve food?							</span>
+
+						</div>
+						<div class="bdt-ep-accordion-content bdt-accordion-content">
+							<p><span style="font-weight: 400;">We do not have a kitchen but we do always have a food truck on site for when you get hungry! You can find the food truck schedule above, which will be updated weekly.</span></p>						</div>
+					</div>
+									<div class="bdt-ep-accordion-item">
+						<div							class="bdt-ep-accordion-title bdt-accordion-title bdt-flex bdt-flex-middle bdt-flex-between" id="bdt-ep-accordion-can-i-bring-my-own-food"
+							data-accordion-index="1" data-title="can-i-bring-my-own-food">
+
+															<span class="bdt-ep-accordion-icon bdt-flex-align-right"
+									aria-hidden="true">
+
+																			<span class="bdt-ep-accordion-icon-closed">
+											<i aria-hidden="true" class="fa-fw fas fa-plus"></i>										</span>
+									
+																			<span class="bdt-ep-accordion-icon-opened">
+											<i aria-hidden="true" class="fa-fw fas fa-minus"></i>										</span>
+									
+								</span>
+							
+							<span role="heading" class="bdt-ep-title-text bdt-flex-inline bdt-flex-middle" >
+
+																Can I bring my own food?							</span>
+
+						</div>
+						<div class="bdt-ep-accordion-content bdt-accordion-content">
+							<p><span style="font-weight: 400;">Sure! Outside food is welcome at this location, but outside alcohol is prohibited.</span></p>						</div>
+					</div>
+									<div class="bdt-ep-accordion-item">
+						<div							class="bdt-ep-accordion-title bdt-accordion-title bdt-flex bdt-flex-middle bdt-flex-between" id="bdt-ep-accordion-are-dogs-allowed"
+							data-accordion-index="2" data-title="are-dogs-allowed">
+
+															<span class="bdt-ep-accordion-icon bdt-flex-align-right"
+									aria-hidden="true">
+
+																			<span class="bdt-ep-accordion-icon-closed">
+											<i aria-hidden="true" class="fa-fw fas fa-plus"></i>										</span>
+									
+																			<span class="bdt-ep-accordion-icon-opened">
+											<i aria-hidden="true" class="fa-fw fas fa-minus"></i>										</span>
+									
+								</span>
+							
+							<span role="heading" class="bdt-ep-title-text bdt-flex-inline bdt-flex-middle" >
+
+																Are dogs allowed?							</span>
+
+						</div>
+						<div class="bdt-ep-accordion-content bdt-accordion-content">
+							<p><span style="font-weight: 400;">Yes, Grist House is a dog friendly brewery!</span></p><p><span style="font-weight: 400;">Our pet policy is simple:</span></p><ul><li><span style="font-weight: 400;">No dogs inside the taproom.</span></li><li><span style="font-weight: 400;">No Barking!</span></li><li><span style="font-weight: 400;">Dogs Must Be Leashed And Under Control At All Times</span></li><li><span style="font-weight: 400;">Dogs May Not Be On Tables Or Chairs</span></li><li><span style="font-weight: 400;">Please, Clean Up After Your Pet</span></li></ul><p><strong>If Grist House Staff feels your dog is being disruptive in any way, you will be asked to leave.</strong></p>						</div>
+					</div>
+									<div class="bdt-ep-accordion-item">
+						<div							class="bdt-ep-accordion-title bdt-accordion-title bdt-flex bdt-flex-middle bdt-flex-between" id="bdt-ep-accordion-are-children-allowed"
+							data-accordion-index="3" data-title="are-children-allowed">
+
+															<span class="bdt-ep-accordion-icon bdt-flex-align-right"
+									aria-hidden="true">
+
+																			<span class="bdt-ep-accordion-icon-closed">
+											<i aria-hidden="true" class="fa-fw fas fa-plus"></i>										</span>
+									
+																			<span class="bdt-ep-accordion-icon-opened">
+											<i aria-hidden="true" class="fa-fw fas fa-minus"></i>										</span>
+									
+								</span>
+							
+							<span role="heading" class="bdt-ep-title-text bdt-flex-inline bdt-flex-middle" >
+
+																Are children allowed?							</span>
+
+						</div>
+						<div class="bdt-ep-accordion-content bdt-accordion-content">
+							<p><span style="font-weight: 400;">Yes, Grist House Craft Brewery is an adult establishment that has always welcomed children, and we’d like to continue to do so. However, in light of a few recent incidents, we have no choice but to tighten our policy on having children in our establishment.</span></p><p><span style="font-weight: 400;">These house rules were created with your child’s safety in mind:</span></p><ul><li><span style="font-weight: 400;">Children must be supervised at all times. There can not be more than 3 children per 1 adult</span></li><li><span style="font-weight: 400;">No running</span></li><li><span style="font-weight: 400;">No climbing on the tables, benches, wood piles, fences, walls, etc&#8230;</span></li><li><span style="font-weight: 400;">No throwing rocks</span></li><li><span style="font-weight: 400;">Strollers must not block entrance/exits, ramps, stairways, or walkways.</span></li><li><span style="font-weight: 400;">No changing diapers outside of the restroom.</span></li><li><span style="font-weight: 400;">Please keep children with you at your table – No tables of children without an adult present. The responsible adult must be within 10 ft of their children at all times</span></li><li><span style="font-weight: 400;">Shoes and clothes must be worn at all times</span></li></ul>						</div>
+					</div>
+									<div class="bdt-ep-accordion-item">
+						<div							class="bdt-ep-accordion-title bdt-accordion-title bdt-flex bdt-flex-middle bdt-flex-between" id="bdt-ep-accordion-where-can-i-park"
+							data-accordion-index="4" data-title="where-can-i-park">
+
+															<span class="bdt-ep-accordion-icon bdt-flex-align-right"
+									aria-hidden="true">
+
+																			<span class="bdt-ep-accordion-icon-closed">
+											<i aria-hidden="true" class="fa-fw fas fa-plus"></i>										</span>
+									
+																			<span class="bdt-ep-accordion-icon-opened">
+											<i aria-hidden="true" class="fa-fw fas fa-minus"></i>										</span>
+									
+								</span>
+							
+							<span role="heading" class="bdt-ep-title-text bdt-flex-inline bdt-flex-middle" >
+
+																Where can I park?							</span>
+
+						</div>
+						<div class="bdt-ep-accordion-content bdt-accordion-content">
+							<p><span style="font-weight: 400;">There is a public parking lot across the street from Grist House that visitors are welcome to park in, but <strong>pay attention to signs</strong>! Some spots are private. Metered street parking is available on Grant, and unmetered street parking is available on side streets. Please be courteous to our neighbors and fellow businesses when choosing where to park.</span></p>						</div>
+					</div>
+							</div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-31317d0c" data-id="31317d0c" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-17c78e3c elementor-widget elementor-widget-bdt-accordion" data-id="17c78e3c" data-element_type="widget" data-e-type="widget" data-widget_type="bdt-accordion.default">
+				<div class="elementor-widget-container">
+							<div class="bdt-ep-accordion-container">
+			<div id="bdt-ep-accordion-17c78e3c" class="bdt-ep-accordion bdt-accordion" data-bdt-accordion="{&quot;collapsible&quot;:true,&quot;multiple&quot;:false,&quot;animation&quot;:true,&quot;transition&quot;:&quot;ease-in-out&quot;,&quot;duration&quot;:200}" 		data-settings="{&quot;id&quot;:&quot;bdt-ep-accordion-17c78e3c&quot;,&quot;activeHash&quot;:&quot;no&quot;,&quot;activeScrollspy&quot;:null,&quot;hashTopOffset&quot;:false,&quot;hashScrollspyTime&quot;:false,&quot;closeAllItemsOnMobile&quot;:false}">
+									<div class="bdt-ep-accordion-item">
+						<div							class="bdt-ep-accordion-title bdt-accordion-title bdt-flex bdt-flex-middle bdt-flex-between" id="bdt-ep-accordion-will-you-fill-growlers-or-crowlers"
+							data-accordion-index="0" data-title="will-you-fill-growlers-or-crowlers">
+
+															<span class="bdt-ep-accordion-icon bdt-flex-align-right"
+									aria-hidden="true">
+
+																			<span class="bdt-ep-accordion-icon-closed">
+											<i aria-hidden="true" class="fa-fw fas fa-plus"></i>										</span>
+									
+																			<span class="bdt-ep-accordion-icon-opened">
+											<i aria-hidden="true" class="fa-fw fas fa-minus"></i>										</span>
+									
+								</span>
+							
+							<span role="heading" class="bdt-ep-title-text bdt-flex-inline bdt-flex-middle" >
+
+																Will you fill growlers or crowlers?							</span>
+
+						</div>
+						<div class="bdt-ep-accordion-content bdt-accordion-content">
+							<p><span style="font-weight: 400;">We will fill any </span><strong><i>clean</i></strong><span style="font-weight: 400;"> growler.</span></p><p><span style="font-weight: 400;">The cleanliness of your growler is extremely important for the health of the beer. We recommend that you rinse your growler several times with hot water immediately following consumption and allow to dry completely. If a growler is soiled in any way, we reserve the right to refuse to fill it.</span></p><p><span style="font-weight: 400;">We sell 64oz and 32oz branded growlers if you need one. </span></p><p><strong>Beers that are available in 4-packs and limited release beers are not eligible for growler fills.</strong></p><p><span style="font-weight: 400;">At this time we do not fill crowlers.</span></p>						</div>
+					</div>
+									<div class="bdt-ep-accordion-item">
+						<div							class="bdt-ep-accordion-title bdt-accordion-title bdt-flex bdt-flex-middle bdt-flex-between" id="bdt-ep-accordion-can-i-have-my-event-at-grist-house"
+							data-accordion-index="1" data-title="can-i-have-my-event-at-grist-house">
+
+															<span class="bdt-ep-accordion-icon bdt-flex-align-right"
+									aria-hidden="true">
+
+																			<span class="bdt-ep-accordion-icon-closed">
+											<i aria-hidden="true" class="fa-fw fas fa-plus"></i>										</span>
+									
+																			<span class="bdt-ep-accordion-icon-opened">
+											<i aria-hidden="true" class="fa-fw fas fa-minus"></i>										</span>
+									
+								</span>
+							
+							<span role="heading" class="bdt-ep-title-text bdt-flex-inline bdt-flex-middle" >
+
+																Can I have my event at Grist House?							</span>
+
+						</div>
+						<div class="bdt-ep-accordion-content bdt-accordion-content">
+							<p><span style="font-weight: 400;">Sure! To inquire about having your event at Grist House, please click <a href="https://gristhouse.com/private-events-millvale/">here.</a> Certain dates and times may not be available. </span></p><p><strong>*Please note: Grist House &#8211; Millvale does not host weddings at this time. </strong></p>						</div>
+					</div>
+									<div class="bdt-ep-accordion-item">
+						<div							class="bdt-ep-accordion-title bdt-accordion-title bdt-flex bdt-flex-middle bdt-flex-between" id="bdt-ep-accordion-can-i-reserve-a-table"
+							data-accordion-index="2" data-title="can-i-reserve-a-table">
+
+															<span class="bdt-ep-accordion-icon bdt-flex-align-right"
+									aria-hidden="true">
+
+																			<span class="bdt-ep-accordion-icon-closed">
+											<i aria-hidden="true" class="fa-fw fas fa-plus"></i>										</span>
+									
+																			<span class="bdt-ep-accordion-icon-opened">
+											<i aria-hidden="true" class="fa-fw fas fa-minus"></i>										</span>
+									
+								</span>
+							
+							<span role="heading" class="bdt-ep-title-text bdt-flex-inline bdt-flex-middle" >
+
+																Can I reserve a table?							</span>
+
+						</div>
+						<div class="bdt-ep-accordion-content bdt-accordion-content">
+							<div>No, seating is first come first served.</div>						</div>
+					</div>
+									<div class="bdt-ep-accordion-item">
+						<div							class="bdt-ep-accordion-title bdt-accordion-title bdt-flex bdt-flex-middle bdt-flex-between" id="bdt-ep-accordion-how-can-i-get-my-food-truck-on-your-schedule"
+							data-accordion-index="3" data-title="how-can-i-get-my-food-truck-on-your-schedule">
+
+															<span class="bdt-ep-accordion-icon bdt-flex-align-right"
+									aria-hidden="true">
+
+																			<span class="bdt-ep-accordion-icon-closed">
+											<i aria-hidden="true" class="fa-fw fas fa-plus"></i>										</span>
+									
+																			<span class="bdt-ep-accordion-icon-opened">
+											<i aria-hidden="true" class="fa-fw fas fa-minus"></i>										</span>
+									
+								</span>
+							
+							<span role="heading" class="bdt-ep-title-text bdt-flex-inline bdt-flex-middle" >
+
+																How can I get my food truck on your schedule?							</span>
+
+						</div>
+						<div class="bdt-ep-accordion-content bdt-accordion-content">
+							<p><span style="font-weight: 400;">If you would like to get your Food Truck on our schedule, please select <strong>&#8220;Become a Food Truck Partner&#8221;</strong> in the form on our <span style="text-decoration: underline;"><strong><a href="http://gristhouse.com/contact" target="_blank" rel="noopener">contact page</a></strong></span> to submit your truck for consideration.</span></p>						</div>
+					</div>
+									<div class="bdt-ep-accordion-item">
+						<div							class="bdt-ep-accordion-title bdt-accordion-title bdt-flex bdt-flex-middle bdt-flex-between" id="bdt-ep-accordion-can-my-band-play-at-grist-house"
+							data-accordion-index="4" data-title="can-my-band-play-at-grist-house">
+
+															<span class="bdt-ep-accordion-icon bdt-flex-align-right"
+									aria-hidden="true">
+
+																			<span class="bdt-ep-accordion-icon-closed">
+											<i aria-hidden="true" class="fa-fw fas fa-plus"></i>										</span>
+									
+																			<span class="bdt-ep-accordion-icon-opened">
+											<i aria-hidden="true" class="fa-fw fas fa-minus"></i>										</span>
+									
+								</span>
+							
+							<span role="heading" class="bdt-ep-title-text bdt-flex-inline bdt-flex-middle" >
+
+																Can my band play at Grist House?							</span>
+
+						</div>
+						<div class="bdt-ep-accordion-content bdt-accordion-content">
+							<p><span style="font-weight: 400;">We currently host live music at our Butler location.  If you are interested in playing please select <strong>“Butler Music Inquiry”</strong> in our <a href="http://gristhouse.com/contact" target="_blank" rel="noopener"><span style="text-decoration: underline;"><strong>contact form</strong></span></a> to submit your band&#8217;s information.</span></p>						</div>
+					</div>
+							</div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-10471f7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="10471f7" data-element_type="section" data-e-type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-093c896" data-id="093c896" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+				<div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-196fe7b" data-id="196fe7b" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-0f47d4c elementor-widget elementor-widget-spacer" data-id="0f47d4c" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-97606b8 elementor-widget elementor-widget-text-editor" data-id="97606b8" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Have another question that is not listed above? Please fill out our <a href="http://gristhouse.com/contact">contact form</a>, and we will get back to you at our earliest convenience.</p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-a012505" data-id="a012505" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		
+		
+			</div>
+
+	
+</main>
+
+			<footer data-elementor-type="footer" data-elementor-id="2409" class="elementor elementor-2409 elementor-location-footer" data-elementor-settings="{&quot;element_pack_global_tooltip_width&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_width_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;element_pack_global_tooltip_padding&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_padding_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;element_pack_global_tooltip_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true}}" data-elementor-post-type="elementor_library">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-1539b3bd elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1539b3bd" data-element_type="section" data-e-type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5e688f57" data-id="5e688f57" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4376fbf4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4376fbf4" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-450926a3" data-id="450926a3" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-45b6dc1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="45b6dc1" data-element_type="section" data-e-type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-7f2ac3a4" data-id="7f2ac3a4" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6606bd2 bdt-cursor-effects-yes elementor-widget elementor-widget-google_maps" data-id="6606bd2" data-element_type="widget" data-e-type="widget" data-settings="{&quot;element_pack_cursor_effects_show&quot;:&quot;yes&quot;,&quot;element_pack_cursor_effects_source&quot;:&quot;default&quot;,&quot;element_pack_cursor_effects_style&quot;:&quot;ep-cursor-style-1&quot;,&quot;element_pack_cursor_effects_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0.07499999999999999722444243843710864894092082977294921875,&quot;sizes&quot;:[]}}" data-widget_type="google_maps.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-custom-embed">
+			<iframe loading="lazy"
+					src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCcUMXut81KVS5BNZ_XrtpUXitVC9PoaJ0&#038;q=10%20E%20Sherman%20Street%2C%20Pittsburgh%2C%20PA%2015209&#038;zoom=14"
+					title="10 E Sherman Street, Pittsburgh, PA 15209"
+					aria-label="10 E Sherman Street, Pittsburgh, PA 15209"
+			></iframe>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-5ce2382" data-id="5ce2382" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d104159 elementor-widget elementor-widget-heading" data-id="d104159" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">MILLVALE</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-d0b0463 elementor-widget elementor-widget-heading" data-id="d0b0463" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">on site + to go</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-8ace7f8 elementor-widget elementor-widget-bdt-business-hours" data-id="8ace7f8" data-element_type="widget" data-e-type="widget" data-widget_type="bdt-business-hours.default">
+				<div class="elementor-widget-container">
+					
+        <div class="bdt-ep-business-hours" data-settings="{&quot;id&quot;:&quot;business-hours-8ace7f8&quot;,&quot;business_hour_style&quot;:&quot;static&quot;,&quot;dynamic_timezone_default&quot;:-4,&quot;timeNotation&quot;:&quot;12h&quot;}">
+
+            
+
+                                <div class="bdt-ep-business-hours-inner">
+                                                    <div class="elementor-repeater-item-a27c205 border-divider bdt-highlight-bg">
+                                <div class="bdt-inner bdt-grid bdt-grid-collapse">
+                                    <span class="heading-date bdt-width-1-2 bdt-business-day-off">
+                                        <span >M-T</span>
+                                    </span>
+
+                                                                            <span class="heading-time bdt-width-expand bdt-business-time-off">
+                                            <span class="inner-heading-time">
+                                                <span >CLOSED</span>
+                                            </span>
+                                        </span>
+                                                                    </div>
+                            </div>
+                                                    <div class="elementor-repeater-item-1c3ef23 border-divider">
+                                <div class="bdt-inner bdt-grid bdt-grid-collapse">
+                                    <span class="heading-date bdt-width-1-2 bdt-business-day">
+                                        <span >W-F</span>
+                                    </span>
+
+                                                                            <span class="heading-time bdt-width-expand bdt-business-time">
+                                            <span class="inner-heading-time inner-heading-time">
+                                                <span >4 PM - 10 PM</span>
+                                            </span>
+                                        </span>
+                                                                    </div>
+                            </div>
+                                                    <div class="elementor-repeater-item-59de841 border-divider">
+                                <div class="bdt-inner bdt-grid bdt-grid-collapse">
+                                    <span class="heading-date bdt-width-1-2 bdt-business-day">
+                                        <span >SAT</span>
+                                    </span>
+
+                                                                            <span class="heading-time bdt-width-expand bdt-business-time">
+                                            <span class="inner-heading-time inner-heading-time inner-heading-time">
+                                                <span >12 PM - 10 PM</span>
+                                            </span>
+                                        </span>
+                                                                    </div>
+                            </div>
+                                                    <div class="elementor-repeater-item-db6aa6d border-divider">
+                                <div class="bdt-inner bdt-grid bdt-grid-collapse">
+                                    <span class="heading-date bdt-width-1-2 bdt-business-day">
+                                        <span >SUN</span>
+                                    </span>
+
+                                                                            <span class="heading-time bdt-width-expand bdt-business-time">
+                                            <span class="inner-heading-time inner-heading-time inner-heading-time inner-heading-time">
+                                                <span >12 PM - 8 PM</span>
+                                            </span>
+                                        </span>
+                                                                    </div>
+                            </div>
+                                            </div>
+            
+        </div>
+        				</div>
+				</div>
+				<div class="elementor-element elementor-element-bbb1344 elementor-widget elementor-widget-text-editor" data-id="bbb1344" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><strong>MILLVALE:</strong>&nbsp;10 E SHERMAN ST. PITTSBURGH, PA 15209</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-a660eba elementor-align-center elementor-widget elementor-widget-bdt-advanced-button" data-id="a660eba" data-element_type="widget" data-e-type="widget" data-widget_type="bdt-advanced-button.default">
+				<div class="elementor-widget-container">
+							<div class="bdt-ep-button-wrapper">
+			<a href="http://bit.ly/GHmillvale" target="_blank" class="bdt-ep-button bdt-ep-button-effect-g bdt-ep-button-size-sm">
+						<div class="bdt-ep-button-content-wrapper bdt-flex bdt-flex-middle bdt-flex-center" data-text="ORDER NOW">
+			
+			<div class="bdt-ep-button-text">
+
+				<span class="avdbtn-text">
+					ORDER NOW				</span>
+
+									<span class="avdbtn-alt-text">
+						ORDER NOW					</span>
+							</div>
+
+			
+		</div>
+					</a>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-3fd4d462" data-id="3fd4d462" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1276136e elementor-widget elementor-widget-heading" data-id="1276136e" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">NEWSLETTER</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-d4dc06c elementor-widget elementor-widget-text-editor" data-id="d4dc06c" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Stay up to date with can releases, food trucks, events, and more!</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-26d2819 elementor-widget elementor-widget-html" data-id="26d2819" data-element_type="widget" data-e-type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<div id="mc_embed_shell">
+      <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
+  <style type="text/css">
+        #mc_embed_signup{background:##0d0d0d; false;clear:left; font:16px Barlow Condensed,sans-serif; width: 90%; color: #fff;
+        margin-right: auto; margin-left: auto;
+        }
+        #mc-embedded-subscribe { background-color: #60ce70 !important;
+             border-radius: 32px !important;}
+        #mc-embedded-subscribe:hover { background-color: #f7b517 !important;}
+ ;}
+        
+        
+        /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+           We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+    <form action="https://gristhouse.us15.list-manage.com/subscribe/post?u=e04d4594f45c71fa31a50a21a&amp;id=b2c1890905&amp;f_id=00b5a3e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+        <div id="mc_embed_signup_scroll"><h2></h2>
+            <div class="indicates-required"><span class="asterisk"></span></div>
+            <div class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""></div>
+<div hidden=""><input type="hidden" name="tags" value="1498331"></div>
+        <div id="mce-responses" class="clear">
+            <div class="response" id="mce-error-response" style="display: none;"></div>
+            <div class="response" id="mce-success-response" style="display: none;"></div>
+        </div><div aria-hidden="true" style="position: absolute; left: -5000px;"><input type="text" name="b_e04d4594f45c71fa31a50a21a_b2c1890905" tabindex="-1" value=""></div><div class="clear"><input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe"></div>
+    </div>
+</form>
+</div>
+<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[4]='SMSPHONE';ftypes[4]='smsphone';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='MMERGE3';ftypes[3]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4a2b2d5 elementor-widget elementor-widget-heading" data-id="4a2b2d5" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">FOLLOW US</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-5a19df1c elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="5a19df1c" data-element_type="widget" data-e-type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-social-icons-wrapper elementor-grid" role="list">
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-dc10550" href="http://twitter.com/gristhouse" target="_blank">
+						<span class="elementor-screen-only">Twitter</span>
+						<i aria-hidden="true" class="fab fa-twitter"></i>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-0267196" href="http://fb.com/gristhouse" target="_blank">
+						<span class="elementor-screen-only">Facebook-f</span>
+						<i aria-hidden="true" class="fab fa-facebook-f"></i>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-8bb1ac9" href="http://instagram.com/gristhouse" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<i aria-hidden="true" class="fab fa-instagram"></i>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-tiktok elementor-repeater-item-c9d0e06" href="https://www.tiktok.com/@gristhouse" target="_blank">
+						<span class="elementor-screen-only">Tiktok</span>
+						<i aria-hidden="true" class="fab fa-tiktok"></i>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-untappd elementor-repeater-item-3bce780" href="https://untappd.com/gristhousebrewing" target="_blank">
+						<span class="elementor-screen-only">Untappd</span>
+						<i aria-hidden="true" class="fab fa-untappd"></i>					</a>
+				</span>
+					</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-91cabbf elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="91cabbf" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-e96339e" data-id="e96339e" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-122de695 elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-image" data-id="122de695" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://pittsburghbreweries.com/">
+							<img src="https://gristhouse.com/wp-content/uploads/elementor/thumbs/Logo-of9jlqd7drv8c7e9wftw7k3s17l6hja3zsanjy8bse.png" title="Logo" alt="Logo" loading="lazy" />								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-66f2223" data-id="66f2223" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7dc0baf elementor-nav-menu__align-center elementor-hidden-tablet elementor-hidden-mobile elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="7dc0baf" data-element_type="widget" data-e-type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot; aria-hidden=\&quot;true\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+								<nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
+				<ul id="menu-1-7dc0baf" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-14147"><a href="https://gristhouse.com/" class="elementor-item">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16001"><a href="https://gristhouse.com/beer/" class="elementor-item">Beer</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18538"><a href="https://gristhouse.com/triple-g/" class="elementor-item">TRIPLE G</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14213"><a href="https://gristhouse.com/store/" class="elementor-item">Store</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14152"><a href="https://gristhouse.com/house-rules/" class="elementor-item">House Rules</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16002"><a href="https://gristhouse.com/jobs/" class="elementor-item">Jobs</a></li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>		</div>
+					<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-7dc0baf" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-14147"><a href="https://gristhouse.com/" class="elementor-item" tabindex="-1">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16001"><a href="https://gristhouse.com/beer/" class="elementor-item" tabindex="-1">Beer</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18538"><a href="https://gristhouse.com/triple-g/" class="elementor-item" tabindex="-1">TRIPLE G</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14213"><a href="https://gristhouse.com/store/" class="elementor-item" tabindex="-1">Store</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14152"><a href="https://gristhouse.com/house-rules/" class="elementor-item" tabindex="-1">House Rules</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16002"><a href="https://gristhouse.com/jobs/" class="elementor-item" tabindex="-1">Jobs</a></li>
+</ul>			</nav>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-f0006f3 elementor-tablet-align-center elementor-mobile-align-center elementor-hidden-desktop elementor-widget elementor-widget-button" data-id="f0006f3" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://gristhouse.com/house-rules/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">House Rules</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-965b486 elementor-widget elementor-widget-heading" data-id="965b486" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">© Grist House Craft Brewery | 10 Sherman Street | Pittsburgh, PA | USA</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-5eb92f2 elementor-hidden-desktop elementor-widget elementor-widget-image" data-id="5eb92f2" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img src="https://gristhouse.com/wp-content/uploads/elementor/thumbs/web_seal-q8jhphraw9xpvjmvxs59nai976fjstot6wof78izpm.png" title="web_seal" alt="web_seal" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-3cb33b6" data-id="3cb33b6" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5281666a elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-image" data-id="5281666a" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://www.brewersassociation.org/independent-craft-brewer-seal/">
+							<img src="https://gristhouse.com/wp-content/uploads/elementor/thumbs/independent-craft-brewer-seal-oejb86z95lqhany1x9ftnlgfpz992tyiwcjpzza6tc.png" title="independent-craft-brewer-seal" alt="independent-craft-brewer-seal" loading="lazy" />								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</footer>
+		
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/hello-elementor/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+			<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+				<script>
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<link rel='stylesheet' id='wc-blocks-style-css' href='https://gristhouse.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1' media='all' />
+<link rel='stylesheet' id='ep-cursor-effects-css' href='https://gristhouse.com/wp-content/plugins/bdthemes-element-pack/assets/css/ep-cursor-effects.css?ver=9.6.1' media='all' />
+<script id="elementor-webpack-runtime-js" src="https://gristhouse.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.1.1"></script>
+<script id="elementor-frontend-modules-js" src="https://gristhouse.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.1.1"></script>
+<script id="jquery-ui-core-js" src="https://gristhouse.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},
+"hasCustomBreakpoints":false},"version":"4.1.1","is_static":false,"experimentalFeatures":{"additional_custom_breakpoints":true,"theme_builder_v2":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"e_opt_in_v4_page":true,"e_components":true,"e_interactions":true,"e_widget_creation":true,"import-export-customization":true,"e_pro_atomic_form":true,"e_pro_variables":true,"e_pro_interactions":true},"urls":{"assets":"https:\/\/gristhouse.com\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/gristhouse.com\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/gristhouse.com\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"20e738fad8","atomicFormsSendForm":"b162b28b96"},"swiperClass":"swiper","settings":{"page":{"element_pack_global_tooltip_width":{"unit":"px","size":"","sizes":[]},"element_pack_global_tooltip_width_tablet":{"unit":"px","size":"","sizes":[]},"element_pack_global_tooltip_width_mobile":{"unit":"px","size":"","sizes":[]},"element_pack_global_tooltip_padding":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"element_pack_global_tooltip_padding_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"element_pack_global_tooltip_padding_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"element_pack_global_tooltip_border_radius":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"element_pack_global_tooltip_border_radius_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"element_pack_global_tooltip_border_radius_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true}},
+"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","woocommerce_notices_elements":[]},"post":{"id":17000,"title":"Grist%20House%20Millvale","excerpt":"","featuredImage":false}};
+//# sourceURL=elementor-frontend-js-before
+</script>
+<script id="elementor-frontend-js" src="https://gristhouse.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.1.1"></script>
+<script id="smartmenus-js" src="https://gristhouse.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1"></script>
+<script id="e-sticky-js" src="https://gristhouse.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=4.1.0"></script>
+<script id="bdt-uikit-js-extra">
+var element_pack_ajax_login_config = {"ajaxurl":"https://gristhouse.com/wp-admin/admin-ajax.php","language":"en","loadingmessage":"Sending user info, please wait...","unknownerror":"Unknown error, make sure access is correct!"};
+var ElementPackConfig = {"ajaxurl":"https://gristhouse.com/wp-admin/admin-ajax.php","nonce":"fac34c01d9","data_table":{"language":{"sLengthMenu":"Show _MENU_ Entries","sInfo":"Showing _START_ to _END_ of _TOTAL_ entries","sSearch":"Search :","sZeroRecords":"No matching records found","oPaginate":{"sPrevious":"Previous","sNext":"Next"}}},"contact_form":{"sending_msg":"Sending message please wait...","captcha_nd":"Invisible captcha not defined!","captcha_nr":"Could not get invisible captcha response!"},"mailchimp":{"subscribing":"Subscribing you please wait..."},"search":{"more_result":"More Results","search_result":"SEARCH RESULT","not_found":"not found"},"words_limit":{"read_more":"[read more]","read_less":"[read less]"},"elements_data":{"sections":[],"columns":[],"widgets":[]}};
+//# sourceURL=bdt-uikit-js-extra
+</script>
+<script id="bdt-uikit-js" src="https://gristhouse.com/wp-content/plugins/bdthemes-element-pack/assets/js/bdt-uikit.min.js?ver=3.21.7"></script>
+<script id="ep-business-hours-js" src="https://gristhouse.com/wp-content/plugins/bdthemes-element-pack/assets/js/modules/ep-business-hours.min.js?ver=9.6.1"></script>
+<script id="ep-accordion-js" src="https://gristhouse.com/wp-content/plugins/bdthemes-element-pack/assets/js/modules/ep-accordion.min.js?ver=9.6.1"></script>
+<script id="sourcebuster-js-js" src="https://gristhouse.com/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=10.8.1"></script>
+<script id="wc-order-attribution-js-extra">
+var wc_order_attribution = {"params":{"lifetime":1.0000000000000000818030539140313095458623138256371021270751953125e-5,"session":30,"base64":false,"ajaxurl":"https://gristhouse.com/wp-admin/admin-ajax.php","prefix":"wc_order_attribution_","allowTracking":true},"fields":{"source_type":"current.typ","referrer":"current_add.rf","utm_campaign":"current.cmp","utm_source":"current.src","utm_medium":"current.mdm","utm_content":"current.cnt","utm_id":"current.id","utm_term":"current.trm","utm_source_platform":"current.plt","utm_creative_format":"current.fmt","utm_marketing_tactic":"current.tct","session_entry":"current_add.ep","session_start_time":"current_add.fd","session_pages":"session.pgs","session_count":"udata.vst","user_agent":"udata.uag"}};
+//# sourceURL=wc-order-attribution-js-extra
+</script>
+<script id="wc-order-attribution-js" src="https://gristhouse.com/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=10.8.1"></script>
+<script id="jclock-js" src="https://gristhouse.com/wp-content/plugins/bdthemes-element-pack/assets/vendor/js/jquery.jclock.min.js?ver=0.0.1"></script>
+<script id="element-pack-helper-js" src="https://gristhouse.com/wp-content/plugins/bdthemes-element-pack/assets/js/common/helper.min.js?ver=9.6.1"></script>
+<script id="cotton-js-js" src="https://gristhouse.com/wp-content/plugins/bdthemes-element-pack/assets/vendor/js/cotton.min.js?ver=5.3.5"></script>
+<script id="ep-cursor-effects-js" src="https://gristhouse.com/wp-content/plugins/bdthemes-element-pack/assets/js/modules/ep-cursor-effects.min.js?ver=9.6.1"></script>
+<script id="elementor-pro-webpack-runtime-js" src="https://gristhouse.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=4.1.0"></script>
+<script id="wp-hooks-js" src="https://gristhouse.com/wp-includes/js/dist/hooks.min.js?ver=7496969728ca0f95732d"></script>
+<script id="wp-i18n-js" src="https://gristhouse.com/wp-includes/js/dist/i18n.min.js?ver=781d11515ad3d91786ec"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/gristhouse.com\/wp-admin\/admin-ajax.php","nonce":"bc3b066b95","urls":{"assets":"https:\/\/gristhouse.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/gristhouse.com\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":false},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},
+"woocommerce":{"menu_cart":{"cart_page_url":"https:\/\/gristhouse.com\/cart\/","checkout_page_url":"https:\/\/gristhouse.com\/checkout\/","fragments_nonce":"888991e346"}},
+"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/gristhouse.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+//# sourceURL=elementor-pro-frontend-js-before
+</script>
+<script id="elementor-pro-frontend-js" src="https://gristhouse.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=4.1.0"></script>
+<script id="pro-elements-handlers-js" src="https://gristhouse.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=4.1.0"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://gristhouse.com/wp-includes/js/wp-emoji-release.min.js?ver=7.0"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://gristhouse.com/wp-includes/js/wp-emoji-loader.min.js
+</script>
+
+</body>
+</html>

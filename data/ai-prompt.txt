@@ -4,39 +4,19 @@ Do not add beers, styles, ratings, or facts that are not present in the JSON.
 Keep it to 4-6 sentences.
 
 {
-  "generated": "2026-06-04T21:23:21Z",
-  "previousDate": "2026-06-03",
+  "generated": "2026-06-05T12:58:49Z",
+  "previousDate": "2026-06-04",
   "changes": [
     {
       "breweryId": "abjuration",
-      "additions": [
-        "Muffin Sour [Boysenberry] (MS v1.5)",
-        "Rye Lager (RL v1.0)"
-      ],
+      "additions": [],
       "removals": [],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "acclamation",
-      "additions": [
-        "Ambrosia",
-        "Brave Noise",
-        "Brew Gentlemen Albatross",
-        "Co-Star ESB",
-        "Dancing Gnome Pilsner",
-        "Golden Root",
-        "Grainbow Brite",
-        "Hoppy Little Beer",
-        "In Bloom",
-        "Lemon Meringue Milkshake",
-        "No Wake Wheat",
-        "Old Thunder Sol X",
-        "Steel City Lager",
-        "Steel City Summer",
-        "Strawberry Shortcake Sour",
-        "Two Frays Non-Alcoholic Beer"
-      ],
+      "additions": [],
       "removals": [],
       "styleChanges": [],
       "ratingChanges": []
@@ -44,39 +24,15 @@ Keep it to 4-6 sentences.
     {
       "breweryId": "dancing-gnome",
       "additions": [
-        "Hefeweizen Shandy"
+        "Czech 12\u00b0 \u2013 Pale Lager"
       ],
-      "removals": [
-        "Goblin Folk"
-      ],
-      "styleChanges": [
-        {
-          "beer": "Hefeweizen",
-          "oldStyle": "Wheat Beer",
-          "newStyle": "German Wheat Beer"
-        }
-      ],
+      "removals": [],
+      "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "eleventh-hour",
-      "additions": [
-        "Archer: OG",
-        "Catch & Release",
-        "Doughboy",
-        "Dry Irish Stout",
-        "Eleven Eleven",
-        "FOSSL",
-        "Happy Valley Jack",
-        "Korn\u00f8l - Norwegian Farmhouse",
-        "Maibock",
-        "New Cult",
-        "Nocturnal Rainbow: Original",
-        "Non Alc - Finicky Beast",
-        "Non Alc - Fruity Pebbles",
-        "Reel Queen - Summer",
-        "Summer In the Parks"
-      ],
+      "additions": [],
       "removals": [],
       "styleChanges": [],
       "ratingChanges": []
@@ -97,17 +53,8 @@ Keep it to 4-6 sentences.
     },
     {
       "breweryId": "grist-house",
-      "additions": [
-        "Command House Lager",
-        "Dark Night",
-        "Fire On the Hill",
-        "Kaboom Candy: B + P",
-        "Mr. Toasty"
-      ],
-      "removals": [
-        "Dem Apples",
-        "Seltza Drip - Mimosa"
-      ],
+      "additions": [],
+      "removals": [],
       "styleChanges": [],
       "ratingChanges": []
     },
@@ -121,37 +68,20 @@ Keep it to 4-6 sentences.
     {
       "breweryId": "late-addition",
       "additions": [],
-      "removals": [
-        "Blonde Ale",
-        "Draughtsman Mild",
-        "Grateful Addition",
-        "Keeping Time: Aardbei",
-        "Keeping Time: Oost",
-        "Keeping Time: Rubus",
-        "Krakowiak",
-        "Rotes Wien"
-      ],
+      "removals": [],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "lolev",
       "additions": [
-        "Arcole",
-        "Blue Jay",
-        "Costilla",
-        "Eagle",
-        "Glyphs III",
-        "Kamo III",
-        "Leopard",
-        "Lupula",
-        "Mon",
-        "Pink",
-        "Rubico III",
-        "Tiger",
-        "Vi"
+        "Parabellum"
       ],
-      "removals": [],
+      "removals": [
+        "Glyphs III",
+        "Lupula",
+        "Mon"
+      ],
       "styleChanges": [],
       "ratingChanges": []
     },
