@@ -4,19 +4,26 @@ Do not add beers, styles, ratings, or facts that are not present in the JSON.
 Keep it to 4-6 sentences.
 
 {
-  "generated": "2026-06-05T14:00:22Z",
-  "previousDate": "2026-06-04",
+  "generated": "2026-06-09T13:54:53Z",
+  "previousDate": "2026-06-05",
   "changes": [
     {
       "breweryId": "abjuration",
       "additions": [],
-      "removals": [],
+      "removals": [
+        "American Premium Lager (APL v2.0)",
+        "Botanical Sour [Strawberry/Basil] (BSR v1.5)",
+        "Fruited Sour [Pineapple/Honeydew] (FS v1.32)",
+        "Stout (ST v1.0)"
+      ],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "acclamation",
-      "additions": [],
+      "additions": [
+        "Key Lime Cheesecake Sour"
+      ],
       "removals": [],
       "styleChanges": [],
       "ratingChanges": []
@@ -24,10 +31,24 @@ Keep it to 4-6 sentences.
     {
       "breweryId": "dancing-gnome",
       "additions": [
-        "Czech 12\u00b0 \u2013 Pale Lager"
+        "Art Deco",
+        "Bifocal Feline IPA",
+        "Pounce IPA",
+        "Swingin' At Strangers"
       ],
-      "removals": [],
-      "styleChanges": [],
+      "removals": [
+        "Art Deco IPA",
+        "Half Lustra",
+        "Rice Lager",
+        "Swingin\u2019 at Strangers IPA"
+      ],
+      "styleChanges": [
+        {
+          "beer": "ESB",
+          "oldStyle": "English Ale",
+          "newStyle": "English Ale dry hopped with Bramling Cross"
+        }
+      ],
       "ratingChanges": []
     },
     {
@@ -35,52 +56,82 @@ Keep it to 4-6 sentences.
       "additions": [],
       "removals": [],
       "styleChanges": [],
-      "ratingChanges": []
+      "ratingChanges": [
+        {
+          "beer": "Reel Queen - Summer",
+          "oldRating": 4.25,
+          "newRating": 4.0,
+          "delta": -0.25
+        }
+      ]
     },
     {
       "breweryId": "four-points",
-      "additions": [],
-      "removals": [],
+      "additions": [
+        "KING FOR A DAY",
+        "SILVERLAKE DAD"
+      ],
+      "removals": [
+        "CRUEL SUMMER"
+      ],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "golden-age",
       "additions": [],
-      "removals": [],
+      "removals": [
+        "Fr\u00fchling Weizen",
+        "German Ale"
+      ],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "grist-house",
       "additions": [],
-      "removals": [],
+      "removals": [
+        "El Chupa-lager-a"
+      ],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "hitchhiker",
-      "additions": [],
-      "removals": [],
+      "additions": [
+        "Airwave",
+        "Subsurface Tangerine Coconut",
+        "Whale Watch"
+      ],
+      "removals": [
+        "Double Peach Bottle Service",
+        "Fruit Rush Raspberry",
+        "Fruit Rush \u2013 Raspberry",
+        "I\u2019m Down",
+        "Im Down",
+        "Subtropic"
+      ],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "late-addition",
-      "additions": [],
-      "removals": [],
+      "additions": [
+        "Grateful Addition"
+      ],
+      "removals": [
+        "Guan Yersel"
+      ],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "lolev",
       "additions": [
-        "Parabellum"
+        "Osprey"
       ],
       "removals": [
-        "Glyphs III",
-        "Lupula",
-        "Mon"
+        "Pink"
       ],
       "styleChanges": [],
       "ratingChanges": []
