@@ -1,121 +1,101 @@
 {
-  "generated": "2026-06-09T13:54:53Z",
-  "previousDate": "2026-06-05",
+  "generated": "2026-06-12T14:05:02Z",
+  "previousDate": "2026-06-09",
   "changes": [
     {
       "breweryId": "abjuration",
-      "additions": [],
-      "removals": [
-        "American Premium Lager (APL v2.0)",
-        "Botanical Sour [Strawberry/Basil] (BSR v1.5)",
+      "additions": [
+        "Cheesecake Sour [Peaches & Cream] (CCS v1.19)",
         "Fruited Sour [Pineapple/Honeydew] (FS v1.32)",
-        "Stout (ST v1.0)"
+        "Hazy India Pale Ale [Citra/Elani Cryo/Comet] (IPA v9.8)",
+        "Hefeweizen (HEFE v1.0)",
+        "Smoothie Style Sour [Strawberry Funnel Cake - Collab w/ George A. Romero Foundation] (SSS v1.23)"
+      ],
+      "removals": [
+        "Donut Sour [Black Raspberry] (DOS v1.5)"
       ],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "acclamation",
-      "additions": [
-        "Key Lime Cheesecake Sour"
+      "additions": [],
+      "removals": [
+        "In Bloom",
+        "Old Thunder Sol X"
       ],
-      "removals": [],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "dancing-gnome",
       "additions": [
-        "Art Deco",
-        "Bifocal Feline IPA",
-        "Pounce IPA",
-        "Swingin' At Strangers"
+        "Czech 12"
       ],
       "removals": [
-        "Art Deco IPA",
-        "Half Lustra",
-        "Rice Lager",
-        "Swingin\u2019 at Strangers IPA"
+        "Czech 12\u00b0 \u2013 Pale Lager",
+        "Gravel Grinder"
       ],
-      "styleChanges": [
-        {
-          "beer": "ESB",
-          "oldStyle": "English Ale",
-          "newStyle": "English Ale dry hopped with Bramling Cross"
-        }
-      ],
+      "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "eleventh-hour",
-      "additions": [],
-      "removals": [],
+      "additions": [
+        "Tanuki"
+      ],
+      "removals": [
+        "Non Alc - Fruity Pebbles"
+      ],
       "styleChanges": [],
-      "ratingChanges": [
-        {
-          "beer": "Reel Queen - Summer",
-          "oldRating": 4.25,
-          "newRating": 4.0,
-          "delta": -0.25
-        }
-      ]
+      "ratingChanges": []
     },
     {
       "breweryId": "four-points",
-      "additions": [
-        "KING FOR A DAY",
-        "SILVERLAKE DAD"
-      ],
-      "removals": [
-        "CRUEL SUMMER"
-      ],
+      "additions": [],
+      "removals": [],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "golden-age",
       "additions": [],
-      "removals": [
-        "Fr\u00fchling Weizen",
-        "German Ale"
-      ],
+      "removals": [],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "grist-house",
-      "additions": [],
-      "removals": [
-        "El Chupa-lager-a"
+      "additions": [
+        "Krisp",
+        "The Garden",
+        "The Paddler",
+        "Vista Hopper"
       ],
-      "styleChanges": [],
+      "removals": [],
+      "styleChanges": [
+        {
+          "beer": "MillvALE",
+          "oldStyle": "Traditional Ale",
+          "newStyle": "Premium Ale"
+        }
+      ],
       "ratingChanges": []
     },
     {
       "breweryId": "hitchhiker",
-      "additions": [
-        "Airwave",
-        "Subsurface Tangerine Coconut",
-        "Whale Watch"
-      ],
-      "removals": [
-        "Double Peach Bottle Service",
-        "Fruit Rush Raspberry",
-        "Fruit Rush \u2013 Raspberry",
-        "I\u2019m Down",
-        "Im Down",
-        "Subtropic"
-      ],
+      "additions": [],
+      "removals": [],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "late-addition",
       "additions": [
-        "Grateful Addition"
+        "Krakowiak"
       ],
       "removals": [
-        "Guan Yersel"
+        "Grateful Addition"
       ],
       "styleChanges": [],
       "ratingChanges": []
@@ -123,10 +103,16 @@
     {
       "breweryId": "lolev",
       "additions": [
-        "Osprey"
+        "African Wild Dog",
+        "Lupula",
+        "Origen III",
+        "Remedios II"
       ],
       "removals": [
-        "Pink"
+        "Blue Jay",
+        "Eagle",
+        "Parabellum",
+        "Tiger"
       ],
       "styleChanges": [],
       "ratingChanges": []

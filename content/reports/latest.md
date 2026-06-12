@@ -1,67 +1,67 @@
-# Pittsburgh Taplist Report (2026-06-09)
+# Pittsburgh Taplist Report (2026-06-12)
 
-Generated: `2026-06-09T13:55:22Z`
-Previous snapshot: `2026-06-05`
+Generated: `2026-06-12T14:05:27Z`
+Previous snapshot: `2026-06-09`
 
 ## What changed this week
 ### abjuration
-- Added: None
-- Removed: American Premium Lager (APL v2.0), Botanical Sour [Strawberry/Basil] (BSR v1.5), Fruited Sour [Pineapple/Honeydew] (FS v1.32), Stout (ST v1.0)
+- Added: Cheesecake Sour [Peaches & Cream] (CCS v1.19), Fruited Sour [Pineapple/Honeydew] (FS v1.32), Hazy India Pale Ale [Citra/Elani Cryo/Comet] (IPA v9.8), Hefeweizen (HEFE v1.0), Smoothie Style Sour [Strawberry Funnel Cake - Collab w/ George A. Romero Foundation] (SSS v1.23)
+- Removed: Donut Sour [Black Raspberry] (DOS v1.5)
 - Style changes: None
 - Material rating changes: 0
 
 ### acclamation
-- Added: Key Lime Cheesecake Sour
-- Removed: None
+- Added: None
+- Removed: In Bloom, Old Thunder Sol X
 - Style changes: None
 - Material rating changes: 0
 
 ### dancing-gnome
-- Added: Art Deco, Bifocal Feline IPA, Pounce IPA, Swingin' At Strangers
-- Removed: Art Deco IPA, Half Lustra, Rice Lager, Swingin’ at Strangers IPA
-- Style changes:
-  - ESB: English Ale -> English Ale dry hopped with Bramling Cross
+- Added: Czech 12
+- Removed: Czech 12° – Pale Lager, Gravel Grinder
+- Style changes: None
 - Material rating changes: 0
 
 ### eleventh-hour
-- Added: None
-- Removed: None
+- Added: Tanuki
+- Removed: Non Alc - Fruity Pebbles
 - Style changes: None
-- Material rating changes: 1
+- Material rating changes: 0
 
 ### four-points
-- Added: KING FOR A DAY, SILVERLAKE DAD
-- Removed: CRUEL SUMMER
+- Added: None
+- Removed: None
 - Style changes: None
 - Material rating changes: 0
 
 ### golden-age
 - Added: None
-- Removed: Frühling Weizen, German Ale
+- Removed: None
 - Style changes: None
 - Material rating changes: 0
 
 ### grist-house
-- Added: None
-- Removed: El Chupa-lager-a
-- Style changes: None
+- Added: Krisp, The Garden, The Paddler, Vista Hopper
+- Removed: None
+- Style changes:
+  - MillvALE: Traditional Ale -> Premium Ale
 - Material rating changes: 0
 
 ### hitchhiker
-- Added: Airwave, Subsurface Tangerine Coconut, Whale Watch
-- Removed: Double Peach Bottle Service, Fruit Rush Raspberry, Fruit Rush – Raspberry, I’m Down, Im Down, Subtropic
+- Added: None
+- Removed: None
 - Style changes: None
 - Material rating changes: 0
 
 ### late-addition
-- Added: Grateful Addition
-- Removed: Guan Yersel
+- Added: Krakowiak
+- Removed: Grateful Addition
 - Style changes: None
 - Material rating changes: 0
 
 ### lolev
-- Added: Osprey
-- Removed: Pink
+- Added: African Wild Dog, Lupula, Origen III, Remedios II
+- Removed: Blue Jay, Eagle, Parabellum, Tiger
 - Style changes: None
 - Material rating changes: 0
 
@@ -73,7 +73,7 @@ Previous snapshot: `2026-06-05`
 
 ## Narrative summary (AI)
 
-This week's beer report highlights several changes across various breweries. Acclamation has added a new offering, the Key Lime Cheesecake Sour, while Four Points has introduced KING FOR A DAY and SILVERLAKE DAD, removing the previous favorite, CRUEL SUMMER. Dancing Gnome has made notable shifts, debuting four new beers including Pounce IPA, while also changing the style of their ESB to an English Ale dry hopped with Bramling Cross. Meanwhile, Eleventh Hour has updated the rating for Reel Queen - Summer from 4.25 to 4.0. Other breweries like Abjuration and Golden Age have seen the removal of multiple beers, indicating a period of transition in their selections.
+This week’s beer report highlights several exciting changes across various breweries. Abjuration has added a variety of sours and a Hazy IPA, while removing the Donut Sour [Black Raspberry]. Grist House has introduced new offerings including Krisp and The Garden, and notably, they’ve updated the style of MillvALE from Traditional Ale to Premium Ale. Additionally, Lolev welcomed new beers like African Wild Dog and Remedios II, removing several others from their lineup. At Dancing Gnome, the Czech 12 beer has undergone a name update, while Eleventh Hour introduced a new beer called Tanuki, removing Non Alc - Fruity Pebbles from their selection.
 
 ## Full lineup
 ### Grist House
@@ -93,11 +93,15 @@ This week's beer report highlights several changes across various breweries. Acc
 | Hounds of Helles | Munich Helles Lager | 4.5% | ★★★★☆ 3.66 | untappd |
 | Inclined To Haze | Hazy Pale Ale | 5.3% | ★★★★☆ 3.97 | untappd |
 | Kaboom Candy: B + P | Fruited Sour | 4.5% |  | untappd |
+| Krisp | Kölsch | 4.5% | ★★★★☆ 3.52 | untappd |
 | Krispadelic | Dry Hopped Kolsch | 5.0% | ★★★★☆ 3.84 | untappd |
-| MillvALE | Traditional Ale | 4.7% | ★★★★☆ 3.73 | untappd |
+| MillvALE | Premium Ale | 4.7% | ★★★★☆ 3.73 | untappd |
 | Mr. Toasty | Barrel Aged Stout | 11.0% | ★★★★☆ 4.32 | untappd |
 | Pineapple Hazedelic Juice Grenade | New England IPA | 6.4% | ★★★★☆ 4.13 | untappd |
 | Spacedelic Haze Cactus | New England IPA | 6.8% | ★★★★☆ 4.20 | untappd |
+| The Garden | Pale Wheat Ale | 5.2% | ★★★★☆ 3.84 | untappd |
+| The Paddler | Dessert Sour | 7.5% | ★★★★☆ 4.16 | untappd |
+| Vista Hopper | Pale Ale | 5.1% | ★★★★☆ 3.77 | untappd |
 | White Witow | Belgian Wit | 4.8% | ★★★★☆ 3.80 | untappd |
 
 ### 11th Hour
@@ -115,9 +119,9 @@ This week's beer report highlights several changes across various breweries. Acc
 | New Cult | New England Style IPA | 7.0% | ★★★★☆ 4.00 | untappd |
 | Nocturnal Rainbow: Original | Stout - Milk / Coffee | 5.6% | ★★★★☆ 4.00 | untappd |
 | Non Alc - Finicky Beast | Non-Alcoholic - IPA |  | ★★★★☆ 3.50 | untappd |
-| Non Alc - Fruity Pebbles | Non-Alcoholic - Fruited Wheat | 0.5% | ★★★★☆ 3.50 | untappd |
 | Reel Queen - Summer | Shandy | 4.3% | ★★★★☆ 4.00 | untappd |
 | Summer In the Parks | Lager - Mexican | 4.5% | ★★★★☆ 3.75 | untappd |
+| Tanuki | Lager - Japanese Rice | 4.2% | ★★★★☆ 3.75 | untappd |
 
 ### Acclamation
 | Beer | Style | ABV | Rating | Source |
@@ -130,11 +134,9 @@ This week's beer report highlights several changes across various breweries. Acc
 | Golden Root | Ginger Wheat Ale | 5.6% | ★★★★☆ 3.83 | widget |
 | Grainbow Brite | Helles Lager (Hallertau Mittelfruh) | 5.0% | ★★★★☆ 3.80 | widget |
 | Hoppy Little Beer | Session Hazy IPA (El Dorado, Centennial, Amarillo) | 5.0% | ★★★★☆ 3.73 | widget |
-| In Bloom | Hazy IPA (Simcoe, Centennial, Chinook) | 4.8% | ★★★★☆ 3.66 | widget |
 | Key Lime Cheesecake Sour | Lactose-Free Fruited Sour | 5.6% | ★★★★☆ 4.18 | widget |
 | Lemon Meringue Milkshake | Lactose-Free Fruited Ale | 5.6% | ★★★★☆ 4.20 | widget |
 | No Wake Wheat | American Wheat Ale | 5.6% | ★★★★☆ 3.85 | widget |
-| Old Thunder Sol X | Dark Mexican Lager | 5.0% | ★★★★☆ 4.22 | widget |
 | Steel City Lager | American Light Lager (Galena) | 4.5% | ★★★★☆ 3.84 | widget |
 | Steel City Summer | Salted Lime Lager | 4.5% | ★★★★☆ 3.74 | widget |
 | Strawberry Shortcake Sour | Lactose-Free Fruited Sour | 5.6% | ★★★★☆ 3.99 | widget |
@@ -147,11 +149,10 @@ This week's beer report highlights several changes across various breweries. Acc
 | Bifocal Feline IPA |  | 6.4% |  | merged |
 | Blueberry Blackberry Sour | Berliner Weisse | 4.7% | ★★★★☆ 3.74 | merged |
 | Carrie Furnace | IPA - Citra, Nectaron | 6.8% | ★★★★☆ 4.01 | merged |
-| Czech 12° – Pale Lager |  | 5.0% | ★★★★☆ 3.96 | merged |
+| Czech 12 | Czech Pale Lager | 5.0% | ★★★☆☆ 3.31 | merged |
 | ESB | English Ale dry hopped with Bramling Cross | 5.4% | ★★★★☆ 3.55 | merged |
 | Experimental Pilsner #4 | German-style Pilsner | 5.2% | ★★★★☆ 3.58 | merged |
 | Exquisite Beast | DIPA - Sultana, Mosaic, Amarillo, Citra, Columbus | 8.5% | ★★★★☆ 4.14 | merged |
-| Gravel Grinder | IPA - Citra, Simcoe ,Mosaic | 6.6% | ★★★★☆ 4.08 | merged |
 | Hefeweizen | German Wheat Beer | 5.2% | ★★★★☆ 3.67 | merged |
 | Hefeweizen Shandy | Wheat Beer w/ Lemon Mix | 5.2% | ★★★☆☆ 3.37 | merged |
 | Iron Goddess (De Fer collab) | American Lager with Oolong Tea | 4.1% |  | merged |
@@ -191,10 +192,10 @@ This week's beer report highlights several changes across various breweries. Acc
 |---|---|---:|---|---|
 | Dinnae Ken | Light Scottish Ale | 4.7% | ★★★★☆ 4.11 | website |
 | Earthshine | American IPA | 6.5% | ★★★★☆ 3.87 | website |
-| Grateful Addition | Bourbon Barrel Aged Imperial Stout | 11.5% | ★★★★☆ 4.29 | website |
 | Guided by Weisses | German-style Hefeweizen | 5.2% | ★★★★☆ 4.05 | website |
 | Heavily Redacted | German-Style Schwarzbier | 5.5% | ★★★★☆ 4.13 | website |
 | Keeping TIme: Rood | Flanders Red Sour Ale | 5.9% | ★★★★☆ 4.01 | website |
+| Krakowiak | Baltic Porter | 9.6% | ★★★☆☆ 3.06 | website |
 | Malus | Dry Apple Cider | 7.8% | ★★★★☆ 3.80 | website |
 | Soft Focus (Pink Boots collab with Hazel Grove Brewing) | Session Hazy IPA | 5.0% |  | website |
 | Standard Use | Cream Ale | 5.4% | ★★★★☆ 3.95 | website |
@@ -256,13 +257,17 @@ This week's beer report highlights several changes across various breweries. Acc
 | Candied Sour [Cherry Slushie] (CDS v1.8) | Candied Sour |  |  | widget |
 | Candied Sour [Orange Slushie] (CDS v1.15) | Candied Sour |  |  | widget |
 | Cheesecake Sour [Coconut Cream] (CCS v1.10) | Cheesecake Sour |  |  | widget |
-| Donut Sour [Black Raspberry] (DOS v1.5) | Donut Sour |  |  | widget |
+| Cheesecake Sour [Peaches & Cream] (CCS v1.19) | Cheesecake Sour |  |  | widget |
 | Fruited India Pale Ale [Pink Boots Collab: Grapefruit/Mosaic/Paradisi/Simcoe/Chinook] (FRIPA v2.0) | Fruited India Pale Ale |  |  | widget |
+| Fruited Sour [Pineapple/Honeydew] (FS v1.32) | Fruited Sour |  |  | widget |
+| Hazy India Pale Ale [Citra/Elani Cryo/Comet] (IPA v9.8) | Hazy India Pale Ale |  |  | widget |
+| Hefeweizen (HEFE v1.0) | Hefeweizen |  |  | widget |
 | Ice Cream Sour [Raspberry Shortcake] (ICS v1.29) | Ice Cream Sour |  |  | widget |
 | Ice Cream Sour [Watermelon Cotton Candy] (ICS v1.37) | Ice Cream Sour |  |  | widget |
 | Marshmallow Sour [Strawberry/Cherry] (MAS v1.1) | Marshmallow Sour |  |  | widget |
 | Muffin Sour [Boysenberry] (MS v1.5) | Muffin Sour |  |  | widget |
 | Rye Lager (RL v1.0) | Rye Lager |  | ★★★★☆ 4.28 | widget |
+| Smoothie Style Sour [Strawberry Funnel Cake - Collab w/ George A. Romero Foundation] (SSS v1.23) | Smoothie Style Sour |  |  | widget |
 
 ### Golden Age
 | Beer | Style | ABV | Rating | Source |
@@ -280,20 +285,22 @@ This week's beer report highlights several changes across various breweries. Acc
 ### Lolev
 | Beer | Style | ABV | Rating | Source |
 |---|---|---:|---|---|
+| African Wild Dog | Ultra Hopped Ale | 8.8% | ★★★★☆ 3.88 | website |
 | Arcole | Ultra Hopped Ale | 8.5% | ★★★★☆ 4.35 | website |
-| Blue Jay | Pale Ale | 4.7% | ★★★★☆ 4.11 | website |
 | Costilla | Mexican Dark Lager | 4.8% | ★★★★☆ 4.06 | website |
-| Eagle | Ultra Hopped Ale | 8.7% | ★★★★☆ 4.49 | website |
 | Kamo III | Ultra Hopped Ale | 8.0% | ★★★★☆ 4.33 | website |
-| Leopard | Ultra Hopped Ale | 8.7% | ★★★★★ 4.54 | website |
-| Osprey | Ultra Hopped Ale | 8.0% | ★★★★☆ 4.27 | website |
-| Parabellum | Ultra Hopped Ale | 9.3% | ★★★★☆ 4.42 | website |
-| Rubico III | Ultra Hopped Ale | 8.7% | ★★★★☆ 4.39 | website |
-| Tiger | Ultra Hopped Ale | 8.0% | ★★★★☆ 4.44 | website |
+| Leopard | Ultra Hopped Ale | 8.7% | ★★★★★ 4.53 | website |
+| Lupula | Hazy India Pale Ale | 6.5% | ★★★★☆ 4.08 | website |
+| Origen III | Ultra Hopped Ale | 8.7% | ★★★★☆ 4.25 | website |
+| Osprey | Ultra Hopped Ale | 8.0% | ★★★★☆ 4.29 | website |
+| Remedios II | New Zealand Pilsner | 4.5% |  | website |
+| Rubico III | Ultra Hopped Ale | 8.7% | ★★★★☆ 4.38 | website |
 | Vi | Ultra Hopped Ale | 8.2% | ★★★★☆ 4.34 | website |
 
 ## Czech Lager Watch
-_No beers found._
+| Beer | Style | ABV | Rating | Source |
+|---|---|---:|---|---|
+| Czech 12 | Czech Pale Lager | 5.0% | ★★★☆☆ 3.31 | merged |
 
 ## European Lager Watch
 | Beer | Style | ABV | Rating | Source |
@@ -314,6 +321,7 @@ _No beers found._
 |---|---|---:|---|---|
 | Arnold Shaman | Fruited Sour | 5.0% | ★★★★☆ 3.94 | untappd |
 | Kaboom Candy: B + P | Fruited Sour | 4.5% |  | untappd |
+| The Paddler | Dessert Sour | 7.5% | ★★★★☆ 4.16 | untappd |
 | Ambrosia | Fruited Sour (Orange, Pineapple, Coconut, Marshmallow) | 5.8% | ★★★★☆ 4.28 | widget |
 | Key Lime Cheesecake Sour | Lactose-Free Fruited Sour | 5.6% | ★★★★☆ 4.18 | widget |
 | Strawberry Shortcake Sour | Lactose-Free Fruited Sour | 5.6% | ★★★★☆ 3.99 | widget |
@@ -332,9 +340,11 @@ _No beers found._
 | Candied Sour [Cherry Slushie] (CDS v1.8) | Candied Sour |  |  | widget |
 | Candied Sour [Orange Slushie] (CDS v1.15) | Candied Sour |  |  | widget |
 | Cheesecake Sour [Coconut Cream] (CCS v1.10) | Cheesecake Sour |  |  | widget |
-| Donut Sour [Black Raspberry] (DOS v1.5) | Donut Sour |  |  | widget |
+| Cheesecake Sour [Peaches & Cream] (CCS v1.19) | Cheesecake Sour |  |  | widget |
+| Fruited Sour [Pineapple/Honeydew] (FS v1.32) | Fruited Sour |  |  | widget |
 | Ice Cream Sour [Raspberry Shortcake] (ICS v1.29) | Ice Cream Sour |  |  | widget |
 | Ice Cream Sour [Watermelon Cotton Candy] (ICS v1.37) | Ice Cream Sour |  |  | widget |
 | Marshmallow Sour [Strawberry/Cherry] (MAS v1.1) | Marshmallow Sour |  |  | widget |
 | Muffin Sour [Boysenberry] (MS v1.5) | Muffin Sour |  |  | widget |
+| Smoothie Style Sour [Strawberry Funnel Cake - Collab w/ George A. Romero Foundation] (SSS v1.23) | Smoothie Style Sour |  |  | widget |
 | ZWANZE PILS | Belgian Pilsner brewed as a homage to Cantillion, and the incredible honor of being selected to host Zwanze Day this year. Sugar Creek French Pilsner malt lends a rustic, farmhouse character that is supported by the use of aged, whole-leaf lambic hops in the boil. | 4.5% | ★★★★☆ 3.93 | website |
