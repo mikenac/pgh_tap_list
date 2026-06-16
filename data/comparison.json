@@ -1,59 +1,93 @@
 {
-  "generated": "2026-06-12T14:05:02Z",
-  "previousDate": "2026-06-09",
+  "generated": "2026-06-16T14:41:38Z",
+  "previousDate": "2026-06-12",
   "changes": [
     {
       "breweryId": "abjuration",
-      "additions": [
-        "Cheesecake Sour [Peaches & Cream] (CCS v1.19)",
-        "Fruited Sour [Pineapple/Honeydew] (FS v1.32)",
-        "Hazy India Pale Ale [Citra/Elani Cryo/Comet] (IPA v9.8)",
-        "Hefeweizen (HEFE v1.0)",
-        "Smoothie Style Sour [Strawberry Funnel Cake - Collab w/ George A. Romero Foundation] (SSS v1.23)"
-      ],
-      "removals": [
-        "Donut Sour [Black Raspberry] (DOS v1.5)"
-      ],
+      "additions": [],
+      "removals": [],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "acclamation",
-      "additions": [],
-      "removals": [
+      "additions": [
         "In Bloom",
         "Old Thunder Sol X"
       ],
-      "styleChanges": [],
+      "removals": [
+        "Steel City Summer"
+      ],
+      "styleChanges": [
+        {
+          "beer": "Ambrosia",
+          "oldStyle": "Fruited Sour (Orange, Pineapple, Coconut, Marshmallow)",
+          "newStyle": "Fruit Sour (Ornge,Pneaple, Cocnt, Mrshmlow)"
+        },
+        {
+          "beer": "Strawberry Shortcake Sour",
+          "oldStyle": "Lactose-Free Fruited Sour",
+          "newStyle": "Fruited Sour"
+        }
+      ],
       "ratingChanges": []
     },
     {
       "breweryId": "dancing-gnome",
       "additions": [
-        "Czech 12"
+        "After the Party (Can Pour)",
+        "Bifocal Feline",
+        "Citra Jam IPA",
+        "Painter Pigment IPA",
+        "Porcellino",
+        "Pounce",
+        "Wit"
       ],
       "removals": [
-        "Czech 12\u00b0 \u2013 Pale Lager",
-        "Gravel Grinder"
+        "Bifocal Feline IPA",
+        "Hefeweizen",
+        "Hefeweizen Shandy",
+        "Lager Lustra",
+        "Pounce IPA"
       ],
-      "styleChanges": [],
+      "styleChanges": [
+        {
+          "beer": "ESB",
+          "oldStyle": "English Ale dry hopped with Bramling Cross",
+          "newStyle": "English Ale"
+        }
+      ],
       "ratingChanges": []
     },
     {
       "breweryId": "eleventh-hour",
-      "additions": [
-        "Tanuki"
-      ],
+      "additions": [],
       "removals": [
-        "Non Alc - Fruity Pebbles"
+        "Reel Queen - Summer"
       ],
       "styleChanges": [],
-      "ratingChanges": []
+      "ratingChanges": [
+        {
+          "beer": "Happy Valley Jack",
+          "oldRating": 4.25,
+          "newRating": 4.0,
+          "delta": -0.25
+        }
+      ]
     },
     {
       "breweryId": "four-points",
-      "additions": [],
-      "removals": [],
+      "additions": [
+        "SMOL : CITRA",
+        "STRIPES"
+      ],
+      "removals": [
+        "DESTROYER HAZE",
+        "DESTROYER PILS",
+        "FOURTH STREET + CITRA",
+        "K.",
+        "SOUR CERVEZA STRAWBERRY ESPECIAL"
+      ],
       "styleChanges": [],
       "ratingChanges": []
     },
@@ -66,18 +100,13 @@
     },
     {
       "breweryId": "grist-house",
-      "additions": [
-        "Krisp",
-        "The Garden",
-        "The Paddler",
-        "Vista Hopper"
-      ],
+      "additions": [],
       "removals": [],
       "styleChanges": [
         {
-          "beer": "MillvALE",
-          "oldStyle": "Traditional Ale",
-          "newStyle": "Premium Ale"
+          "beer": "Command House Lager",
+          "oldStyle": "House Other",
+          "newStyle": "House Lager"
         }
       ],
       "ratingChanges": []
@@ -91,29 +120,15 @@
     },
     {
       "breweryId": "late-addition",
-      "additions": [
-        "Krakowiak"
-      ],
-      "removals": [
-        "Grateful Addition"
-      ],
+      "additions": [],
+      "removals": [],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "lolev",
-      "additions": [
-        "African Wild Dog",
-        "Lupula",
-        "Origen III",
-        "Remedios II"
-      ],
-      "removals": [
-        "Blue Jay",
-        "Eagle",
-        "Parabellum",
-        "Tiger"
-      ],
+      "additions": [],
+      "removals": [],
       "styleChanges": [],
       "ratingChanges": []
     },
