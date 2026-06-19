@@ -1,114 +1,88 @@
 {
-  "generated": "2026-06-16T14:41:38Z",
-  "previousDate": "2026-06-12",
+  "generated": "2026-06-19T14:06:09Z",
+  "previousDate": "2026-06-16",
   "changes": [
     {
       "breweryId": "abjuration",
-      "additions": [],
-      "removals": [],
+      "additions": [
+        "American Style Bitter (ABI v1.0)",
+        "Donut Sour [Cherry/Fruity Pebbles] (DOS v1.6)",
+        "Fruited Sour [Mango/Cantaloupe/Peach] (FS v1.29)"
+      ],
+      "removals": [
+        "Cheesecake Sour [Coconut Cream] (CCS v1.10)",
+        "Ice Cream Sour [Watermelon Cotton Candy] (ICS v1.37)",
+        "Rye Lager (RL v1.0)"
+      ],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "acclamation",
       "additions": [
-        "In Bloom",
-        "Old Thunder Sol X"
+        "Kolsch"
       ],
-      "removals": [
-        "Steel City Summer"
-      ],
-      "styleChanges": [
-        {
-          "beer": "Ambrosia",
-          "oldStyle": "Fruited Sour (Orange, Pineapple, Coconut, Marshmallow)",
-          "newStyle": "Fruit Sour (Ornge,Pneaple, Cocnt, Mrshmlow)"
-        },
-        {
-          "beer": "Strawberry Shortcake Sour",
-          "oldStyle": "Lactose-Free Fruited Sour",
-          "newStyle": "Fruited Sour"
-        }
-      ],
+      "removals": [],
+      "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "dancing-gnome",
       "additions": [
-        "After the Party (Can Pour)",
-        "Bifocal Feline",
-        "Citra Jam IPA",
-        "Painter Pigment IPA",
-        "Porcellino",
-        "Pounce",
-        "Wit"
+        "Citra Jam",
+        "Ordinary Bitter"
       ],
       "removals": [
-        "Bifocal Feline IPA",
-        "Hefeweizen",
-        "Hefeweizen Shandy",
-        "Lager Lustra",
-        "Pounce IPA"
+        "Carrie Furnace",
+        "ESB",
+        "Triple Lustra"
       ],
       "styleChanges": [
         {
-          "beer": "ESB",
-          "oldStyle": "English Ale dry hopped with Bramling Cross",
-          "newStyle": "English Ale"
+          "beer": "Porcellino",
+          "oldStyle": "",
+          "newStyle": "Italian-style Pilsner"
         }
       ],
       "ratingChanges": []
     },
     {
       "breweryId": "eleventh-hour",
-      "additions": [],
-      "removals": [
+      "additions": [
+        "Cloud Faction No. 4 - Dragon Fruit + Strawberry",
+        "Non Alc - Every Time K\u00f6lsch",
+        "Non Alc - Finicky Beast IPA",
         "Reel Queen - Summer"
       ],
-      "styleChanges": [],
-      "ratingChanges": [
-        {
-          "beer": "Happy Valley Jack",
-          "oldRating": 4.25,
-          "newRating": 4.0,
-          "delta": -0.25
-        }
-      ]
-    },
-    {
-      "breweryId": "four-points",
-      "additions": [
-        "SMOL : CITRA",
-        "STRIPES"
-      ],
       "removals": [
-        "DESTROYER HAZE",
-        "DESTROYER PILS",
-        "FOURTH STREET + CITRA",
-        "K.",
-        "SOUR CERVEZA STRAWBERRY ESPECIAL"
+        "Non Alc - Finicky Beast"
       ],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
-      "breweryId": "golden-age",
+      "breweryId": "four-points",
       "additions": [],
+      "removals": [],
+      "styleChanges": [],
+      "ratingChanges": []
+    },
+    {
+      "breweryId": "golden-age",
+      "additions": [
+        "SOMMER PILS"
+      ],
       "removals": [],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "grist-house",
-      "additions": [],
-      "removals": [],
-      "styleChanges": [
-        {
-          "beer": "Command House Lager",
-          "oldStyle": "House Other",
-          "newStyle": "House Lager"
-        }
+      "additions": [
+        "HazyWampus"
       ],
+      "removals": [],
+      "styleChanges": [],
       "ratingChanges": []
     },
     {
@@ -127,8 +101,15 @@
     },
     {
       "breweryId": "lolev",
-      "additions": [],
-      "removals": [],
+      "additions": [
+        "Capax III",
+        "Priam"
+      ],
+      "removals": [
+        "Arcole",
+        "Kamo III",
+        "Vi"
+      ],
       "styleChanges": [],
       "ratingChanges": []
     },
