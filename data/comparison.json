@@ -1,18 +1,13 @@
 {
-  "generated": "2026-06-19T14:06:09Z",
-  "previousDate": "2026-06-16",
+  "generated": "2026-06-23T13:54:08Z",
+  "previousDate": "2026-06-19",
   "changes": [
     {
       "breweryId": "abjuration",
-      "additions": [
-        "American Style Bitter (ABI v1.0)",
-        "Donut Sour [Cherry/Fruity Pebbles] (DOS v1.6)",
-        "Fruited Sour [Mango/Cantaloupe/Peach] (FS v1.29)"
-      ],
+      "additions": [],
       "removals": [
-        "Cheesecake Sour [Coconut Cream] (CCS v1.10)",
-        "Ice Cream Sour [Watermelon Cotton Candy] (ICS v1.37)",
-        "Rye Lager (RL v1.0)"
+        "Fruited India Pale Ale [Pink Boots Collab: Grapefruit/Mosaic/Paradisi/Simcoe/Chinook] (FRIPA v2.0)",
+        "Fruited Sour [Pineapple/Honeydew] (FS v1.32)"
       ],
       "styleChanges": [],
       "ratingChanges": []
@@ -20,76 +15,109 @@
     {
       "breweryId": "acclamation",
       "additions": [
-        "Kolsch"
+        "East End Fat Gary"
       ],
-      "removals": [],
+      "removals": [
+        "Brave Noise",
+        "Dancing Gnome Pilsner",
+        "Hoppy Little Beer"
+      ],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "dancing-gnome",
       "additions": [
-        "Citra Jam",
-        "Ordinary Bitter"
+        "Painter Pigment",
+        "Spy Dolphin DIPA"
       ],
       "removals": [
-        "Carrie Furnace",
-        "ESB",
-        "Triple Lustra"
-      ],
-      "styleChanges": [
-        {
-          "beer": "Porcellino",
-          "oldStyle": "",
-          "newStyle": "Italian-style Pilsner"
-        }
-      ],
-      "ratingChanges": []
-    },
-    {
-      "breweryId": "eleventh-hour",
-      "additions": [
-        "Cloud Faction No. 4 - Dragon Fruit + Strawberry",
-        "Non Alc - Every Time K\u00f6lsch",
-        "Non Alc - Finicky Beast IPA",
-        "Reel Queen - Summer"
-      ],
-      "removals": [
-        "Non Alc - Finicky Beast"
+        "Citra Jam IPA",
+        "Iron Goddess (De Fer collab)",
+        "Painter Pigment IPA"
       ],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
-      "breweryId": "four-points",
+      "breweryId": "eleventh-hour",
       "additions": [],
       "removals": [],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
-      "breweryId": "golden-age",
+      "breweryId": "four-points",
       "additions": [
-        "SOMMER PILS"
+        "FOURTH STREET + SUPERDELIC",
+        "SOUR CERVEZA WATERMELON ESPECIAL"
       ],
-      "removals": [],
+      "removals": [
+        "400"
+      ],
+      "styleChanges": [],
+      "ratingChanges": []
+    },
+    {
+      "breweryId": "golden-age",
+      "additions": [],
+      "removals": [
+        "International Pilsener",
+        "ITALIAN PILS",
+        "ZWANZE PILS"
+      ],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "grist-house",
-      "additions": [
-        "HazyWampus"
+      "additions": [],
+      "removals": [
+        "Fire On the Hill",
+        "Krisp",
+        "Mr. Toasty"
       ],
-      "removals": [],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "hitchhiker",
       "additions": [],
-      "removals": [],
-      "styleChanges": [],
+      "removals": [
+        "15th and Canal",
+        "Airwave",
+        "Baby Bane",
+        "Blended",
+        "Bottle Service",
+        "Citrus Summer",
+        "Cococino",
+        "Conversion",
+        "Fusional",
+        "Mexican Shakes",
+        "mmHmmm Grape",
+        "One to One",
+        "Opposite Bane",
+        "Press Project Apricot Mango Peach",
+        "Press Project \u2013 Apricot, Mango, Peach",
+        "Subsurface Tangerine Coconut",
+        "Thumbs & Fangs",
+        "Thumbs Fangs",
+        "Trapped in Time",
+        "Triple Bane of Existence",
+        "True",
+        "Western Sun",
+        "Whale Watch",
+        "Wheat Wagon",
+        "Whole Punch Key Lime Pie",
+        "Whole Punch: Key Lime Pie"
+      ],
+      "styleChanges": [
+        {
+          "beer": "Bane of Existence",
+          "oldStyle": "IPA",
+          "newStyle": "Double IPA"
+        }
+      ],
       "ratingChanges": []
     },
     {
@@ -102,16 +130,18 @@
     {
       "breweryId": "lolev",
       "additions": [
-        "Capax III",
-        "Priam"
+        "Harvest III"
       ],
-      "removals": [
-        "Arcole",
-        "Kamo III",
-        "Vi"
-      ],
+      "removals": [],
       "styleChanges": [],
-      "ratingChanges": []
+      "ratingChanges": [
+        {
+          "beer": "Remedios II",
+          "oldRating": 4.415,
+          "newRating": 4.08,
+          "delta": -0.335
+        }
+      ]
     },
     {
       "breweryId": "old-thunder",
