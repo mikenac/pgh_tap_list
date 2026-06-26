@@ -25,7 +25,7 @@
 <meta name="twitter:image" content="https://craftpeak-cooler-images.imgix.net/dancing-gnome-brewery/BrewHouse_83021-1.jpg?auto=compress%2Cformat&amp;ixlib=php-3.3.1&amp;s=cb04ecd586df4e931c6994c46efd3eba" />
 <meta name="twitter:image:alt" content="Brewhouse at 1025" />
 <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://dancinggnomebeer.com/#/schema/WebSite","url":"https://dancinggnomebeer.com/","name":"Dancing Gnome Brewery","inLanguage":"en-US","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://dancinggnomebeer.com/search/{search_term_string}/"},"query-input":"required name=search_term_string"},"publisher":{"@type":"Organization","@id":"https://dancinggnomebeer.com/#/schema/Organization","name":"Dancing Gnome Brewery","url":"https://dancinggnomebeer.com/","logo":{"@type":"ImageObject","url":"https://craftpeak-cooler-images.imgix.net/dancing-gnome-brewery/favicon-01.png?auto=compress%2Cformat&ixlib=php-3.3.1&s=5cdb7f17869da562f697d6cb83030f96","contentUrl":"https://craftpeak-cooler-images.imgix.net/dancing-gnome-brewery/favicon-01.png?auto=compress%2Cformat&ixlib=php-3.3.1&s=5cdb7f17869da562f697d6cb83030f96","width":500,"height":500}}},{"@type":"WebPage","@id":"https://dancinggnomebeer.com/location/1025-main/","url":"https://dancinggnomebeer.com/location/1025-main/","name":"1025 Main | Dancing Gnome Brewery","inLanguage":"en-US","isPartOf":{"@id":"https://dancinggnomebeer.com/#/schema/WebSite"},"breadcrumb":{"@type":"BreadcrumbList","@id":"https://dancinggnomebeer.com/#/schema/BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":"https://dancinggnomebeer.com/","name":"Dancing Gnome Brewery"},{"@type":"ListItem","position":2,"name":"1025 Main"}]},"potentialAction":{"@type":"ReadAction","target":"https://dancinggnomebeer.com/location/1025-main/"},"datePublished":"2021-02-11T18:30:11+00:00","dateModified":"2026-05-15T16:26:06+00:00"}]}</script>
-<!-- / The SEO Framework by Sybre Waaijer | 3.01ms meta | 0.07ms boot -->
+<!-- / The SEO Framework by Sybre Waaijer | 3.68ms meta | 0.06ms boot -->
 
 <link rel='dns-prefetch' href='//dancinggnomebeer.com' />
 <link rel="preload" href="https://craftpeak.site/app/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin="anonymous">
@@ -828,17 +828,17 @@ a.ui-label.color--brand-primary {
 <div class="list-item col-12 col-md-6 col-lg-3 has-divider">
 		<div class="item-first-row">
 						<h2 class="item-title h4">
-			<a href="https://dancinggnomebeer.com/beer/gravel-grinder/">
-				Gravel Grinder			</a>
+			<a href="https://dancinggnomebeer.com/beer/pounce/">
+				Pounce			</a>
 		</h2>
 				<div class="item-meta meta-primary">
 							<div class="ui-label size--medium color--muted item-meta-entry item-abv">
-		<span class="value">6.6&percnt;</span>
+		<span class="value">6.0&percnt;</span>
 	</div>					</div>
 			</div>
 	<div class="item-second-row">
 						<div class="item-descriptor ui-label size--small color--muted">
-			IPA - Citra, Simcoe ,Mosaic		</div>
+			IPA - Mosaic, Citra		</div>
 									</div>
 					<div class="divider-wrap" style="justify-content:center;">
 			<hr class="divider" style="">
@@ -847,7 +847,26 @@ a.ui-label.color--brand-primary {
 <div class="list-item col-12 col-md-6 col-lg-3 has-divider">
 		<div class="item-first-row">
 						<h2 class="item-title h4">
-			Carrie Furnace		</h2>
+			Bifocal Feline		</h2>
+				<div class="item-meta meta-primary">
+							<div class="ui-label size--medium color--muted item-meta-entry item-abv">
+		<span class="value">6.4&percnt;</span>
+	</div>					</div>
+			</div>
+	<div class="item-second-row">
+						<div class="item-descriptor ui-label size--small color--muted">
+			IPA - Citra, Galaxy		</div>
+									</div>
+					<div class="divider-wrap" style="justify-content:center;">
+			<hr class="divider" style="">
+		</div>
+			</div>
+<div class="list-item col-12 col-md-6 col-lg-3 has-divider">
+		<div class="item-first-row">
+						<h2 class="item-title h4">
+			<a href="https://dancinggnomebeer.com/beer/jam/">
+				Citra Jam			</a>
+		</h2>
 				<div class="item-meta meta-primary">
 							<div class="ui-label size--medium color--muted item-meta-entry item-abv">
 		<span class="value">6.8&percnt;</span>
@@ -855,7 +874,26 @@ a.ui-label.color--brand-primary {
 			</div>
 	<div class="item-second-row">
 						<div class="item-descriptor ui-label size--small color--muted">
-			IPA - Citra, Nectaron 		</div>
+			IPA - Citra		</div>
+									</div>
+					<div class="divider-wrap" style="justify-content:center;">
+			<hr class="divider" style="">
+		</div>
+			</div>
+<div class="list-item col-12 col-md-6 col-lg-3 has-divider">
+		<div class="item-first-row">
+						<h2 class="item-title h4">
+			<a href="https://dancinggnomebeer.com/beer/painter-pigment/">
+				Painter Pigment			</a>
+		</h2>
+				<div class="item-meta meta-primary">
+							<div class="ui-label size--medium color--muted item-meta-entry item-abv">
+		<span class="value">7.0&percnt;</span>
+	</div>					</div>
+			</div>
+	<div class="item-second-row">
+						<div class="item-descriptor ui-label size--small color--muted">
+			IPA - Citra, Strata		</div>
 									</div>
 					<div class="divider-wrap" style="justify-content:center;">
 			<hr class="divider" style="">
@@ -883,25 +921,6 @@ a.ui-label.color--brand-primary {
 <div class="list-item col-12 col-md-6 col-lg-3 has-divider">
 		<div class="item-first-row">
 						<h2 class="item-title h4">
-			<a href="https://dancinggnomebeer.com/beer/triple-lustra/">
-				Triple Lustra			</a>
-		</h2>
-				<div class="item-meta meta-primary">
-							<div class="ui-label size--medium color--muted item-meta-entry item-abv">
-		<span class="value">11.0&percnt;</span>
-	</div>					</div>
-			</div>
-	<div class="item-second-row">
-						<div class="item-descriptor ui-label size--small color--muted">
-			Triple IPA - Citra, Amarillo		</div>
-									</div>
-					<div class="divider-wrap" style="justify-content:center;">
-			<hr class="divider" style="">
-		</div>
-			</div>
-<div class="list-item col-12 col-md-6 col-lg-3 has-divider">
-		<div class="item-first-row">
-						<h2 class="item-title h4">
 			Swingin&#039; At Strangers		</h2>
 				<div class="item-meta meta-primary">
 							<div class="ui-label size--medium color--muted item-meta-entry item-abv">
@@ -919,6 +938,23 @@ a.ui-label.color--brand-primary {
 <div class="list-item col-12 col-md-6 col-lg-3 has-divider">
 		<div class="item-first-row">
 						<h2 class="item-title h4">
+			Wit		</h2>
+				<div class="item-meta meta-primary">
+							<div class="ui-label size--medium color--muted item-meta-entry item-abv">
+		<span class="value">5.0&percnt;</span>
+	</div>					</div>
+			</div>
+	<div class="item-second-row">
+						<div class="item-descriptor ui-label size--small color--muted">
+			Belgian-style Witbier		</div>
+									</div>
+					<div class="divider-wrap" style="justify-content:center;">
+			<hr class="divider" style="">
+		</div>
+			</div>
+<div class="list-item col-12 col-md-6 col-lg-3 has-divider">
+		<div class="item-first-row">
+						<h2 class="item-title h4">
 			Blueberry Blackberry Sour		</h2>
 				<div class="item-meta meta-primary">
 							<div class="ui-label size--medium color--muted item-meta-entry item-abv">
@@ -928,57 +964,6 @@ a.ui-label.color--brand-primary {
 	<div class="item-second-row">
 						<div class="item-descriptor ui-label size--small color--muted">
 			Berliner Weisse		</div>
-									</div>
-					<div class="divider-wrap" style="justify-content:center;">
-			<hr class="divider" style="">
-		</div>
-			</div>
-<div class="list-item col-12 col-md-6 col-lg-3 has-divider">
-		<div class="item-first-row">
-						<h2 class="item-title h4">
-			Hefeweizen		</h2>
-				<div class="item-meta meta-primary">
-							<div class="ui-label size--medium color--muted item-meta-entry item-abv">
-		<span class="value">5.2&percnt;</span>
-	</div>					</div>
-			</div>
-	<div class="item-second-row">
-						<div class="item-descriptor ui-label size--small color--muted">
-			German Wheat Beer		</div>
-									</div>
-					<div class="divider-wrap" style="justify-content:center;">
-			<hr class="divider" style="">
-		</div>
-			</div>
-<div class="list-item col-12 col-md-6 col-lg-3 has-divider">
-		<div class="item-first-row">
-						<h2 class="item-title h4">
-			Hefeweizen Shandy		</h2>
-				<div class="item-meta meta-primary">
-							<div class="ui-label size--medium color--muted item-meta-entry item-abv">
-		<span class="value">5.2&percnt;</span>
-	</div>					</div>
-			</div>
-	<div class="item-second-row">
-						<div class="item-descriptor ui-label size--small color--muted">
-			Wheat Beer w/ Lemon Mix		</div>
-									</div>
-					<div class="divider-wrap" style="justify-content:center;">
-			<hr class="divider" style="">
-		</div>
-			</div>
-<div class="list-item col-12 col-md-6 col-lg-3 has-divider">
-		<div class="item-first-row">
-						<h2 class="item-title h4">
-			Iron Goddess (De Fer collab)		</h2>
-				<div class="item-meta meta-primary">
-							<div class="ui-label size--medium color--muted item-meta-entry item-abv">
-		<span class="value">4.1&percnt;</span>
-	</div>					</div>
-			</div>
-	<div class="item-second-row">
-						<div class="item-descriptor ui-label size--small color--muted">
-			American Lager with Oolong Tea		</div>
 									</div>
 					<div class="divider-wrap" style="justify-content:center;">
 			<hr class="divider" style="">
@@ -1040,17 +1025,49 @@ a.ui-label.color--brand-primary {
 <div class="list-item col-12 col-md-6 col-lg-3 has-divider">
 		<div class="item-first-row">
 						<h2 class="item-title h4">
-			<a href="https://dancinggnomebeer.com/beer/lager-lustra/">
-				Lager Lustra			</a>
-		</h2>
+			Porcellino		</h2>
 				<div class="item-meta meta-primary">
 							<div class="ui-label size--medium color--muted item-meta-entry item-abv">
-		<span class="value">5.8&percnt;</span>
+		<span class="value">5.0&percnt;</span>
 	</div>					</div>
 			</div>
 	<div class="item-second-row">
 						<div class="item-descriptor ui-label size--small color--muted">
-			American Lager		</div>
+			Italian-style Pilsner 		</div>
+									</div>
+					<div class="divider-wrap" style="justify-content:center;">
+			<hr class="divider" style="">
+		</div>
+			</div>
+<div class="list-item col-12 col-md-6 col-lg-3 has-divider">
+		<div class="item-first-row">
+						<h2 class="item-title h4">
+			After the Party (Can Pour)		</h2>
+				<div class="item-meta meta-primary">
+							<div class="ui-label size--medium color--muted item-meta-entry item-abv">
+		<span class="value">5.6&percnt;</span>
+	</div>					</div>
+			</div>
+	<div class="item-second-row">
+						<div class="item-descriptor ui-label size--small color--muted">
+			WC Pilsner - Collab w/ Lavery & Old Thunder		</div>
+									</div>
+					<div class="divider-wrap" style="justify-content:center;">
+			<hr class="divider" style="">
+		</div>
+			</div>
+<div class="list-item col-12 col-md-6 col-lg-3 has-divider">
+		<div class="item-first-row">
+						<h2 class="item-title h4">
+			Czech 12		</h2>
+				<div class="item-meta meta-primary">
+							<div class="ui-label size--medium color--muted item-meta-entry item-abv">
+		<span class="value">5.0&percnt;</span>
+	</div>					</div>
+			</div>
+	<div class="item-second-row">
+						<div class="item-descriptor ui-label size--small color--muted">
+			Czech Pale Lager		</div>
 									</div>
 					<div class="divider-wrap" style="justify-content:center;">
 			<hr class="divider" style="">
@@ -1076,15 +1093,15 @@ a.ui-label.color--brand-primary {
 <div class="list-item col-12 col-md-6 col-lg-3 has-divider">
 		<div class="item-first-row">
 						<h2 class="item-title h4">
-			ESB		</h2>
+			Ordinary Bitter		</h2>
 				<div class="item-meta meta-primary">
 							<div class="ui-label size--medium color--muted item-meta-entry item-abv">
-		<span class="value">5.4&percnt;</span>
+		<span class="value">3.2&percnt;</span>
 	</div>					</div>
 			</div>
 	<div class="item-second-row">
 						<div class="item-descriptor ui-label size--small color--muted">
-			English Ale dry hopped with Bramling Cross		</div>
+			English Bitter		</div>
 									</div>
 					<div class="divider-wrap" style="justify-content:center;">
 			<hr class="divider" style="">
@@ -1131,13 +1148,13 @@ a.ui-label.color--brand-primary {
 		 class="tribe-common tribe-events tribe-events-view tribe-events-view--widget-events-list tribe-events-widget" 		data-js="tribe-events-view"
 		data-view-rest-url="https://dancinggnomebeer.com/wp-json/tribe/views/v2/html"
 		data-view-manage-url="1"
-							data-view-breakpoint-pointer="a85cf046-3c47-4e4f-8bef-d60b6a8553a8"
+							data-view-breakpoint-pointer="aced2614-93fa-474b-8f35-dea08a06c798"
 			>
 		<div class="tribe-events-widget-events-list">
 
 			
 			<script data-js="tribe-events-view-data" type="application/json">
-	{"slug":"widget-events-list","prev_url":"","next_url":"https:\/\/dancinggnomebeer.com\/?post_type=tribe_events&eventDisplay=widget-events-list&paged=2","view_class":"Tribe\\Events\\Views\\V2\\Views\\Widgets\\Widget_List_View","view_slug":"widget-events-list","view_label":"View","view":null,"should_manage_url":true,"id":null,"alias-slugs":null,"title":"1025 Main | Dancing Gnome Brewery","limit":"5","no_upcoming_events":false,"featured_events_only":null,"jsonld_enable":false,"tribe_is_list_widget":true,"admin_fields":{"title":{"label":"Title:","type":"text","parent_classes":"","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-title","name":"widget-tribe-widget-events-list[-1][title]","options":[],"placeholder":"","value":null},"limit":{"label":"Show:","type":"number","default":5,"min":1,"max":10,"step":1,"parent_classes":"","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-limit","name":"widget-tribe-widget-events-list[-1][limit]","options":[],"placeholder":"","value":null},"metadata_section":{"type":"fieldset","classes":"tribe-common-form-control-checkbox-checkbox-group","label":"Display:","children":{"cost":{"type":"checkbox","label":"Price","parent_classes":"","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-cost","name":"widget-tribe-widget-events-list[-1][cost]","options":[],"placeholder":"","value":null},"venue":{"type":"checkbox","label":"Venue","parent_classes":"","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-venue","name":"widget-tribe-widget-events-list[-1][venue]","options":[],"placeholder":"","value":null},"street":{"type":"checkbox","label":"Street","parent_classes":"","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-street","name":"widget-tribe-widget-events-list[-1][street]","options":[],"placeholder":"","value":null},"city":{"type":"checkbox","label":"City","parent_classes":"","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-city","name":"widget-tribe-widget-events-list[-1][city]","options":[],"placeholder":"","value":null},"region":{"type":"checkbox","label":"State (US) Or Province (Int)","parent_classes":"","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-region","name":"widget-tribe-widget-events-list[-1][region]","options":[],"placeholder":"","value":null},"zip":{"type":"checkbox","label":"Postal Code","parent_classes":"","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-zip","name":"widget-tribe-widget-events-list[-1][zip]","options":[],"placeholder":"","value":null},"country":{"type":"checkbox","label":"Country","parent_classes":"","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-country","name":"widget-tribe-widget-events-list[-1][country]","options":[],"placeholder":"","value":null},"phone":{"type":"checkbox","label":"Phone","parent_classes":"","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-phone","name":"widget-tribe-widget-events-list[-1][phone]","options":[],"placeholder":"","value":null},"organizer":{"type":"checkbox","label":"Organizer","parent_classes":"","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-organizer","name":"widget-tribe-widget-events-list[-1][organizer]","options":[],"placeholder":"","value":null},"website":{"type":"checkbox","label":"Website","parent_classes":"","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-website","name":"widget-tribe-widget-events-list[-1][website]","options":[],"placeholder":"","value":null}},"parent_classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-metadata_section","name":"widget-tribe-widget-events-list[-1][metadata_section]","options":[],"placeholder":"","value":null},"taxonomy_section":{"type":"section","classes":["calendar-widget-filters-container"],"label":"Filters:","children":{"filters":{"type":"taxonomy-filters","parent_classes":"","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-filters","label":"","name":"widget-tribe-widget-events-list[-1][filters]","options":[],"placeholder":"","value":null,"list_items":[]},"operand":{"type":"fieldset","classes":"tribe-common-form-control-checkbox-radio-group","label":"Operand:","selected":"OR","children":[{"type":"radio","label":"Match any","button_value":"OR","parent_classes":"","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-operand","name":"widget-tribe-widget-events-list[-1][operand]","options":[],"placeholder":"","value":null},{"type":"radio","label":"Match all","button_value":"AND","parent_classes":"","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-operand","name":"widget-tribe-widget-events-list[-1][operand]","options":[],"placeholder":"","value":null}],"parent_classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-operand","name":"widget-tribe-widget-events-list[-1][operand]","options":[],"placeholder":"","value":null}},"parent_classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-taxonomy_section","name":"widget-tribe-widget-events-list[-1][taxonomy_section]","options":[],"placeholder":"","value":null},"taxonomy":{"type":"taxonomy","classes":"calendar-widget-add-filter","label":"Add a filter:","placeholder":"Select a Taxonomy Term","parent_classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-taxonomy","name":"widget-tribe-widget-events-list[-1][taxonomy]","options":[],"value":null},"no_upcoming_events":{"label":"Hide this widget if there are no upcoming events.","type":"checkbox","parent_classes":"","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-no_upcoming_events","name":"widget-tribe-widget-events-list[-1][no_upcoming_events]","options":[],"placeholder":"","value":null},"featured_events_only":{"label":"Limit to featured events only","type":"checkbox","parent_classes":"","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-featured_events_only","name":"widget-tribe-widget-events-list[-1][featured_events_only]","options":[],"placeholder":"","value":null},"jsonld_enable":{"label":"Generate JSON-LD data","type":"checkbox","parent_classes":"","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-jsonld_enable","name":"widget-tribe-widget-events-list[-1][jsonld_enable]","options":[],"placeholder":"","value":null}},"venue":false,"country":false,"street":false,"city":false,"region":false,"zip":false,"phone":false,"cost":false,"organizer":false,"website":false,"operand":"OR","filters":[{"filter_object":{"type":"select","name":"Event Category","slug":"filterbar_category","priority":1,"values":[{"name":"Bottle Releases","depth":0,"value":123,"data":{"slug":"bottle-releases"},"class":"tribe-parent-cat tribe-events-category-bottle-releases"},{"name":"Can Releases","depth":0,"value":124,"data":{"slug":"can-releases"},"class":"tribe-parent-cat tribe-events-category-can-releases"},{"name":"Closed","depth":0,"value":125,"data":{"slug":"closed"},"class":"tribe-parent-cat tribe-events-category-closed"},{"name":"Draft Only Release","depth":0,"value":126,"data":{"slug":"draft-only-release"},"class":"tribe-parent-cat tribe-events-category-draft-only-release"},{"name":"Food Trucks","depth":0,"value":122,"data":{"slug":"food-trucks"},"class":"tribe-parent-cat tribe-events-category-food-trucks"},{"name":"Holiday Hours","depth":0,"value":128,"data":{"slug":"holiday-hours"},"class":"tribe-parent-cat tribe-events-category-holiday-hours"},{"name":"K\u00f6lsch Service","depth":0,"value":129,"data":{"slug":"kolsch-service"},"class":"tribe-parent-cat tribe-events-category-kolsch-service"},{"name":"Lustra Day!","depth":0,"value":131,"data":{"slug":"lustra-day"},"class":"tribe-parent-cat tribe-events-category-lustra-day"},{"name":"Nine Two Five","depth":0,"value":134,"data":{"slug":"nine-two-five"},"class":"tribe-parent-cat tribe-events-category-nine-two-five"},{"name":"Special Hours","depth":0,"value":132,"data":{"slug":"special-hours"},"class":"tribe-parent-cat tribe-events-category-special-hours"},{"name":"Taproom Events","depth":0,"value":127,"data":{"slug":"taproom-events"},"class":"tribe-parent-cat tribe-events-category-taproom-events"}],"free":null,"currentValue":[],"isActiveFilter":true,"queryArgs":[],"joinClause":"","whereClause":"","stack_managed":false},"label":"Event Category","selections_count":"","selections":"","toggle_id":"filterbar_category-toggle-a85cf046-3c47-4e4f-8bef-d60b6a8553a8","container_id":"filterbar_category-container-a85cf046-3c47-4e4f-8bef-d60b6a8553a8","pill_toggle_id":"filterbar_category-pill-toggle-a85cf046-3c47-4e4f-8bef-d60b6a8553a8","is_open":false,"name":"tribe_eventcategory[]","fields":[{"type":"dropdown","value":"","id":"tribe-events-filterbar-482e5ba9-filterbar_category","name":"tribe_eventcategory[]","options":[{"text":"Bottle Releases","id":"123","value":123},{"text":"Can Releases","id":"124","value":124},{"text":"Closed","id":"125","value":125},{"text":"Draft Only Release","id":"126","value":126},{"text":"Food Trucks","id":"122","value":122},{"text":"Holiday Hours","id":"128","value":128},{"text":"K\u00f6lsch Service","id":"129","value":129},{"text":"Lustra Day!","id":"131","value":131},{"text":"Nine Two Five","id":"134","value":134},{"text":"Special Hours","id":"132","value":132},{"text":"Taproom Events","id":"127","value":127}]}],"type":"dropdown"},{"filter_object":{"type":"select","name":"Venues","slug":"filterbar_venue","priority":4,"values":[{"name":"1025 Main - Taproom","value":7216},{"name":"925 Main - HQ","value":7218}],"free":null,"currentValue":[],"isActiveFilter":true,"queryArgs":[],"joinClause":"","whereClause":"","stack_managed":false},"label":"Venues","selections_count":"","selections":"","toggle_id":"filterbar_venue-toggle-a85cf046-3c47-4e4f-8bef-d60b6a8553a8","container_id":"filterbar_venue-container-a85cf046-3c47-4e4f-8bef-d60b6a8553a8","pill_toggle_id":"filterbar_venue-pill-toggle-a85cf046-3c47-4e4f-8bef-d60b6a8553a8","is_open":false,"name":"tribe_venues[]","fields":[{"type":"dropdown","value":"","id":"tribe-events-filterbar-98af22ec-filterbar_venue","name":"tribe_venues[]","options":[{"text":"1025 Main - Taproom","id":"7216","value":7216},{"text":"925 Main - HQ","id":"7218","value":7218}]}],"type":"dropdown"},{"filter_object":{"type":"checkbox","name":"Day","slug":"filterbar_day_of_week","priority":6,"values":[{"name":"Sunday","value":1},{"name":"Monday","value":2},{"name":"Tuesday","value":3},{"name":"Wednesday","value":4},{"name":"Thursday","value":5},{"name":"Friday","value":6},{"name":"Saturday","value":7}],"free":null,"currentValue":[],"isActiveFilter":true,"queryArgs":[],"joinClause":"","whereClause":"","stack_managed":false},"label":"Day","selections_count":"","selections":"","toggle_id":"filterbar_day_of_week-toggle-a85cf046-3c47-4e4f-8bef-d60b6a8553a8","container_id":"filterbar_day_of_week-container-a85cf046-3c47-4e4f-8bef-d60b6a8553a8","pill_toggle_id":"filterbar_day_of_week-pill-toggle-a85cf046-3c47-4e4f-8bef-d60b6a8553a8","is_open":false,"name":"tribe_dayofweek[]","fields":[{"type":"checkbox","label":"Sunday","value":1,"id":"tribe-events-filterbar-1a92ac6a-sunday","name":"tribe_dayofweek[]","checked":false},{"type":"checkbox","label":"Monday","value":2,"id":"tribe-events-filterbar-7da880d5-monday","name":"tribe_dayofweek[]","checked":false},{"type":"checkbox","label":"Tuesday","value":3,"id":"tribe-events-filterbar-181e378e-tuesday","name":"tribe_dayofweek[]","checked":false},{"type":"checkbox","label":"Wednesday","value":4,"id":"tribe-events-filterbar-041083a9-wednesday","name":"tribe_dayofweek[]","checked":false},{"type":"checkbox","label":"Thursday","value":5,"id":"tribe-events-filterbar-b578ea63-thursday","name":"tribe_dayofweek[]","checked":false},{"type":"checkbox","label":"Friday","value":6,"id":"tribe-events-filterbar-59de3f16-friday","name":"tribe_dayofweek[]","checked":false},{"type":"checkbox","label":"Saturday","value":7,"id":"tribe-events-filterbar-b9ac7399-saturday","name":"tribe_dayofweek[]","checked":false}],"type":"checkbox"},{"filter_object":{"type":"checkbox","name":"Time","slug":"filterbar_time_of_day","priority":7,"values":[{"name":"All Day","value":"allday"},{"name":"Morning","value":"06-12"},{"name":"Afternoon","value":"12-17"},{"name":"Evening","value":"17-21"},{"name":"Night","value":"21-06"}],"free":null,"currentValue":[],"isActiveFilter":true,"queryArgs":[],"joinClause":"","whereClause":"","stack_managed":false},"label":"Time","selections_count":"","selections":"","toggle_id":"filterbar_time_of_day-toggle-a85cf046-3c47-4e4f-8bef-d60b6a8553a8","container_id":"filterbar_time_of_day-container-a85cf046-3c47-4e4f-8bef-d60b6a8553a8","pill_toggle_id":"filterbar_time_of_day-pill-toggle-a85cf046-3c47-4e4f-8bef-d60b6a8553a8","is_open":false,"name":"tribe_timeofday[]","fields":[{"type":"checkbox","label":"All Day","value":"allday","id":"tribe-events-filterbar-d85c37e4-all-day","name":"tribe_timeofday[]","checked":false},{"type":"checkbox","label":"Morning","value":"06-12","id":"tribe-events-filterbar-a4a345e2-morning","name":"tribe_timeofday[]","checked":false},{"type":"checkbox","label":"Afternoon","value":"12-17","id":"tribe-events-filterbar-fcf902d8-afternoon","name":"tribe_timeofday[]","checked":false},{"type":"checkbox","label":"Evening","value":"17-21","id":"tribe-events-filterbar-e79b9e70-evening","name":"tribe_timeofday[]","checked":false},{"type":"checkbox","label":"Night","value":"21-06","id":"tribe-events-filterbar-4e661f41-night","name":"tribe_timeofday[]","checked":false}],"type":"checkbox"},{"filter_object":{"type":"select","name":"Featured Events","slug":"filterbar_featured","priority":11,"values":{"featured":{"name":"Show featured events only","value":"1"}},"free":null,"currentValue":null,"isActiveFilter":true,"queryArgs":[],"joinClause":"","whereClause":"","stack_managed":false},"label":"Featured Events","selections_count":"","selections":"","toggle_id":"filterbar_featured-toggle-a85cf046-3c47-4e4f-8bef-d60b6a8553a8","container_id":"filterbar_featured-container-a85cf046-3c47-4e4f-8bef-d60b6a8553a8","pill_toggle_id":"filterbar_featured-pill-toggle-a85cf046-3c47-4e4f-8bef-d60b6a8553a8","is_open":false,"name":"tribe_featuredevent[]","fields":[{"type":"dropdown","value":null,"id":"tribe-events-filterbar-30dc7246-filterbar_featured","name":"tribe_featuredevent[]","options":[{"text":"Show featured events only","id":"1","value":"1"}]}],"type":"dropdown"},{"filter_object":{"type":"select","name":"Series","slug":"filterbar_series_id","priority":13,"values":[{"name":"Blowfish BBQ","value":7254},{"name":"Blue Sparrow - The Bus @ Dancing Gnome","value":7234},{"name":"G.S. Sando Co.","value":7242},{"name":"La Palapa Mexican Cuisine","value":7259},{"name":"Steer and Wheel","value":7245},{"name":"Streets on the Fly","value":7248},{"name":"Trivia","value":14361}],"free":null,"currentValue":null,"isActiveFilter":true,"queryArgs":[],"joinClause":"","whereClause":"","stack_managed":false},"label":"Series","selections_count":"","selections":"","toggle_id":"filterbar_series_id-toggle-a85cf046-3c47-4e4f-8bef-d60b6a8553a8","container_id":"filterbar_series_id-container-a85cf046-3c47-4e4f-8bef-d60b6a8553a8","pill_toggle_id":"filterbar_series_id-pill-toggle-a85cf046-3c47-4e4f-8bef-d60b6a8553a8","is_open":false,"name":"tribe_series_id[]","fields":[{"type":"dropdown","value":null,"id":"tribe-events-filterbar-b043c61a-filterbar_series_id","name":"tribe_series_id[]","options":[{"text":"Blowfish BBQ","id":"7254","value":7254},{"text":"Blue Sparrow - The Bus @ Dancing Gnome","id":"7234","value":7234},{"text":"G.S. Sando Co.","id":"7242","value":7242},{"text":"La Palapa Mexican Cuisine","id":"7259","value":7259},{"text":"Steer and Wheel","id":"7245","value":7245},{"text":"Streets on the Fly","id":"7248","value":7248},{"text":"Trivia","id":"14361","value":14361}]}],"type":"dropdown"}],"address":false,"events":[10005388,10004982,10003519,10003520,10004968],"url":"https:\/\/dancinggnomebeer.com\/?post_type=tribe_events&eventDisplay=widget-events-list","url_event_date":false,"bar":{"keyword":"","date":""},"today":"2026-06-09 00:00:00","now":"2026-06-09 09:54:48","home_url":"https:\/\/dancinggnomebeer.com","rest_url":"https:\/\/dancinggnomebeer.com\/wp-json\/tribe\/views\/v2\/html","rest_method":"GET","rest_nonce":"","today_url":"https:\/\/dancinggnomebeer.com\/?post_type=location&eventDisplay=widget-events-list&location=1025-main&name=1025-main","today_title":"Click to select today's date","today_label":"Today","prev_label":"","next_label":"","date_formats":{"compact":"n\/j\/Y","month_and_year_compact":"n\/j\/Y","month_and_year":"F Y","time_range_separator":" - ","date_time_separator":" @ "},"messages":[],"start_of_week":"0","header_title":"","header_title_element":"h1","content_title":"","show_content_title":false,"breadcrumbs":[],"backlink":false,"before_events":"","after_events":"\n<!--\nThis calendar is powered by The Events Calendar.\nhttp:\/\/evnt.is\/18wn\n-->\n","display_events_bar":false,"disable_event_search":false,"live_refresh":true,"ical":{"display_link":true,"link":{"url":"https:\/\/dancinggnomebeer.com\/?post_type=tribe_events&#038;eventDisplay=widget-events-list&#038;ical=1","text":"Export Events","title":"Use this to share calendar data with Google Calendar, Apple iCal and other compatible apps"}},"container_classes":["tribe-common","tribe-events","tribe-events-view","tribe-events-view--widget-events-list","tribe-events-widget"],"container_data":[],"is_past":false,"breakpoints":{"xsmall":500,"medium":768,"full":960},"breakpoint_pointer":"a85cf046-3c47-4e4f-8bef-d60b6a8553a8","is_initial_load":true,"public_views":{"list":{"view_class":"Tribe\\Events\\Views\\V2\\Views\\List_View","view_url":"https:\/\/dancinggnomebeer.com\/events\/list\/","view_label":"List","aria_label":"Display Events in List View"},"month":{"view_class":"Tribe\\Events\\Views\\V2\\Views\\Month_View","view_url":"https:\/\/dancinggnomebeer.com\/events\/month\/","view_label":"Month","aria_label":"Display Events in Month View"},"photo":{"view_class":"Tribe\\Events\\Pro\\Views\\V2\\Views\\Photo_View","view_url":"https:\/\/dancinggnomebeer.com\/events\/photo\/","view_label":"Photo","aria_label":"Display Events in Photo View"}},"show_latest_past":false,"past":false,"compatibility_classes":["tribe-compatibility-container"],"view_more_text":"View Calendar","view_more_title":"View more events.","view_more_link":"https:\/\/dancinggnomebeer.com\/events\/","widget_title":"","hide_if_no_upcoming_events":false,"display":{"cost":false,"venue":false,"street":false,"city":false,"region":false,"zip":false,"country":false,"phone":false,"organizer":false,"website":false},"subscribe_links":{"gcal":{"label":"Google Calendar","single_label":"Add to Google Calendar","visible":true,"block_slug":"hasGoogleCalendar"},"ical":{"label":"iCalendar","single_label":"Add to iCalendar","visible":true,"block_slug":"hasiCal"},"outlook-365":{"label":"Outlook 365","single_label":"Outlook 365","visible":true,"block_slug":"hasOutlook365"},"outlook-live":{"label":"Outlook Live","single_label":"Outlook Live","visible":true,"block_slug":"hasOutlookLive"}},"layout":"horizontal","filterbar_state":"open","selected_filters":[],"mobile_initial_state_control":true,"display_recurring_toggle":false,"_context":{"slug":"widget-events-list"}}</script>
+	{"slug":"widget-events-list","prev_url":"","next_url":"https:\/\/dancinggnomebeer.com\/?post_type=tribe_events&eventDisplay=widget-events-list&paged=2","view_class":"Tribe\\Events\\Views\\V2\\Views\\Widgets\\Widget_List_View","view_slug":"widget-events-list","view_label":"View","view":null,"should_manage_url":true,"id":null,"alias-slugs":null,"title":"1025 Main | Dancing Gnome Brewery","limit":"5","no_upcoming_events":false,"featured_events_only":null,"jsonld_enable":false,"tribe_is_list_widget":true,"admin_fields":{"title":{"label":"Title:","type":"text","parent_classes":"","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-title","name":"widget-tribe-widget-events-list[-1][title]","options":[],"placeholder":"","value":null},"limit":{"label":"Show:","type":"number","default":5,"min":1,"max":10,"step":1,"parent_classes":"","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-limit","name":"widget-tribe-widget-events-list[-1][limit]","options":[],"placeholder":"","value":null},"metadata_section":{"type":"fieldset","classes":"tribe-common-form-control-checkbox-checkbox-group","label":"Display:","children":{"cost":{"type":"checkbox","label":"Price","parent_classes":"","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-cost","name":"widget-tribe-widget-events-list[-1][cost]","options":[],"placeholder":"","value":null},"venue":{"type":"checkbox","label":"Venue","parent_classes":"","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-venue","name":"widget-tribe-widget-events-list[-1][venue]","options":[],"placeholder":"","value":null},"street":{"type":"checkbox","label":"Street","parent_classes":"","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-street","name":"widget-tribe-widget-events-list[-1][street]","options":[],"placeholder":"","value":null},"city":{"type":"checkbox","label":"City","parent_classes":"","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-city","name":"widget-tribe-widget-events-list[-1][city]","options":[],"placeholder":"","value":null},"region":{"type":"checkbox","label":"State (US) Or Province (Int)","parent_classes":"","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-region","name":"widget-tribe-widget-events-list[-1][region]","options":[],"placeholder":"","value":null},"zip":{"type":"checkbox","label":"Postal Code","parent_classes":"","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-zip","name":"widget-tribe-widget-events-list[-1][zip]","options":[],"placeholder":"","value":null},"country":{"type":"checkbox","label":"Country","parent_classes":"","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-country","name":"widget-tribe-widget-events-list[-1][country]","options":[],"placeholder":"","value":null},"phone":{"type":"checkbox","label":"Phone","parent_classes":"","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-phone","name":"widget-tribe-widget-events-list[-1][phone]","options":[],"placeholder":"","value":null},"organizer":{"type":"checkbox","label":"Organizer","parent_classes":"","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-organizer","name":"widget-tribe-widget-events-list[-1][organizer]","options":[],"placeholder":"","value":null},"website":{"type":"checkbox","label":"Website","parent_classes":"","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-website","name":"widget-tribe-widget-events-list[-1][website]","options":[],"placeholder":"","value":null}},"parent_classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-metadata_section","name":"widget-tribe-widget-events-list[-1][metadata_section]","options":[],"placeholder":"","value":null},"taxonomy_section":{"type":"section","classes":["calendar-widget-filters-container"],"label":"Filters:","children":{"filters":{"type":"taxonomy-filters","parent_classes":"","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-filters","label":"","name":"widget-tribe-widget-events-list[-1][filters]","options":[],"placeholder":"","value":null,"list_items":[]},"operand":{"type":"fieldset","classes":"tribe-common-form-control-checkbox-radio-group","label":"Operand:","selected":"OR","children":[{"type":"radio","label":"Match any","button_value":"OR","parent_classes":"","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-operand","name":"widget-tribe-widget-events-list[-1][operand]","options":[],"placeholder":"","value":null},{"type":"radio","label":"Match all","button_value":"AND","parent_classes":"","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-operand","name":"widget-tribe-widget-events-list[-1][operand]","options":[],"placeholder":"","value":null}],"parent_classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-operand","name":"widget-tribe-widget-events-list[-1][operand]","options":[],"placeholder":"","value":null}},"parent_classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-taxonomy_section","name":"widget-tribe-widget-events-list[-1][taxonomy_section]","options":[],"placeholder":"","value":null},"taxonomy":{"type":"taxonomy","classes":"calendar-widget-add-filter","label":"Add a filter:","placeholder":"Select a Taxonomy Term","parent_classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-taxonomy","name":"widget-tribe-widget-events-list[-1][taxonomy]","options":[],"value":null},"no_upcoming_events":{"label":"Hide this widget if there are no upcoming events.","type":"checkbox","parent_classes":"","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-no_upcoming_events","name":"widget-tribe-widget-events-list[-1][no_upcoming_events]","options":[],"placeholder":"","value":null},"featured_events_only":{"label":"Limit to featured events only","type":"checkbox","parent_classes":"","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-featured_events_only","name":"widget-tribe-widget-events-list[-1][featured_events_only]","options":[],"placeholder":"","value":null},"jsonld_enable":{"label":"Generate JSON-LD data","type":"checkbox","parent_classes":"","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-jsonld_enable","name":"widget-tribe-widget-events-list[-1][jsonld_enable]","options":[],"placeholder":"","value":null}},"venue":false,"country":false,"street":false,"city":false,"region":false,"zip":false,"phone":false,"cost":false,"organizer":false,"website":false,"operand":"OR","filters":[{"filter_object":{"type":"select","name":"Event Category","slug":"filterbar_category","priority":1,"values":[{"name":"Bottle Releases","depth":0,"value":123,"data":{"slug":"bottle-releases"},"class":"tribe-parent-cat tribe-events-category-bottle-releases"},{"name":"Can Releases","depth":0,"value":124,"data":{"slug":"can-releases"},"class":"tribe-parent-cat tribe-events-category-can-releases"},{"name":"Closed","depth":0,"value":125,"data":{"slug":"closed"},"class":"tribe-parent-cat tribe-events-category-closed"},{"name":"Draft Only Release","depth":0,"value":126,"data":{"slug":"draft-only-release"},"class":"tribe-parent-cat tribe-events-category-draft-only-release"},{"name":"Food Trucks","depth":0,"value":122,"data":{"slug":"food-trucks"},"class":"tribe-parent-cat tribe-events-category-food-trucks"},{"name":"Holiday Hours","depth":0,"value":128,"data":{"slug":"holiday-hours"},"class":"tribe-parent-cat tribe-events-category-holiday-hours"},{"name":"K\u00f6lsch Service","depth":0,"value":129,"data":{"slug":"kolsch-service"},"class":"tribe-parent-cat tribe-events-category-kolsch-service"},{"name":"Lustra Day!","depth":0,"value":131,"data":{"slug":"lustra-day"},"class":"tribe-parent-cat tribe-events-category-lustra-day"},{"name":"Nine Two Five","depth":0,"value":134,"data":{"slug":"nine-two-five"},"class":"tribe-parent-cat tribe-events-category-nine-two-five"},{"name":"Special Hours","depth":0,"value":132,"data":{"slug":"special-hours"},"class":"tribe-parent-cat tribe-events-category-special-hours"},{"name":"Taproom Events","depth":0,"value":127,"data":{"slug":"taproom-events"},"class":"tribe-parent-cat tribe-events-category-taproom-events"}],"free":null,"currentValue":[],"isActiveFilter":true,"queryArgs":[],"joinClause":"","whereClause":"","stack_managed":false},"label":"Event Category","selections_count":"","selections":"","toggle_id":"filterbar_category-toggle-aced2614-93fa-474b-8f35-dea08a06c798","container_id":"filterbar_category-container-aced2614-93fa-474b-8f35-dea08a06c798","pill_toggle_id":"filterbar_category-pill-toggle-aced2614-93fa-474b-8f35-dea08a06c798","is_open":false,"name":"tribe_eventcategory[]","fields":[{"type":"dropdown","value":"","id":"tribe-events-filterbar-6602308f-filterbar_category","name":"tribe_eventcategory[]","options":[{"text":"Bottle Releases","id":"123","value":123},{"text":"Can Releases","id":"124","value":124},{"text":"Closed","id":"125","value":125},{"text":"Draft Only Release","id":"126","value":126},{"text":"Food Trucks","id":"122","value":122},{"text":"Holiday Hours","id":"128","value":128},{"text":"K\u00f6lsch Service","id":"129","value":129},{"text":"Lustra Day!","id":"131","value":131},{"text":"Nine Two Five","id":"134","value":134},{"text":"Special Hours","id":"132","value":132},{"text":"Taproom Events","id":"127","value":127}]}],"type":"dropdown"},{"filter_object":{"type":"select","name":"Venues","slug":"filterbar_venue","priority":4,"values":[{"name":"1025 Main - Taproom","value":7216},{"name":"925 Main - HQ","value":7218}],"free":null,"currentValue":[],"isActiveFilter":true,"queryArgs":[],"joinClause":"","whereClause":"","stack_managed":false},"label":"Venues","selections_count":"","selections":"","toggle_id":"filterbar_venue-toggle-aced2614-93fa-474b-8f35-dea08a06c798","container_id":"filterbar_venue-container-aced2614-93fa-474b-8f35-dea08a06c798","pill_toggle_id":"filterbar_venue-pill-toggle-aced2614-93fa-474b-8f35-dea08a06c798","is_open":false,"name":"tribe_venues[]","fields":[{"type":"dropdown","value":"","id":"tribe-events-filterbar-a927a3c8-filterbar_venue","name":"tribe_venues[]","options":[{"text":"1025 Main - Taproom","id":"7216","value":7216},{"text":"925 Main - HQ","id":"7218","value":7218}]}],"type":"dropdown"},{"filter_object":{"type":"checkbox","name":"Day","slug":"filterbar_day_of_week","priority":6,"values":[{"name":"Sunday","value":1},{"name":"Monday","value":2},{"name":"Tuesday","value":3},{"name":"Wednesday","value":4},{"name":"Thursday","value":5},{"name":"Friday","value":6},{"name":"Saturday","value":7}],"free":null,"currentValue":[],"isActiveFilter":true,"queryArgs":[],"joinClause":"","whereClause":"","stack_managed":false},"label":"Day","selections_count":"","selections":"","toggle_id":"filterbar_day_of_week-toggle-aced2614-93fa-474b-8f35-dea08a06c798","container_id":"filterbar_day_of_week-container-aced2614-93fa-474b-8f35-dea08a06c798","pill_toggle_id":"filterbar_day_of_week-pill-toggle-aced2614-93fa-474b-8f35-dea08a06c798","is_open":false,"name":"tribe_dayofweek[]","fields":[{"type":"checkbox","label":"Sunday","value":1,"id":"tribe-events-filterbar-f453f0ad-sunday","name":"tribe_dayofweek[]","checked":false},{"type":"checkbox","label":"Monday","value":2,"id":"tribe-events-filterbar-31863dd8-monday","name":"tribe_dayofweek[]","checked":false},{"type":"checkbox","label":"Tuesday","value":3,"id":"tribe-events-filterbar-a607a392-tuesday","name":"tribe_dayofweek[]","checked":false},{"type":"checkbox","label":"Wednesday","value":4,"id":"tribe-events-filterbar-23d31f32-wednesday","name":"tribe_dayofweek[]","checked":false},{"type":"checkbox","label":"Thursday","value":5,"id":"tribe-events-filterbar-05414e12-thursday","name":"tribe_dayofweek[]","checked":false},{"type":"checkbox","label":"Friday","value":6,"id":"tribe-events-filterbar-b55f4b0d-friday","name":"tribe_dayofweek[]","checked":false},{"type":"checkbox","label":"Saturday","value":7,"id":"tribe-events-filterbar-c43d9dcc-saturday","name":"tribe_dayofweek[]","checked":false}],"type":"checkbox"},{"filter_object":{"type":"checkbox","name":"Time","slug":"filterbar_time_of_day","priority":7,"values":[{"name":"All Day","value":"allday"},{"name":"Morning","value":"06-12"},{"name":"Afternoon","value":"12-17"},{"name":"Evening","value":"17-21"},{"name":"Night","value":"21-06"}],"free":null,"currentValue":[],"isActiveFilter":true,"queryArgs":[],"joinClause":"","whereClause":"","stack_managed":false},"label":"Time","selections_count":"","selections":"","toggle_id":"filterbar_time_of_day-toggle-aced2614-93fa-474b-8f35-dea08a06c798","container_id":"filterbar_time_of_day-container-aced2614-93fa-474b-8f35-dea08a06c798","pill_toggle_id":"filterbar_time_of_day-pill-toggle-aced2614-93fa-474b-8f35-dea08a06c798","is_open":false,"name":"tribe_timeofday[]","fields":[{"type":"checkbox","label":"All Day","value":"allday","id":"tribe-events-filterbar-edf943af-all-day","name":"tribe_timeofday[]","checked":false},{"type":"checkbox","label":"Morning","value":"06-12","id":"tribe-events-filterbar-a7dc43cd-morning","name":"tribe_timeofday[]","checked":false},{"type":"checkbox","label":"Afternoon","value":"12-17","id":"tribe-events-filterbar-5a93f73c-afternoon","name":"tribe_timeofday[]","checked":false},{"type":"checkbox","label":"Evening","value":"17-21","id":"tribe-events-filterbar-1e1b60da-evening","name":"tribe_timeofday[]","checked":false},{"type":"checkbox","label":"Night","value":"21-06","id":"tribe-events-filterbar-030d9373-night","name":"tribe_timeofday[]","checked":false}],"type":"checkbox"},{"filter_object":{"type":"select","name":"Featured Events","slug":"filterbar_featured","priority":11,"values":{"featured":{"name":"Show featured events only","value":"1"}},"free":null,"currentValue":null,"isActiveFilter":true,"queryArgs":[],"joinClause":"","whereClause":"","stack_managed":false},"label":"Featured Events","selections_count":"","selections":"","toggle_id":"filterbar_featured-toggle-aced2614-93fa-474b-8f35-dea08a06c798","container_id":"filterbar_featured-container-aced2614-93fa-474b-8f35-dea08a06c798","pill_toggle_id":"filterbar_featured-pill-toggle-aced2614-93fa-474b-8f35-dea08a06c798","is_open":false,"name":"tribe_featuredevent[]","fields":[{"type":"dropdown","value":null,"id":"tribe-events-filterbar-5fe4a554-filterbar_featured","name":"tribe_featuredevent[]","options":[{"text":"Show featured events only","id":"1","value":"1"}]}],"type":"dropdown"},{"filter_object":{"type":"select","name":"Series","slug":"filterbar_series_id","priority":13,"values":[{"name":"Blowfish BBQ","value":7254},{"name":"Blue Sparrow - The Bus @ Dancing Gnome","value":7234},{"name":"G.S. Sando Co.","value":7242},{"name":"La Palapa Mexican Cuisine","value":7259},{"name":"Steer and Wheel","value":7245},{"name":"Streets on the Fly","value":7248},{"name":"Trivia","value":14361}],"free":null,"currentValue":null,"isActiveFilter":true,"queryArgs":[],"joinClause":"","whereClause":"","stack_managed":false},"label":"Series","selections_count":"","selections":"","toggle_id":"filterbar_series_id-toggle-aced2614-93fa-474b-8f35-dea08a06c798","container_id":"filterbar_series_id-container-aced2614-93fa-474b-8f35-dea08a06c798","pill_toggle_id":"filterbar_series_id-pill-toggle-aced2614-93fa-474b-8f35-dea08a06c798","is_open":false,"name":"tribe_series_id[]","fields":[{"type":"dropdown","value":null,"id":"tribe-events-filterbar-4061d6f9-filterbar_series_id","name":"tribe_series_id[]","options":[{"text":"Blowfish BBQ","id":"7254","value":7254},{"text":"Blue Sparrow - The Bus @ Dancing Gnome","id":"7234","value":7234},{"text":"G.S. Sando Co.","id":"7242","value":7242},{"text":"La Palapa Mexican Cuisine","id":"7259","value":7259},{"text":"Steer and Wheel","id":"7245","value":7245},{"text":"Streets on the Fly","id":"7248","value":7248},{"text":"Trivia","id":"14361","value":14361}]}],"type":"dropdown"}],"address":false,"events":[10003499,10003102,10004604,10005389,10004891],"url":"https:\/\/dancinggnomebeer.com\/?post_type=tribe_events&eventDisplay=widget-events-list","url_event_date":false,"bar":{"keyword":"","date":""},"today":"2026-06-26 00:00:00","now":"2026-06-26 09:44:07","home_url":"https:\/\/dancinggnomebeer.com","rest_url":"https:\/\/dancinggnomebeer.com\/wp-json\/tribe\/views\/v2\/html","rest_method":"GET","rest_nonce":"","today_url":"https:\/\/dancinggnomebeer.com\/?post_type=location&eventDisplay=widget-events-list&location=1025-main&name=1025-main","today_title":"Click to select today's date","today_label":"Today","prev_label":"","next_label":"","date_formats":{"compact":"n\/j\/Y","month_and_year_compact":"n\/j\/Y","month_and_year":"F Y","time_range_separator":" - ","date_time_separator":" @ "},"messages":[],"start_of_week":"0","header_title":"","header_title_element":"h1","content_title":"","show_content_title":false,"breadcrumbs":[],"backlink":false,"before_events":"","after_events":"\n<!--\nThis calendar is powered by The Events Calendar.\nhttp:\/\/evnt.is\/18wn\n-->\n","display_events_bar":false,"disable_event_search":false,"live_refresh":true,"ical":{"display_link":true,"link":{"url":"https:\/\/dancinggnomebeer.com\/?post_type=tribe_events&#038;eventDisplay=widget-events-list&#038;ical=1","text":"Export Events","title":"Use this to share calendar data with Google Calendar, Apple iCal and other compatible apps"}},"container_classes":["tribe-common","tribe-events","tribe-events-view","tribe-events-view--widget-events-list","tribe-events-widget"],"container_data":[],"is_past":false,"breakpoints":{"xsmall":500,"medium":768,"full":960},"breakpoint_pointer":"aced2614-93fa-474b-8f35-dea08a06c798","is_initial_load":true,"public_views":{"list":{"view_class":"Tribe\\Events\\Views\\V2\\Views\\List_View","view_url":"https:\/\/dancinggnomebeer.com\/events\/list\/","view_label":"List","aria_label":"Display Events in List View"},"month":{"view_class":"Tribe\\Events\\Views\\V2\\Views\\Month_View","view_url":"https:\/\/dancinggnomebeer.com\/events\/month\/","view_label":"Month","aria_label":"Display Events in Month View"},"photo":{"view_class":"Tribe\\Events\\Pro\\Views\\V2\\Views\\Photo_View","view_url":"https:\/\/dancinggnomebeer.com\/events\/photo\/","view_label":"Photo","aria_label":"Display Events in Photo View"}},"show_latest_past":false,"past":false,"compatibility_classes":["tribe-compatibility-container"],"view_more_text":"View Calendar","view_more_title":"View more events.","view_more_link":"https:\/\/dancinggnomebeer.com\/events\/","widget_title":"","hide_if_no_upcoming_events":false,"display":{"cost":false,"venue":false,"street":false,"city":false,"region":false,"zip":false,"country":false,"phone":false,"organizer":false,"website":false},"subscribe_links":{"gcal":{"label":"Google Calendar","single_label":"Add to Google Calendar","visible":true,"block_slug":"hasGoogleCalendar"},"ical":{"label":"iCalendar","single_label":"Add to iCalendar","visible":true,"block_slug":"hasiCal"},"outlook-365":{"label":"Outlook 365","single_label":"Outlook 365","visible":true,"block_slug":"hasOutlook365"},"outlook-live":{"label":"Outlook Live","single_label":"Outlook Live","visible":true,"block_slug":"hasOutlookLive"}},"layout":"horizontal","filterbar_state":"open","selected_filters":[],"mobile_initial_state_control":true,"display_recurring_toggle":false,"_context":{"slug":"widget-events-list"}}</script>
 
 			
 			
@@ -1145,68 +1162,31 @@ a.ui-label.color--brand-primary {
 											<div  class="tribe-common-g-row tribe-events-widget-events-list__event-row" >
 
 	<div class="tribe-events-widget-events-list__event-date-tag tribe-common-g-col">
-	<time class="tribe-events-widget-events-list__event-date-tag-datetime" datetime="2026-06-11">
+	<time class="tribe-events-widget-events-list__event-date-tag-datetime" datetime="2026-06-26">
 		<span class="tribe-events-widget-events-list__event-date-tag-month">
 			Jun		</span>
 		<span class="tribe-events-widget-events-list__event-date-tag-daynum tribe-common-h2 tribe-common-h4--min-medium">
-			11		</span>
+			26		</span>
 	</time>
 </div>
 
 	<div class="tribe-events-widget-events-list__event-wrapper tribe-common-g-col">
-		<article  class="tribe-events-widget-events-list__event post-10005388 tribe_events type-tribe_events status-publish hentry tribe_events_cat-bottle-releases" >
+		<article  class="tribe-events-widget-events-list__event post-10003499 tribe_events type-tribe_events status-publish has-post-thumbnail hentry tribe_events_cat-can-releases" >
 			<div class="tribe-events-widget-events-list__event-details">
 
 				<header class="tribe-events-widget-events-list__event-header">
 					<div class="tribe-events-widget-events-list__event-datetime-wrapper tribe-common-b2 tribe-common-b3--min-medium">
-		<time class="tribe-events-widget-events-list__event-datetime" datetime="2026-06-11">
-		<span class="tribe-event-date-start">4:00 pm</span> - <span class="tribe-event-time">10:00 pm</span>	</time>
-	</div>
-					<h3 class="tribe-events-widget-events-list__event-title tribe-common-h7">
-	<a
-		href="https://dancinggnomebeer.com/event-detail/czech-12-pale-lager-5-5/"
-		title="Czech 12° &#8211; Pale Lager &#8211; 5%"
-		rel="bookmark"
-		class="tribe-events-widget-events-list__event-title-link tribe-common-anchor-thin"
-	>
-		Czech 12° &#8211; Pale Lager &#8211; 5%	</a>
-</h3>
-				</header>
-
-				
-			</div>
-		</article>
-	</div>
-
-</div>
-											<div  class="tribe-common-g-row tribe-events-widget-events-list__event-row" >
-
-	<div class="tribe-events-widget-events-list__event-date-tag tribe-common-g-col">
-	<time class="tribe-events-widget-events-list__event-date-tag-datetime" datetime="2026-06-12">
-		<span class="tribe-events-widget-events-list__event-date-tag-month">
-			Jun		</span>
-		<span class="tribe-events-widget-events-list__event-date-tag-daynum tribe-common-h2 tribe-common-h4--min-medium">
-			12		</span>
-	</time>
-</div>
-
-	<div class="tribe-events-widget-events-list__event-wrapper tribe-common-g-col">
-		<article  class="tribe-events-widget-events-list__event post-10004982 tribe_events type-tribe_events status-publish hentry tribe_events_cat-can-releases" >
-			<div class="tribe-events-widget-events-list__event-details">
-
-				<header class="tribe-events-widget-events-list__event-header">
-					<div class="tribe-events-widget-events-list__event-datetime-wrapper tribe-common-b2 tribe-common-b3--min-medium">
-		<time class="tribe-events-widget-events-list__event-datetime" datetime="2026-06-12">
+		<time class="tribe-events-widget-events-list__event-datetime" datetime="2026-06-26">
 		<span class="tribe-event-date-start">2:00 pm</span> - <span class="tribe-event-time">10:00 pm</span>	</time>
 	</div>
 					<h3 class="tribe-events-widget-events-list__event-title tribe-common-h7">
 	<a
-		href="https://dancinggnomebeer.com/event-detail/bifocal-feline-ipa-6-4/"
-		title="Bifocal Feline IPA &#8211; 6.4%"
+		href="https://dancinggnomebeer.com/event-detail/spy-dolphin-8-5/"
+		title="Spy Dolphin DIPA &#8211; 8.5%"
 		rel="bookmark"
 		class="tribe-events-widget-events-list__event-title-link tribe-common-anchor-thin"
 	>
-		Bifocal Feline IPA &#8211; 6.4%	</a>
+		Spy Dolphin DIPA &#8211; 8.5%	</a>
 </h3>
 				</header>
 
@@ -1219,21 +1199,21 @@ a.ui-label.color--brand-primary {
 											<div  class="tribe-common-g-row tribe-events-widget-events-list__event-row" >
 
 	<div class="tribe-events-widget-events-list__event-date-tag tribe-common-g-col">
-	<time class="tribe-events-widget-events-list__event-date-tag-datetime" datetime="2026-06-13">
+	<time class="tribe-events-widget-events-list__event-date-tag-datetime" datetime="2026-06-27">
 		<span class="tribe-events-widget-events-list__event-date-tag-month">
 			Jun		</span>
 		<span class="tribe-events-widget-events-list__event-date-tag-daynum tribe-common-h2 tribe-common-h4--min-medium">
-			13		</span>
+			27		</span>
 	</time>
 </div>
 
 	<div class="tribe-events-widget-events-list__event-wrapper tribe-common-g-col">
-		<article  class="tribe-events-widget-events-list__event post-10003519 tribe_events type-tribe_events status-publish has-post-thumbnail hentry tribe_events_cat-food-trucks" >
+		<article  class="tribe-events-widget-events-list__event post-10003102 tribe_events type-tribe_events status-publish has-post-thumbnail hentry tribe_events_cat-food-trucks" >
 			<div class="tribe-events-widget-events-list__event-details">
 
 				<header class="tribe-events-widget-events-list__event-header">
 					<div class="tribe-events-widget-events-list__event-datetime-wrapper tribe-common-b2 tribe-common-b3--min-medium">
-		<time class="tribe-events-widget-events-list__event-datetime" datetime="2026-06-13">
+		<time class="tribe-events-widget-events-list__event-datetime" datetime="2026-06-27">
 		<span class="tribe-event-date-start">4:00 pm</span> - <span class="tribe-event-time">9:00 pm</span>	</time>
 	
 <span class="tribe-events-calendar-series-archive__container">
@@ -1253,7 +1233,7 @@ a.ui-label.color--brand-primary {
 </div>
 					<h3 class="tribe-events-widget-events-list__event-title tribe-common-h7">
 	<a
-		href="https://dancinggnomebeer.com/event-detail/blowfish-bbq-2/"
+		href="https://dancinggnomebeer.com/event-detail/blowfish-bbq/"
 		title="Blowfish BBQ"
 		rel="bookmark"
 		class="tribe-events-widget-events-list__event-title-link tribe-common-anchor-thin"
@@ -1271,21 +1251,21 @@ a.ui-label.color--brand-primary {
 											<div  class="tribe-common-g-row tribe-events-widget-events-list__event-row" >
 
 	<div class="tribe-events-widget-events-list__event-date-tag tribe-common-g-col">
-	<time class="tribe-events-widget-events-list__event-date-tag-datetime" datetime="2026-06-14">
+	<time class="tribe-events-widget-events-list__event-date-tag-datetime" datetime="2026-06-28">
 		<span class="tribe-events-widget-events-list__event-date-tag-month">
 			Jun		</span>
 		<span class="tribe-events-widget-events-list__event-date-tag-daynum tribe-common-h2 tribe-common-h4--min-medium">
-			14		</span>
+			28		</span>
 	</time>
 </div>
 
 	<div class="tribe-events-widget-events-list__event-wrapper tribe-common-g-col">
-		<article  class="tribe-events-widget-events-list__event post-10003520 tribe_events type-tribe_events status-publish hentry tribe_events_cat-food-trucks" >
+		<article  class="tribe-events-widget-events-list__event post-10004604 tribe_events type-tribe_events status-publish hentry tribe_events_cat-food-trucks" >
 			<div class="tribe-events-widget-events-list__event-details">
 
 				<header class="tribe-events-widget-events-list__event-header">
 					<div class="tribe-events-widget-events-list__event-datetime-wrapper tribe-common-b2 tribe-common-b3--min-medium">
-		<time class="tribe-events-widget-events-list__event-datetime" datetime="2026-06-14">
+		<time class="tribe-events-widget-events-list__event-datetime" datetime="2026-06-28">
 		<span class="tribe-event-date-start">12:00 pm</span> - <span class="tribe-event-time">6:00 pm</span>	</time>
 	
 <span class="tribe-events-calendar-series-archive__container">
@@ -1305,7 +1285,7 @@ a.ui-label.color--brand-primary {
 </div>
 					<h3 class="tribe-events-widget-events-list__event-title tribe-common-h7">
 	<a
-		href="https://dancinggnomebeer.com/event-detail/steer-and-wheel-2/"
+		href="https://dancinggnomebeer.com/event-detail/steer-and-wheel-3/"
 		title="Steer and Wheel"
 		rel="bookmark"
 		class="tribe-events-widget-events-list__event-title-link tribe-common-anchor-thin"
@@ -1323,31 +1303,68 @@ a.ui-label.color--brand-primary {
 											<div  class="tribe-common-g-row tribe-events-widget-events-list__event-row" >
 
 	<div class="tribe-events-widget-events-list__event-date-tag tribe-common-g-col">
-	<time class="tribe-events-widget-events-list__event-date-tag-datetime" datetime="2026-06-15">
+	<time class="tribe-events-widget-events-list__event-date-tag-datetime" datetime="2026-06-29">
 		<span class="tribe-events-widget-events-list__event-date-tag-month">
 			Jun		</span>
 		<span class="tribe-events-widget-events-list__event-date-tag-daynum tribe-common-h2 tribe-common-h4--min-medium">
-			15		</span>
+			29		</span>
 	</time>
 </div>
 
 	<div class="tribe-events-widget-events-list__event-wrapper tribe-common-g-col">
-		<article  class="tribe-events-widget-events-list__event post-10004968 tribe_events type-tribe_events status-publish has-post-thumbnail hentry tribe_events_cat-can-releases" >
+		<article  class="tribe-events-widget-events-list__event post-10005389 tribe_events type-tribe_events status-publish hentry tribe_events_cat-can-releases" >
 			<div class="tribe-events-widget-events-list__event-details">
 
 				<header class="tribe-events-widget-events-list__event-header">
 					<div class="tribe-events-widget-events-list__event-datetime-wrapper tribe-common-b2 tribe-common-b3--min-medium">
-		<time class="tribe-events-widget-events-list__event-datetime" datetime="2026-06-15">
+		<time class="tribe-events-widget-events-list__event-datetime" datetime="2026-06-29">
 		<span class="tribe-event-date-start">4:00 pm</span> - <span class="tribe-event-time">10:00 pm</span>	</time>
 	</div>
 					<h3 class="tribe-events-widget-events-list__event-title tribe-common-h7">
 	<a
-		href="https://dancinggnomebeer.com/event-detail/pounce-ipa-6-6/"
-		title="Pounce IPA &#8211; 6%"
+		href="https://dancinggnomebeer.com/event-detail/dippy-ipa-6-6/"
+		title="Dippy IPA &#8211; 6.4%"
 		rel="bookmark"
 		class="tribe-events-widget-events-list__event-title-link tribe-common-anchor-thin"
 	>
-		Pounce IPA &#8211; 6%	</a>
+		Dippy IPA &#8211; 6.4%	</a>
+</h3>
+				</header>
+
+				
+			</div>
+		</article>
+	</div>
+
+</div>
+											<div  class="tribe-common-g-row tribe-events-widget-events-list__event-row" >
+
+	<div class="tribe-events-widget-events-list__event-date-tag tribe-common-g-col">
+	<time class="tribe-events-widget-events-list__event-date-tag-datetime" datetime="2026-07-02">
+		<span class="tribe-events-widget-events-list__event-date-tag-month">
+			Jul		</span>
+		<span class="tribe-events-widget-events-list__event-date-tag-daynum tribe-common-h2 tribe-common-h4--min-medium">
+			2		</span>
+	</time>
+</div>
+
+	<div class="tribe-events-widget-events-list__event-wrapper tribe-common-g-col">
+		<article  class="tribe-events-widget-events-list__event post-10004891 tribe_events type-tribe_events status-publish has-post-thumbnail hentry tribe_events_cat-can-releases" >
+			<div class="tribe-events-widget-events-list__event-details">
+
+				<header class="tribe-events-widget-events-list__event-header">
+					<div class="tribe-events-widget-events-list__event-datetime-wrapper tribe-common-b2 tribe-common-b3--min-medium">
+		<time class="tribe-events-widget-events-list__event-datetime" datetime="2026-07-02">
+		<span class="tribe-event-date-start">4:00 pm</span> - <span class="tribe-event-time">10:00 pm</span>	</time>
+	</div>
+					<h3 class="tribe-events-widget-events-list__event-title tribe-common-h7">
+	<a
+		href="https://dancinggnomebeer.com/event-detail/tessellate-ipa-6-4/"
+		title="Tessellate IPA &#8211; 6.4%"
+		rel="bookmark"
+		class="tribe-events-widget-events-list__event-title-link tribe-common-anchor-thin"
+	>
+		Tessellate IPA &#8211; 6.4%	</a>
 </h3>
 				</header>
 
@@ -1402,7 +1419,7 @@ a.ui-label.color--brand-primary {
 				return;
 			}
 
-			var container = document.querySelectorAll( '[data-view-breakpoint-pointer="a85cf046-3c47-4e4f-8bef-d60b6a8553a8"]' );
+			var container = document.querySelectorAll( '[data-view-breakpoint-pointer="aced2614-93fa-474b-8f35-dea08a06c798"]' );
 			if ( ! container ) {
 				return;
 			}
@@ -1418,7 +1435,7 @@ a.ui-label.color--brand-primary {
 		document.addEventListener( 'DOMContentLoaded', initBreakpoints );
 	})();
 </script>
-<script data-js='tribe-events-view-nonce-data' type='application/json'>{"tvn1":"4cec8754d7","tvn2":""}</script></div>
+<script data-js='tribe-events-view-nonce-data' type='application/json'>{"tvn1":"c879465bb6","tvn2":""}</script></div>
 <div class="fl-module fl-module-cp-button fl-node-if3wugk0zsb7" data-node="if3wugk0zsb7">
 	<div class="fl-module-content fl-node-content">
 		
@@ -1459,8 +1476,8 @@ a.ui-label.color--brand-primary {
 										<a class="location-directions-link button color--brand-primary size--small style--solid" href="https://www.google.com/maps/dir//1025+Main+Street+Pittsburgh+PA+15215" target="_blank">
 					Get Directions				</a>
 				<br>
-													<a class="location-email-link button color--brand-primary size--small size--small" href="/cdn-cgi/l/email-protection#254c4b434a6541444b464c4b42424b4a4840474040570b464a48">
-					<span class="__cf_email__" data-cfemail="c6afa8a0a986a2a7a8a5afa8a1a1a8a9aba3a4a3a3b4e8a5a9ab">[email&#160;protected]</span>				</a>
+													<a class="location-email-link button color--brand-primary size--small size--small" href="/cdn-cgi/l/email-protection#c5acaba3aa85a1a4aba6acaba2a2abaaa8a0a7a0a0b7eba6aaa8">
+					<span class="__cf_email__" data-cfemail="036a6d656c4367626d606a6d64646d6c6e66616666712d606c6e">[email&#160;protected]</span>				</a>
 				<br>
 							</div>
 </div>
@@ -1680,8 +1697,8 @@ a.ui-label.color--brand-primary {
 										<a class="location-directions-link  " href="https://www.google.com/maps/dir//1025+Main+Street+Pittsburgh+PA+15215" target="_blank">
 					Get Directions				</a>
 				<br>
-													<a class="location-email-link  " href="/cdn-cgi/l/email-protection#82ebece4edc2e6e3ece1ebece5e5ecedefe7e0e7e7f0ace1edef">
-					<span class="__cf_email__" data-cfemail="c0a9aea6af80a4a1aea3a9aea7a7aeafada5a2a5a5b2eea3afad">[email&#160;protected]</span>				</a>
+													<a class="location-email-link  " href="/cdn-cgi/l/email-protection#721b1c141d3216131c111b1c15151c1d1f17101717005c111d1f">
+					<span class="__cf_email__" data-cfemail="a3cacdc5cce3c7c2cdc0cacdc4c4cdcccec6c1c6c6d18dc0ccce">[email&#160;protected]</span>				</a>
 				<br>
 							</div>
 </div>
@@ -1749,8 +1766,8 @@ a.ui-label.color--brand-primary {
 					Get Directions				</a>
 				<br>
 										<a href="tel:+14124082083" class="tel-link location-phone-link  ">1 (412) 408-2083</a>				<br>
-										<a class="location-email-link  " href="/cdn-cgi/l/email-protection#046d6a626b4460656a676d6a63636a6b6961666161762a676b69">
-					<span class="__cf_email__" data-cfemail="2b42454d446b4f4a454842454c4c4544464e494e4e5905484446">[email&#160;protected]</span>				</a>
+										<a class="location-email-link  " href="/cdn-cgi/l/email-protection#c3aaada5ac83a7a2ada0aaada4a4adacaea6a1a6a6b1eda0acae">
+					<span class="__cf_email__" data-cfemail="89e0e7efe6c9ede8e7eae0e7eeeee7e6e4ecebececfba7eae6e4">[email&#160;protected]</span>				</a>
 				<br>
 							</div>
 </div>
