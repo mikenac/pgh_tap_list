@@ -4,51 +4,65 @@ Do not add beers, styles, ratings, or facts that are not present in the JSON.
 Keep it to 4-6 sentences.
 
 {
-  "generated": "2026-06-26T13:44:11Z",
-  "previousDate": "2026-06-23",
+  "generated": "2026-06-30T13:42:54Z",
+  "previousDate": "2026-06-26",
   "changes": [
     {
       "breweryId": "abjuration",
       "additions": [
-        "Hazy Pale Ale [Collab w/ TAG: Citra/Simcoe] (APA v4.2)",
-        "Ice Cream Cake Sour [Pineapple] (ICCS v1.5)"
+        "Ice Cream Sour [Rainbow Sherbet] (ICS v1.39)"
       ],
-      "removals": [],
+      "removals": [
+        "Candied Sour [Cherry Slushie] (CDS v1.8)",
+        "Candied Sour [Orange Slushie] (CDS v1.15)"
+      ],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "acclamation",
-      "additions": [
-        "Hoppy Little Beer",
-        "Old Thunder Amplify The Sound",
-        "Steel City Summer"
-      ],
+      "additions": [],
       "removals": [
-        "Old Thunder Sol X"
+        "Co-Star ESB"
       ],
-      "styleChanges": [],
+      "styleChanges": [
+        {
+          "beer": "Two Frays Non-Alcoholic Beer",
+          "oldStyle": "Fruited Blonde Ale OR West Coast IPA",
+          "newStyle": "Fruited Blonde Ale"
+        }
+      ],
       "ratingChanges": []
     },
     {
       "breweryId": "dancing-gnome",
       "additions": [
-        "Dippy IPA",
-        "Tessellate IPA"
+        "Better One or Two DIPA",
+        "Dippy",
+        "Spy Dolphin"
       ],
-      "removals": [],
-      "styleChanges": [],
+      "removals": [
+        "Bifocal Feline",
+        "Dippy IPA",
+        "Exquisite Beast",
+        "Spy Dolphin DIPA"
+      ],
+      "styleChanges": [
+        {
+          "beer": "Ordinary Bitter",
+          "oldStyle": "English Bitter",
+          "newStyle": "English Bitter hopped with EKG"
+        }
+      ],
       "ratingChanges": []
     },
     {
       "breweryId": "eleventh-hour",
       "additions": [
-        "Dream Cannon: No 5 Summer Punch",
-        "Every Time"
+        "Creekside Krush"
       ],
       "removals": [
-        "Happy Valley Jack",
-        "Non Alc - Every Time K\u00f6lsch"
+        "Catch & Release"
       ],
       "styleChanges": [],
       "ratingChanges": []
@@ -62,23 +76,29 @@ Keep it to 4-6 sentences.
     },
     {
       "breweryId": "golden-age",
-      "additions": [],
-      "removals": [],
-      "styleChanges": [],
-      "ratingChanges": []
-    },
-    {
-      "breweryId": "grist-house",
       "additions": [
-        "Straight Up Porter"
+        "Wei\u00dfbier",
+        "Wheat Bier"
       ],
       "removals": [],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
+      "breweryId": "grist-house",
+      "additions": [],
+      "removals": [
+        "Arnold Shaman",
+        "Camp Slap",
+        "The Garden"
+      ],
+      "styleChanges": [],
+      "ratingChanges": []
+    },
+    {
       "breweryId": "hitchhiker",
-      "additions": [
+      "additions": [],
+      "removals": [
         "15th and Canal",
         "Airwave",
         "Citrus Summer",
@@ -102,12 +122,11 @@ Keep it to 4-6 sentences.
         "Whole Punch Key Lime Pie",
         "Whole Punch: Key Lime Pie"
       ],
-      "removals": [],
       "styleChanges": [
         {
           "beer": "Bane of Existence",
-          "oldStyle": "Double IPA",
-          "newStyle": "IPA"
+          "oldStyle": "IPA",
+          "newStyle": "Double IPA"
         }
       ],
       "ratingChanges": []
@@ -115,18 +134,22 @@ Keep it to 4-6 sentences.
     {
       "breweryId": "late-addition",
       "additions": [],
-      "removals": [
-        "Heavily Redacted"
-      ],
+      "removals": [],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "lolev",
       "additions": [
-        "Lion"
+        "Cardinal",
+        "Great Horned Owl",
+        "Vi II"
       ],
-      "removals": [],
+      "removals": [
+        "African Wild Dog",
+        "Leopard",
+        "Rubico III"
+      ],
       "styleChanges": [],
       "ratingChanges": []
     },

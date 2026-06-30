@@ -122,7 +122,7 @@
 
 
 <input type="hidden" id="updateUntappd" name="updateUntappd" value="true" />
-<input type="hidden" id="updateUntappdHtml" name="updateUntappdHtml" value="&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;timeline-item&quot;&gt;&lt;div class=&quot;col-xs-3 date&quot;&gt;&lt;i&gt;&lt;img class=&quot;untappdAvatar&quot; src=&quot;https://assets.untappd.com/profile/98a340f9e2bfbf66ee145d60007fb320_100x100.jpg&quot;&gt;&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;small&gt;6/11/2026&lt;br&gt;9:48 pm&lt;/small&gt;&lt;/div&gt;&lt;br&gt;&lt;/div&gt;&lt;div class=&quot;col-xs-9 content no-top-border&quot;&gt;&lt;p class=&quot;m-b-xs&quot;&gt;&lt;strong&gt;Stout (ST v1.0)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://untappd.com/user/kmackowski&quot; target=&quot;_blank&quot;&gt;Kevin Mackowski&lt;/a&gt; is drinking a &lt;a href=&quot;https://untappd.com/b/abjuration-brewing-Stout-ST-v1-0/6681933&quot; target=&quot;_blank&quot;&gt;Stout (ST v1.0)&lt;/a&gt; by &lt;a href=&quot;https://untappd.com/w/abjuration-brewing/127740&quot; target=&quot;_blank&quot;&gt;Abjuration Brewing&lt;/a&gt; at &lt;a href=&quot;https://untappd.com/venue/1301616&quot; target=&quot;_blank&quot;&gt;Hal&#39;s Bottle Shop / Hal&#39;s Bar &amp;amp; Grill&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;timeline-item&quot;&gt;&lt;div class=&quot;col-xs-3 date&quot;&gt;&lt;i&gt;&lt;img class=&quot;untappdAvatar&quot; src=&quot;https://assets.untappd.com/profile/45dc5d4afc3d7b21093e51d9f70dedf3_100x100.jpg&quot;&gt;&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;small&gt;6/11/2026&lt;br&gt;9:47 pm&lt;/small&gt;&lt;/div&gt;&lt;br&gt;&lt;/div&gt;&lt;div class=&quot;col-xs-9 content &quot;&gt;&lt;p class=&quot;m-b-xs&quot;&gt;&lt;strong&gt;Stout (ST v1.0)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://untappd.com/user/tyler_azar&quot; target=&quot;_blank&quot;&gt;Tyler Azar&lt;/a&gt; is drinking a &lt;a href=&quot;https://untappd.com/b/abjuration-brewing-Stout-ST-v1-0/6681933&quot; target=&quot;_blank&quot;&gt;Stout (ST v1.0)&lt;/a&gt; by &lt;a href=&quot;https://untappd.com/w/abjuration-brewing/127740&quot; target=&quot;_blank&quot;&gt;Abjuration Brewing&lt;/a&gt; at &lt;a href=&quot;https://untappd.com/venue/1301616&quot; target=&quot;_blank&quot;&gt;Hal&#39;s Bottle Shop / Hal&#39;s Bar &amp;amp; Grill&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;timeline-item&quot;&gt;&lt;div class=&quot;col-xs-3 date&quot;&gt;&lt;i&gt;&lt;img class=&quot;untappdAvatar&quot; src=&quot;https://assets.untappd.com/profile/98a340f9e2bfbf66ee145d60007fb320_100x100.jpg&quot;&gt;&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;small&gt;6/11/2026&lt;br&gt;9:31 pm&lt;/small&gt;&lt;/div&gt;&lt;br&gt;&lt;/div&gt;&lt;div class=&quot;col-xs-9 content &quot;&gt;&lt;p class=&quot;m-b-xs&quot;&gt;&lt;strong&gt;Muffin Sour (MS v1.5)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://untappd.com/user/kmackowski&quot; target=&quot;_blank&quot;&gt;Kevin Mackowski&lt;/a&gt; is drinking a &lt;a href=&quot;https://untappd.com/b/abjuration-brewing-Muffin-Sour-MS-v1-5/6736203&quot; target=&quot;_blank&quot;&gt;Muffin Sour (MS v1.5)&lt;/a&gt; by &lt;a href=&quot;https://untappd.com/w/abjuration-brewing/127740&quot; target=&quot;_blank&quot;&gt;Abjuration Brewing&lt;/a&gt; at &lt;a href=&quot;https://untappd.com/venue/1301616&quot; target=&quot;_blank&quot;&gt;Hal&#39;s Bottle Shop / Hal&#39;s Bar &amp;amp; Grill&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;timeline-item&quot;&gt;&lt;div class=&quot;col-xs-3 date&quot;&gt;&lt;i&gt;&lt;img class=&quot;untappdAvatar&quot; src=&quot;https://assets.untappd.com/profile/45dc5d4afc3d7b21093e51d9f70dedf3_100x100.jpg&quot;&gt;&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;small&gt;6/11/2026&lt;br&gt;9:29 pm&lt;/small&gt;&lt;/div&gt;&lt;br&gt;&lt;/div&gt;&lt;div class=&quot;col-xs-9 content &quot;&gt;&lt;p class=&quot;m-b-xs&quot;&gt;&lt;strong&gt;Muffin Sour (MS v1.5)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://untappd.com/user/tyler_azar&quot; target=&quot;_blank&quot;&gt;Tyler Azar&lt;/a&gt; is drinking a &lt;a href=&quot;https://untappd.com/b/abjuration-brewing-Muffin-Sour-MS-v1-5/6736203&quot; target=&quot;_blank&quot;&gt;Muffin Sour (MS v1.5)&lt;/a&gt; by &lt;a href=&quot;https://untappd.com/w/abjuration-brewing/127740&quot; target=&quot;_blank&quot;&gt;Abjuration Brewing&lt;/a&gt; at &lt;a href=&quot;https://untappd.com/venue/1301616&quot; target=&quot;_blank&quot;&gt;Hal&#39;s Bottle Shop / Hal&#39;s Bar &amp;amp; Grill&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;timeline-item&quot;&gt;&lt;div class=&quot;col-xs-3 date&quot;&gt;&lt;i&gt;&lt;img class=&quot;untappdAvatar&quot; src=&quot;https://assets.untappd.com/profile/228ab297794a2cde413c2a919f3692dc_100x100.jpg&quot;&gt;&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;small&gt;6/11/2026&lt;br&gt;9:10 pm&lt;/small&gt;&lt;/div&gt;&lt;br&gt;&lt;/div&gt;&lt;div class=&quot;col-xs-9 content &quot;&gt;&lt;p class=&quot;m-b-xs&quot;&gt;&lt;strong&gt;India Pale Ale (IPA v9.6)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://untappd.com/user/RJS-DVM-2015&quot; target=&quot;_blank&quot;&gt;RJ Short&lt;/a&gt; is drinking a &lt;a href=&quot;https://untappd.com/b/abjuration-brewing-India-Pale-Ale-IPA-v9-6/6655704&quot; target=&quot;_blank&quot;&gt;India Pale Ale (IPA v9.6)&lt;/a&gt; by &lt;a href=&quot;https://untappd.com/w/abjuration-brewing/127740&quot; target=&quot;_blank&quot;&gt;Abjuration Brewing&lt;/a&gt; at &lt;a href=&quot;https://untappd.com/venue/9917985&quot; target=&quot;_blank&quot;&gt;Untappd at Home&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;timeline-item&quot;&gt;&lt;div class=&quot;col-xs-3 date&quot;&gt;&lt;i&gt;&lt;img class=&quot;untappdAvatar&quot; src=&quot;https://gravatar.com/avatar/3b0b3aaef42ef7908a870b62cd8de620?size=100&amp;amp;d=https%3A%2F%2Fassets.untappd.com%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v3_gravatar.jpg%3Fv%3D2&quot;&gt;&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;small&gt;6/11/2026&lt;br&gt;8:36 pm&lt;/small&gt;&lt;/div&gt;&lt;br&gt;&lt;/div&gt;&lt;div class=&quot;col-xs-9 content &quot;&gt;&lt;p class=&quot;m-b-xs&quot;&gt;&lt;strong&gt;Botanical Sour (BSR v1.5)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://untappd.com/user/joedivec&quot; target=&quot;_blank&quot;&gt;joe divecchio&lt;/a&gt; is drinking a &lt;a href=&quot;https://untappd.com/b/abjuration-brewing-Botanical-Sour-BSR-v1-5/4332115&quot; target=&quot;_blank&quot;&gt;Botanical Sour (BSR v1.5)&lt;/a&gt; by &lt;a href=&quot;https://untappd.com/w/abjuration-brewing/127740&quot; target=&quot;_blank&quot;&gt;Abjuration Brewing&lt;/a&gt; at &lt;a href=&quot;https://untappd.com/venue/1301616&quot; target=&quot;_blank&quot;&gt;Hal&#39;s Bottle Shop / Hal&#39;s Bar &amp;amp; Grill&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" />
+<input type="hidden" id="updateUntappdHtml" name="updateUntappdHtml" value="&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;timeline-item&quot;&gt;&lt;div class=&quot;col-xs-3 date&quot;&gt;&lt;i&gt;&lt;img class=&quot;untappdAvatar&quot; src=&quot;https://assets.untappd.com/profile/a487bc2085880662cc95b247f71fb6ca_100x100.jpg&quot;&gt;&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;small&gt;6/29/2026&lt;br&gt;10:06 pm&lt;/small&gt;&lt;/div&gt;&lt;br&gt;&lt;/div&gt;&lt;div class=&quot;col-xs-9 content no-top-border&quot;&gt;&lt;p class=&quot;m-b-xs&quot;&gt;&lt;strong&gt;Cheesecake Sour (CCS v1.19)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://untappd.com/user/john_akjots_9439&quot; target=&quot;_blank&quot;&gt;John Akjots&lt;/a&gt; is drinking a &lt;a href=&quot;https://untappd.com/b/abjuration-brewing-Cheesecake-Sour-CCS-v1-19/6745513&quot; target=&quot;_blank&quot;&gt;Cheesecake Sour (CCS v1.19)&lt;/a&gt; by &lt;a href=&quot;https://untappd.com/w/abjuration-brewing/127740&quot; target=&quot;_blank&quot;&gt;Abjuration Brewing&lt;/a&gt; at &lt;a href=&quot;https://untappd.com/venue/9917985&quot; target=&quot;_blank&quot;&gt;Untappd at Home&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;timeline-item&quot;&gt;&lt;div class=&quot;col-xs-3 date&quot;&gt;&lt;i&gt;&lt;img class=&quot;untappdAvatar&quot; src=&quot;https://assets.untappd.com/profile/01b71875927a57c3a25c4553e1e03384_100x100.jpg&quot;&gt;&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;small&gt;6/29/2026&lt;br&gt;8:48 pm&lt;/small&gt;&lt;/div&gt;&lt;br&gt;&lt;/div&gt;&lt;div class=&quot;col-xs-9 content &quot;&gt;&lt;p class=&quot;m-b-xs&quot;&gt;&lt;strong&gt;Donut Sour (DOS v1.6)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://untappd.com/user/Hoobshooligans&quot; target=&quot;_blank&quot;&gt;John Holub&lt;/a&gt; is drinking a &lt;a href=&quot;https://untappd.com/b/abjuration-brewing-Donut-Sour-DOS-v1-6/6754870&quot; target=&quot;_blank&quot;&gt;Donut Sour (DOS v1.6)&lt;/a&gt; by &lt;a href=&quot;https://untappd.com/w/abjuration-brewing/127740&quot; target=&quot;_blank&quot;&gt;Abjuration Brewing&lt;/a&gt; at &lt;a href=&quot;https://untappd.com/venue/6943775&quot; target=&quot;_blank&quot;&gt;Abjuration Brewing&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;timeline-item&quot;&gt;&lt;div class=&quot;col-xs-3 date&quot;&gt;&lt;i&gt;&lt;img class=&quot;untappdAvatar&quot; src=&quot;https://assets.untappd.com/profile/01b71875927a57c3a25c4553e1e03384_100x100.jpg&quot;&gt;&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;small&gt;6/29/2026&lt;br&gt;8:46 pm&lt;/small&gt;&lt;/div&gt;&lt;br&gt;&lt;/div&gt;&lt;div class=&quot;col-xs-9 content &quot;&gt;&lt;p class=&quot;m-b-xs&quot;&gt;&lt;strong&gt;Fruited Sour (FS v1.29)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://untappd.com/user/Hoobshooligans&quot; target=&quot;_blank&quot;&gt;John Holub&lt;/a&gt; is drinking a &lt;a href=&quot;https://untappd.com/b/abjuration-brewing-Fruited-Sour-FS-v1-29/5450096&quot; target=&quot;_blank&quot;&gt;Fruited Sour (FS v1.29)&lt;/a&gt; by &lt;a href=&quot;https://untappd.com/w/abjuration-brewing/127740&quot; target=&quot;_blank&quot;&gt;Abjuration Brewing&lt;/a&gt; at &lt;a href=&quot;https://untappd.com/venue/6943775&quot; target=&quot;_blank&quot;&gt;Abjuration Brewing&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;timeline-item&quot;&gt;&lt;div class=&quot;col-xs-3 date&quot;&gt;&lt;i&gt;&lt;img class=&quot;untappdAvatar&quot; src=&quot;https://assets.untappd.com/profile/01b71875927a57c3a25c4553e1e03384_100x100.jpg&quot;&gt;&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;small&gt;6/29/2026&lt;br&gt;8:41 pm&lt;/small&gt;&lt;/div&gt;&lt;br&gt;&lt;/div&gt;&lt;div class=&quot;col-xs-9 content &quot;&gt;&lt;p class=&quot;m-b-xs&quot;&gt;&lt;strong&gt;Ice Cream Cake Sour (ICCS v1.5)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://untappd.com/user/Hoobshooligans&quot; target=&quot;_blank&quot;&gt;John Holub&lt;/a&gt; is drinking a &lt;a href=&quot;https://untappd.com/b/abjuration-brewing-Ice-Cream-Cake-Sour-ICCS-v1-5/6764549&quot; target=&quot;_blank&quot;&gt;Ice Cream Cake Sour (ICCS v1.5)&lt;/a&gt; by &lt;a href=&quot;https://untappd.com/w/abjuration-brewing/127740&quot; target=&quot;_blank&quot;&gt;Abjuration Brewing&lt;/a&gt; at &lt;a href=&quot;https://untappd.com/venue/6943775&quot; target=&quot;_blank&quot;&gt;Abjuration Brewing&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;timeline-item&quot;&gt;&lt;div class=&quot;col-xs-3 date&quot;&gt;&lt;i&gt;&lt;img class=&quot;untappdAvatar&quot; src=&quot;https://assets.untappd.com/profile/01b71875927a57c3a25c4553e1e03384_100x100.jpg&quot;&gt;&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;small&gt;6/29/2026&lt;br&gt;8:07 pm&lt;/small&gt;&lt;/div&gt;&lt;br&gt;&lt;/div&gt;&lt;div class=&quot;col-xs-9 content &quot;&gt;&lt;p class=&quot;m-b-xs&quot;&gt;&lt;strong&gt;Ice Cream Sour (ICS v1.39)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://untappd.com/user/Hoobshooligans&quot; target=&quot;_blank&quot;&gt;John Holub&lt;/a&gt; is drinking a &lt;a href=&quot;https://untappd.com/b/abjuration-brewing-Ice-Cream-Sour-ICS-v1-39/6324118&quot; target=&quot;_blank&quot;&gt;Ice Cream Sour (ICS v1.39)&lt;/a&gt; by &lt;a href=&quot;https://untappd.com/w/abjuration-brewing/127740&quot; target=&quot;_blank&quot;&gt;Abjuration Brewing&lt;/a&gt; at &lt;a href=&quot;https://untappd.com/venue/6943775&quot; target=&quot;_blank&quot;&gt;Abjuration Brewing&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;timeline-item&quot;&gt;&lt;div class=&quot;col-xs-3 date&quot;&gt;&lt;i&gt;&lt;img class=&quot;untappdAvatar&quot; src=&quot;https://assets.untappd.com/profile/01b71875927a57c3a25c4553e1e03384_100x100.jpg&quot;&gt;&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;small&gt;6/29/2026&lt;br&gt;8:06 pm&lt;/small&gt;&lt;/div&gt;&lt;br&gt;&lt;/div&gt;&lt;div class=&quot;col-xs-9 content &quot;&gt;&lt;p class=&quot;m-b-xs&quot;&gt;&lt;strong&gt;Cheesecake Sour (CCS v1.19)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://untappd.com/user/Hoobshooligans&quot; target=&quot;_blank&quot;&gt;John Holub&lt;/a&gt; is drinking a &lt;a href=&quot;https://untappd.com/b/abjuration-brewing-Cheesecake-Sour-CCS-v1-19/6745513&quot; target=&quot;_blank&quot;&gt;Cheesecake Sour (CCS v1.19)&lt;/a&gt; by &lt;a href=&quot;https://untappd.com/w/abjuration-brewing/127740&quot; target=&quot;_blank&quot;&gt;Abjuration Brewing&lt;/a&gt; at &lt;a href=&quot;https://untappd.com/venue/6943775&quot; target=&quot;_blank&quot;&gt;Abjuration Brewing&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" />
 <input type="hidden" id="locationId" name="locationId" value="1" />
 
 <div id="fb-root"></div>
@@ -304,155 +304,6 @@
                         </div>
                         <div id="eventsFeed" class="ibox-content inspinia-timeline">
                             <div class="feed-activity-list">
-                                        <div class="feed-element">
-
-                                            <div class="media-body">
-                                                    <a href="https://www.facebook.com/events/1516941666442434" target="_blank">
-                                                            <img alt="image" class="eventFeedImg" style="width: 100%; height:auto" src="/Images/events/104.jpg">
-                                                    </a>
-                                                    <br />
-                                                    <a href="https://www.facebook.com/events/1516941666442434" class="ontapbeer" target="_blank"><strong>PizzaFest! A slice of Delish</strong></a>
-                                                    <br>
-                                                    <div class="row">
-                                                        <div class="col-xs-2 col-md-2"><small class="text-muted">Date:</small></div>
-                                                        <div class="col-xs-9 col-md-9">
-                                                            <small class="text-muted">
-                                                                6/14/26 12:00 PM
-                                                                    <span>-</span>
-5:00 PM                                                            </small>
-                                                        </div>
-                                                    </div>
-                                                        <div class="row">
-                                                            <div class="col-xs-11 col-md-11">
-                                                                <small class="text-muted">
-                                                                        <a href="https://maps.app.goo.gl/LffAqsifYm3NHmZ58" target="_blank">The Hazelwood Brewhouse<br />5011 Lytle Street PA 15207</a>
-                                                                </small>
-                                                            </div>
-                                                        </div>
-                                                        <br />
-                                                        <div class="row">
-                                                                <div class="col-xs-4 col-md-4">
-                                                                    <a href="https://www.facebook.com/events/1516941666442434" target="_blank" title="Facebook" style="font-size:18px">
-                                                                        <i class="fa fa-lg fa-facebook"></i>
-                                                                    </a>
-                                                                </div>
-                                                                                                                            <div class="col-xs-4 col-md-4">
-                                                                    <a href="https://tickets.triblive.com/events/pizzafest-a-slice-of-delish-2026-6-14-2026?fbclid=IwY2xjawR64fNleHRuA2FlbQIxMABicmlkETE0b2M0VXpVb0N4OGFFN01xc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkOgK4xRxX9yhrhfdU07yuHJ3uv_cMakvSn6bK_YsxXhGVhPOMDV6G25upof_aem_KOD8L_qyEOBc_Mt7z1DjEw" target="_blank" title="Ticket Link" style="font-size:22px">
-                                                                        <i class="fa fa-ticket"></i>
-                                                                    </a>
-                                                                </div>
-                                                        </div>
-
-
-                                            </div>
-                                        </div>
-                                        <div class="feed-element">
-
-                                            <div class="media-body">
-                                                    <a href="https://www.facebook.com/events/2168507743993089" target="_blank">
-                                                            <img alt="image" class="eventFeedImg" style="width: 100%; height:auto" src="/Images/events/101.jpg">
-                                                    </a>
-                                                    <br />
-                                                    <a href="https://www.facebook.com/events/2168507743993089" class="ontapbeer" target="_blank"><strong>Axes for Animals - Biggies Bullies</strong></a>
-                                                    <br>
-                                                    <div class="row">
-                                                        <div class="col-xs-2 col-md-2"><small class="text-muted">Date:</small></div>
-                                                        <div class="col-xs-9 col-md-9">
-                                                            <small class="text-muted">
-                                                                6/27/26 12:00 PM
-                                                                    <span>-</span>
-4:00 PM                                                            </small>
-                                                        </div>
-                                                    </div>
-                                                        <div class="row">
-                                                            <div class="col-xs-11 col-md-11">
-                                                                <small class="text-muted">
-                                                                        <a href="https://maps.app.goo.gl/Bi3KoA5R7koE4GuT7" target="_blank">Taps, Axes &amp; Games<br />1689 McFarland Rd PA 15216</a>
-                                                                </small>
-                                                            </div>
-                                                        </div>
-                                                        <br />
-                                                        <div class="row">
-                                                                <div class="col-xs-4 col-md-4">
-                                                                    <a href="https://www.facebook.com/events/2168507743993089" target="_blank" title="Facebook" style="font-size:18px">
-                                                                        <i class="fa fa-lg fa-facebook"></i>
-                                                                    </a>
-                                                                </div>
-                                                                                                                    </div>
-
-
-                                            </div>
-                                        </div>
-                                        <div class="feed-element">
-
-                                            <div class="media-body">
-                                                    <a target="_blank">
-                                                            <img alt="image" class="eventFeedImg" style="width: 100%; height:auto" src="/Images/events/105.jpg">
-                                                    </a>
-                                                    <br />
-                                                    <a class="ontapbeer" target="_blank"><strong>Pride 2026/Big Gay BBQ Competition</strong></a>
-                                                    <br>
-                                                    <div class="row">
-                                                        <div class="col-xs-2 col-md-2"><small class="text-muted">Date:</small></div>
-                                                        <div class="col-xs-9 col-md-9">
-                                                            <small class="text-muted">
-                                                                6/27/26 12:00 PM
-                                                            </small>
-                                                        </div>
-                                                    </div>
-                                                        <div class="row">
-                                                            <div class="col-xs-11 col-md-11">
-                                                                <small class="text-muted">
-                                                                        <a href="https://maps.app.goo.gl/LffAqsifYm3NHmZ58" target="_blank">The Hazelwood Brewhouse<br />5011 Lytle Street PA 15207</a>
-                                                                </small>
-                                                            </div>
-                                                        </div>
-
-
-                                            </div>
-                                        </div>
-                                        <div class="feed-element">
-
-                                            <div class="media-body">
-                                                    <a href="https://www.facebook.com/events/27690316493902888" target="_blank">
-                                                            <img alt="image" class="eventFeedImg" style="width: 100%; height:auto" src="/Images/events/102.jpg">
-                                                    </a>
-                                                    <br />
-                                                    <a href="https://www.facebook.com/events/27690316493902888" class="ontapbeer" target="_blank"><strong>Trivia with Aaron DeLeo and Axes!!!</strong></a>
-                                                    <br>
-                                                    <div class="row">
-                                                        <div class="col-xs-2 col-md-2"><small class="text-muted">Date:</small></div>
-                                                        <div class="col-xs-9 col-md-9">
-                                                            <small class="text-muted">
-                                                                6/27/26 6:30 PM
-                                                                    <span>-</span>
-9:00 PM                                                            </small>
-                                                        </div>
-                                                    </div>
-                                                        <div class="row">
-                                                            <div class="col-xs-11 col-md-11">
-                                                                <small class="text-muted">
-                                                                        <a href="https://maps.app.goo.gl/Bi3KoA5R7koE4GuT7" target="_blank">Taps, Axes &amp; Games<br />1689 McFarland Rd PA 15216</a>
-                                                                </small>
-                                                            </div>
-                                                        </div>
-                                                        <br />
-                                                        <div class="row">
-                                                                <div class="col-xs-4 col-md-4">
-                                                                    <a href="https://www.facebook.com/events/27690316493902888" target="_blank" title="Facebook" style="font-size:18px">
-                                                                        <i class="fa fa-lg fa-facebook"></i>
-                                                                    </a>
-                                                                </div>
-                                                                                                                            <div class="col-xs-4 col-md-4">
-                                                                    <a href="https://www.tagpgh.com" target="_blank" title="Ticket Link" style="font-size:22px">
-                                                                        <i class="fa fa-ticket"></i>
-                                                                    </a>
-                                                                </div>
-                                                        </div>
-
-
-                                            </div>
-                                        </div>
                                         <div class="feed-element">
 
                                             <div class="media-body">
@@ -855,6 +706,43 @@
         <div class="feed-element">
             
             <div class="media-body ">
+                        <a href="/Beer/22?v=4.2" class="ontapbeer"><strong>Hazy Pale Ale [Collab w/ TAG: Citra/Simcoe] (APA v4.2)</strong></a>
+                        <br>
+                            <div class="row">
+                                <div class="col-xs-3 col-md-3"><small class="text-muted">Brewed:</small></div>
+                                <div class="col-xs-3 col-md-3"><small class="text-muted"> 06/03/2026</small></div>
+                            </div>
+                            <div class="row">
+                                <div class="col-xs-3 col-md-3"><small class="text-muted">Tapped:</small></div>
+                                <div class="col-xs-3 col-md-3"><small class="text-muted"> 06/26/2026</small></div>
+                            </div>
+
+                    <div class="row">
+                        <div class="col-xs-3 col-md-3">
+                            <small class="text-muted">Servings:</small>
+                        </div>
+                        <div class="col-xs-3 col-md-3">
+                            <table class="text-muted">
+                                    <tr>
+                                        <td style="min-width:45px"><small>5oz</small></td>
+                                        <td><small>$3.00</small></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="min-width:45px"><small>8oz</small></td>
+                                        <td><small>$4.00</small></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="min-width:45px"><small>16oz</small></td>
+                                        <td><small>$6.50</small></td>
+                                    </tr>
+                            </table>
+                        </div>
+                    </div>
+            </div>
+        </div>
+        <div class="feed-element">
+            
+            <div class="media-body ">
                         <a href="/Beer/19?v=9.8" class="ontapbeer"><strong>Hazy India Pale Ale [Citra/Elani Cryo/Comet] (IPA v9.8)</strong></a>
                         <br>
                             <div class="row">
@@ -892,52 +780,15 @@
         <div class="feed-element">
             
             <div class="media-body ">
-                        <a href="/Beer/112?v=2.0" class="ontapbeer"><strong>Fruited India Pale Ale [Pink Boots Collab: Grapefruit/Mosaic/Paradisi/Simcoe/Chinook] (FRIPA v2.0)</strong></a>
+                        <a href="/Beer/82?v=1.29" class="ontapbeer"><strong>Fruited Sour [Mango/Cantaloupe/Peach] (FS v1.29)</strong></a>
                         <br>
                             <div class="row">
                                 <div class="col-xs-3 col-md-3"><small class="text-muted">Brewed:</small></div>
-                                <div class="col-xs-3 col-md-3"><small class="text-muted"> 04/29/2026</small></div>
+                                <div class="col-xs-3 col-md-3"><small class="text-muted"> 06/01/2026</small></div>
                             </div>
                             <div class="row">
                                 <div class="col-xs-3 col-md-3"><small class="text-muted">Tapped:</small></div>
-                                <div class="col-xs-3 col-md-3"><small class="text-muted"> 05/22/2026</small></div>
-                            </div>
-
-                    <div class="row">
-                        <div class="col-xs-3 col-md-3">
-                            <small class="text-muted">Servings:</small>
-                        </div>
-                        <div class="col-xs-3 col-md-3">
-                            <table class="text-muted">
-                                    <tr>
-                                        <td style="min-width:45px"><small>5oz</small></td>
-                                        <td><small>$3.00</small></td>
-                                    </tr>
-                                    <tr>
-                                        <td style="min-width:45px"><small>8oz</small></td>
-                                        <td><small>$4.00</small></td>
-                                    </tr>
-                                    <tr>
-                                        <td style="min-width:45px"><small>16oz</small></td>
-                                        <td><small>$7.00</small></td>
-                                    </tr>
-                            </table>
-                        </div>
-                    </div>
-            </div>
-        </div>
-        <div class="feed-element">
-            
-            <div class="media-body ">
-                        <a href="/Beer/82?v=1.32" class="ontapbeer"><strong>Fruited Sour [Pineapple/Honeydew] (FS v1.32)</strong></a>
-                        <br>
-                            <div class="row">
-                                <div class="col-xs-3 col-md-3"><small class="text-muted">Brewed:</small></div>
-                                <div class="col-xs-3 col-md-3"><small class="text-muted"> 04/14/2026</small></div>
-                            </div>
-                            <div class="row">
-                                <div class="col-xs-3 col-md-3"><small class="text-muted">Tapped:</small></div>
-                                <div class="col-xs-3 col-md-3"><small class="text-muted"> 05/01/2026</small></div>
+                                <div class="col-xs-3 col-md-3"><small class="text-muted"> 06/19/2026</small></div>
                             </div>
 
                     <div class="row">
@@ -995,72 +846,6 @@
         <div class="feed-element">
             
             <div class="media-body ">
-                        <a href="/Beer/70?v=1.15" class="ontapbeer"><strong>Candied Sour [Orange Slushie] (CDS v1.15)</strong></a>
-                        <br>
-                            <div class="row">
-                                <div class="col-xs-3 col-md-3"><small class="text-muted">Brewed:</small></div>
-                                <div class="col-xs-3 col-md-3"><small class="text-muted"> 04/15/2026</small></div>
-                            </div>
-                            <div class="row">
-                                <div class="col-xs-3 col-md-3"><small class="text-muted">Tapped:</small></div>
-                                <div class="col-xs-3 col-md-3"><small class="text-muted"> 05/01/2026</small></div>
-                            </div>
-
-                    <div class="row">
-                        <div class="col-xs-3 col-md-3">
-                            <small class="text-muted">Servings:</small>
-                        </div>
-                        <div class="col-xs-3 col-md-3">
-                            <table class="text-muted">
-                                    <tr>
-                                        <td style="min-width:45px"><small>5oz</small></td>
-                                        <td><small>$3.00</small></td>
-                                    </tr>
-                                    <tr>
-                                        <td style="min-width:45px"><small>8oz</small></td>
-                                        <td><small>$4.50</small></td>
-                                    </tr>
-                            </table>
-                        </div>
-                    </div>
-            </div>
-        </div>
-        <div class="feed-element">
-            
-            <div class="media-body ">
-                        <a href="/Beer/70?v=1.8" class="ontapbeer"><strong>Candied Sour [Cherry Slushie] (CDS v1.8)</strong></a>
-                        <br>
-                            <div class="row">
-                                <div class="col-xs-3 col-md-3"><small class="text-muted">Brewed:</small></div>
-                                <div class="col-xs-3 col-md-3"><small class="text-muted"> 05/12/2026</small></div>
-                            </div>
-                            <div class="row">
-                                <div class="col-xs-3 col-md-3"><small class="text-muted">Tapped:</small></div>
-                                <div class="col-xs-3 col-md-3"><small class="text-muted"> 06/05/2026</small></div>
-                            </div>
-
-                    <div class="row">
-                        <div class="col-xs-3 col-md-3">
-                            <small class="text-muted">Servings:</small>
-                        </div>
-                        <div class="col-xs-3 col-md-3">
-                            <table class="text-muted">
-                                    <tr>
-                                        <td style="min-width:45px"><small>5oz</small></td>
-                                        <td><small>$3.00</small></td>
-                                    </tr>
-                                    <tr>
-                                        <td style="min-width:45px"><small>8oz</small></td>
-                                        <td><small>$4.50</small></td>
-                                    </tr>
-                            </table>
-                        </div>
-                    </div>
-            </div>
-        </div>
-        <div class="feed-element">
-            
-            <div class="media-body ">
                         <a href="/Beer/73?v=1.23" class="ontapbeer"><strong>Smoothie Style Sour [Strawberry Funnel Cake - Collab w/ George A. Romero Foundation] (SSS v1.23)</strong></a>
                         <br>
                             <div class="row">
@@ -1070,6 +855,39 @@
                             <div class="row">
                                 <div class="col-xs-3 col-md-3"><small class="text-muted">Tapped:</small></div>
                                 <div class="col-xs-3 col-md-3"><small class="text-muted"> 06/11/2026</small></div>
+                            </div>
+
+                    <div class="row">
+                        <div class="col-xs-3 col-md-3">
+                            <small class="text-muted">Servings:</small>
+                        </div>
+                        <div class="col-xs-3 col-md-3">
+                            <table class="text-muted">
+                                    <tr>
+                                        <td style="min-width:45px"><small>5oz</small></td>
+                                        <td><small>$3.00</small></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="min-width:45px"><small>8oz</small></td>
+                                        <td><small>$4.50</small></td>
+                                    </tr>
+                            </table>
+                        </div>
+                    </div>
+            </div>
+        </div>
+        <div class="feed-element">
+            
+            <div class="media-body ">
+                        <a href="/Beer/150?v=1.6" class="ontapbeer"><strong>Donut Sour [Cherry/Fruity Pebbles] (DOS v1.6)</strong></a>
+                        <br>
+                            <div class="row">
+                                <div class="col-xs-3 col-md-3"><small class="text-muted">Brewed:</small></div>
+                                <div class="col-xs-3 col-md-3"><small class="text-muted"> 06/02/2026</small></div>
+                            </div>
+                            <div class="row">
+                                <div class="col-xs-3 col-md-3"><small class="text-muted">Tapped:</small></div>
+                                <div class="col-xs-3 col-md-3"><small class="text-muted"> 06/19/2026</small></div>
                             </div>
 
                     <div class="row">
@@ -1127,15 +945,15 @@
         <div class="feed-element">
             
             <div class="media-body ">
-                        <a href="/Beer/115?v=1.37" class="ontapbeer"><strong>Ice Cream Sour [Watermelon Cotton Candy] (ICS v1.37)</strong></a>
+                        <a href="/Beer/115?v=1.39" class="ontapbeer"><strong>Ice Cream Sour [Rainbow Sherbet] (ICS v1.39)</strong></a>
                         <br>
                             <div class="row">
                                 <div class="col-xs-3 col-md-3"><small class="text-muted">Brewed:</small></div>
-                                <div class="col-xs-3 col-md-3"><small class="text-muted"> 05/14/2026</small></div>
+                                <div class="col-xs-3 col-md-3"><small class="text-muted"> 06/09/2026</small></div>
                             </div>
                             <div class="row">
                                 <div class="col-xs-3 col-md-3"><small class="text-muted">Tapped:</small></div>
-                                <div class="col-xs-3 col-md-3"><small class="text-muted"> 05/29/2026</small></div>
+                                <div class="col-xs-3 col-md-3"><small class="text-muted"> 06/24/2026</small></div>
                             </div>
 
                     <div class="row">
@@ -1160,15 +978,15 @@
         <div class="feed-element">
             
             <div class="media-body ">
-                        <a href="/Beer/123?v=1.10" class="ontapbeer"><strong>Cheesecake Sour [Coconut Cream] (CCS v1.10)</strong></a>
+                        <a href="/Beer/146?v=1.5" class="ontapbeer"><strong>Ice Cream Cake Sour [Pineapple] (ICCS v1.5)</strong></a>
                         <br>
                             <div class="row">
                                 <div class="col-xs-3 col-md-3"><small class="text-muted">Brewed:</small></div>
-                                <div class="col-xs-3 col-md-3"><small class="text-muted"> 04/22/2026</small></div>
+                                <div class="col-xs-3 col-md-3"><small class="text-muted"> 06/11/2026</small></div>
                             </div>
                             <div class="row">
                                 <div class="col-xs-3 col-md-3"><small class="text-muted">Tapped:</small></div>
-                                <div class="col-xs-3 col-md-3"><small class="text-muted"> 05/08/2026</small></div>
+                                <div class="col-xs-3 col-md-3"><small class="text-muted"> 06/26/2026</small></div>
                             </div>
 
                     <div class="row">
@@ -1259,15 +1077,15 @@
         <div class="feed-element">
             
             <div class="media-body ">
-                        <a href="/Beer/166?v=1.0" class="ontapbeer"><strong>Rye Lager  (RL v1.0)</strong></a>
+                        <a href="/Beer/167?v=1.0" class="ontapbeer"><strong>Hefeweizen  (HEFE v1.0)</strong></a>
                         <br>
                             <div class="row">
                                 <div class="col-xs-3 col-md-3"><small class="text-muted">Brewed:</small></div>
-                                <div class="col-xs-3 col-md-3"><small class="text-muted"> 04/16/2026</small></div>
+                                <div class="col-xs-3 col-md-3"><small class="text-muted"> 05/26/2026</small></div>
                             </div>
                             <div class="row">
                                 <div class="col-xs-3 col-md-3"><small class="text-muted">Tapped:</small></div>
-                                <div class="col-xs-3 col-md-3"><small class="text-muted"> 06/05/2026</small></div>
+                                <div class="col-xs-3 col-md-3"><small class="text-muted"> 06/12/2026</small></div>
                             </div>
 
                     <div class="row">
@@ -1296,15 +1114,15 @@
         <div class="feed-element">
             
             <div class="media-body ">
-                        <a href="/Beer/167?v=1.0" class="ontapbeer"><strong>Hefeweizen  (HEFE v1.0)</strong></a>
+                        <a href="/Beer/168?v=1.0" class="ontapbeer"><strong>American Style Bitter  (ABI v1.0)</strong></a>
                         <br>
                             <div class="row">
                                 <div class="col-xs-3 col-md-3"><small class="text-muted">Brewed:</small></div>
-                                <div class="col-xs-3 col-md-3"><small class="text-muted"> 05/26/2026</small></div>
+                                <div class="col-xs-3 col-md-3"><small class="text-muted"> 05/28/2026</small></div>
                             </div>
                             <div class="row">
                                 <div class="col-xs-3 col-md-3"><small class="text-muted">Tapped:</small></div>
-                                <div class="col-xs-3 col-md-3"><small class="text-muted"> 06/12/2026</small></div>
+                                <div class="col-xs-3 col-md-3"><small class="text-muted"> 06/19/2026</small></div>
                             </div>
 
                     <div class="row">

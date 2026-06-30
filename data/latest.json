@@ -1,32 +1,6 @@
 {
-  "generatedAt": "2026-06-26T13:44:11Z",
+  "generatedAt": "2026-06-30T13:42:54Z",
   "entries": [
-    {
-      "breweryId": "grist-house",
-      "breweryName": "Grist House",
-      "name": "Arnold Shaman",
-      "normalizedName": "arnold shaman",
-      "style": "Fruited Sour",
-      "abv": 5.0,
-      "untappdRating": 3.94,
-      "sourceType": "untappd",
-      "sourceUrl": "https://gristhouse.com/millvale/",
-      "scrapedAt": "2026-06-26T13:44:01Z",
-      "active": true
-    },
-    {
-      "breweryId": "grist-house",
-      "breweryName": "Grist House",
-      "name": "Camp Slap",
-      "normalizedName": "camp slap",
-      "style": "Red IPA",
-      "abv": 6.4,
-      "untappdRating": 3.73,
-      "sourceType": "untappd",
-      "sourceUrl": "https://gristhouse.com/millvale/",
-      "scrapedAt": "2026-06-26T13:44:01Z",
-      "active": true
-    },
     {
       "breweryId": "grist-house",
       "breweryName": "Grist House",
@@ -37,7 +11,7 @@
       "untappdRating": 3.9,
       "sourceType": "untappd",
       "sourceUrl": "https://gristhouse.com/millvale/",
-      "scrapedAt": "2026-06-26T13:44:01Z",
+      "scrapedAt": "2026-06-30T13:42:42Z",
       "active": true
     },
     {
@@ -50,7 +24,7 @@
       "untappdRating": 3.5,
       "sourceType": "untappd",
       "sourceUrl": "https://gristhouse.com/millvale/",
-      "scrapedAt": "2026-06-26T13:44:01Z",
+      "scrapedAt": "2026-06-30T13:42:42Z",
       "active": true
     },
     {
@@ -63,7 +37,7 @@
       "untappdRating": 3.9,
       "sourceType": "untappd",
       "sourceUrl": "https://gristhouse.com/millvale/",
-      "scrapedAt": "2026-06-26T13:44:01Z",
+      "scrapedAt": "2026-06-30T13:42:42Z",
       "active": true
     },
     {
@@ -76,7 +50,7 @@
       "untappdRating": 3.76,
       "sourceType": "untappd",
       "sourceUrl": "https://gristhouse.com/millvale/",
-      "scrapedAt": "2026-06-26T13:44:01Z",
+      "scrapedAt": "2026-06-30T13:42:42Z",
       "active": true
     },
     {
@@ -89,7 +63,7 @@
       "untappdRating": 3.83,
       "sourceType": "untappd",
       "sourceUrl": "https://gristhouse.com/millvale/",
-      "scrapedAt": "2026-06-26T13:44:01Z",
+      "scrapedAt": "2026-06-30T13:42:42Z",
       "active": true
     },
     {
@@ -102,7 +76,7 @@
       "untappdRating": 3.52,
       "sourceType": "untappd",
       "sourceUrl": "https://gristhouse.com/millvale/",
-      "scrapedAt": "2026-06-26T13:44:01Z",
+      "scrapedAt": "2026-06-30T13:42:42Z",
       "active": true
     },
     {
@@ -115,7 +89,7 @@
       "untappdRating": 3.69,
       "sourceType": "untappd",
       "sourceUrl": "https://gristhouse.com/millvale/",
-      "scrapedAt": "2026-06-26T13:44:01Z",
+      "scrapedAt": "2026-06-30T13:42:42Z",
       "active": true
     },
     {
@@ -128,7 +102,7 @@
       "untappdRating": 4.06,
       "sourceType": "untappd",
       "sourceUrl": "https://gristhouse.com/millvale/",
-      "scrapedAt": "2026-06-26T13:44:01Z",
+      "scrapedAt": "2026-06-30T13:42:42Z",
       "active": true
     },
     {
@@ -141,7 +115,7 @@
       "untappdRating": 3.93,
       "sourceType": "untappd",
       "sourceUrl": "https://gristhouse.com/millvale/",
-      "scrapedAt": "2026-06-26T13:44:01Z",
+      "scrapedAt": "2026-06-30T13:42:42Z",
       "active": true
     },
     {
@@ -154,7 +128,7 @@
       "untappdRating": 3.66,
       "sourceType": "untappd",
       "sourceUrl": "https://gristhouse.com/millvale/",
-      "scrapedAt": "2026-06-26T13:44:01Z",
+      "scrapedAt": "2026-06-30T13:42:42Z",
       "active": true
     },
     {
@@ -167,7 +141,7 @@
       "untappdRating": 3.97,
       "sourceType": "untappd",
       "sourceUrl": "https://gristhouse.com/millvale/",
-      "scrapedAt": "2026-06-26T13:44:01Z",
+      "scrapedAt": "2026-06-30T13:42:42Z",
       "active": true
     },
     {
@@ -180,7 +154,7 @@
       "untappdRating": null,
       "sourceType": "untappd",
       "sourceUrl": "https://gristhouse.com/millvale/",
-      "scrapedAt": "2026-06-26T13:44:01Z",
+      "scrapedAt": "2026-06-30T13:42:42Z",
       "active": true
     },
     {
@@ -193,7 +167,7 @@
       "untappdRating": 3.84,
       "sourceType": "untappd",
       "sourceUrl": "https://gristhouse.com/millvale/",
-      "scrapedAt": "2026-06-26T13:44:01Z",
+      "scrapedAt": "2026-06-30T13:42:42Z",
       "active": true
     },
     {
@@ -206,7 +180,7 @@
       "untappdRating": 3.73,
       "sourceType": "untappd",
       "sourceUrl": "https://gristhouse.com/millvale/",
-      "scrapedAt": "2026-06-26T13:44:01Z",
+      "scrapedAt": "2026-06-30T13:42:42Z",
       "active": true
     },
     {
@@ -219,7 +193,7 @@
       "untappdRating": 4.13,
       "sourceType": "untappd",
       "sourceUrl": "https://gristhouse.com/millvale/",
-      "scrapedAt": "2026-06-26T13:44:01Z",
+      "scrapedAt": "2026-06-30T13:42:42Z",
       "active": true
     },
     {
@@ -232,7 +206,7 @@
       "untappdRating": 4.2,
       "sourceType": "untappd",
       "sourceUrl": "https://gristhouse.com/millvale/",
-      "scrapedAt": "2026-06-26T13:44:01Z",
+      "scrapedAt": "2026-06-30T13:42:42Z",
       "active": true
     },
     {
@@ -245,20 +219,7 @@
       "untappdRating": null,
       "sourceType": "untappd",
       "sourceUrl": "https://gristhouse.com/millvale/",
-      "scrapedAt": "2026-06-26T13:44:01Z",
-      "active": true
-    },
-    {
-      "breweryId": "grist-house",
-      "breweryName": "Grist House",
-      "name": "The Garden",
-      "normalizedName": "the garden",
-      "style": "Pale Wheat Ale",
-      "abv": 5.2,
-      "untappdRating": 3.84,
-      "sourceType": "untappd",
-      "sourceUrl": "https://gristhouse.com/millvale/",
-      "scrapedAt": "2026-06-26T13:44:01Z",
+      "scrapedAt": "2026-06-30T13:42:42Z",
       "active": true
     },
     {
@@ -271,7 +232,7 @@
       "untappdRating": 4.16,
       "sourceType": "untappd",
       "sourceUrl": "https://gristhouse.com/millvale/",
-      "scrapedAt": "2026-06-26T13:44:01Z",
+      "scrapedAt": "2026-06-30T13:42:42Z",
       "active": true
     },
     {
@@ -284,7 +245,7 @@
       "untappdRating": 3.77,
       "sourceType": "untappd",
       "sourceUrl": "https://gristhouse.com/millvale/",
-      "scrapedAt": "2026-06-26T13:44:01Z",
+      "scrapedAt": "2026-06-30T13:42:42Z",
       "active": true
     },
     {
@@ -297,7 +258,7 @@
       "untappdRating": 3.8,
       "sourceType": "untappd",
       "sourceUrl": "https://gristhouse.com/millvale/",
-      "scrapedAt": "2026-06-26T13:44:01Z",
+      "scrapedAt": "2026-06-30T13:42:42Z",
       "active": true
     },
     {
@@ -310,20 +271,7 @@
       "untappdRating": 3.75,
       "sourceType": "untappd",
       "sourceUrl": "https://www.11thhourbrews.com/draft-list",
-      "scrapedAt": "2026-06-26T13:44:03Z",
-      "active": true
-    },
-    {
-      "breweryId": "eleventh-hour",
-      "breweryName": "11th Hour",
-      "name": "Catch & Release",
-      "normalizedName": "catch & release",
-      "style": "IPA - American",
-      "abv": 5.5,
-      "untappdRating": 3.75,
-      "sourceType": "untappd",
-      "sourceUrl": "https://www.11thhourbrews.com/draft-list",
-      "scrapedAt": "2026-06-26T13:44:03Z",
+      "scrapedAt": "2026-06-30T13:42:44Z",
       "active": true
     },
     {
@@ -336,7 +284,20 @@
       "untappdRating": 4.0,
       "sourceType": "untappd",
       "sourceUrl": "https://www.11thhourbrews.com/draft-list",
-      "scrapedAt": "2026-06-26T13:44:03Z",
+      "scrapedAt": "2026-06-30T13:42:44Z",
+      "active": true
+    },
+    {
+      "breweryId": "eleventh-hour",
+      "breweryName": "11th Hour",
+      "name": "Creekside Krush",
+      "normalizedName": "creekside krush",
+      "style": "IPA - New England",
+      "abv": 5.5,
+      "untappdRating": 4.0,
+      "sourceType": "untappd",
+      "sourceUrl": "https://www.11thhourbrews.com/draft-list",
+      "scrapedAt": "2026-06-30T13:42:44Z",
       "active": true
     },
     {
@@ -349,7 +310,7 @@
       "untappdRating": 4.0,
       "sourceType": "untappd",
       "sourceUrl": "https://www.11thhourbrews.com/draft-list",
-      "scrapedAt": "2026-06-26T13:44:03Z",
+      "scrapedAt": "2026-06-30T13:42:44Z",
       "active": true
     },
     {
@@ -362,7 +323,7 @@
       "untappdRating": 4.0,
       "sourceType": "untappd",
       "sourceUrl": "https://www.11thhourbrews.com/draft-list",
-      "scrapedAt": "2026-06-26T13:44:03Z",
+      "scrapedAt": "2026-06-30T13:42:44Z",
       "active": true
     },
     {
@@ -375,7 +336,7 @@
       "untappdRating": 3.75,
       "sourceType": "untappd",
       "sourceUrl": "https://www.11thhourbrews.com/draft-list",
-      "scrapedAt": "2026-06-26T13:44:03Z",
+      "scrapedAt": "2026-06-30T13:42:44Z",
       "active": true
     },
     {
@@ -388,7 +349,7 @@
       "untappdRating": 3.75,
       "sourceType": "untappd",
       "sourceUrl": "https://www.11thhourbrews.com/draft-list",
-      "scrapedAt": "2026-06-26T13:44:03Z",
+      "scrapedAt": "2026-06-30T13:42:44Z",
       "active": true
     },
     {
@@ -401,7 +362,7 @@
       "untappdRating": 3.0,
       "sourceType": "untappd",
       "sourceUrl": "https://www.11thhourbrews.com/draft-list",
-      "scrapedAt": "2026-06-26T13:44:03Z",
+      "scrapedAt": "2026-06-30T13:42:44Z",
       "active": true
     },
     {
@@ -414,7 +375,7 @@
       "untappdRating": 4.0,
       "sourceType": "untappd",
       "sourceUrl": "https://www.11thhourbrews.com/draft-list",
-      "scrapedAt": "2026-06-26T13:44:03Z",
+      "scrapedAt": "2026-06-30T13:42:44Z",
       "active": true
     },
     {
@@ -427,7 +388,7 @@
       "untappdRating": 3.75,
       "sourceType": "untappd",
       "sourceUrl": "https://www.11thhourbrews.com/draft-list",
-      "scrapedAt": "2026-06-26T13:44:03Z",
+      "scrapedAt": "2026-06-30T13:42:44Z",
       "active": true
     },
     {
@@ -440,7 +401,7 @@
       "untappdRating": 3.75,
       "sourceType": "untappd",
       "sourceUrl": "https://www.11thhourbrews.com/draft-list",
-      "scrapedAt": "2026-06-26T13:44:03Z",
+      "scrapedAt": "2026-06-30T13:42:44Z",
       "active": true
     },
     {
@@ -453,7 +414,7 @@
       "untappdRating": 4.0,
       "sourceType": "untappd",
       "sourceUrl": "https://www.11thhourbrews.com/draft-list",
-      "scrapedAt": "2026-06-26T13:44:03Z",
+      "scrapedAt": "2026-06-30T13:42:44Z",
       "active": true
     },
     {
@@ -466,7 +427,7 @@
       "untappdRating": 4.0,
       "sourceType": "untappd",
       "sourceUrl": "https://www.11thhourbrews.com/draft-list",
-      "scrapedAt": "2026-06-26T13:44:03Z",
+      "scrapedAt": "2026-06-30T13:42:44Z",
       "active": true
     },
     {
@@ -479,7 +440,7 @@
       "untappdRating": 3.5,
       "sourceType": "untappd",
       "sourceUrl": "https://www.11thhourbrews.com/draft-list",
-      "scrapedAt": "2026-06-26T13:44:03Z",
+      "scrapedAt": "2026-06-30T13:42:44Z",
       "active": true
     },
     {
@@ -492,7 +453,7 @@
       "untappdRating": 4.0,
       "sourceType": "untappd",
       "sourceUrl": "https://www.11thhourbrews.com/draft-list",
-      "scrapedAt": "2026-06-26T13:44:03Z",
+      "scrapedAt": "2026-06-30T13:42:44Z",
       "active": true
     },
     {
@@ -505,7 +466,7 @@
       "untappdRating": 3.75,
       "sourceType": "untappd",
       "sourceUrl": "https://www.11thhourbrews.com/draft-list",
-      "scrapedAt": "2026-06-26T13:44:03Z",
+      "scrapedAt": "2026-06-30T13:42:44Z",
       "active": true
     },
     {
@@ -518,7 +479,7 @@
       "untappdRating": 3.75,
       "sourceType": "untappd",
       "sourceUrl": "https://www.11thhourbrews.com/draft-list",
-      "scrapedAt": "2026-06-26T13:44:03Z",
+      "scrapedAt": "2026-06-30T13:42:44Z",
       "active": true
     },
     {
@@ -531,7 +492,7 @@
       "untappdRating": 4.28,
       "sourceType": "widget",
       "sourceUrl": "https://www.acclamationbrewing.com/beers",
-      "scrapedAt": "2026-06-26T13:44:04Z",
+      "scrapedAt": "2026-06-30T13:42:45Z",
       "active": true
     },
     {
@@ -544,20 +505,7 @@
       "untappdRating": 4.26,
       "sourceType": "widget",
       "sourceUrl": "https://www.acclamationbrewing.com/beers",
-      "scrapedAt": "2026-06-26T13:44:04Z",
-      "active": true
-    },
-    {
-      "breweryId": "acclamation",
-      "breweryName": "Acclamation",
-      "name": "Co-Star ESB",
-      "normalizedName": "co-star esb",
-      "style": "Extra Special Bitter",
-      "abv": 5.4,
-      "untappdRating": 3.83,
-      "sourceType": "widget",
-      "sourceUrl": "https://www.acclamationbrewing.com/beers",
-      "scrapedAt": "2026-06-26T13:44:04Z",
+      "scrapedAt": "2026-06-30T13:42:45Z",
       "active": true
     },
     {
@@ -570,7 +518,7 @@
       "untappdRating": 3.57,
       "sourceType": "widget",
       "sourceUrl": "https://www.acclamationbrewing.com/beers",
-      "scrapedAt": "2026-06-26T13:44:04Z",
+      "scrapedAt": "2026-06-30T13:42:45Z",
       "active": true
     },
     {
@@ -583,7 +531,7 @@
       "untappdRating": 3.83,
       "sourceType": "widget",
       "sourceUrl": "https://www.acclamationbrewing.com/beers",
-      "scrapedAt": "2026-06-26T13:44:04Z",
+      "scrapedAt": "2026-06-30T13:42:45Z",
       "active": true
     },
     {
@@ -596,7 +544,7 @@
       "untappdRating": 3.8,
       "sourceType": "widget",
       "sourceUrl": "https://www.acclamationbrewing.com/beers",
-      "scrapedAt": "2026-06-26T13:44:04Z",
+      "scrapedAt": "2026-06-30T13:42:45Z",
       "active": true
     },
     {
@@ -609,7 +557,7 @@
       "untappdRating": 3.73,
       "sourceType": "widget",
       "sourceUrl": "https://www.acclamationbrewing.com/beers",
-      "scrapedAt": "2026-06-26T13:44:04Z",
+      "scrapedAt": "2026-06-30T13:42:45Z",
       "active": true
     },
     {
@@ -622,7 +570,7 @@
       "untappdRating": 3.66,
       "sourceType": "widget",
       "sourceUrl": "https://www.acclamationbrewing.com/beers",
-      "scrapedAt": "2026-06-26T13:44:04Z",
+      "scrapedAt": "2026-06-30T13:42:45Z",
       "active": true
     },
     {
@@ -635,7 +583,7 @@
       "untappdRating": 4.18,
       "sourceType": "widget",
       "sourceUrl": "https://www.acclamationbrewing.com/beers",
-      "scrapedAt": "2026-06-26T13:44:04Z",
+      "scrapedAt": "2026-06-30T13:42:45Z",
       "active": true
     },
     {
@@ -648,7 +596,7 @@
       "untappdRating": 3.35,
       "sourceType": "widget",
       "sourceUrl": "https://www.acclamationbrewing.com/beers",
-      "scrapedAt": "2026-06-26T13:44:04Z",
+      "scrapedAt": "2026-06-30T13:42:45Z",
       "active": true
     },
     {
@@ -661,7 +609,7 @@
       "untappdRating": 4.2,
       "sourceType": "widget",
       "sourceUrl": "https://www.acclamationbrewing.com/beers",
-      "scrapedAt": "2026-06-26T13:44:04Z",
+      "scrapedAt": "2026-06-30T13:42:45Z",
       "active": true
     },
     {
@@ -674,7 +622,7 @@
       "untappdRating": 3.85,
       "sourceType": "widget",
       "sourceUrl": "https://www.acclamationbrewing.com/beers",
-      "scrapedAt": "2026-06-26T13:44:04Z",
+      "scrapedAt": "2026-06-30T13:42:45Z",
       "active": true
     },
     {
@@ -687,7 +635,7 @@
       "untappdRating": null,
       "sourceType": "widget",
       "sourceUrl": "https://www.acclamationbrewing.com/beers",
-      "scrapedAt": "2026-06-26T13:44:04Z",
+      "scrapedAt": "2026-06-30T13:42:45Z",
       "active": true
     },
     {
@@ -700,7 +648,7 @@
       "untappdRating": 3.84,
       "sourceType": "widget",
       "sourceUrl": "https://www.acclamationbrewing.com/beers",
-      "scrapedAt": "2026-06-26T13:44:04Z",
+      "scrapedAt": "2026-06-30T13:42:45Z",
       "active": true
     },
     {
@@ -713,7 +661,7 @@
       "untappdRating": 3.74,
       "sourceType": "widget",
       "sourceUrl": "https://www.acclamationbrewing.com/beers",
-      "scrapedAt": "2026-06-26T13:44:04Z",
+      "scrapedAt": "2026-06-30T13:42:45Z",
       "active": true
     },
     {
@@ -726,7 +674,7 @@
       "untappdRating": 3.99,
       "sourceType": "widget",
       "sourceUrl": "https://www.acclamationbrewing.com/beers",
-      "scrapedAt": "2026-06-26T13:44:04Z",
+      "scrapedAt": "2026-06-30T13:42:45Z",
       "active": true
     },
     {
@@ -734,12 +682,12 @@
       "breweryName": "Acclamation",
       "name": "Two Frays Non-Alcoholic Beer",
       "normalizedName": "two frays non-alcoholic beer",
-      "style": "Fruited Blonde Ale OR West Coast IPA",
+      "style": "Fruited Blonde Ale",
       "abv": 0.5,
       "untappdRating": null,
       "sourceType": "widget",
       "sourceUrl": "https://www.acclamationbrewing.com/beers",
-      "scrapedAt": "2026-06-26T13:44:04Z",
+      "scrapedAt": "2026-06-30T13:42:45Z",
       "active": true
     },
     {
@@ -752,7 +700,7 @@
       "untappdRating": null,
       "sourceType": "merged",
       "sourceUrl": "https://dancinggnomebeer.com/location/1025-main/#on-tap",
-      "scrapedAt": "2026-06-26T13:44:06Z",
+      "scrapedAt": "2026-06-30T13:42:49Z",
       "active": true
     },
     {
@@ -765,20 +713,20 @@
       "untappdRating": 4.02,
       "sourceType": "merged",
       "sourceUrl": "https://dancinggnomebeer.com/location/1025-main/#on-tap",
-      "scrapedAt": "2026-06-26T13:44:06Z",
+      "scrapedAt": "2026-06-30T13:42:49Z",
       "active": true
     },
     {
       "breweryId": "dancing-gnome",
       "breweryName": "Dancing Gnome",
-      "name": "Bifocal Feline",
-      "normalizedName": "bifocal feline",
-      "style": "IPA - Citra, Galaxy",
-      "abv": 6.4,
-      "untappdRating": 4.1,
+      "name": "Better One or Two DIPA",
+      "normalizedName": "better one or two dipa",
+      "style": null,
+      "abv": 8.0,
+      "untappdRating": null,
       "sourceType": "merged",
       "sourceUrl": "https://dancinggnomebeer.com/location/1025-main/#on-tap",
-      "scrapedAt": "2026-06-26T13:44:06Z",
+      "scrapedAt": "2026-06-30T13:42:49Z",
       "active": true
     },
     {
@@ -791,7 +739,7 @@
       "untappdRating": 3.74,
       "sourceType": "merged",
       "sourceUrl": "https://dancinggnomebeer.com/location/1025-main/#on-tap",
-      "scrapedAt": "2026-06-26T13:44:06Z",
+      "scrapedAt": "2026-06-30T13:42:49Z",
       "active": true
     },
     {
@@ -804,7 +752,7 @@
       "untappdRating": 4.12,
       "sourceType": "merged",
       "sourceUrl": "https://dancinggnomebeer.com/location/1025-main/#on-tap",
-      "scrapedAt": "2026-06-26T13:44:06Z",
+      "scrapedAt": "2026-06-30T13:42:49Z",
       "active": true
     },
     {
@@ -817,20 +765,20 @@
       "untappdRating": 3.31,
       "sourceType": "merged",
       "sourceUrl": "https://dancinggnomebeer.com/location/1025-main/#on-tap",
-      "scrapedAt": "2026-06-26T13:44:06Z",
+      "scrapedAt": "2026-06-30T13:42:49Z",
       "active": true
     },
     {
       "breweryId": "dancing-gnome",
       "breweryName": "Dancing Gnome",
-      "name": "Dippy IPA",
-      "normalizedName": "dippy ipa",
-      "style": null,
+      "name": "Dippy",
+      "normalizedName": "dippy",
+      "style": "IPA - Simcoe, Motueka, Galaxy",
       "abv": 6.4,
       "untappdRating": null,
       "sourceType": "merged",
       "sourceUrl": "https://dancinggnomebeer.com/location/1025-main/#on-tap",
-      "scrapedAt": "2026-06-26T13:44:06Z",
+      "scrapedAt": "2026-06-30T13:42:49Z",
       "active": true
     },
     {
@@ -843,20 +791,7 @@
       "untappdRating": 3.58,
       "sourceType": "merged",
       "sourceUrl": "https://dancinggnomebeer.com/location/1025-main/#on-tap",
-      "scrapedAt": "2026-06-26T13:44:06Z",
-      "active": true
-    },
-    {
-      "breweryId": "dancing-gnome",
-      "breweryName": "Dancing Gnome",
-      "name": "Exquisite Beast",
-      "normalizedName": "exquisite beast",
-      "style": "DIPA - Sultana, Mosaic, Amarillo, Citra, Columbus",
-      "abv": 8.5,
-      "untappdRating": 4.14,
-      "sourceType": "merged",
-      "sourceUrl": "https://dancinggnomebeer.com/location/1025-main/#on-tap",
-      "scrapedAt": "2026-06-26T13:44:06Z",
+      "scrapedAt": "2026-06-30T13:42:49Z",
       "active": true
     },
     {
@@ -869,7 +804,7 @@
       "untappdRating": 4.01,
       "sourceType": "merged",
       "sourceUrl": "https://dancinggnomebeer.com/location/1025-main/#on-tap",
-      "scrapedAt": "2026-06-26T13:44:06Z",
+      "scrapedAt": "2026-06-30T13:42:49Z",
       "active": true
     },
     {
@@ -882,7 +817,7 @@
       "untappdRating": 3.47,
       "sourceType": "merged",
       "sourceUrl": "https://dancinggnomebeer.com/location/1025-main/#on-tap",
-      "scrapedAt": "2026-06-26T13:44:06Z",
+      "scrapedAt": "2026-06-30T13:42:49Z",
       "active": true
     },
     {
@@ -895,7 +830,7 @@
       "untappdRating": 3.82,
       "sourceType": "merged",
       "sourceUrl": "https://dancinggnomebeer.com/location/1025-main/#on-tap",
-      "scrapedAt": "2026-06-26T13:44:06Z",
+      "scrapedAt": "2026-06-30T13:42:49Z",
       "active": true
     },
     {
@@ -903,12 +838,12 @@
       "breweryName": "Dancing Gnome",
       "name": "Ordinary Bitter",
       "normalizedName": "ordinary bitter",
-      "style": "English Bitter",
+      "style": "English Bitter hopped with EKG",
       "abv": 3.2,
       "untappdRating": 3.47,
       "sourceType": "merged",
       "sourceUrl": "https://dancinggnomebeer.com/location/1025-main/#on-tap",
-      "scrapedAt": "2026-06-26T13:44:06Z",
+      "scrapedAt": "2026-06-30T13:42:49Z",
       "active": true
     },
     {
@@ -921,7 +856,7 @@
       "untappdRating": 4.1,
       "sourceType": "merged",
       "sourceUrl": "https://dancinggnomebeer.com/location/1025-main/#on-tap",
-      "scrapedAt": "2026-06-26T13:44:06Z",
+      "scrapedAt": "2026-06-30T13:42:49Z",
       "active": true
     },
     {
@@ -934,7 +869,7 @@
       "untappdRating": 2.96,
       "sourceType": "merged",
       "sourceUrl": "https://dancinggnomebeer.com/location/1025-main/#on-tap",
-      "scrapedAt": "2026-06-26T13:44:06Z",
+      "scrapedAt": "2026-06-30T13:42:49Z",
       "active": true
     },
     {
@@ -947,7 +882,7 @@
       "untappdRating": 3.91,
       "sourceType": "merged",
       "sourceUrl": "https://dancinggnomebeer.com/location/1025-main/#on-tap",
-      "scrapedAt": "2026-06-26T13:44:06Z",
+      "scrapedAt": "2026-06-30T13:42:49Z",
       "active": true
     },
     {
@@ -960,20 +895,20 @@
       "untappdRating": 4.07,
       "sourceType": "merged",
       "sourceUrl": "https://dancinggnomebeer.com/location/1025-main/#on-tap",
-      "scrapedAt": "2026-06-26T13:44:06Z",
+      "scrapedAt": "2026-06-30T13:42:49Z",
       "active": true
     },
     {
       "breweryId": "dancing-gnome",
       "breweryName": "Dancing Gnome",
-      "name": "Spy Dolphin DIPA",
-      "normalizedName": "spy dolphin dipa",
-      "style": null,
+      "name": "Spy Dolphin",
+      "normalizedName": "spy dolphin",
+      "style": "DIPA - Idaho 7, Citra, Simcoe",
       "abv": 8.5,
       "untappdRating": null,
       "sourceType": "merged",
       "sourceUrl": "https://dancinggnomebeer.com/location/1025-main/#on-tap",
-      "scrapedAt": "2026-06-26T13:44:06Z",
+      "scrapedAt": "2026-06-30T13:42:49Z",
       "active": true
     },
     {
@@ -986,7 +921,7 @@
       "untappdRating": 3.9,
       "sourceType": "merged",
       "sourceUrl": "https://dancinggnomebeer.com/location/1025-main/#on-tap",
-      "scrapedAt": "2026-06-26T13:44:06Z",
+      "scrapedAt": "2026-06-30T13:42:49Z",
       "active": true
     },
     {
@@ -999,7 +934,7 @@
       "untappdRating": null,
       "sourceType": "merged",
       "sourceUrl": "https://dancinggnomebeer.com/location/1025-main/#on-tap",
-      "scrapedAt": "2026-06-26T13:44:06Z",
+      "scrapedAt": "2026-06-30T13:42:49Z",
       "active": true
     },
     {
@@ -1012,7 +947,7 @@
       "untappdRating": 3.49,
       "sourceType": "merged",
       "sourceUrl": "https://dancinggnomebeer.com/location/1025-main/#on-tap",
-      "scrapedAt": "2026-06-26T13:44:06Z",
+      "scrapedAt": "2026-06-30T13:42:49Z",
       "active": true
     },
     {
@@ -1025,7 +960,7 @@
       "untappdRating": 3.66,
       "sourceType": "website",
       "sourceUrl": "https://fourpointsbrewing.com/draftlist",
-      "scrapedAt": "2026-06-26T13:44:08Z",
+      "scrapedAt": "2026-06-30T13:42:50Z",
       "active": true
     },
     {
@@ -1038,7 +973,7 @@
       "untappdRating": 3.73,
       "sourceType": "website",
       "sourceUrl": "https://fourpointsbrewing.com/draftlist",
-      "scrapedAt": "2026-06-26T13:44:08Z",
+      "scrapedAt": "2026-06-30T13:42:50Z",
       "active": true
     },
     {
@@ -1051,7 +986,7 @@
       "untappdRating": 3.35,
       "sourceType": "website",
       "sourceUrl": "https://fourpointsbrewing.com/draftlist",
-      "scrapedAt": "2026-06-26T13:44:08Z",
+      "scrapedAt": "2026-06-30T13:42:50Z",
       "active": true
     },
     {
@@ -1064,7 +999,7 @@
       "untappdRating": 3.96,
       "sourceType": "website",
       "sourceUrl": "https://fourpointsbrewing.com/draftlist",
-      "scrapedAt": "2026-06-26T13:44:08Z",
+      "scrapedAt": "2026-06-30T13:42:50Z",
       "active": true
     },
     {
@@ -1077,7 +1012,7 @@
       "untappdRating": 4.27,
       "sourceType": "website",
       "sourceUrl": "https://fourpointsbrewing.com/draftlist",
-      "scrapedAt": "2026-06-26T13:44:08Z",
+      "scrapedAt": "2026-06-30T13:42:50Z",
       "active": true
     },
     {
@@ -1090,7 +1025,7 @@
       "untappdRating": 4.18,
       "sourceType": "website",
       "sourceUrl": "https://fourpointsbrewing.com/draftlist",
-      "scrapedAt": "2026-06-26T13:44:08Z",
+      "scrapedAt": "2026-06-30T13:42:50Z",
       "active": true
     },
     {
@@ -1103,7 +1038,7 @@
       "untappdRating": 3.32,
       "sourceType": "website",
       "sourceUrl": "https://fourpointsbrewing.com/draftlist",
-      "scrapedAt": "2026-06-26T13:44:08Z",
+      "scrapedAt": "2026-06-30T13:42:50Z",
       "active": true
     },
     {
@@ -1116,7 +1051,7 @@
       "untappdRating": 3.48,
       "sourceType": "website",
       "sourceUrl": "https://fourpointsbrewing.com/draftlist",
-      "scrapedAt": "2026-06-26T13:44:08Z",
+      "scrapedAt": "2026-06-30T13:42:50Z",
       "active": true
     },
     {
@@ -1129,7 +1064,7 @@
       "untappdRating": 4.06,
       "sourceType": "website",
       "sourceUrl": "https://fourpointsbrewing.com/draftlist",
-      "scrapedAt": "2026-06-26T13:44:08Z",
+      "scrapedAt": "2026-06-30T13:42:50Z",
       "active": true
     },
     {
@@ -1142,7 +1077,7 @@
       "untappdRating": 3.91,
       "sourceType": "website",
       "sourceUrl": "https://fourpointsbrewing.com/draftlist",
-      "scrapedAt": "2026-06-26T13:44:08Z",
+      "scrapedAt": "2026-06-30T13:42:50Z",
       "active": true
     },
     {
@@ -1155,7 +1090,7 @@
       "untappdRating": 3.85,
       "sourceType": "website",
       "sourceUrl": "https://fourpointsbrewing.com/draftlist",
-      "scrapedAt": "2026-06-26T13:44:08Z",
+      "scrapedAt": "2026-06-30T13:42:50Z",
       "active": true
     },
     {
@@ -1168,7 +1103,7 @@
       "untappdRating": 3.94,
       "sourceType": "website",
       "sourceUrl": "https://fourpointsbrewing.com/draftlist",
-      "scrapedAt": "2026-06-26T13:44:08Z",
+      "scrapedAt": "2026-06-30T13:42:50Z",
       "active": true
     },
     {
@@ -1181,7 +1116,7 @@
       "untappdRating": 3.96,
       "sourceType": "website",
       "sourceUrl": "https://fourpointsbrewing.com/draftlist",
-      "scrapedAt": "2026-06-26T13:44:08Z",
+      "scrapedAt": "2026-06-30T13:42:50Z",
       "active": true
     },
     {
@@ -1194,7 +1129,7 @@
       "untappdRating": 4.03,
       "sourceType": "website",
       "sourceUrl": "https://fourpointsbrewing.com/draftlist",
-      "scrapedAt": "2026-06-26T13:44:08Z",
+      "scrapedAt": "2026-06-30T13:42:50Z",
       "active": true
     },
     {
@@ -1207,7 +1142,7 @@
       "untappdRating": 3.5,
       "sourceType": "website",
       "sourceUrl": "https://fourpointsbrewing.com/draftlist",
-      "scrapedAt": "2026-06-26T13:44:08Z",
+      "scrapedAt": "2026-06-30T13:42:50Z",
       "active": true
     },
     {
@@ -1220,7 +1155,7 @@
       "untappdRating": 2.97,
       "sourceType": "website",
       "sourceUrl": "https://fourpointsbrewing.com/draftlist",
-      "scrapedAt": "2026-06-26T13:44:08Z",
+      "scrapedAt": "2026-06-30T13:42:50Z",
       "active": true
     },
     {
@@ -1343,300 +1278,14 @@
     {
       "breweryId": "hitchhiker",
       "breweryName": "Hitchhiker",
-      "name": "15th and Canal",
-      "normalizedName": "15th and canal",
-      "style": "American Pale Ale",
-      "abv": null,
-      "untappdRating": 3.96,
-      "sourceType": "website",
-      "sourceUrl": "https://hitchhiker.beer",
-      "scrapedAt": "2026-06-26T13:44:08Z",
-      "active": true
-    },
-    {
-      "breweryId": "hitchhiker",
-      "breweryName": "Hitchhiker",
-      "name": "Airwave",
-      "normalizedName": "airwave",
-      "style": "All Citra Hazy IPA",
-      "abv": null,
-      "untappdRating": 4.0,
-      "sourceType": "website",
-      "sourceUrl": "https://hitchhiker.beer",
-      "scrapedAt": "2026-06-26T13:44:08Z",
-      "active": true
-    },
-    {
-      "breweryId": "hitchhiker",
-      "breweryName": "Hitchhiker",
       "name": "Bane of Existence",
       "normalizedName": "bane of existence",
-      "style": "IPA",
-      "abv": null,
+      "style": "Double IPA",
+      "abv": 8.2,
       "untappdRating": 3.95,
-      "sourceType": "website",
+      "sourceType": "website_fallback",
       "sourceUrl": "https://hitchhiker.beer",
-      "scrapedAt": "2026-06-26T13:44:08Z",
-      "active": true
-    },
-    {
-      "breweryId": "hitchhiker",
-      "breweryName": "Hitchhiker",
-      "name": "Citrus Summer",
-      "normalizedName": "citrus summer",
-      "style": "Lemon Wheat Ale",
-      "abv": null,
-      "untappdRating": 3.42,
-      "sourceType": "website",
-      "sourceUrl": "https://hitchhiker.beer",
-      "scrapedAt": "2026-06-26T13:44:08Z",
-      "active": true
-    },
-    {
-      "breweryId": "hitchhiker",
-      "breweryName": "Hitchhiker",
-      "name": "Cococino",
-      "normalizedName": "cococino",
-      "style": "Porter with Milk Sugar, Coffee, Coconut, and Vanilla Bean",
-      "abv": null,
-      "untappdRating": 3.98,
-      "sourceType": "website",
-      "sourceUrl": "https://hitchhiker.beer",
-      "scrapedAt": "2026-06-26T13:44:08Z",
-      "active": true
-    },
-    {
-      "breweryId": "hitchhiker",
-      "breweryName": "Hitchhiker",
-      "name": "Conversion",
-      "normalizedName": "conversion",
-      "style": "Dry Hopped Blonde Ale",
-      "abv": null,
-      "untappdRating": 3.57,
-      "sourceType": "website",
-      "sourceUrl": "https://hitchhiker.beer",
-      "scrapedAt": "2026-06-26T13:44:08Z",
-      "active": true
-    },
-    {
-      "breweryId": "hitchhiker",
-      "breweryName": "Hitchhiker",
-      "name": "Fusional",
-      "normalizedName": "fusional",
-      "style": "Transfusion Smoothie Sour",
-      "abv": null,
-      "untappdRating": 3.82,
-      "sourceType": "website",
-      "sourceUrl": "https://hitchhiker.beer",
-      "scrapedAt": "2026-06-26T13:44:08Z",
-      "active": true
-    },
-    {
-      "breweryId": "hitchhiker",
-      "breweryName": "Hitchhiker",
-      "name": "Licensed to Grill",
-      "normalizedName": "licensed to grill",
-      "style": "Summer Hazy India Pale Ale",
-      "abv": null,
-      "untappdRating": null,
-      "sourceType": "website",
-      "sourceUrl": "https://hitchhiker.beer",
-      "scrapedAt": "2026-06-26T13:44:08Z",
-      "active": true
-    },
-    {
-      "breweryId": "hitchhiker",
-      "breweryName": "Hitchhiker",
-      "name": "mmHmmm Grape",
-      "normalizedName": "mmhmmm grape",
-      "style": "Smoothie Sour w/ Grape & Peanut Butter",
-      "abv": null,
-      "untappdRating": 4.14,
-      "sourceType": "website",
-      "sourceUrl": "https://hitchhiker.beer",
-      "scrapedAt": "2026-06-26T13:44:08Z",
-      "active": true
-    },
-    {
-      "breweryId": "hitchhiker",
-      "breweryName": "Hitchhiker",
-      "name": "No Way",
-      "normalizedName": "no way",
-      "style": "Stout",
-      "abv": null,
-      "untappdRating": null,
-      "sourceType": "website",
-      "sourceUrl": "https://hitchhiker.beer",
-      "scrapedAt": "2026-06-26T13:44:08Z",
-      "active": true
-    },
-    {
-      "breweryId": "hitchhiker",
-      "breweryName": "Hitchhiker",
-      "name": "One to One",
-      "normalizedName": "one to one",
-      "style": "IPA",
-      "abv": null,
-      "untappdRating": 4.07,
-      "sourceType": "website",
-      "sourceUrl": "https://hitchhiker.beer",
-      "scrapedAt": "2026-06-26T13:44:08Z",
-      "active": true
-    },
-    {
-      "breweryId": "hitchhiker",
-      "breweryName": "Hitchhiker",
-      "name": "Opposite Bane",
-      "normalizedName": "opposite bane",
-      "style": "IPA",
-      "abv": null,
-      "untappdRating": 3.99,
-      "sourceType": "website",
-      "sourceUrl": "https://hitchhiker.beer",
-      "scrapedAt": "2026-06-26T13:44:08Z",
-      "active": true
-    },
-    {
-      "breweryId": "hitchhiker",
-      "breweryName": "Hitchhiker",
-      "name": "Party in Bedrock",
-      "normalizedName": "party in bedrock",
-      "style": "Prehistoric Smoothie Sour",
-      "abv": null,
-      "untappdRating": null,
-      "sourceType": "website",
-      "sourceUrl": "https://hitchhiker.beer",
-      "scrapedAt": "2026-06-26T13:44:08Z",
-      "active": true
-    },
-    {
-      "breweryId": "hitchhiker",
-      "breweryName": "Hitchhiker",
-      "name": "Subsurface Tangerine Coconut",
-      "normalizedName": "subsurface tangerine coconut",
-      "style": "Smoothie Sour with Tangerine & Coconut",
-      "abv": null,
-      "untappdRating": 4.07,
-      "sourceType": "website",
-      "sourceUrl": "https://hitchhiker.beer",
-      "scrapedAt": "2026-06-26T13:44:08Z",
-      "active": true
-    },
-    {
-      "breweryId": "hitchhiker",
-      "breweryName": "Hitchhiker",
-      "name": "Trapped in Time",
-      "normalizedName": "trapped in time",
-      "style": "Double West Coast IPA",
-      "abv": null,
-      "untappdRating": 3.99,
-      "sourceType": "website",
-      "sourceUrl": "https://hitchhiker.beer",
-      "scrapedAt": "2026-06-26T13:44:08Z",
-      "active": true
-    },
-    {
-      "breweryId": "hitchhiker",
-      "breweryName": "Hitchhiker",
-      "name": "Triple Bane of Existence",
-      "normalizedName": "triple bane of existence",
-      "style": "Triple IPA",
-      "abv": null,
-      "untappdRating": 4.33,
-      "sourceType": "website",
-      "sourceUrl": "https://hitchhiker.beer",
-      "scrapedAt": "2026-06-26T13:44:08Z",
-      "active": true
-    },
-    {
-      "breweryId": "hitchhiker",
-      "breweryName": "Hitchhiker",
-      "name": "True",
-      "normalizedName": "true",
-      "style": "Pilsner",
-      "abv": null,
-      "untappdRating": 3.28,
-      "sourceType": "website",
-      "sourceUrl": "https://hitchhiker.beer",
-      "scrapedAt": "2026-06-26T13:44:08Z",
-      "active": true
-    },
-    {
-      "breweryId": "hitchhiker",
-      "breweryName": "Hitchhiker",
-      "name": "Two Fifty",
-      "normalizedName": "two fifty",
-      "style": null,
-      "abv": null,
-      "untappdRating": null,
-      "sourceType": "website",
-      "sourceUrl": "https://hitchhiker.beer",
-      "scrapedAt": "2026-06-26T13:44:08Z",
-      "active": true
-    },
-    {
-      "breweryId": "hitchhiker",
-      "breweryName": "Hitchhiker",
-      "name": "Two-Fifty",
-      "normalizedName": "two-fifty",
-      "style": "American Pale Ale",
-      "abv": null,
-      "untappdRating": null,
-      "sourceType": "website",
-      "sourceUrl": "https://hitchhiker.beer",
-      "scrapedAt": "2026-06-26T13:44:08Z",
-      "active": true
-    },
-    {
-      "breweryId": "hitchhiker",
-      "breweryName": "Hitchhiker",
-      "name": "Whale Watch",
-      "normalizedName": "whale watch",
-      "style": "Hazy Double IPA",
-      "abv": null,
-      "untappdRating": 4.24,
-      "sourceType": "website",
-      "sourceUrl": "https://hitchhiker.beer",
-      "scrapedAt": "2026-06-26T13:44:08Z",
-      "active": true
-    },
-    {
-      "breweryId": "hitchhiker",
-      "breweryName": "Hitchhiker",
-      "name": "Wheat Wagon",
-      "normalizedName": "wheat wagon",
-      "style": "Hefeweizen",
-      "abv": null,
-      "untappdRating": 3.65,
-      "sourceType": "website",
-      "sourceUrl": "https://hitchhiker.beer",
-      "scrapedAt": "2026-06-26T13:44:08Z",
-      "active": true
-    },
-    {
-      "breweryId": "hitchhiker",
-      "breweryName": "Hitchhiker",
-      "name": "Whole Punch Key Lime Pie",
-      "normalizedName": "whole punch key lime pie",
-      "style": null,
-      "abv": null,
-      "untappdRating": 3.86,
-      "sourceType": "website",
-      "sourceUrl": "https://hitchhiker.beer",
-      "scrapedAt": "2026-06-26T13:44:08Z",
-      "active": true
-    },
-    {
-      "breweryId": "hitchhiker",
-      "breweryName": "Hitchhiker",
-      "name": "Whole Punch: Key Lime Pie",
-      "normalizedName": "whole punch: key lime pie",
-      "style": "IPA with Milk Sugar, Key Lime Juice, Lime and Lemon Zest, Graham Cracker, and Vanilla Bean",
-      "abv": null,
-      "untappdRating": 3.86,
-      "sourceType": "website",
-      "sourceUrl": "https://hitchhiker.beer",
-      "scrapedAt": "2026-06-26T13:44:08Z",
+      "scrapedAt": "2026-06-30T13:42:51Z",
       "active": true
     },
     {
@@ -1649,7 +1298,7 @@
       "untappdRating": 3.84,
       "sourceType": "pdf",
       "sourceUrl": "https://www.oldthunderbrewing.com/_files/ugd/1dde72_2d9ec5c4e9574e7bb3f6c65d4f033297.pdf",
-      "scrapedAt": "2026-06-26T13:44:09Z",
+      "scrapedAt": "2026-06-30T13:42:52Z",
       "active": true
     },
     {
@@ -1662,7 +1311,7 @@
       "untappdRating": 3.79,
       "sourceType": "pdf",
       "sourceUrl": "https://www.oldthunderbrewing.com/_files/ugd/1dde72_2d9ec5c4e9574e7bb3f6c65d4f033297.pdf",
-      "scrapedAt": "2026-06-26T13:44:09Z",
+      "scrapedAt": "2026-06-30T13:42:52Z",
       "active": true
     },
     {
@@ -1675,7 +1324,7 @@
       "untappdRating": 4.43,
       "sourceType": "pdf",
       "sourceUrl": "https://www.oldthunderbrewing.com/_files/ugd/1dde72_2d9ec5c4e9574e7bb3f6c65d4f033297.pdf",
-      "scrapedAt": "2026-06-26T13:44:09Z",
+      "scrapedAt": "2026-06-30T13:42:52Z",
       "active": true
     },
     {
@@ -1688,7 +1337,7 @@
       "untappdRating": 4.54,
       "sourceType": "pdf",
       "sourceUrl": "https://www.oldthunderbrewing.com/_files/ugd/1dde72_2d9ec5c4e9574e7bb3f6c65d4f033297.pdf",
-      "scrapedAt": "2026-06-26T13:44:09Z",
+      "scrapedAt": "2026-06-30T13:42:52Z",
       "active": true
     },
     {
@@ -1701,7 +1350,7 @@
       "untappdRating": 4.05,
       "sourceType": "pdf",
       "sourceUrl": "https://www.oldthunderbrewing.com/_files/ugd/1dde72_2d9ec5c4e9574e7bb3f6c65d4f033297.pdf",
-      "scrapedAt": "2026-06-26T13:44:09Z",
+      "scrapedAt": "2026-06-30T13:42:52Z",
       "active": true
     },
     {
@@ -1714,7 +1363,7 @@
       "untappdRating": 4.03,
       "sourceType": "pdf",
       "sourceUrl": "https://www.oldthunderbrewing.com/_files/ugd/1dde72_2d9ec5c4e9574e7bb3f6c65d4f033297.pdf",
-      "scrapedAt": "2026-06-26T13:44:09Z",
+      "scrapedAt": "2026-06-30T13:42:52Z",
       "active": true
     },
     {
@@ -1727,7 +1376,7 @@
       "untappdRating": 4.03,
       "sourceType": "pdf",
       "sourceUrl": "https://www.oldthunderbrewing.com/_files/ugd/1dde72_2d9ec5c4e9574e7bb3f6c65d4f033297.pdf",
-      "scrapedAt": "2026-06-26T13:44:09Z",
+      "scrapedAt": "2026-06-30T13:42:52Z",
       "active": true
     },
     {
@@ -1740,7 +1389,7 @@
       "untappdRating": 3.94,
       "sourceType": "pdf",
       "sourceUrl": "https://www.oldthunderbrewing.com/_files/ugd/1dde72_2d9ec5c4e9574e7bb3f6c65d4f033297.pdf",
-      "scrapedAt": "2026-06-26T13:44:09Z",
+      "scrapedAt": "2026-06-30T13:42:52Z",
       "active": true
     },
     {
@@ -1753,7 +1402,7 @@
       "untappdRating": 3.99,
       "sourceType": "pdf",
       "sourceUrl": "https://www.oldthunderbrewing.com/_files/ugd/1dde72_2d9ec5c4e9574e7bb3f6c65d4f033297.pdf",
-      "scrapedAt": "2026-06-26T13:44:09Z",
+      "scrapedAt": "2026-06-30T13:42:52Z",
       "active": true
     },
     {
@@ -1766,7 +1415,7 @@
       "untappdRating": 3.37,
       "sourceType": "pdf",
       "sourceUrl": "https://www.oldthunderbrewing.com/_files/ugd/1dde72_2d9ec5c4e9574e7bb3f6c65d4f033297.pdf",
-      "scrapedAt": "2026-06-26T13:44:09Z",
+      "scrapedAt": "2026-06-30T13:42:52Z",
       "active": true
     },
     {
@@ -1779,7 +1428,7 @@
       "untappdRating": 3.91,
       "sourceType": "pdf",
       "sourceUrl": "https://www.oldthunderbrewing.com/_files/ugd/1dde72_2d9ec5c4e9574e7bb3f6c65d4f033297.pdf",
-      "scrapedAt": "2026-06-26T13:44:09Z",
+      "scrapedAt": "2026-06-30T13:42:52Z",
       "active": true
     },
     {
@@ -1792,7 +1441,7 @@
       "untappdRating": 4.44,
       "sourceType": "pdf",
       "sourceUrl": "https://www.oldthunderbrewing.com/_files/ugd/1dde72_2d9ec5c4e9574e7bb3f6c65d4f033297.pdf",
-      "scrapedAt": "2026-06-26T13:44:09Z",
+      "scrapedAt": "2026-06-30T13:42:52Z",
       "active": true
     },
     {
@@ -1805,7 +1454,7 @@
       "untappdRating": 4.18,
       "sourceType": "pdf",
       "sourceUrl": "https://www.oldthunderbrewing.com/_files/ugd/1dde72_2d9ec5c4e9574e7bb3f6c65d4f033297.pdf",
-      "scrapedAt": "2026-06-26T13:44:09Z",
+      "scrapedAt": "2026-06-30T13:42:52Z",
       "active": true
     },
     {
@@ -1818,7 +1467,7 @@
       "untappdRating": 3.92,
       "sourceType": "pdf",
       "sourceUrl": "https://www.oldthunderbrewing.com/_files/ugd/1dde72_2d9ec5c4e9574e7bb3f6c65d4f033297.pdf",
-      "scrapedAt": "2026-06-26T13:44:09Z",
+      "scrapedAt": "2026-06-30T13:42:52Z",
       "active": true
     },
     {
@@ -1831,7 +1480,7 @@
       "untappdRating": 4.06,
       "sourceType": "pdf",
       "sourceUrl": "https://www.oldthunderbrewing.com/_files/ugd/1dde72_2d9ec5c4e9574e7bb3f6c65d4f033297.pdf",
-      "scrapedAt": "2026-06-26T13:44:09Z",
+      "scrapedAt": "2026-06-30T13:42:52Z",
       "active": true
     },
     {
@@ -1844,33 +1493,7 @@
       "untappdRating": null,
       "sourceType": "widget",
       "sourceUrl": "https://www.abjurationbrewing.com",
-      "scrapedAt": "2026-06-26T13:44:10Z",
-      "active": true
-    },
-    {
-      "breweryId": "abjuration",
-      "breweryName": "Abjuration",
-      "name": "Candied Sour [Cherry Slushie] (CDS v1.8)",
-      "normalizedName": "candied sour [cherry slushie] (cds v1.8)",
-      "style": "Candied Sour",
-      "abv": null,
-      "untappdRating": null,
-      "sourceType": "widget",
-      "sourceUrl": "https://www.abjurationbrewing.com",
-      "scrapedAt": "2026-06-26T13:44:10Z",
-      "active": true
-    },
-    {
-      "breweryId": "abjuration",
-      "breweryName": "Abjuration",
-      "name": "Candied Sour [Orange Slushie] (CDS v1.15)",
-      "normalizedName": "candied sour [orange slushie] (cds v1.15)",
-      "style": "Candied Sour",
-      "abv": null,
-      "untappdRating": null,
-      "sourceType": "widget",
-      "sourceUrl": "https://www.abjurationbrewing.com",
-      "scrapedAt": "2026-06-26T13:44:10Z",
+      "scrapedAt": "2026-06-30T13:42:53Z",
       "active": true
     },
     {
@@ -1883,7 +1506,7 @@
       "untappdRating": null,
       "sourceType": "widget",
       "sourceUrl": "https://www.abjurationbrewing.com",
-      "scrapedAt": "2026-06-26T13:44:10Z",
+      "scrapedAt": "2026-06-30T13:42:53Z",
       "active": true
     },
     {
@@ -1896,7 +1519,7 @@
       "untappdRating": null,
       "sourceType": "widget",
       "sourceUrl": "https://www.abjurationbrewing.com",
-      "scrapedAt": "2026-06-26T13:44:10Z",
+      "scrapedAt": "2026-06-30T13:42:53Z",
       "active": true
     },
     {
@@ -1909,7 +1532,7 @@
       "untappdRating": null,
       "sourceType": "widget",
       "sourceUrl": "https://www.abjurationbrewing.com",
-      "scrapedAt": "2026-06-26T13:44:10Z",
+      "scrapedAt": "2026-06-30T13:42:53Z",
       "active": true
     },
     {
@@ -1922,7 +1545,7 @@
       "untappdRating": null,
       "sourceType": "widget",
       "sourceUrl": "https://www.abjurationbrewing.com",
-      "scrapedAt": "2026-06-26T13:44:10Z",
+      "scrapedAt": "2026-06-30T13:42:53Z",
       "active": true
     },
     {
@@ -1935,7 +1558,7 @@
       "untappdRating": null,
       "sourceType": "widget",
       "sourceUrl": "https://www.abjurationbrewing.com",
-      "scrapedAt": "2026-06-26T13:44:10Z",
+      "scrapedAt": "2026-06-30T13:42:53Z",
       "active": true
     },
     {
@@ -1948,7 +1571,7 @@
       "untappdRating": 4.1,
       "sourceType": "widget",
       "sourceUrl": "https://www.abjurationbrewing.com",
-      "scrapedAt": "2026-06-26T13:44:10Z",
+      "scrapedAt": "2026-06-30T13:42:53Z",
       "active": true
     },
     {
@@ -1961,7 +1584,20 @@
       "untappdRating": null,
       "sourceType": "widget",
       "sourceUrl": "https://www.abjurationbrewing.com",
-      "scrapedAt": "2026-06-26T13:44:10Z",
+      "scrapedAt": "2026-06-30T13:42:53Z",
+      "active": true
+    },
+    {
+      "breweryId": "abjuration",
+      "breweryName": "Abjuration",
+      "name": "Ice Cream Sour [Rainbow Sherbet] (ICS v1.39)",
+      "normalizedName": "ice cream sour [rainbow sherbet] (ics v1.39)",
+      "style": "Ice Cream Sour",
+      "abv": null,
+      "untappdRating": null,
+      "sourceType": "widget",
+      "sourceUrl": "https://www.abjurationbrewing.com",
+      "scrapedAt": "2026-06-30T13:42:53Z",
       "active": true
     },
     {
@@ -1974,7 +1610,7 @@
       "untappdRating": null,
       "sourceType": "widget",
       "sourceUrl": "https://www.abjurationbrewing.com",
-      "scrapedAt": "2026-06-26T13:44:10Z",
+      "scrapedAt": "2026-06-30T13:42:53Z",
       "active": true
     },
     {
@@ -1987,7 +1623,7 @@
       "untappdRating": null,
       "sourceType": "widget",
       "sourceUrl": "https://www.abjurationbrewing.com",
-      "scrapedAt": "2026-06-26T13:44:10Z",
+      "scrapedAt": "2026-06-30T13:42:53Z",
       "active": true
     },
     {
@@ -2000,7 +1636,7 @@
       "untappdRating": null,
       "sourceType": "widget",
       "sourceUrl": "https://www.abjurationbrewing.com",
-      "scrapedAt": "2026-06-26T13:44:10Z",
+      "scrapedAt": "2026-06-30T13:42:53Z",
       "active": true
     },
     {
@@ -2013,7 +1649,7 @@
       "untappdRating": null,
       "sourceType": "widget",
       "sourceUrl": "https://www.abjurationbrewing.com",
-      "scrapedAt": "2026-06-26T13:44:10Z",
+      "scrapedAt": "2026-06-30T13:42:53Z",
       "active": true
     },
     {
@@ -2026,7 +1662,7 @@
       "untappdRating": 3.45,
       "sourceType": "website",
       "sourceUrl": "https://www.goldenagebeer.com/menu",
-      "scrapedAt": "2026-06-26T13:44:11Z",
+      "scrapedAt": "2026-06-30T13:42:54Z",
       "active": true
     },
     {
@@ -2039,7 +1675,7 @@
       "untappdRating": 3.39,
       "sourceType": "website",
       "sourceUrl": "https://www.goldenagebeer.com/menu",
-      "scrapedAt": "2026-06-26T13:44:11Z",
+      "scrapedAt": "2026-06-30T13:42:54Z",
       "active": true
     },
     {
@@ -2052,7 +1688,7 @@
       "untappdRating": 2.95,
       "sourceType": "website",
       "sourceUrl": "https://www.goldenagebeer.com/menu",
-      "scrapedAt": "2026-06-26T13:44:11Z",
+      "scrapedAt": "2026-06-30T13:42:54Z",
       "active": true
     },
     {
@@ -2065,7 +1701,7 @@
       "untappdRating": 3.54,
       "sourceType": "website",
       "sourceUrl": "https://www.goldenagebeer.com/menu",
-      "scrapedAt": "2026-06-26T13:44:11Z",
+      "scrapedAt": "2026-06-30T13:42:54Z",
       "active": true
     },
     {
@@ -2078,7 +1714,7 @@
       "untappdRating": 2.96,
       "sourceType": "website",
       "sourceUrl": "https://www.goldenagebeer.com/menu",
-      "scrapedAt": "2026-06-26T13:44:11Z",
+      "scrapedAt": "2026-06-30T13:42:54Z",
       "active": true
     },
     {
@@ -2091,7 +1727,7 @@
       "untappdRating": 2.96,
       "sourceType": "website",
       "sourceUrl": "https://www.goldenagebeer.com/menu",
-      "scrapedAt": "2026-06-26T13:44:11Z",
+      "scrapedAt": "2026-06-30T13:42:54Z",
       "active": true
     },
     {
@@ -2104,20 +1740,33 @@
       "untappdRating": 3.26,
       "sourceType": "website",
       "sourceUrl": "https://www.goldenagebeer.com/menu",
-      "scrapedAt": "2026-06-26T13:44:11Z",
+      "scrapedAt": "2026-06-30T13:42:54Z",
       "active": true
     },
     {
-      "breweryId": "lolev",
-      "breweryName": "Lolev",
-      "name": "African Wild Dog",
-      "normalizedName": "african wild dog",
-      "style": "Ultra Hopped Ale",
-      "abv": 8.8,
-      "untappdRating": 4.55,
+      "breweryId": "golden-age",
+      "breweryName": "Golden Age",
+      "name": "Wei\u00dfbier",
+      "normalizedName": "weissbier",
+      "style": "Bavarian Wheat Bier. An expressive and lively bouquet of vanilla, citrus, clove and banana bread on top of soft German white wheat. Designed for Biergarten drinking.",
+      "abv": 5.2,
+      "untappdRating": null,
       "sourceType": "website",
-      "sourceUrl": "https://lolev.beer/beer?avail=tap",
-      "scrapedAt": "2026-06-26T13:44:11Z",
+      "sourceUrl": "https://www.goldenagebeer.com/menu",
+      "scrapedAt": "2026-06-30T13:42:54Z",
+      "active": true
+    },
+    {
+      "breweryId": "golden-age",
+      "breweryName": "Golden Age",
+      "name": "Wheat Bier",
+      "normalizedName": "wheat bier",
+      "style": null,
+      "abv": null,
+      "untappdRating": null,
+      "sourceType": "website",
+      "sourceUrl": "https://www.goldenagebeer.com/menu",
+      "scrapedAt": "2026-06-30T13:42:54Z",
       "active": true
     },
     {
@@ -2127,10 +1776,23 @@
       "normalizedName": "capax iii",
       "style": "Ultra Hopped Ale",
       "abv": 8.5,
-      "untappdRating": 4.31,
+      "untappdRating": 4.33,
       "sourceType": "website",
       "sourceUrl": "https://lolev.beer/beer?avail=tap",
-      "scrapedAt": "2026-06-26T13:44:11Z",
+      "scrapedAt": "2026-06-30T13:42:54Z",
+      "active": true
+    },
+    {
+      "breweryId": "lolev",
+      "breweryName": "Lolev",
+      "name": "Cardinal",
+      "normalizedName": "cardinal",
+      "style": "Hazy Pale Ale",
+      "abv": 4.5,
+      "untappdRating": null,
+      "sourceType": "website",
+      "sourceUrl": "https://lolev.beer/beer?avail=tap",
+      "scrapedAt": "2026-06-30T13:42:54Z",
       "active": true
     },
     {
@@ -2140,10 +1802,23 @@
       "normalizedName": "costilla",
       "style": "Mexican Dark Lager",
       "abv": 4.8,
-      "untappdRating": 4.05,
+      "untappdRating": 4.04,
       "sourceType": "website",
       "sourceUrl": "https://lolev.beer/beer?avail=tap",
-      "scrapedAt": "2026-06-26T13:44:11Z",
+      "scrapedAt": "2026-06-30T13:42:54Z",
+      "active": true
+    },
+    {
+      "breweryId": "lolev",
+      "breweryName": "Lolev",
+      "name": "Great Horned Owl",
+      "normalizedName": "great horned owl",
+      "style": "Ultra Hopped Ale",
+      "abv": 11.0,
+      "untappdRating": 4.43,
+      "sourceType": "website",
+      "sourceUrl": "https://lolev.beer/beer?avail=tap",
+      "scrapedAt": "2026-06-30T13:42:54Z",
       "active": true
     },
     {
@@ -2153,23 +1828,10 @@
       "normalizedName": "harvest iii",
       "style": "Ultra Hopped Ale",
       "abv": 8.1,
-      "untappdRating": 4.49,
+      "untappdRating": 4.46,
       "sourceType": "website",
       "sourceUrl": "https://lolev.beer/beer?avail=tap",
-      "scrapedAt": "2026-06-26T13:44:11Z",
-      "active": true
-    },
-    {
-      "breweryId": "lolev",
-      "breweryName": "Lolev",
-      "name": "Leopard",
-      "normalizedName": "leopard",
-      "style": "Ultra Hopped Ale",
-      "abv": 8.7,
-      "untappdRating": 4.44,
-      "sourceType": "website",
-      "sourceUrl": "https://lolev.beer/beer?avail=tap",
-      "scrapedAt": "2026-06-26T13:44:11Z",
+      "scrapedAt": "2026-06-30T13:42:54Z",
       "active": true
     },
     {
@@ -2179,10 +1841,10 @@
       "normalizedName": "lion",
       "style": "Ultra Hopped Ale",
       "abv": 8.7,
-      "untappdRating": null,
+      "untappdRating": 4.44,
       "sourceType": "website",
       "sourceUrl": "https://lolev.beer/beer?avail=tap",
-      "scrapedAt": "2026-06-26T13:44:11Z",
+      "scrapedAt": "2026-06-30T13:42:54Z",
       "active": true
     },
     {
@@ -2195,7 +1857,7 @@
       "untappdRating": 4.08,
       "sourceType": "website",
       "sourceUrl": "https://lolev.beer/beer?avail=tap",
-      "scrapedAt": "2026-06-26T13:44:11Z",
+      "scrapedAt": "2026-06-30T13:42:54Z",
       "active": true
     },
     {
@@ -2208,7 +1870,7 @@
       "untappdRating": 4.38,
       "sourceType": "website",
       "sourceUrl": "https://lolev.beer/beer?avail=tap",
-      "scrapedAt": "2026-06-26T13:44:11Z",
+      "scrapedAt": "2026-06-30T13:42:54Z",
       "active": true
     },
     {
@@ -2218,10 +1880,10 @@
       "normalizedName": "osprey",
       "style": "Ultra Hopped Ale",
       "abv": 8.0,
-      "untappdRating": 4.35,
+      "untappdRating": 4.34,
       "sourceType": "website",
       "sourceUrl": "https://lolev.beer/beer?avail=tap",
-      "scrapedAt": "2026-06-26T13:44:11Z",
+      "scrapedAt": "2026-06-30T13:42:54Z",
       "active": true
     },
     {
@@ -2231,10 +1893,10 @@
       "normalizedName": "priam",
       "style": "Hazy India Pale Ale",
       "abv": 6.7,
-      "untappdRating": 4.15,
+      "untappdRating": 4.14,
       "sourceType": "website",
       "sourceUrl": "https://lolev.beer/beer?avail=tap",
-      "scrapedAt": "2026-06-26T13:44:11Z",
+      "scrapedAt": "2026-06-30T13:42:54Z",
       "active": true
     },
     {
@@ -2244,23 +1906,23 @@
       "normalizedName": "remedios ii",
       "style": "New Zealand Pilsner",
       "abv": 4.5,
-      "untappdRating": 4.09,
+      "untappdRating": 3.96,
       "sourceType": "website",
       "sourceUrl": "https://lolev.beer/beer?avail=tap",
-      "scrapedAt": "2026-06-26T13:44:11Z",
+      "scrapedAt": "2026-06-30T13:42:54Z",
       "active": true
     },
     {
       "breweryId": "lolev",
       "breweryName": "Lolev",
-      "name": "Rubico III",
-      "normalizedName": "rubico iii",
+      "name": "Vi II",
+      "normalizedName": "vi ii",
       "style": "Ultra Hopped Ale",
-      "abv": 8.7,
-      "untappdRating": 4.33,
+      "abv": 8.4,
+      "untappdRating": null,
       "sourceType": "website",
       "sourceUrl": "https://lolev.beer/beer?avail=tap",
-      "scrapedAt": "2026-06-26T13:44:11Z",
+      "scrapedAt": "2026-06-30T13:42:54Z",
       "active": true
     }
   ]
