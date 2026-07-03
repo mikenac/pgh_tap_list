@@ -4,66 +4,50 @@ Do not add beers, styles, ratings, or facts that are not present in the JSON.
 Keep it to 4-6 sentences.
 
 {
-  "generated": "2026-06-30T13:42:54Z",
-  "previousDate": "2026-06-26",
+  "generated": "2026-07-03T13:35:54Z",
+  "previousDate": "2026-06-30",
   "changes": [
     {
       "breweryId": "abjuration",
       "additions": [
-        "Ice Cream Sour [Rainbow Sherbet] (ICS v1.39)"
+        "Candied Sour [Bomb Pop] (CDS v1.10)",
+        "Candied Sour [Peach Rings/Pink Guava] (CDS v1.35)",
+        "Hazy India Pale Ale [Peacharine/Peacharine SubZero Hop Kief/Citra cryo] (IPA v9.9)",
+        "India Pale Ale [Mosaic cryo/Belma] (IPA v10.0)"
       ],
-      "removals": [
-        "Candied Sour [Cherry Slushie] (CDS v1.8)",
-        "Candied Sour [Orange Slushie] (CDS v1.15)"
-      ],
+      "removals": [],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "acclamation",
       "additions": [],
-      "removals": [
-        "Co-Star ESB"
-      ],
-      "styleChanges": [
-        {
-          "beer": "Two Frays Non-Alcoholic Beer",
-          "oldStyle": "Fruited Blonde Ale OR West Coast IPA",
-          "newStyle": "Fruited Blonde Ale"
-        }
-      ],
+      "removals": [],
+      "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "dancing-gnome",
       "additions": [
-        "Better One or Two DIPA",
-        "Dippy",
-        "Spy Dolphin"
+        "Tessellate"
       ],
       "removals": [
-        "Bifocal Feline",
-        "Dippy IPA",
-        "Exquisite Beast",
-        "Spy Dolphin DIPA"
+        "Swingin' At Strangers",
+        "Tessellate IPA"
       ],
       "styleChanges": [
         {
           "beer": "Ordinary Bitter",
-          "oldStyle": "English Bitter",
-          "newStyle": "English Bitter hopped with EKG"
+          "oldStyle": "English Bitter hopped with EKG",
+          "newStyle": "English Bitter"
         }
       ],
       "ratingChanges": []
     },
     {
       "breweryId": "eleventh-hour",
-      "additions": [
-        "Creekside Krush"
-      ],
-      "removals": [
-        "Catch & Release"
-      ],
+      "additions": [],
+      "removals": [],
       "styleChanges": [],
       "ratingChanges": []
     },
@@ -76,10 +60,7 @@ Keep it to 4-6 sentences.
     },
     {
       "breweryId": "golden-age",
-      "additions": [
-        "Wei\u00dfbier",
-        "Wheat Bier"
-      ],
+      "additions": [],
       "removals": [],
       "styleChanges": [],
       "ratingChanges": []
@@ -88,17 +69,17 @@ Keep it to 4-6 sentences.
       "breweryId": "grist-house",
       "additions": [],
       "removals": [
-        "Arnold Shaman",
-        "Camp Slap",
-        "The Garden"
+        "Command House Lager",
+        "Dark Night",
+        "GoldenAle",
+        "Straight Up Porter"
       ],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "hitchhiker",
-      "additions": [],
-      "removals": [
+      "additions": [
         "15th and Canal",
         "Airwave",
         "Citrus Summer",
@@ -106,13 +87,10 @@ Keep it to 4-6 sentences.
         "Conversion",
         "Fusional",
         "Licensed to Grill",
-        "mmHmmm Grape",
         "No Way",
-        "One to One",
         "Opposite Bane",
         "Party in Bedrock",
         "Subsurface Tangerine Coconut",
-        "Trapped in Time",
         "Triple Bane of Existence",
         "True",
         "Two Fifty",
@@ -122,34 +100,34 @@ Keep it to 4-6 sentences.
         "Whole Punch Key Lime Pie",
         "Whole Punch: Key Lime Pie"
       ],
+      "removals": [],
       "styleChanges": [
         {
           "beer": "Bane of Existence",
-          "oldStyle": "IPA",
-          "newStyle": "Double IPA"
+          "oldStyle": "Double IPA",
+          "newStyle": "IPA"
         }
       ],
       "ratingChanges": []
     },
     {
       "breweryId": "late-addition",
-      "additions": [],
-      "removals": [],
+      "additions": [
+        "Draughtsman Mild",
+        "Parking the Bus",
+        "Rotes Wien"
+      ],
+      "removals": [
+        "Dinnae Ken",
+        "Krakowiak"
+      ],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "lolev",
-      "additions": [
-        "Cardinal",
-        "Great Horned Owl",
-        "Vi II"
-      ],
-      "removals": [
-        "African Wild Dog",
-        "Leopard",
-        "Rubico III"
-      ],
+      "additions": [],
+      "removals": [],
       "styleChanges": [],
       "ratingChanges": []
     },
