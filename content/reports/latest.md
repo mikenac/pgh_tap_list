@@ -1,12 +1,12 @@
-# Pittsburgh Taplist Report (2026-07-03)
+# Pittsburgh Taplist Report (2026-07-07)
 
-Generated: `2026-07-03T13:36:18Z`
-Previous snapshot: `2026-06-30`
+Generated: `2026-07-07T15:44:42Z`
+Previous snapshot: `2026-07-03`
 
 ## What changed this week
 ### abjuration
-- Added: Candied Sour [Bomb Pop] (CDS v1.10), Candied Sour [Peach Rings/Pink Guava] (CDS v1.35), Hazy India Pale Ale [Peacharine/Peacharine SubZero Hop Kief/Citra cryo] (IPA v9.9), India Pale Ale [Mosaic cryo/Belma] (IPA v10.0)
-- Removed: None
+- Added: None
+- Removed: Marshmallow Sour [Strawberry/Cherry] (MAS v1.1)
 - Style changes: None
 - Material rating changes: 0
 
@@ -17,10 +17,10 @@ Previous snapshot: `2026-06-30`
 - Material rating changes: 0
 
 ### dancing-gnome
-- Added: Tessellate
-- Removed: Swingin' At Strangers, Tessellate IPA
+- Added: Better One Or Two, Fin (2024), Gose, Gravel Grinder IPA, Pivot Pale Ale, Upward Below – Petite IPA
+- Removed: Better One or Two DIPA
 - Style changes:
-  - Ordinary Bitter: English Bitter hopped with EKG -> English Bitter
+  - Ordinary Bitter: English Bitter -> English Bitter hopped with Mystic
 - Material rating changes: 0
 
 ### eleventh-hour
@@ -42,29 +42,28 @@ Previous snapshot: `2026-06-30`
 - Material rating changes: 0
 
 ### grist-house
-- Added: None
-- Removed: Command House Lager, Dark Night, GoldenAle, Straight Up Porter
+- Added: Arnold Shaman, Camp Slap, Outrun Freedom
+- Removed: None
 - Style changes: None
 - Material rating changes: 0
 
 ### hitchhiker
-- Added: 15th and Canal, Airwave, Citrus Summer, Cococino, Conversion, Fusional, Licensed to Grill, No Way, Opposite Bane, Party in Bedrock, Subsurface Tangerine Coconut, Triple Bane of Existence, True, Two Fifty, Two-Fifty, Whale Watch, Wheat Wagon, Whole Punch Key Lime Pie, Whole Punch: Key Lime Pie
-- Removed: None
-- Style changes:
-  - Bane of Existence: Double IPA -> IPA
-- Material rating changes: 0
-
-### late-addition
-- Added: Draughtsman Mild, Parking the Bus, Rotes Wien
-- Removed: Dinnae Ken, Krakowiak
-- Style changes: None
-- Material rating changes: 0
-
-### lolev
 - Added: None
 - Removed: None
 - Style changes: None
 - Material rating changes: 0
+
+### late-addition
+- Added: Guan Yersel
+- Removed: Earthshine, Standard Use
+- Style changes: None
+- Material rating changes: 0
+
+### lolev
+- Added: Kamo IV, Snow Leopard
+- Removed: Origen III, Osprey
+- Style changes: None
+- Material rating changes: 1
 
 ### old-thunder
 - Added: None
@@ -74,12 +73,14 @@ Previous snapshot: `2026-06-30`
 
 ## Narrative summary (AI)
 
-In this week's beer report, several exciting updates from local breweries are featured. Abjuration has added four new beers, including "Candied Sour [Bomb Pop]" and "Hazy India Pale Ale [Peacharine/Peacharine SubZero Hop Kief/Citra cryo]." Dancing Gnome has made a notable style change, shifting its "Ordinary Bitter" to a more generalized English Bitter, while removing both "Swingin' At Strangers" and "Tessellate IPA." Hitchhiker Brewery continues to expand its offerings with a long list of new additions, including "Citrus Summer" and "Whole Punch Key Lime Pie," while adjusting the style of "Bane of Existence" from Double IPA to IPA. Lastly, Late Addition has introduced "Draughtsman Mild," "Parking the Bus," and "Rotes Wien," while bidding farewell to "Dinnae Ken" and "Krakowiak."
+In this week's beer report, we note some changes across various breweries. Abjuration has removed the "Marshmallow Sour [Strawberry/Cherry] (MAS v1.1)" from their lineup. Dancing Gnome has added a selection of new beers, including "Better One Or Two," "Fin (2024)," and "Gravel Grinder IPA," while also reclassifying "Ordinary Bitter" to "English Bitter hopped with Mystic." Grist House has introduced three new offerings: "Arnold Shaman," "Camp Slap," and "Outrun Freedom." Additionally, Loev has replaced two beers, "Origen III" and "Osprey," with "Kamo IV" and "Snow Leopard," and the rating for "Cardinal" has decreased from 4.416 to 4.24.
 
 ## Full lineup
 ### Grist House
 | Beer | Style | ABV | Rating | Source |
 |---|---|---:|---|---|
+| Arnold Shaman | Fruited Sour | 5.0% | ★★★★☆ 3.94 | untappd |
+| Camp Slap | Red IPA | 6.4% | ★★★★☆ 3.73 | untappd |
 | Celestial Trek | West Coast IPA | 6.8% | ★★★★☆ 3.90 | untappd |
 | Chameleon | New England IPA | 6.4% | ★★★★☆ 3.50 | untappd |
 | Clean Line | West Coast IPA | 7.0% | ★★★★☆ 3.90 | untappd |
@@ -91,6 +92,7 @@ In this week's beer report, several exciting updates from local breweries are fe
 | Kaboom Candy: B + P | Fruited Sour | 4.5% |  | untappd |
 | Krispadelic | Dry Hopped Kolsch | 5.0% | ★★★★☆ 3.84 | untappd |
 | MillvALE | Premium Ale | 4.7% | ★★★★☆ 3.73 | untappd |
+| Outrun Freedom | Dry Hopped Pilsner | 4.6% |  | untappd |
 | Pineapple Hazedelic Juice Grenade | New England IPA | 6.4% | ★★★★☆ 4.13 | untappd |
 | Spacedelic Haze Cactus | New England IPA | 6.8% | ★★★★☆ 4.20 | untappd |
 | The Paddler | Dessert Sour | 7.5% | ★★★★☆ 4.16 | untappd |
@@ -143,22 +145,27 @@ In this week's beer report, several exciting updates from local breweries are fe
 |---|---|---:|---|---|
 | After the Party (Can Pour) | WC Pilsner - Collab w/ Lavery & Old Thunder | 5.6% |  | merged |
 | Art Deco | IPA - Citra, Triumph | 6.0% | ★★★★☆ 4.02 | merged |
-| Better One or Two DIPA |  | 8.0% |  | merged |
+| Better One Or Two | DIPA - Citra, Simcoe, Mosaic | 8.0% |  | merged |
 | Blueberry Blackberry Sour | Berliner Weisse | 4.7% | ★★★★☆ 3.74 | merged |
 | Citra Jam | IPA - Citra | 6.8% | ★★★★☆ 4.12 | merged |
 | Czech 12 | Czech Pale Lager | 5.0% | ★★★☆☆ 3.31 | merged |
 | Dippy | IPA - Simcoe, Motueka, Galaxy | 6.4% |  | merged |
 | Experimental Pilsner #4 | German-style Pilsner | 5.2% | ★★★★☆ 3.58 | merged |
+| Fin (2024) | Wild Ale with Peaches | 6.6% |  | merged |
+| Gose |  | 4.5% |  | merged |
+| Gravel Grinder IPA |  | 6.6% |  | merged |
 | Lustra | Pale Ale - Citra, Amarillo | 5.8% | ★★★★☆ 4.01 | merged |
 | Mexican Lager | Mexican Lager | 5.5% | ★★★☆☆ 3.47 | merged |
 | Not Always Present | Kölsch-style Ale | 4.8% | ★★★★☆ 3.82 | merged |
-| Ordinary Bitter | English Bitter | 3.2% | ★★★☆☆ 3.47 | merged |
+| Ordinary Bitter | English Bitter hopped with Mystic | 3.2% | ★★★☆☆ 3.47 | merged |
 | Painter Pigment | IPA - Citra, Strata | 7.0% | ★★★★☆ 4.10 | merged |
 | Pilsner | German Pilsner | 5.0% | ★★★☆☆ 2.96 | merged |
+| Pivot Pale Ale |  | 5.2% |  | merged |
 | Porcellino | Italian-style Pilsner | 5.0% | ★★★★☆ 3.91 | merged |
 | Pounce | IPA - Mosaic, Citra | 6.0% | ★★★★☆ 4.07 | merged |
 | Spy Dolphin | DIPA - Idaho 7, Citra, Simcoe | 8.5% |  | merged |
 | Tessellate | WC IPA - Mosaic | 6.4% |  | merged |
+| Upward Below – Petite IPA |  | 4.0% |  | merged |
 | Wit | Belgian-style Witbier | 5.0% | ★★★☆☆ 3.49 | merged |
 
 ### Four Points
@@ -185,14 +192,13 @@ In this week's beer report, several exciting updates from local breweries are fe
 | Beer | Style | ABV | Rating | Source |
 |---|---|---:|---|---|
 | Draughtsman Mild | Dark English-Style Mild | 4.0% | ★★★★☆ 4.13 | website |
-| Earthshine | American IPA | 6.5% | ★★★★☆ 3.87 | website |
+| Guan Yersel | Wee Heavy Strong Scottish Ale | 11.5% | ★★★★☆ 4.20 | website |
 | Guided by Weisses | German-style Hefeweizen | 5.2% | ★★★★☆ 4.05 | website |
 | Keeping TIme: Rood | Flanders Red Sour Ale | 5.9% | ★★★★☆ 4.01 | website |
 | Malus | Dry Apple Cider | 7.8% | ★★★★☆ 3.80 | website |
 | Parking the Bus | Blonde Ale | 5.4% |  | website |
 | Rotes Wien | Vienna-style lager | 5.2% | ★★★★☆ 4.18 | website |
 | Soft Focus (Pink Boots collab with Hazel Grove Brewing) | Session Hazy IPA | 5.0% |  | website |
-| Standard Use | Cream Ale | 5.4% | ★★★★☆ 3.95 | website |
 | Tie-Dyed Pajamas | American IPA | 7.8% | ★★★★☆ 3.96 | website |
 
 ### Hitchhiker
@@ -255,7 +261,6 @@ In this week's beer report, several exciting updates from local breweries are fe
 | Ice Cream Sour [Rainbow Sherbet] (ICS v1.39) | Ice Cream Sour |  |  | widget |
 | Ice Cream Sour [Raspberry Shortcake] (ICS v1.29) | Ice Cream Sour |  |  | widget |
 | India Pale Ale [Mosaic cryo/Belma] (IPA v10.0) | India Pale Ale |  |  | widget |
-| Marshmallow Sour [Strawberry/Cherry] (MAS v1.1) | Marshmallow Sour |  |  | widget |
 | Muffin Sour [Boysenberry] (MS v1.5) | Muffin Sour |  |  | widget |
 | Smoothie Style Sour [Strawberry Funnel Cake - Collab w/ George A. Romero Foundation] (SSS v1.23) | Smoothie Style Sour |  |  | widget |
 
@@ -275,18 +280,18 @@ In this week's beer report, several exciting updates from local breweries are fe
 ### Lolev
 | Beer | Style | ABV | Rating | Source |
 |---|---|---:|---|---|
-| Capax III | Ultra Hopped Ale | 8.5% | ★★★★☆ 4.34 | website |
-| Cardinal | Hazy Pale Ale | 4.5% | ★★★★☆ 4.42 | website |
+| Capax III | Ultra Hopped Ale | 8.5% | ★★★★☆ 4.33 | website |
+| Cardinal | Hazy Pale Ale | 4.5% | ★★★★☆ 4.24 | website |
 | Costilla | Mexican Dark Lager | 4.8% | ★★★★☆ 4.04 | website |
-| Great Horned Owl | Ultra Hopped Ale | 11.0% | ★★★★★ 4.54 | website |
-| Harvest III | Ultra Hopped Ale | 8.1% | ★★★★☆ 4.45 | website |
-| Lion | Ultra Hopped Ale | 8.7% | ★★★★☆ 4.49 | website |
+| Great Horned Owl | Ultra Hopped Ale | 11.0% | ★★★★★ 4.58 | website |
+| Harvest III | Ultra Hopped Ale | 8.1% | ★★★★☆ 4.39 | website |
+| Kamo IV | Ultra Hopped Ale | 8.0% | ★★★★☆ 4.32 | website |
+| Lion | Ultra Hopped Ale | 8.7% | ★★★★☆ 4.48 | website |
 | Lupula | Hazy India Pale Ale | 7.0% | ★★★★☆ 4.08 | website |
-| Origen III | Ultra Hopped Ale | 8.7% | ★★★★☆ 4.39 | website |
-| Osprey | Ultra Hopped Ale | 8.0% | ★★★★☆ 4.34 | website |
-| Priam | Hazy India Pale Ale | 6.7% | ★★★★☆ 4.13 | website |
-| Remedios II | New Zealand Pilsner | 4.5% | ★★★★☆ 3.95 | website |
-| Vi II | Ultra Hopped Ale | 8.4% | ★★★★★ 4.61 | website |
+| Priam | Hazy India Pale Ale | 6.7% | ★★★★☆ 4.14 | website |
+| Remedios II | New Zealand Pilsner | 4.5% | ★★★★☆ 3.93 | website |
+| Snow Leopard | Ultra Hopped Ale | 8.7% | ★★★★☆ 4.35 | website |
+| Vi II | Ultra Hopped Ale | 8.4% | ★★★★★ 4.54 | website |
 
 ## Czech Lager Watch
 | Beer | Style | ABV | Rating | Source |
@@ -310,6 +315,7 @@ In this week's beer report, several exciting updates from local breweries are fe
 ## Sour Watch
 | Beer | Style | ABV | Rating | Source |
 |---|---|---:|---|---|
+| Arnold Shaman | Fruited Sour | 5.0% | ★★★★☆ 3.94 | untappd |
 | Kaboom Candy: B + P | Fruited Sour | 4.5% |  | untappd |
 | The Paddler | Dessert Sour | 7.5% | ★★★★☆ 4.16 | untappd |
 | Cloud Faction No. 4 - Dragon Fruit + Strawberry | Sour - Fruited | 6.0% | ★★★★☆ 4.00 | untappd |
@@ -318,6 +324,7 @@ In this week's beer report, several exciting updates from local breweries are fe
 | Key Lime Cheesecake Sour | Lactose-Free Fruited Sour | 5.6% | ★★★★☆ 4.18 | widget |
 | Strawberry Shortcake Sour | Fruited Sour | 5.6% | ★★★★☆ 3.99 | widget |
 | Blueberry Blackberry Sour | Berliner Weisse | 4.7% | ★★★★☆ 3.74 | merged |
+| Fin (2024) | Wild Ale with Peaches | 6.6% |  | merged |
 | EVERY TIME ONLY ONCE | fruited sour | 7.0% | ★★★★☆ 4.27 | website |
 | SOUR CERVEZA WATERMELON ESPECIAL | sour lager | 4.5% | ★★★★☆ 4.03 | website |
 | Keeping TIme: Rood | Flanders Red Sour Ale | 5.9% | ★★★★☆ 4.01 | website |
@@ -333,6 +340,5 @@ In this week's beer report, several exciting updates from local breweries are fe
 | Ice Cream Cake Sour [Pineapple] (ICCS v1.5) | Ice Cream Cake Sour |  |  | widget |
 | Ice Cream Sour [Rainbow Sherbet] (ICS v1.39) | Ice Cream Sour |  |  | widget |
 | Ice Cream Sour [Raspberry Shortcake] (ICS v1.29) | Ice Cream Sour |  |  | widget |
-| Marshmallow Sour [Strawberry/Cherry] (MAS v1.1) | Marshmallow Sour |  |  | widget |
 | Muffin Sour [Boysenberry] (MS v1.5) | Muffin Sour |  |  | widget |
 | Smoothie Style Sour [Strawberry Funnel Cake - Collab w/ George A. Romero Foundation] (SSS v1.23) | Smoothie Style Sour |  |  | widget |

@@ -1,16 +1,13 @@
 {
-  "generated": "2026-07-03T13:35:54Z",
-  "previousDate": "2026-06-30",
+  "generated": "2026-07-07T15:44:16Z",
+  "previousDate": "2026-07-03",
   "changes": [
     {
       "breweryId": "abjuration",
-      "additions": [
-        "Candied Sour [Bomb Pop] (CDS v1.10)",
-        "Candied Sour [Peach Rings/Pink Guava] (CDS v1.35)",
-        "Hazy India Pale Ale [Peacharine/Peacharine SubZero Hop Kief/Citra cryo] (IPA v9.9)",
-        "India Pale Ale [Mosaic cryo/Belma] (IPA v10.0)"
+      "additions": [],
+      "removals": [
+        "Marshmallow Sour [Strawberry/Cherry] (MAS v1.1)"
       ],
-      "removals": [],
       "styleChanges": [],
       "ratingChanges": []
     },
@@ -24,17 +21,21 @@
     {
       "breweryId": "dancing-gnome",
       "additions": [
-        "Tessellate"
+        "Better One Or Two",
+        "Fin (2024)",
+        "Gose",
+        "Gravel Grinder IPA",
+        "Pivot Pale Ale",
+        "Upward Below \u2013 Petite IPA"
       ],
       "removals": [
-        "Swingin' At Strangers",
-        "Tessellate IPA"
+        "Better One or Two DIPA"
       ],
       "styleChanges": [
         {
           "beer": "Ordinary Bitter",
-          "oldStyle": "English Bitter hopped with EKG",
-          "newStyle": "English Bitter"
+          "oldStyle": "English Bitter",
+          "newStyle": "English Bitter hopped with Mystic"
         }
       ],
       "ratingChanges": []
@@ -62,69 +63,53 @@
     },
     {
       "breweryId": "grist-house",
-      "additions": [],
-      "removals": [
-        "Command House Lager",
-        "Dark Night",
-        "GoldenAle",
-        "Straight Up Porter"
+      "additions": [
+        "Arnold Shaman",
+        "Camp Slap",
+        "Outrun Freedom"
       ],
+      "removals": [],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "hitchhiker",
-      "additions": [
-        "15th and Canal",
-        "Airwave",
-        "Citrus Summer",
-        "Cococino",
-        "Conversion",
-        "Fusional",
-        "Licensed to Grill",
-        "No Way",
-        "Opposite Bane",
-        "Party in Bedrock",
-        "Subsurface Tangerine Coconut",
-        "Triple Bane of Existence",
-        "True",
-        "Two Fifty",
-        "Two-Fifty",
-        "Whale Watch",
-        "Wheat Wagon",
-        "Whole Punch Key Lime Pie",
-        "Whole Punch: Key Lime Pie"
-      ],
+      "additions": [],
       "removals": [],
-      "styleChanges": [
-        {
-          "beer": "Bane of Existence",
-          "oldStyle": "Double IPA",
-          "newStyle": "IPA"
-        }
-      ],
+      "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "late-addition",
       "additions": [
-        "Draughtsman Mild",
-        "Parking the Bus",
-        "Rotes Wien"
+        "Guan Yersel"
       ],
       "removals": [
-        "Dinnae Ken",
-        "Krakowiak"
+        "Earthshine",
+        "Standard Use"
       ],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "lolev",
-      "additions": [],
-      "removals": [],
+      "additions": [
+        "Kamo IV",
+        "Snow Leopard"
+      ],
+      "removals": [
+        "Origen III",
+        "Osprey"
+      ],
       "styleChanges": [],
-      "ratingChanges": []
+      "ratingChanges": [
+        {
+          "beer": "Cardinal",
+          "oldRating": 4.416,
+          "newRating": 4.24,
+          "delta": -0.176
+        }
+      ]
     },
     {
       "breweryId": "old-thunder",
