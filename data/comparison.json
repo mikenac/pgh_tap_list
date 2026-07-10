@@ -1,56 +1,72 @@
 {
-  "generated": "2026-07-07T15:44:16Z",
-  "previousDate": "2026-07-03",
+  "generated": "2026-07-10T15:44:57Z",
+  "previousDate": "2026-07-07",
   "changes": [
     {
       "breweryId": "abjuration",
-      "additions": [],
+      "additions": [
+        "Candied Sour [Lemonade Slushie/Twizzlers] (CDS v1.56)",
+        "Fruited Sour [Dragonfruit/Lime/Honey] (FS v1.47)",
+        "Honey K\u00f6lsch [Wildflower Honey/Propolis - Collab with Deez Beez] (HK v2.2)"
+      ],
       "removals": [
-        "Marshmallow Sour [Strawberry/Cherry] (MAS v1.1)"
+        "American Style Bitter (ABI v1.0)"
       ],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "acclamation",
-      "additions": [],
-      "removals": [],
+      "additions": [
+        "River Life"
+      ],
+      "removals": [
+        "Strawberry Shortcake Sour"
+      ],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "dancing-gnome",
       "additions": [
-        "Better One Or Two",
-        "Fin (2024)",
-        "Gose",
-        "Gravel Grinder IPA",
-        "Pivot Pale Ale",
-        "Upward Below \u2013 Petite IPA"
+        "Gravel Grinder",
+        "Neo Retro IPA",
+        "Pivot"
       ],
       "removals": [
-        "Better One or Two DIPA"
+        "Art Deco",
+        "Gose",
+        "Gravel Grinder IPA",
+        "Pounce",
+        "Spy Dolphin"
       ],
-      "styleChanges": [
-        {
-          "beer": "Ordinary Bitter",
-          "oldStyle": "English Bitter",
-          "newStyle": "English Bitter hopped with Mystic"
-        }
-      ],
+      "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "eleventh-hour",
-      "additions": [],
-      "removals": [],
+      "additions": [
+        "Non Alc - Every Time Kolsch"
+      ],
+      "removals": [
+        "Archer: OG",
+        "Every Time"
+      ],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "four-points",
-      "additions": [],
-      "removals": [],
+      "additions": [
+        "4.8",
+        "4P FESTBIER",
+        "CELEBRATION DAY"
+      ],
+      "removals": [
+        "AKARI",
+        "ORANGE LABEL",
+        "SILVERLAKE DAD"
+      ],
       "styleChanges": [],
       "ratingChanges": []
     },
@@ -64,11 +80,18 @@
     {
       "breweryId": "grist-house",
       "additions": [
-        "Arnold Shaman",
-        "Camp Slap",
-        "Outrun Freedom"
+        "Command House Lager",
+        "Conspiracy Tangle",
+        "Dark Night",
+        "Gots Ta Guava",
+        "Straight Up Porter",
+        "Technicolor Treetops"
       ],
-      "removals": [],
+      "removals": [
+        "Celestial Trek",
+        "MillvALE",
+        "Pineapple Hazedelic Juice Grenade"
+      ],
       "styleChanges": [],
       "ratingChanges": []
     },
@@ -81,35 +104,19 @@
     },
     {
       "breweryId": "late-addition",
-      "additions": [
-        "Guan Yersel"
-      ],
-      "removals": [
-        "Earthshine",
-        "Standard Use"
-      ],
+      "additions": [],
+      "removals": [],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "lolev",
       "additions": [
-        "Kamo IV",
-        "Snow Leopard"
+        "White Tiger"
       ],
-      "removals": [
-        "Origen III",
-        "Osprey"
-      ],
+      "removals": [],
       "styleChanges": [],
-      "ratingChanges": [
-        {
-          "beer": "Cardinal",
-          "oldRating": 4.416,
-          "newRating": 4.24,
-          "delta": -0.176
-        }
-      ]
+      "ratingChanges": []
     },
     {
       "breweryId": "old-thunder",
