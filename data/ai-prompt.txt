@@ -4,29 +4,28 @@ Do not add beers, styles, ratings, or facts that are not present in the JSON.
 Keep it to 4-6 sentences.
 
 {
-  "generated": "2026-07-10T15:44:57Z",
-  "previousDate": "2026-07-07",
+  "generated": "2026-07-31T15:20:00Z",
+  "previousDate": "2026-07-10",
   "changes": [
     {
       "breweryId": "abjuration",
-      "additions": [
-        "Candied Sour [Lemonade Slushie/Twizzlers] (CDS v1.56)",
-        "Fruited Sour [Dragonfruit/Lime/Honey] (FS v1.47)",
-        "Honey K\u00f6lsch [Wildflower Honey/Propolis - Collab with Deez Beez] (HK v2.2)"
-      ],
-      "removals": [
-        "American Style Bitter (ABI v1.0)"
-      ],
+      "additions": [],
+      "removals": [],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "acclamation",
       "additions": [
-        "River Life"
+        "Blackberry Peach Cobbler Sour",
+        "Lawn Bubble",
+        "Southern Veil",
+        "You're A Daisy If You Do"
       ],
       "removals": [
-        "Strawberry Shortcake Sour"
+        "Golden Root",
+        "Key Lime Cheesecake Sour",
+        "Lemon Meringue Milkshake"
       ],
       "styleChanges": [],
       "ratingChanges": []
@@ -34,28 +33,57 @@ Keep it to 4-6 sentences.
     {
       "breweryId": "dancing-gnome",
       "additions": [
-        "Gravel Grinder",
-        "Neo Retro IPA",
-        "Pivot"
+        "Cubism",
+        "Experimental Pilsner #5",
+        "Gose",
+        "Hefeweizen",
+        "Hefeweizen Shandy",
+        "Kennywood",
+        "Mosaic Jam IPA",
+        "Neo-Retro",
+        "Okta",
+        "Track Botanical IPA",
+        "Upward Below",
+        "Warm Hand Splash"
       ],
       "removals": [
-        "Art Deco",
-        "Gose",
-        "Gravel Grinder IPA",
-        "Pounce",
-        "Spy Dolphin"
+        "After the Party (Can Pour)",
+        "Better One Or Two",
+        "Blueberry Blackberry Sour",
+        "Citra Jam",
+        "Czech 12",
+        "Dippy",
+        "Experimental Pilsner #4",
+        "Fin (2024)",
+        "Neo Retro IPA",
+        "Painter Pigment",
+        "Pivot Pale Ale",
+        "Porcellino",
+        "Upward Below \u2013 Petite IPA",
+        "Wit"
       ],
-      "styleChanges": [],
+      "styleChanges": [
+        {
+          "beer": "Pivot",
+          "oldStyle": "WC Extra Pale Ale - Citra, Simcoe, Chinook",
+          "newStyle": "WC Extra Pale Ale - Simcoe, Amarillo, Chinook"
+        }
+      ],
       "ratingChanges": []
     },
     {
       "breweryId": "eleventh-hour",
       "additions": [
-        "Non Alc - Every Time Kolsch"
+        "Archer",
+        "Brite Side - Non-Alc Mango-Kiwi Blonde",
+        "BYS 2025: Kings County-Wild Turkey",
+        "Cole Bear",
+        "Cult Classic"
       ],
       "removals": [
-        "Archer: OG",
-        "Every Time"
+        "Maibock",
+        "Non Alc - Finicky Beast IPA",
+        "Summer In the Parks"
       ],
       "styleChanges": [],
       "ratingChanges": []
@@ -63,48 +91,109 @@ Keep it to 4-6 sentences.
     {
       "breweryId": "four-points",
       "additions": [
-        "4.8",
-        "4P FESTBIER",
-        "CELEBRATION DAY"
+        "CEMENT CITY",
+        "DESTROYER HAZE",
+        "DESTROYER PILS",
+        "HEFEWEIZEN",
+        "POINT TO POINT",
+        "SNAP"
       ],
       "removals": [
-        "AKARI",
-        "ORANGE LABEL",
-        "SILVERLAKE DAD"
+        "ATHLETIC BREWING",
+        "EVERY TIME ONLY ONCE",
+        "HOUSE SELTZER",
+        "KING FOR A DAY",
+        "NITEMOVES",
+        "SOLR UMBRA",
+        "STRIPES"
       ],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "golden-age",
-      "additions": [],
-      "removals": [],
+      "additions": [
+        "Fr\u00e4nkisches Pils",
+        "International Pils",
+        "ITALIAN PILS",
+        "KELLERBIER",
+        "Rauchbier Historische"
+      ],
+      "removals": [
+        "Kr\u00e4usen",
+        "MAIBOCK"
+      ],
       "styleChanges": [],
       "ratingChanges": []
     },
     {
       "breweryId": "grist-house",
       "additions": [
-        "Command House Lager",
-        "Conspiracy Tangle",
-        "Dark Night",
-        "Gots Ta Guava",
-        "Straight Up Porter",
-        "Technicolor Treetops"
+        "Berry Berry Shaman",
+        "Fire On the Hill",
+        "GoldenAle",
+        "Space Cactus",
+        "Wienna Lager"
       ],
       "removals": [
-        "Celestial Trek",
-        "MillvALE",
-        "Pineapple Hazedelic Juice Grenade"
+        "Camp Slap",
+        "HazyWampus",
+        "Hounds of Helles",
+        "Inclined To Haze",
+        "Kaboom Candy: B + P",
+        "Spacedelic Haze Cactus",
+        "Vista Hopper"
       ],
-      "styleChanges": [],
+      "styleChanges": [
+        {
+          "beer": "Conspiracy Tangle",
+          "oldStyle": "IPA - New England",
+          "newStyle": "New England IPA"
+        },
+        {
+          "beer": "Gots Ta Guava",
+          "oldStyle": "Sour - Fruited",
+          "newStyle": "Fruited Sour"
+        },
+        {
+          "beer": "Technicolor Treetops",
+          "oldStyle": "IPA - New England",
+          "newStyle": "New England IPA"
+        }
+      ],
       "ratingChanges": []
     },
     {
       "breweryId": "hitchhiker",
       "additions": [],
-      "removals": [],
-      "styleChanges": [],
+      "removals": [
+        "15th and Canal",
+        "Airwave",
+        "Citrus Summer",
+        "Cococino",
+        "Conversion",
+        "Fusional",
+        "Licensed to Grill",
+        "No Way",
+        "Opposite Bane",
+        "Party in Bedrock",
+        "Subsurface Tangerine Coconut",
+        "Triple Bane of Existence",
+        "True",
+        "Two Fifty",
+        "Two-Fifty",
+        "Whale Watch",
+        "Wheat Wagon",
+        "Whole Punch Key Lime Pie",
+        "Whole Punch: Key Lime Pie"
+      ],
+      "styleChanges": [
+        {
+          "beer": "Bane of Existence",
+          "oldStyle": "IPA",
+          "newStyle": "Double IPA"
+        }
+      ],
       "ratingChanges": []
     },
     {
@@ -117,9 +206,18 @@ Keep it to 4-6 sentences.
     {
       "breweryId": "lolev",
       "additions": [
+        "Akko",
+        "Arcole II",
+        "Double Lupula: Freestyle",
+        "Issa II",
+        "Ocelot"
+      ],
+      "removals": [
+        "Harvest III",
+        "Kamo IV",
+        "Lion",
         "White Tiger"
       ],
-      "removals": [],
       "styleChanges": [],
       "ratingChanges": []
     },
